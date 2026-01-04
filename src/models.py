@@ -27,12 +27,17 @@ class QuantitativeData(BaseModel):
         return v
 
 class Mechanism(BaseModel):
-    level: Literal['Anatomical', 'Cellular', 'Neural', 'Genetic', 'Behavioral', 'Unknown']
+    level: Literal['Anatomical', 'Cellular', 'Neural', 'Genetic', 'Behavioral', 'Physiological', 'Unknown']
     description: str
 
 class Evidence(BaseModel):
-    source_type: str = Field(..., description="Type of source (e.g., 'Behavioral Audiogram')")
-    citation: str = Field(..., description="Short citation or URL")
+    source_type: str = Field(..., description="Type of source (e.g., 'Behavioral Audiogram', 'Review Paper', 'Primary Study')")
+    source_name: str = Field(..., description="Name of the source (e.g., 'Wikipedia', 'Nature Journal', 'Journal of Experimental Biology')")
+    url: Optional[str] = Field(None, description="Direct URL to the source")
+    title: Optional[str] = Field(None, description="Title of the paper or article")
+    author: Optional[str] = Field(None, description="Lead author or organization")
+    year: Optional[int] = Field(None, description="Year of publication")
+    citation: str = Field(..., description="Full academic citation or summary reference")
     note: Optional[str] = None
 
 class SensoryModality(BaseModel):

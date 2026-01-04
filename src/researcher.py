@@ -49,7 +49,12 @@ You must output strictly valid JSON with this EXACT structure:
       },
       "evidence": [{
         "source_type": "Review Paper",
-        "citation": "Wikipedia article",
+        "source_name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Animal_Name",
+        "title": "Animal Name - Wikipedia",
+        "author": "Wikipedia Contributors",
+        "year": 2024,
+        "citation": "Wikipedia contributors. (2024). Animal Name. In Wikipedia, The Free Encyclopedia.",
         "note": "From provided context"
       }]
     }
@@ -62,6 +67,7 @@ You must output strictly valid JSON with this EXACT structure:
 IMPORTANT: You MUST use the exact field names and enum values specified.
 - "modality_domain" MUST be one of: 'Mechanoreception', 'Chemoreception', 'Photoreception', 'Electroreception', 'Magnetoreception', 'Thermoreception', or 'Other'.
 - "data_quality_flag" MUST be one of: 'High_Evidence', 'Inferred_Only', 'Contested', or 'Low_Data'.
+- "evidence" MUST include accurate source details. Use the provided context metadata to fill these fields.
 
 No markdown. Just pure JSON.
 """
@@ -103,7 +109,7 @@ class Researcher:
 
         if not page.exists():
             print(f"  ⚠️  No Wikipedia page found for {animal_name}")
-            return f"No detailed information found for {animal_name}"
+            return f"No detailed information found for {animal_name}", None
 
         # Extract relevant sections
         context_parts = []
@@ -138,15 +144,19 @@ class Researcher:
             context = f"OVERVIEW:\n{page.text[:3000]}"
 
         print(f"  ✓ Gathered {len(context)} characters of context")
-        return context
+        return context, page.fullurl
 
-    def research_animal(self, animal_name: str, context_text: str):
+    def research_animal(self, animal_name: str, context_text: str, source_url: str = None):
         """
         1. Constructs the prompt.
         2. Calls the Local LLM.
         3. Validates output with Pydantic.
         """
-        raw_json = self.adapter.research_animal(animal_name, context_text, SYSTEM_PROMPT_V4)
+        augmented_prompt = SYSTEM_PROMPT_V4
+        if source_url:
+            augmented_prompt += f"\n\nCONTEXT SOURCE URL: {source_url}"
+
+        raw_json = self.adapter.research_animal(animal_name, context_text, augmented_prompt)
 
         if not raw_json:
             return None
@@ -155,7 +165,7 @@ class Researcher:
             data_dict = json.loads(raw_json)
             
             # Post-process to fix common LLM errors
-            processed_dict = self.post_process_data(data_dict)
+            processed_dict = self.post_process_data(data_dict, animal_name, source_url)
             
             validated_data = AnimalSensoryData(**processed_dict)
 
@@ -172,7 +182,7 @@ class Researcher:
             print(f"❌ LLM Error: {e}")
             return None
 
-    def post_process_data(self, data_dict):
+    def post_process_data(self, data_dict, animal_name, source_url):
         """
         Corrects common, predictable LLM output errors before validation.
         """
@@ -184,6 +194,13 @@ class Researcher:
                 modality["modality_domain"] = "Mechanoreception"
             if modality.get("modality_domain") == "Smell" or modality.get("modality_domain") == "Taste":
                 modality["modality_domain"] = "Chemoreception"
+
+            # Fix citation placeholder if LLM didn't replace it
+            for ev in modality.get("evidence", []):
+                if "Animal Name" in ev.get("citation", ""):
+                    ev["citation"] = ev["citation"].replace("Animal Name", animal_name)
+                if not ev.get("url") and source_url:
+                    ev["url"] = source_url
         
         # Correct data_quality_flag
         if data_dict.get("meta", {}).get("data_quality_flag") == "Low_Evidence":
@@ -215,8 +232,8 @@ class Researcher:
         self.update_status(job_id, "PROCESSING")
 
         try:
-            context = self.gather_context(animal_name)
-            result_json = self.research_animal(animal_name, context)
+            context, source_url = self.gather_context(animal_name)
+            result_json = self.research_animal(animal_name, context, source_url)
 
             if result_json:
                 self.save_to_vault(animal_name, result_json)
