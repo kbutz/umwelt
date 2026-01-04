@@ -2,6 +2,7 @@ import json
 import ollama
 import sqlite3
 import os
+import wikipediaapi
 from src.models import AnimalSensoryData
 from pydantic import ValidationError
 
@@ -22,13 +23,52 @@ THE 5 GOLDEN RULES:
 5. Null Protocol: If a specific threshold/number is unknown, OMIT the 'quantitative_data' block entirely. Do not guess or output nulls for min/max if the whole object is speculative.
 
 OUTPUT FORMAT:
-You must output strictly valid JSON adhering to the Pydantic schema provided below.
-No markdown formatting. No conversational filler.
+You must output strictly valid JSON with this EXACT structure:
+
+{
+  "identity": {
+    "common_name": "Animal Name",
+    "scientific_name": "Scientific Name",
+    "taxonomy": {"class": "Mammalia", "order": "Cetacea"}
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Electroreception", # MUST be one of: 'Mechanoreception', 'Chemoreception', 'Photoreception', 'Electroreception', 'Magnetoreception', 'Thermoreception', or 'Other'
+      "sub_type": "Passive Electroreception",
+      "stimulus_type": "Electric Field",
+      "quantitative_data": {
+        "min": 0.005,
+        "max": null,
+        "unit": "uV/cm",
+        "context": "Physiological Threshold"
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ampullae of Lorenzini"
+      },
+      "evidence": [{
+        "source_type": "Review Paper",
+        "citation": "Wikipedia article",
+        "note": "From provided context"
+      }]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}
+
+IMPORTANT: You MUST use the exact field names and enum values specified.
+- "modality_domain" MUST be one of: 'Mechanoreception', 'Chemoreception', 'Photoreception', 'Electroreception', 'Magnetoreception', 'Thermoreception', or 'Other'.
+- "data_quality_flag" MUST be one of: 'High_Evidence', 'Inferred_Only', 'Contested', or 'Low_Data'.
+
+No markdown. Just pure JSON.
 """
 
 class Researcher:
-    def __init__(self, model_name="llama3"):
+    def __init__(self, model_name="llama3.2"):
         self.model_name = model_name
+        self.wiki = wikipediaapi.Wikipedia('UmweltProject/1.0', 'en')
 
     def get_job(self):
         conn = sqlite3.connect(DB_PATH)
@@ -46,15 +86,53 @@ class Researcher:
         conn.close()
 
     def gather_context(self, animal_name):
-        # Mock context gathering as search is not implemented yet
-        # Returning a placeholder string as requested
-        return f"""
-        Research context for {animal_name}:
-        The {animal_name} is known for its specialized sensory systems.
-        Studies show it has a hearing range of 20 Hz to 20 kHz.
-        It uses echolocation in some contexts.
-        Mechanism involves the cochlea.
         """
+        Gather research context from Wikipedia.
+        This implements a simple version of the 3-stage search strategy.
+        """
+        print(f"  📚 Gathering context for {animal_name}...")
+
+        # Try to get the Wikipedia page
+        page = self.wiki.page(animal_name)
+
+        if not page.exists():
+            print(f"  ⚠️  No Wikipedia page found for {animal_name}")
+            return f"No detailed information found for {animal_name}"
+
+        # Extract relevant sections
+        context_parts = []
+
+        # Add summary
+        if page.summary:
+            context_parts.append(f"OVERVIEW:\n{page.summary[:1000]}")
+
+        # Look for sensory-related sections
+        sensory_keywords = ['sense', 'sensory', 'hearing', 'vision', 'smell', 'echolocation',
+                           'electroreception', 'magnetoreception', 'detection', 'perception']
+
+        # Iterate through sections
+        def extract_sections(sections_dict, depth=0):
+            if depth > 2:  # Limit recursion depth
+                return
+            for section in sections_dict:
+                # Check if section title contains sensory keywords
+                if any(keyword in section.title.lower() for keyword in sensory_keywords):
+                    context_parts.append(f"\nSECTION - {section.title}:\n{section.text[:800]}")
+                # Recurse into subsections
+                if section.sections:
+                    extract_sections(section.sections, depth + 1)
+
+        extract_sections(page.sections)
+
+        # If we found sensory sections, limit total length
+        if len(context_parts) > 1:
+            context = "\n\n".join(context_parts[:4])  # Max 4 sections
+        else:
+            # Fallback: use full text (truncated)
+            context = f"OVERVIEW:\n{page.text[:3000]}"
+
+        print(f"  ✓ Gathered {len(context)} characters of context")
+        return context
 
     def research_animal(self, animal_name: str, context_text: str):
         """
@@ -90,9 +168,12 @@ class Researcher:
             elif "```" in raw_json:
                 raw_json = raw_json.split("```")[1].split("```")[0]
 
-            # Parse and Validate
             data_dict = json.loads(raw_json)
-            validated_data = AnimalSensoryData(**data_dict)
+            
+            # Post-process to fix common LLM errors
+            processed_dict = self.post_process_data(data_dict)
+            
+            validated_data = AnimalSensoryData(**processed_dict)
 
             return validated_data.model_dump_json(indent=2)
 
@@ -106,6 +187,25 @@ class Researcher:
         except Exception as e:
             print(f"❌ LLM Error: {e}")
             return None
+
+    def post_process_data(self, data_dict):
+        """
+        Corrects common, predictable LLM output errors before validation.
+        """
+        # Correct modality_domain
+        for modality in data_dict.get("sensory_modalities", []):
+            if modality.get("modality_domain") == "Vision":
+                modality["modality_domain"] = "Photoreception"
+            if modality.get("modality_domain") == "Hearing":
+                modality["modality_domain"] = "Mechanoreception"
+            if modality.get("modality_domain") == "Smell" or modality.get("modality_domain") == "Taste":
+                modality["modality_domain"] = "Chemoreception"
+        
+        # Correct data_quality_flag
+        if data_dict.get("meta", {}).get("data_quality_flag") == "Low_Evidence":
+            data_dict["meta"]["data_quality_flag"] = "Low_Data"
+
+        return data_dict
 
     def save_to_vault(self, animal_name, json_data):
         filename = f"{animal_name.replace(' ', '_')}.json"
