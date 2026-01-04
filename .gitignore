@@ -19,7 +19,6 @@ dist/
 # Data files
 data/orchestrator.db
 data/sensory_graph.db
-data/vault/*.json
 !data/vault/.gitkeep
 sensory_graph.db
 
