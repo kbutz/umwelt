@@ -5,8 +5,9 @@
     "gbif_id": 2433101,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Monotremata"
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Emballonuridae"
     }
   },
   "sensory_modalities": [

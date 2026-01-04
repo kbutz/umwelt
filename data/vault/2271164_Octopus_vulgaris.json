@@ -5,8 +5,9 @@
     "gbif_id": 2271164,
     "aliases": [],
     "taxonomy": {
-      "class_": "Cephalopoda",
-      "order": "Octopoda"
+      "class": "Cephalopoda",
+      "order": "Octopoda",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [

@@ -5,8 +5,9 @@
     "gbif_id": 7832670,
     "aliases": [],
     "taxonomy": {
-      "class_": "Trematoda",
-      "order": "Strigeiformes"
+      "class": "Trematoda",
+      "order": "Diplostomida",
+      "family": "Strigeidae"
     }
   },
   "sensory_modalities": [

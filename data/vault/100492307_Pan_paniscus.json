@@ -5,8 +5,9 @@
     "gbif_id": 100492307,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Primates"
+      "class": "Unknown",
+      "order": "Primates",
+      "family": "Hominidae"
     }
   },
   "sensory_modalities": [],

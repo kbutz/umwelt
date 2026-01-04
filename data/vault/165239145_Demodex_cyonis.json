@@ -5,8 +5,9 @@
     "gbif_id": 165239145,
     "aliases": [],
     "taxonomy": {
-      "class_": "Arachnida",
-      "order": "Trombidiformes"
+      "class": "Unknown",
+      "order": "Trombidiformes",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [

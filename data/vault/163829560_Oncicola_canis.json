@@ -5,8 +5,9 @@
     "gbif_id": 163829560,
     "aliases": [],
     "taxonomy": {
-      "class_": "NA",
-      "order": "NA"
+      "class": "Archiacanthocephala",
+      "order": "Oligacanthorhynchida",
+      "family": "Oligacanthorhynchidae"
     }
   },
   "sensory_modalities": [

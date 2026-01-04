@@ -5,8 +5,9 @@
     "gbif_id": 209615682,
     "aliases": [],
     "taxonomy": {
-      "class_": "Unknown",
-      "order": "Unknown"
+      "class": "Arachnida",
+      "order": "Sarcoptiformes",
+      "family": "Cheylabididae"
     }
   },
   "sensory_modalities": [],

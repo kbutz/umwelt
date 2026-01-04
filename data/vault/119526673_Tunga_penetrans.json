@@ -5,8 +5,9 @@
     "gbif_id": 119526673,
     "aliases": [],
     "taxonomy": {
-      "class_": "Insecta",
-      "order": "Siphonaptera"
+      "class": "Insecta",
+      "order": "Siphonaptera",
+      "family": "Tungidae"
     }
   },
   "sensory_modalities": [],

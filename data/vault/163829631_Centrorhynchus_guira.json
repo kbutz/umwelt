@@ -5,8 +5,9 @@
     "gbif_id": 163829631,
     "aliases": [],
     "taxonomy": {
-      "class_": "Acanthocephala",
-      "order": "Polymorphida"
+      "class": "Palaeacanthocephala",
+      "order": "Polymorphida",
+      "family": "Centrorhynchidae"
     }
   },
   "sensory_modalities": [],

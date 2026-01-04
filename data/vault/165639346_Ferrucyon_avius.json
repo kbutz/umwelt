@@ -5,8 +5,9 @@
     "gbif_id": 165639346,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Unspecified"
+      "class": "Unknown",
+      "order": "Unspecified",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [],

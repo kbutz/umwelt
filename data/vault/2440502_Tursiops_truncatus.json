@@ -7,8 +7,9 @@
       "Common Bottlenose Dolphin"
     ],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Cetacea"
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae"
     }
   },
   "sensory_modalities": [

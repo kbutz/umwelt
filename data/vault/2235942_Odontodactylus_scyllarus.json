@@ -5,8 +5,9 @@
     "gbif_id": 2235942,
     "aliases": [],
     "taxonomy": {
-      "class_": "Malacostraca",
-      "order": "Stomatopoda"
+      "class": "Hexactinellida",
+      "order": "Sceptrulophora",
+      "family": "Dactylocalycidae"
     }
   },
   "sensory_modalities": [

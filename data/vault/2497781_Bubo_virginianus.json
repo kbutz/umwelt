@@ -5,8 +5,9 @@
     "gbif_id": 2497781,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Strigiformes"
+      "class": "Aves",
+      "order": "Strigiformes",
+      "family": "Strigidae"
     }
   },
   "sensory_modalities": [],

@@ -5,8 +5,9 @@
     "gbif_id": 2420712,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Cetacea"
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Pseudocarchariidae"
     }
   },
   "sensory_modalities": [

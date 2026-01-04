@@ -5,8 +5,9 @@
     "gbif_id": 119640053,
     "aliases": [],
     "taxonomy": {
-      "class_": "Aves",
-      "order": "Accipitriformes"
+      "class": "Arachnida",
+      "order": "Actinedida",
+      "family": "Harpirhynchidae"
     }
   },
   "sensory_modalities": [

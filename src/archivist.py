@@ -92,6 +92,7 @@ def run_archivist():
                 "gbif_id": identity.get("gbif_id"),
                 "scientific_name": identity.get("scientific_name"),
                 "common_name": identity.get("common_name"),
+                "family": identity.get("taxonomy", {}).get("family"),
                 "filename": os.path.basename(filepath)
             })
         except:

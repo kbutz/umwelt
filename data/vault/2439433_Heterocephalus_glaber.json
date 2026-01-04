@@ -5,8 +5,9 @@
     "gbif_id": 2439433,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "None"
+      "class": "Mammalia",
+      "order": "Rodentia",
+      "family": "Dipodidae"
     }
   },
   "sensory_modalities": [

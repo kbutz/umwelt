@@ -5,8 +5,9 @@
     "gbif_id": 165191621,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Cetacea"
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae"
     }
   },
   "sensory_modalities": [

@@ -5,8 +5,9 @@
     "gbif_id": 158407650,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Chiroptera"
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae"
     }
   },
   "sensory_modalities": [

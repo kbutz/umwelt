@@ -5,8 +5,9 @@
     "gbif_id": 1341976,
     "aliases": [],
     "taxonomy": {
-      "class_": "Insecta",
-      "order": "Hymenoptera"
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Apidae"
     }
   },
   "sensory_modalities": [

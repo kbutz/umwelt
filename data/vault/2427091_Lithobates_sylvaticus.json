@@ -5,8 +5,9 @@
     "gbif_id": 2427091,
     "aliases": [],
     "taxonomy": {
-      "class_": "Amphibia",
-      "order": "Anura"
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Ranidae"
     }
   },
   "sensory_modalities": [
