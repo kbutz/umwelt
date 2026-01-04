@@ -5,8 +5,9 @@
     "gbif_id": 165608799,
     "aliases": [],
     "taxonomy": {
-      "class_": "Aves",
-      "order": "Accipitriformes"
+      "class": "Unknown",
+      "order": "Accipitriformes",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [],

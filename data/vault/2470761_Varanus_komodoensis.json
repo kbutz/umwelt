@@ -5,8 +5,9 @@
     "gbif_id": 2470761,
     "aliases": [],
     "taxonomy": {
-      "class_": "Reptilia",
-      "order": "Squamata"
+      "class": "Squamata",
+      "order": "Squamata",
+      "family": "Varanidae"
     }
   },
   "sensory_modalities": [

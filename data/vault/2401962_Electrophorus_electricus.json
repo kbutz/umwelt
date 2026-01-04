@@ -5,8 +5,9 @@
     "gbif_id": 2401962,
     "aliases": [],
     "taxonomy": {
-      "class_": "Teleostei",
-      "order": "Gymnotiformes"
+      "class": "Teleostei",
+      "order": "Gymnotiformes",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [

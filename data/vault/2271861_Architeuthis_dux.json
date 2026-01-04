@@ -5,8 +5,9 @@
     "gbif_id": 2271861,
     "aliases": [],
     "taxonomy": {
-      "class_": "Cephalopoda",
-      "order": "Teuthida"
+      "class": "Cephalopoda",
+      "order": "Teuthida",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [

@@ -5,8 +5,9 @@
     "gbif_id": 119526678,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Cetacea"
+      "class": "Insecta",
+      "order": "Siphonaptera",
+      "family": "Rhopalopsyllidae"
     }
   },
   "sensory_modalities": [],

@@ -5,8 +5,9 @@
     "gbif_id": 2481142,
     "aliases": [],
     "taxonomy": {
-      "class_": "Aves",
-      "order": "Charadriiformes"
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [

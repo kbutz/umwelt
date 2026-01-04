@@ -5,8 +5,9 @@
     "gbif_id": 2444158,
     "aliases": [],
     "taxonomy": {
-      "class_": "Reptilia",
-      "order": "Squamata"
+      "class": "Squamata",
+      "order": "Squamata",
+      "family": "Viperidae"
     }
   },
   "sensory_modalities": [],

@@ -6,6 +6,7 @@ from typing import List, Optional, Literal
 class Taxonomy(BaseModel):
     class_: str = Field(..., alias="class", description="Biological Class (e.g., Mammalia)")
     order: str = Field(..., description="Biological Order (e.g., Chiroptera)")
+    family: str = Field(..., description="Biological Family (e.g., Delphinidae)")
 
 class Identity(BaseModel):
     common_name: str

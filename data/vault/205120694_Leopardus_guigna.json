@@ -5,8 +5,9 @@
     "gbif_id": 205120694,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "NA"
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae"
     }
   },
   "sensory_modalities": [

@@ -5,8 +5,9 @@
     "gbif_id": 4547240,
     "aliases": [],
     "taxonomy": {
-      "class_": "Insecta",
-      "order": "Coleoptera"
+      "class": "Arachnida",
+      "order": "Sarcoptiformes",
+      "family": "Pterolichidae"
     }
   },
   "sensory_modalities": [

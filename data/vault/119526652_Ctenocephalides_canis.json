@@ -5,8 +5,9 @@
     "gbif_id": 119526652,
     "aliases": [],
     "taxonomy": {
-      "class_": "None",
-      "order": "None"
+      "class": "Insecta",
+      "order": "Siphonaptera",
+      "family": "Pulicidae"
     }
   },
   "sensory_modalities": [

@@ -31,7 +31,7 @@ You must output strictly valid JSON with this EXACT structure:
   "identity": {
     "common_name": "Animal Name",
     "scientific_name": "Scientific Name",
-    "taxonomy": {"class": "Mammalia", "order": "Cetacea"} # class and order must be strings
+    "taxonomy": {"class": "Mammalia", "order": "Cetacea", "family": "Delphinidae"} # class, order and family must be strings
   },
   "sensory_modalities": [
     {
@@ -168,7 +168,7 @@ class Researcher:
             
             validated_data = AnimalSensoryData(**processed_dict)
 
-            return validated_data.model_dump_json(indent=2)
+            return validated_data.model_dump_json(indent=2, by_alias=True)
 
         except json.JSONDecodeError:
             print(f"❌ Failed to parse JSON for {animal_name}")
@@ -226,6 +226,11 @@ class Researcher:
             data_dict["identity"]["taxonomy"]["order"] = str(data_dict["identity"]["taxonomy"]["order"])
         else:
             data_dict["identity"]["taxonomy"]["order"] = "Unknown"
+
+        if "family" in data_dict["identity"]["taxonomy"]:
+            data_dict["identity"]["taxonomy"]["family"] = str(data_dict["identity"]["taxonomy"]["family"])
+        else:
+            data_dict["identity"]["taxonomy"]["family"] = "Unknown"
 
         return data_dict
 

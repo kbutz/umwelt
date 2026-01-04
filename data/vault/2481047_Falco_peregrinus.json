@@ -5,8 +5,9 @@
     "gbif_id": 2481047,
     "aliases": [],
     "taxonomy": {
-      "class_": "Aves",
-      "order": "Falconiformes"
+      "class": "Aves",
+      "order": "Falconiformes",
+      "family": "Falconidae"
     }
   },
   "sensory_modalities": [],

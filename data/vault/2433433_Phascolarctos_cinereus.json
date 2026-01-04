@@ -5,8 +5,9 @@
     "gbif_id": 2433433,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Diprotodontia"
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae"
     }
   },
   "sensory_modalities": [

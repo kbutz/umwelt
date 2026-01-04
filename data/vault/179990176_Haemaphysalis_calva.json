@@ -5,8 +5,9 @@
     "gbif_id": 179990176,
     "aliases": [],
     "taxonomy": {
-      "class_": "Arachnida",
-      "order": "Ixodida"
+      "class": "Arachnida",
+      "order": "Ixodida",
+      "family": "Ixodidae"
     }
   },
   "sensory_modalities": [

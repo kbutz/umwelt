@@ -5,8 +5,9 @@
     "gbif_id": 165733550,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Carnivora"
+      "class": "Unknown",
+      "order": "Carnivora",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [],

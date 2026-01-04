@@ -5,8 +5,9 @@
     "gbif_id": 205120697,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "Cetacea"
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae"
     }
   },
   "sensory_modalities": [
@@ -72,7 +73,7 @@
           "author": "Wikipedia Contributors",
           "year": 2024,
           "citation": "Wikipedia contributors. (2024). Oncilla. In Wikipedia, The Free Encyclopedia.",
-          "note": "From provided context; The coloration helps the oncilla blend in with the mottled sunlight of the tropical forest understory. Most oncillas are nocturnal, but in the Brazilian Caatinga \u2013 where diurnal lizards are their main food source \u2013 they are active during daylight."
+          "note": "From provided context; The coloration helps the oncilla blend in with the mottled sunlight of the tropical forest understory. Most oncillas are nocturnal, but in the Brazilian Caatinga – where diurnal lizards are their main food source – they are active during daylight."
         }
       ]
     }

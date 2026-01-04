@@ -5,8 +5,9 @@
     "gbif_id": 165231460,
     "aliases": [],
     "taxonomy": {
-      "class_": "Mammalia",
-      "order": "None"
+      "class": "Unknown",
+      "order": "None",
+      "family": "Elephantidae"
     }
   },
   "sensory_modalities": [],

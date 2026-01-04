@@ -5,8 +5,9 @@
     "gbif_id": 5133088,
     "aliases": [],
     "taxonomy": {
-      "class_": "Insecta",
-      "order": "Lepidoptera"
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Nymphalidae"
     }
   },
   "sensory_modalities": [

@@ -5,8 +5,9 @@
     "gbif_id": 165718890,
     "aliases": [],
     "taxonomy": {
-      "class_": "Unknown",
-      "order": "Unknown"
+      "class": "Unknown",
+      "order": "Unknown",
+      "family": "Unknown"
     }
   },
   "sensory_modalities": [],

@@ -5,8 +5,9 @@
     "gbif_id": 165234784,
     "aliases": [],
     "taxonomy": {
-      "class_": "unknown",
-      "order": "unknown"
+      "class": "Unknown",
+      "order": "unknown",
+      "family": "Hominidae"
     }
   },
   "sensory_modalities": [

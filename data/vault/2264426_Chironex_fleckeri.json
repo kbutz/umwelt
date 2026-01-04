@@ -5,8 +5,9 @@
     "gbif_id": 2264426,
     "aliases": [],
     "taxonomy": {
-      "class_": "N/A",
-      "order": "N/A"
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Ulmaridae"
     }
   },
   "sensory_modalities": [
