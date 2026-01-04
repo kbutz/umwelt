@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Lynx caracal",
+    "scientific_name": "Lynx caracal",
+    "gbif_id": 205120728,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}
