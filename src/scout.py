@@ -3,15 +3,17 @@ import sqlite3
 import os
 
 DB_PATH = 'data/orchestrator.db'
+GBIF_BACKBONE_KEY = "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
 
 def expand_taxonomy(family_name):
     print(f"🔭 Scout looking for: {family_name}")
-    # 1. Query GBIF for species in this family
+    # 1. Query GBIF for species in this family, preferring the Backbone Taxonomy
     url = "https://api.gbif.org/v1/species/search"
     params = {
         "q": family_name,
         "rank": "SPECIES",
         "status": "ACCEPTED",
+        "datasetKey": GBIF_BACKBONE_KEY,
         "limit": 50
     }
     try:

@@ -1,0 +1,62 @@
+{
+  "identity": {
+    "common_name": "Diploscapter formicidae",
+    "scientific_name": "Diploscapter formicidae Zhao, Davies, Brenton-Rule, Grangier, Gruber, Giblin-Davis & Lester, 2013",
+    "gbif_id": 8852866,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Chromadorea",
+      "order": "Rhabditida",
+      "family": "Rhabditidae"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Genetic",
+        "description": "Inferred from nematode chemosensory abilities"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "GBIF",
+          "url": "https://www.gbif.org/species/8852866",
+          "title": "Diploscapter formicidae Zhao, Davies, Brenton-Rule, Grangier, Gruber, Giblin-Davis & Lester, 2013",
+          "author": "GBIF",
+          "year": 2013,
+          "citation": "Diploscapter formicidae Zhao, Davies, Brenton-Rule, Grangier, Gruber, Giblin-Davis & Lester, 2013",
+          "note": "Inferred from nematode chemosensory abilities."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Inferred from nematode mechanosensory abilities"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "GBIF",
+          "url": "https://www.gbif.org/species/8852866",
+          "title": "Diploscapter formicidae Zhao, Davies, Brenton-Rule, Grangier, Gruber, Giblin-Davis & Lester, 2013",
+          "author": "GBIF",
+          "year": 2013,
+          "citation": "Diploscapter formicidae Zhao, Davies, Brenton-Rule, Grangier, Gruber, Giblin-Davis & Lester, 2013",
+          "note": "Inferred from nematode mechanosensory abilities."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

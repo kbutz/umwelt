@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Neoaulobia mironovi",
+    "scientific_name": "Neoaulobia mironovi Bochkov & P\u00e9rez, 2002",
+    "gbif_id": 6921453,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Arachnida",
+      "order": "Trombidiformes",
+      "family": "Syringophilidae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

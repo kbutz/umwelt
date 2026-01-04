@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Imparipes malus",
+    "scientific_name": "Imparipes malus Khaustov, 2008",
+    "gbif_id": 10435169,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Arachnida",
+      "order": "Trombidiformes",
+      "family": "Scutacaridae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

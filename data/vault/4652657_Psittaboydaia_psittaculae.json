@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Psittaboydaia psittaculae",
+    "scientific_name": "Psittaboydaia psittaculae",
+    "gbif_id": 4652657,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Arachnida",
+      "order": "Trombidiformes",
+      "family": "Ereynetidae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

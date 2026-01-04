@@ -1,0 +1,62 @@
+{
+  "identity": {
+    "common_name": "Anopheles mosquito",
+    "scientific_name": "Anopheles mosquito",
+    "gbif_id": 9186189,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Insecta",
+      "order": "Diptera",
+      "family": "Culicidae"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Nectar",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Antennae (inferred)"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://www.gbif.org/species/9186189",
+          "title": "Anopheles mosquito - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Anopheles mosquito. In Wikipedia, The Free Encyclopedia.",
+          "note": "Adult mosquito feeds on the nectar of flowers."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Blood",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Antennae (inferred)"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://www.gbif.org/species/9186189",
+          "title": "Anopheles mosquito - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Anopheles mosquito. In Wikipedia, The Free Encyclopedia.",
+          "note": "Female mosquito feeds on blood."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

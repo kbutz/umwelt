@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Varroa mite",
+    "scientific_name": "Varroa jacobsoni",
+    "gbif_id": 4549071,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Arachnida",
+      "order": "Mesostigmata",
+      "family": "Varroidae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}
