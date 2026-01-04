@@ -23,26 +23,25 @@ def init_db():
     print(f"Database initialized at {DB_PATH}")
 
 def populate_seed_queue():
+    # Anchored Seed List (Scientific Name, Common Name, GBIF ID)
     seed_animals = [
-        "Bottlenose Dolphin",
-        "Great White Shark",
-        "Monarch Butterfly",
-        "Naked Mole Rat",
-        "Human"
+        ("Tursiops truncatus", "Bottlenose Dolphin", 2440502),
+        ("Carcharodon carcharias", "Great White Shark", 2420712),
+        ("Danaus plexippus", "Monarch Butterfly", 5133088)
     ]
 
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
 
-    for animal in seed_animals:
+    for sci_name, common_name, gbif_id in seed_animals:
         try:
             c.execute('''
-                INSERT INTO research_queue (animal_name, taxonomy_source, priority, status)
-                VALUES (?, ?, ?, ?)
-            ''', (animal, "Seed List", 1, "PENDING"))
-            print(f"Added to queue: {animal}")
+                INSERT INTO research_queue (animal_name, gbif_id, taxonomy_source, priority, status, entity_type, entity_id)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+            ''', (sci_name, gbif_id, "Seed List", 1, "PENDING", "species", str(gbif_id)))
+            print(f"Added to queue: {common_name} ({sci_name})")
         except sqlite3.IntegrityError:
-            print(f"Already in queue: {animal}")
+            print(f"Already in queue: {sci_name}")
 
     conn.commit()
     conn.close()

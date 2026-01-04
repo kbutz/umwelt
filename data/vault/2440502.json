@@ -1,0 +1,78 @@
+{
+  "identity": {
+    "common_name": "Common bottlenose dolphin",
+    "scientific_name": "Tursiops truncatus",
+    "gbif_id": 2440502,
+    "aliases": [
+      "Common Bottlenose Dolphin"
+    ],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Cetacea"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Echolocation",
+      "stimulus_type": "Sound Waves",
+      "quantitative_data": {
+        "min": null,
+        "max": 120.0,
+        "unit": "kHz",
+        "context": "Physiological Threshold"
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Nasal sacs and melon to emit sound, nerve impulses in brain to interpret"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+          "title": "Common bottlenose dolphin - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common bottlenose dolphin. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        },
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+          "title": "Common Bottlenose Dolphin - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common Bottlenose Dolphin. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound Waves",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Receiving nerve impulses in the brain."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+          "title": "Common Bottlenose Dolphin - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common Bottlenose Dolphin. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context - Dolphins can emit both high and low frequency sounds"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

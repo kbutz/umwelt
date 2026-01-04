@@ -22,22 +22,29 @@ def expand_taxonomy(family_name):
         print(f"Error querying GBIF: {e}")
         return
 
-    # 2. Extract Names
-    # Filter for results that have a canonicalName
-    new_animals = [r['canonicalName'] for r in data.get('results', []) if 'canonicalName' in r]
+    # 2. Extract Names and IDs
+    new_animals = []
+    for r in data.get('results', []):
+        if 'canonicalName' in r and 'key' in r:
+            new_animals.append({
+                'name': r['canonicalName'],
+                'id': r['key']
+            })
 
     if not new_animals:
         print("No species found.")
         return
 
-    # 3. Add to Queue (Ignore Duplicates)
+    # 3. Add to Queue (Ignore Duplicates by GBIF ID)
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     count = 0
     for animal in new_animals:
         try:
-            c.execute("INSERT INTO research_queue (animal_name, taxonomy_source, priority, status) VALUES (?, ?, ?, ?)",
-                      (animal, f"GBIF_Expansion_{family_name}", 5, "PENDING"))
+            c.execute(\"\"\"
+                INSERT INTO research_queue (animal_name, gbif_id, taxonomy_source, priority, status, entity_type, entity_id) 
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+            \"\"\", (animal['name'], animal['id'], f\"GBIF_Expansion_{family_name}\", 5, \"PENDING\", \"species\", str(animal['id'])))
             count += 1
         except sqlite3.IntegrityError:
             pass # Already exists
