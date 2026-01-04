@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "canyon bat",
+    "scientific_name": "Parastrellus hesperus",
+    "gbif_id": 158407650,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Chiroptera"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Echolocation",
+      "stimulus_type": "Sound Waves",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Short, broad head and short ears with a small, club-shaped tragus."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Canyon_bat",
+          "title": "Canyon bat - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Canyon bat. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred based on general bat characteristics and ear morphology."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

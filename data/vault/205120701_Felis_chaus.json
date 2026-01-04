@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "Jungle cat",
+    "scientific_name": "Felis chaus",
+    "gbif_id": 205120701,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Cetacea"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Urine",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Behavioral",
+        "description": "Adults maintain territories by urine spraying and scent marking."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jungle_cat",
+          "title": "Jungle cat - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Jungle cat. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "The ears help in pinpointing the location of prey."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jungle_cat",
+          "title": "Jungle cat - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Jungle cat. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

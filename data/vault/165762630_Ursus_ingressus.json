@@ -1,0 +1,149 @@
+{
+  "identity": {
+    "common_name": "Gamssulzen Cave bear",
+    "scientific_name": "Ursus ingressus",
+    "gbif_id": 165762630,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Carnivora"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Odor",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Detection of food sources, potential mates, and predators through olfactory cues."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ursus_ingressus",
+          "title": "Ursus ingressus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ursus ingressus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred based on omnivorous/herbivorous diet and potential conflict with predators."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Gustation",
+      "stimulus_type": "Taste",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Discrimination of food quality and nutritional value through taste receptors."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ursus_ingressus",
+          "title": "Ursus ingressus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ursus ingressus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred based on omnivorous/herbivorous diet."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Detection of sounds for communication, predator avoidance, and environmental awareness."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ursus_ingressus",
+          "title": "Ursus ingressus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ursus ingressus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred for general environmental awareness and interspecies conflict."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Tactile Reception",
+      "stimulus_type": "Touch",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Detection of physical contact for social interaction, environmental exploration, and object manipulation."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ursus_ingressus",
+          "title": "Ursus ingressus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ursus ingressus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred for interaction with the environment and other animals."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Visual perception of the environment for navigation, foraging, and social interaction."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ursus_ingressus",
+          "title": "Ursus ingressus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ursus ingressus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred for general environmental awareness and navigation."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Detection of heat signatures from prey, predators, or the environment."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ursus_ingressus",
+          "title": "Ursus ingressus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ursus ingressus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred due to cold, arid climate adaptation and potential need for prey detection or predator avoidance."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

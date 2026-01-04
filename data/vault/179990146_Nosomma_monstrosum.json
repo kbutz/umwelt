@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Nosomma monstrosum",
+    "scientific_name": "Nosomma monstrosum",
+    "gbif_id": 179990146,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "unknown",
+      "order": "unknown"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Odorants",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Detection of host mammals"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nosomma",
+          "title": "Nosomma - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Nosomma. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Obligate ectoparasite implies chemoreception to locate hosts."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Detection of host mammals"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nosomma",
+          "title": "Nosomma - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Nosomma. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Obligate ectoparasite implies thermoreception to locate hosts."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Tactile Reception",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Unknown",
+        "description": "Sensing host surface for attachment"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nosomma",
+          "title": "Nosomma - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Nosomma. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Needed for attachment as ectoparasite"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

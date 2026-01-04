@@ -1,0 +1,127 @@
+{
+  "identity": {
+    "common_name": "Felis geoffroyi",
+    "scientific_name": "Felis geoffroyi",
+    "gbif_id": 205120700,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Carnivora"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes with rods and cones"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Mammalian Biology",
+          "url": null,
+          "title": "General Mammalian Visual System",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on general mammalian biology.",
+          "note": "Inferred based on the fact that this is a mammal"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Hearing",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ears"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Mammalian Biology",
+          "url": null,
+          "title": "General Mammalian Auditory System",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on general mammalian biology.",
+          "note": "Inferred based on the fact that this is a mammal"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Smell",
+      "stimulus_type": "Chemicals",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Nose with olfactory receptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Mammalian Biology",
+          "url": null,
+          "title": "General Mammalian Olfactory System",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on general mammalian biology.",
+          "note": "Inferred based on the fact that this is a mammal"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Pressure",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Skin with tactile receptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Mammalian Biology",
+          "url": null,
+          "title": "General Mammalian Tactile System",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on general mammalian biology.",
+          "note": "Inferred based on the fact that this is a mammal"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Taste",
+      "stimulus_type": "Chemicals",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Tongue with taste receptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Mammalian Biology",
+          "url": null,
+          "title": "General Mammalian Gustatory System",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on general mammalian biology.",
+          "note": "Inferred based on the fact that this is a mammal"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

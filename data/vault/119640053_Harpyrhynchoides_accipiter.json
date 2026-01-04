@@ -1,0 +1,127 @@
+{
+  "identity": {
+    "common_name": "Harpyrhynchoides accipiter",
+    "scientific_name": "Harpyrhynchoides accipiter",
+    "gbif_id": 119640053,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Aves",
+      "order": "Accipitriformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Inferred",
+          "url": "No URL available",
+          "title": "Inferred based on class Aves",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on class Aves, no specific citation available",
+          "note": "Inferred based on the animal belonging to the class Aves"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ears"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Inferred",
+          "url": "No URL available",
+          "title": "Inferred based on class Aves",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on class Aves, no specific citation available",
+          "note": "Inferred based on the animal belonging to the class Aves"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Odor molecules",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Nose"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Inferred",
+          "url": "No URL available",
+          "title": "Inferred based on class Aves",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on class Aves, no specific citation available",
+          "note": "Inferred based on the animal belonging to the class Aves"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Gustation",
+      "stimulus_type": "Taste",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Taste buds"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Inferred",
+          "url": "No URL available",
+          "title": "Inferred based on class Aves",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on class Aves, no specific citation available",
+          "note": "Inferred based on the animal belonging to the class Aves"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Pressure",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Skin receptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Inferred",
+          "url": "No URL available",
+          "title": "Inferred based on class Aves",
+          "author": "Inferred",
+          "year": 2024,
+          "citation": "Inferred based on class Aves, no specific citation available",
+          "note": "Inferred based on the animal belonging to the class Aves"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

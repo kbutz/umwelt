@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Peregrine falcon",
+    "scientific_name": "Falco peregrinus",
+    "gbif_id": 2481047,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Aves",
+      "order": "Falconiformes"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

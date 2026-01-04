@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "common_name": "Star-nosed mole",
+    "scientific_name": "Condylura cristata",
+    "gbif_id": 2436214,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Cetacea"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eimer's organs (more than 25,000 minute sensory receptors in touch organs)"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Star-nosed_mole",
+          "title": "Star-nosed mole - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Star-nosed mole. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Vibration Detection",
+      "stimulus_type": "Seismic Waves",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eimer's organs"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Star-nosed_mole",
+          "title": "Star-nosed mole - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Star-nosed mole. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Nose/Olfactory receptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Star-nosed_mole",
+          "title": "Star-nosed mole - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Star-nosed mole. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context. The moles are also able to smell underwater, accomplished by exhaling air bubbles onto objects or scent trails and then inhaling the bubbles to carry scents back through the nose."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Temperature sensing",
+      "stimulus_type": "Temperature",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Physiological",
+        "description": "Thermoregulation"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Star-nosed_mole",
+          "title": "Star-nosed mole - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Star-nosed mole. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context. C. cristata is particularly adept at thermoregulation, maintaining a high body temperature in a wide range of external conditions relative to other Talpid moles. This explains its ability to thrive in cold aquatic environments."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

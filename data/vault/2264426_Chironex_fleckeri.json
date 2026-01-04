@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Australian box jelly",
+    "scientific_name": "Chironex fleckeri",
+    "gbif_id": 2264426,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "N/A",
+      "order": "N/A"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Pressure",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Cellular",
+        "description": "Cnidocytes activated by pressure"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chironex_fleckeri",
+          "title": "Chironex fleckeri - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Chironex fleckeri. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Contact Chemoreception",
+      "stimulus_type": "Protein",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Cellular",
+        "description": "Cnidocytes activated by proteinous chemicals"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chironex_fleckeri",
+          "title": "Chironex fleckeri - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Chironex fleckeri. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Image Forming Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Four eye-clusters with 24 eyes, some capable of forming images"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chironex_fleckeri",
+          "title": "Chironex fleckeri - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Chironex fleckeri. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

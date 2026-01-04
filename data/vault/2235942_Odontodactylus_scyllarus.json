@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "peacock mantis shrimp",
+    "scientific_name": "Odontodactylus scyllarus",
+    "gbif_id": 2235942,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Malacostraca",
+      "order": "Stomatopoda"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Color Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "12 types of photoreceptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Odontodactylus_scyllarus",
+          "title": "Odontodactylus scyllarus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Odontodactylus scyllarus. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Polarized Light Vision",
+      "stimulus_type": "Polarized Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Rows 5-6 of ommatidia in the midband"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Odontodactylus_scyllarus",
+          "title": "Odontodactylus scyllarus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Odontodactylus scyllarus. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

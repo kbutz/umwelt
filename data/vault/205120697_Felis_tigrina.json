@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Oncilla",
+    "scientific_name": "Felis tigrina",
+    "gbif_id": 205120697,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Cetacea"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Auditory Communication",
+      "stimulus_type": "Vocalization",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Larynx and associated structures"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oncilla",
+          "title": "Oncilla - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Oncilla. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context; Adults are known to make short, gurgling calls when close to one another."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Tactile Communication",
+      "stimulus_type": "Vibration",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Larynx and associated structures"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oncilla",
+          "title": "Oncilla - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Oncilla. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context; Young oncillas have been observed to purr"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oncilla",
+          "title": "Oncilla - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Oncilla. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context; The coloration helps the oncilla blend in with the mottled sunlight of the tropical forest understory. Most oncillas are nocturnal, but in the Brazilian Caatinga \u2013 where diurnal lizards are their main food source \u2013 they are active during daylight."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

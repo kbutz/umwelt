@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Human",
+    "scientific_name": "Homo sapiens",
+    "gbif_id": 2436436,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Primates"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Other",
+      "sub_type": "General Cognition",
+      "stimulus_type": "Environmental Stimuli",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Large brains enabling advanced cognitive skills"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Human",
+          "title": "Human - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Human. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

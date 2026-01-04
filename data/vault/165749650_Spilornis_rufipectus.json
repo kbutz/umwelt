@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Sulawesi serpent eagle",
+    "scientific_name": "Spilornis rufipectus",
+    "gbif_id": 165749650,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Aves",
+      "order": "Accipitriformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sulawesi_serpent_eagle",
+          "title": "Sulawesi serpent eagle - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Sulawesi serpent eagle. In Wikipedia, The Free Encyclopedia.",
+          "note": "Implied by being a bird of prey; they have eyes."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "Koala",
+    "scientific_name": "Phascolarctos cinereus",
+    "gbif_id": 2433433,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Diprotodontia"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Pheromones",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Scent glands located on their chests"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Koala",
+          "title": "Koala - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Koala. In Wikipedia, The Free Encyclopedia.",
+          "note": "Males mark their presence with secretions from scent glands located on their chests."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ears"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Koala",
+          "title": "Koala - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Koala. In Wikipedia, The Free Encyclopedia.",
+          "note": "Large head with round, fluffy ears"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

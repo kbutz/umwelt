@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Amblyomma tholloni",
+    "scientific_name": "Amblyomma tholloni",
+    "gbif_id": 179990021,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Arachnida",
+      "order": "Ixodida"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Haller's organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Ixodidae - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ixodidae",
+          "title": "Ixodidae - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ixodidae. In Wikipedia, The Free Encyclopedia.",
+          "note": "Ticks in the family Ixodidae possess Haller's organ for olfaction; Amblyomma is in Ixodidae. Inferred from taxonomic relation."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Haller's organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Ixodidae - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ixodidae",
+          "title": "Ixodidae - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ixodidae. In Wikipedia, The Free Encyclopedia.",
+          "note": "Ticks in the family Ixodidae possess Haller's organ for thermoreception; Amblyomma is in Ixodidae. Inferred from taxonomic relation."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Vibration",
+      "stimulus_type": "Vibration",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Setae"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Ixodidae - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ixodidae",
+          "title": "Ixodidae - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ixodidae. In Wikipedia, The Free Encyclopedia.",
+          "note": "Ticks use setae to sense vibrations; Amblyomma is in Ixodidae. Inferred from taxonomic relation."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

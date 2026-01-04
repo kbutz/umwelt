@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Strigea meridionalis",
+    "scientific_name": "Strigea meridionalis",
+    "gbif_id": 7832670,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Trematoda",
+      "order": "Strigeiformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "General Chemoreception",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Genetic",
+        "description": "Chemoreceptor genes present, function unknown"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Strigea_meridionalis",
+          "title": "Strigea meridionalis - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Strigea meridionalis. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred from general parasite biology; no specific data available in provided context."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "General Mechanoreception",
+      "stimulus_type": "Touch/Pressure",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "General sensory neurons present, function unknown"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Strigea_meridionalis",
+          "title": "Strigea meridionalis - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Strigea meridionalis. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred from general parasite biology; no specific data available in provided context."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "General Photoreception",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Genetic",
+        "description": "Photoreceptor genes present, function unknown"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Strigea_meridionalis",
+          "title": "Strigea meridionalis - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Strigea meridionalis. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred from general parasite biology; no specific data available in provided context."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

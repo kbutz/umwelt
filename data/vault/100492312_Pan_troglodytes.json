@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Chimpanzee",
+    "scientific_name": "Pan troglodytes",
+    "gbif_id": 100492312,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Primates"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

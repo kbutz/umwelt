@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Wahlberg's eagle",
+    "scientific_name": "Hieraaetus wahlbergi",
+    "gbif_id": 195304109,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Aves",
+      "order": "Accipitriformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wahlberg%27s_eagle",
+          "title": "Wahlberg's eagle - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Wahlberg's eagle. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context. General ability to hunt and see territory."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "common_name": "Felis irionwtensis",
+    "scientific_name": "Felis irionwtensis",
+    "gbif_id": 12202492,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Carnivora"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Color Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Genetic",
+        "description": "Presumed presence of opsin genes."
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Knowledge of Mammals",
+          "url": null,
+          "title": "Inferred based on general mammalian physiology",
+          "author": "AI Inference",
+          "year": 2024,
+          "citation": "AI Inference based on general mammalian physiology.",
+          "note": "Inferred ability to see color based on general knowledge of mammalian vision. Lacking specific data for Felis irionwtensis, this is a reasonable but unconfirmed assumption."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound Waves",
+      "quantitative_data": {
+        "min": null,
+        "max": null,
+        "unit": null,
+        "context": null
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Presumed presence of inner ear structures for hearing."
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Knowledge of Mammals",
+          "url": null,
+          "title": "Inferred based on general mammalian physiology",
+          "author": "AI Inference",
+          "year": 2024,
+          "citation": "AI Inference based on general mammalian physiology.",
+          "note": "Inferred ability to hear based on general knowledge of mammalian physiology. Lacking specific data for Felis irionwtensis, this is a reasonable but unconfirmed assumption."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemicals",
+      "quantitative_data": {
+        "min": null,
+        "max": null,
+        "unit": null,
+        "context": null
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Presumed presence of olfactory receptors in nasal cavity."
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Knowledge of Mammals",
+          "url": null,
+          "title": "Inferred based on general mammalian physiology",
+          "author": "AI Inference",
+          "year": 2024,
+          "citation": "AI Inference based on general mammalian physiology.",
+          "note": "Inferred ability to smell based on general knowledge of mammalian physiology. Lacking specific data for Felis irionwtensis, this is a reasonable but unconfirmed assumption."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Tactile Reception",
+      "stimulus_type": "Pressure",
+      "quantitative_data": {
+        "min": null,
+        "max": null,
+        "unit": null,
+        "context": null
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Presumed presence of tactile receptors in skin."
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Knowledge of Mammals",
+          "url": null,
+          "title": "Inferred based on general mammalian physiology",
+          "author": "AI Inference",
+          "year": 2024,
+          "citation": "AI Inference based on general mammalian physiology.",
+          "note": "Inferred ability to sense pressure based on general knowledge of mammalian physiology. Lacking specific data for Felis irionwtensis, this is a reasonable but unconfirmed assumption."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Gustation",
+      "stimulus_type": "Chemicals",
+      "quantitative_data": {
+        "min": null,
+        "max": null,
+        "unit": null,
+        "context": null
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Presumed presence of taste receptors on tongue."
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Knowledge of Mammals",
+          "url": null,
+          "title": "Inferred based on general mammalian physiology",
+          "author": "AI Inference",
+          "year": 2024,
+          "citation": "AI Inference based on general mammalian physiology.",
+          "note": "Inferred ability to taste based on general knowledge of mammalian physiology. Lacking specific data for Felis irionwtensis, this is a reasonable but unconfirmed assumption."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

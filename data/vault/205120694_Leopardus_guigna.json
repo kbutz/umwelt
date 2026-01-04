@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "kodkod",
+    "scientific_name": "Leopardus guigna",
+    "gbif_id": 205120694,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "NA"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Color Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Genetic",
+        "description": "Melanistic phenotype caused by deletion of cysteine amino acid at position 126 of Agouti-signaling protein, altering protein structure and reducing ability to bind to melanocortin 1 receptor."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kodkod",
+          "title": "Kodkod - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Kodkod. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

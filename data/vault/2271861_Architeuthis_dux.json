@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Giant squid",
+    "scientific_name": "Architeuthis dux",
+    "gbif_id": 2271861,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Cephalopoda",
+      "order": "Teuthida"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Tactile",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Suction cups on arms and tentacles"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Giant_squid",
+          "title": "Giant squid - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Giant squid. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context. The inside surfaces of the arms and tentacles are lined with hundreds of subspherical suction cups, 2 to 5 cm in diameter."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Ixodes muniensis",
+    "scientific_name": "Ixodes muniensis",
+    "gbif_id": 179989836,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Arachnida",
+      "order": "Ixodida"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Haller's organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ixodes_muniensis",
+          "title": "Ixodes muniensis - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ixodes muniensis. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Ticks in general use Haller's organ for olfaction."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Haller's organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ixodes_muniensis",
+          "title": "Ixodes muniensis - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ixodes muniensis. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Ticks in general use Haller's organ for thermoreception."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Vibration Detection",
+      "stimulus_type": "Vibration",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Sensory hairs and associated neurons"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ixodes_muniensis",
+          "title": "Ixodes muniensis - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Ixodes muniensis. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Ticks in general have sensory hairs."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}
