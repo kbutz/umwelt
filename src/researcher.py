@@ -91,10 +91,13 @@ class Researcher:
         conn.close()
         return job
 
-    def update_status(self, job_id, status):
+    def update_status(self, job_id, status, error_log=None):
         conn = sqlite3.connect(DB_PATH)
         c = conn.cursor()
-        c.execute("UPDATE research_queue SET status=? WHERE id=?", (status, job_id))
+        if error_log:
+            c.execute("UPDATE research_queue SET status=?, error_log=? WHERE id=?", (status, str(error_log), job_id))
+        else:
+            c.execute("UPDATE research_queue SET status=? WHERE id=?", (status, job_id))
         conn.commit()
         conn.close()
 
@@ -158,7 +161,7 @@ class Researcher:
         raw_json = self.adapter.research_animal(animal_name, context_text, augmented_prompt)
 
         if not raw_json:
-            return None
+            return None, "Adapter returned empty response"
 
         try:
             data_dict = json.loads(raw_json)
@@ -168,18 +171,20 @@ class Researcher:
             
             validated_data = AnimalSensoryData(**processed_dict)
 
-            return validated_data.model_dump_json(indent=2, by_alias=True)
+            return validated_data.model_dump_json(indent=2, by_alias=True), None
 
         except json.JSONDecodeError:
-            print(f"❌ Failed to parse JSON for {animal_name}")
-            return None
+            err = f"❌ Failed to parse JSON for {animal_name}"
+            print(err)
+            return None, err
         except ValidationError as e:
-            print(f"❌ Pydantic Validation Failed for {animal_name}:")
-            print(e.json())
-            return None
+            err = f"❌ Pydantic Validation Failed for {animal_name}: {e.json()}"
+            print(err)
+            return None, err
         except Exception as e:
-            print(f"❌ LLM Error: {e}")
-            return None
+            err = f"❌ LLM Error: {e}"
+            print(err)
+            return None, err
 
     def post_process_data(self, data_dict, animal_name, source_url):
         """
@@ -336,18 +341,21 @@ class Researcher:
 
         try:
             context, source_url = self.gather_context(animal_name)
-            result_json = self.research_animal(animal_name, context, source_url)
+            result_json, error = self.research_animal(animal_name, context, source_url)
 
             if result_json:
                 self.save_to_vault(animal_name, gbif_id, result_json)
                 self.update_status(job_id, "COMPLETED")
             else:
-                self.update_status(job_id, "FAILED")
+                self.update_status(job_id, "FAILED", error_log=error)
+                print(f"❌ Job aborted for {animal_name}. Error logged to DB.")
+                sys.exit(1) # Abort the process
         except Exception as e:
             print(f"Job failed: {e}")
             import traceback
             traceback.print_exc()
-            self.update_status(job_id, "FAILED")
+            self.update_status(job_id, "FAILED", error_log=str(e))
+            sys.exit(1) # Abort the process
 
 if __name__ == "__main__":
     import argparse

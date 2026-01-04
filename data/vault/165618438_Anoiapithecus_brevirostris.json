@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "common_name": "Anoiapithecus",
+    "scientific_name": "Anoiapithecus brevirostris",
+    "gbif_id": 165618438,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Mammalia",
+      "order": "None",
+      "family": "None"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Other",
+      "sub_type": "Habitat Preference",
+      "stimulus_type": "Humidity",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Ecological",
+        "description": "Habitat preference for dense, humid forests"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anoiapithecus",
+          "title": "Anoiapithecus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Anoiapithecus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Based on climatic changes recorded in the Abocador de Can Mata stratigraphic sequence in Spain, A. brevirostris appears to have had a habitat preference for dense, humid forests"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}
