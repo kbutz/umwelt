@@ -1,0 +1,71 @@
+{
+  "identity": {
+    "common_name": "Komodo dragon",
+    "scientific_name": "Varanus komodoensis",
+    "gbif_id": 2470761,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Reptilia",
+      "order": "Squamata"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Auditory",
+      "stimulus_type": "Sound",
+      "quantitative_data": {
+        "min": 400.0,
+        "max": 2000.0,
+        "unit": "hertz",
+        "context": "Physiological Limit"
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Single ear bone, the stapes, for transferring vibrations from the tympanic membrane to the cochlea."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Komodo_dragon",
+          "title": "Komodo dragon - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Komodo dragon. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": {
+        "min": null,
+        "max": 300.0,
+        "unit": "m",
+        "context": "Visual Acuity"
+      },
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Retinas only contain cones"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Komodo_dragon",
+          "title": "Komodo dragon - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Komodo dragon. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

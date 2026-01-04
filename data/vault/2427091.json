@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Wood frog",
+    "scientific_name": "Lithobates sylvaticus",
+    "gbif_id": 2427091,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Amphibia",
+      "order": "Anura"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Color Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Physiological",
+        "description": "Capable of varying their color; exposure to sunlight causes darkening."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wood_frog",
+          "title": "Wood frog - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Wood frog. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Behavioral",
+        "description": "Adult wood frogs were 100% faithful to the pond of their first breeding but 18% of juveniles dispersed to breed in other ponds."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wood_frog",
+          "title": "Wood frog - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Wood frog. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Dark eye mask"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wood_frog",
+          "title": "Wood frog - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Wood frog. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

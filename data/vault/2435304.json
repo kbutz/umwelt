@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "African bush elephant",
+    "scientific_name": "Loxodonta africana",
+    "gbif_id": 2435304,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "None"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Thermoreception",
+      "stimulus_type": "Temperature",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Large ears help reduce body heat; Skin bending cracks which support thermoregulation by retaining water."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/African_bush_elephant",
+          "title": "African bush elephant - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). African bush elephant. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Electric Eel",
+    "scientific_name": "Electrophorus electricus",
+    "gbif_id": 2401962,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Teleostei",
+      "order": "Gymnotiformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Hearing",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Weberian apparatus connects the anterior chamber of the swim bladder to the inner ear, enhancing hearing capability."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Electrophorus_electricus",
+          "title": "Electrophorus electricus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Electrophorus electricus. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Electroreception",
+      "sub_type": "Active Electroreception",
+      "stimulus_type": "Electric Field",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Electric organ discharges (EODs) from Sachs' organ for electrolocation."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Electrophorus_electricus",
+          "title": "Electrophorus electricus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Electrophorus electricus. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context, E. electricus has three pairs of abdominal organs that produce electricity: the main organ, Hunter's organ, and Sachs' organ."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Electroreception",
+      "sub_type": "Electric Field Generation",
+      "stimulus_type": "Electric Field",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Electric organs (Main organ, Hunter's organ) produce high voltage electric discharges for predation and defense."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Electrophorus_electricus",
+          "title": "Electrophorus electricus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Electrophorus electricus. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context, E. electricus has three pairs of abdominal organs that produce electricity: the main organ, Hunter's organ, and Sachs' organ."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

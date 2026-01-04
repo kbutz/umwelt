@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "Arctic tern",
+    "scientific_name": "Sterna paradisaea",
+    "gbif_id": 2481142,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Aves",
+      "order": "Charadriiformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Auditory",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ears detect sound for communication."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arctic_tern",
+          "title": "Arctic tern - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Arctic tern. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context: The Scots names pictarnie, tarrock and their many variants are also believed to be onomatopoeic, derived from the distinctive call."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes for vision"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arctic_tern",
+          "title": "Arctic tern - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Arctic tern. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context: In the breeding season they are mainly grey and white plumaged, with a blood red beak and feet, a black crown and nape, and white cheeks."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "common_name": "Common octopus",
+    "scientific_name": "Octopus vulgaris",
+    "gbif_id": 2271164,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Cephalopoda",
+      "order": "Octopoda"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Brightness Discrimination",
+      "stimulus_type": "Light Intensity",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_octopus",
+          "title": "Common octopus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common octopus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Training experiments have shown the common octopus can distinguish the brightness"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Shape Discrimination",
+      "stimulus_type": "Physical Object",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Unknown"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_octopus",
+          "title": "Common octopus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common octopus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Training experiments have shown the common octopus can distinguish the size, shape"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Size Discrimination",
+      "stimulus_type": "Physical Object",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Unknown"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_octopus",
+          "title": "Common octopus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common octopus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Training experiments have shown the common octopus can distinguish the size"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Orientation Discrimination",
+      "stimulus_type": "Physical Object",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Unknown"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Common_octopus",
+          "title": "Common octopus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Common octopus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Training experiments have shown the common octopus can distinguish horizontal or vertical orientation of objects."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}
