@@ -101,52 +101,73 @@ class Researcher:
         conn.commit()
         conn.close()
 
-    def gather_context(self, animal_name):
+    def gather_context(self, animal_name, gbif_id=None):
         """
-        Gather research context from Wikipedia.
+        Gather research context from Wikipedia and GBIF.
         """
-        print(f"  📚 Gathering context for {animal_name}...")
-        page = self.wiki.page(animal_name)
-        # ... (rest of gather_context stays the same, it's already quite robust)
-
-        if not page.exists():
-            print(f"  ⚠️  No Wikipedia page found for {animal_name}")
-            return f"No detailed information found for {animal_name}", None
-
-        # Extract relevant sections
         context_parts = []
+        source_urls = []
 
-        # Add summary
-        if page.summary:
-            context_parts.append(f"OVERVIEW:\n{page.summary[:1000]}")
+        # 1. GBIF Context (if ID is available)
+        if gbif_id:
+            print(f"  🧬 Fetching GBIF data for ID: {gbif_id}...")
+            gbif_url = f"https://api.gbif.org/v1/species/{gbif_id}"
+            try:
+                import requests
+                resp = requests.get(gbif_url)
+                if resp.status_code == 200:
+                    data = resp.json()
+                    gbif_context = f"GBIF TAXONOMY:\n"
+                    gbif_context += f"Scientific Name: {data.get('scientificName')}\n"
+                    gbif_context += f"Kingdom: {data.get('kingdom')}\n"
+                    gbif_context += f"Phylum: {data.get('phylum')}\n"
+                    gbif_context += f"Class: {data.get('class')}\n"
+                    gbif_context += f"Order: {data.get('order')}\n"
+                    gbif_context += f"Family: {data.get('family')}\n"
+                    gbif_context += f"Genus: {data.get('genus')}\n"
+                    context_parts.append(gbif_context)
+                    source_urls.append(f"https://www.gbif.org/species/{gbif_id}")
+            except Exception as e:
+                print(f"  ⚠ Failed to fetch GBIF data: {e}")
 
-        # Look for sensory-related sections
-        sensory_keywords = ['sense', 'sensory', 'hearing', 'vision', 'smell', 'echolocation',
-                           'electroreception', 'magnetoreception', 'detection', 'perception']
+        # 2. Wikipedia Context
+        print(f"  📚 Gathering Wikipedia context for {animal_name}...")
+        page = self.wiki.page(animal_name)
 
-        # Iterate through sections
-        def extract_sections(sections_dict, depth=0):
-            if depth > 2:  # Limit recursion depth
-                return
-            for section in sections_dict:
-                # Check if section title contains sensory keywords
-                if any(keyword in section.title.lower() for keyword in sensory_keywords):
-                    context_parts.append(f"\nSECTION - {section.title}:\n{section.text[:800]}")
-                # Recurse into subsections
-                if section.sections:
-                    extract_sections(section.sections, depth + 1)
+        if page.exists():
+            # Add summary
+            if page.summary:
+                context_parts.append(f"WIKIPEDIA OVERVIEW:\n{page.summary[:1000]}")
 
-        extract_sections(page.sections)
+            # Look for sensory-related sections
+            sensory_keywords = ['sense', 'sensory', 'hearing', 'vision', 'smell', 'echolocation',
+                               'electroreception', 'magnetoreception', 'detection', 'perception']
 
-        # If we found sensory sections, limit total length
-        if len(context_parts) > 1:
-            context = "\n\n".join(context_parts[:4])  # Max 4 sections
+            # Iterate through sections
+            def extract_sections(sections_dict, depth=0):
+                if depth > 2:  # Limit recursion depth
+                    return
+                for section in sections_dict:
+                    # Check if section title contains sensory keywords
+                    if any(keyword in section.title.lower() for keyword in sensory_keywords):
+                        context_parts.append(f"\nWIKIPEDIA SECTION - {section.title}:\n{section.text[:800]}")
+                    # Recurse into subsections
+                    if section.sections:
+                        extract_sections(section.sections, depth + 1)
+
+            extract_sections(page.sections)
+            source_urls.append(page.fullurl)
         else:
-            # Fallback: use full text (truncated)
-            context = f"OVERVIEW:\n{page.text[:3000]}"
+            print(f"  ⚠️  No Wikipedia page found for {animal_name}")
+            if not context_parts:
+                return f"No detailed information found for {animal_name}", None
 
-        print(f"  ✓ Gathered {len(context)} characters of context")
-        return context, page.fullurl
+        # Combine contexts
+        context = "\n\n".join(context_parts)
+        primary_url = source_urls[0] if source_urls else None
+
+        print(f"  ✓ Gathered {len(context)} characters of context from {len(source_urls)} sources")
+        return context, primary_url
 
     def research_animal(self, animal_name: str, context_text: str, source_url: str = None):
         """
@@ -340,7 +361,7 @@ class Researcher:
         self.update_status(job_id, "PROCESSING")
 
         try:
-            context, source_url = self.gather_context(animal_name)
+            context, source_url = self.gather_context(animal_name, gbif_id=gbif_id)
             result_json, error = self.research_animal(animal_name, context, source_url)
 
             if result_json:
