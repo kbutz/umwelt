@@ -35,3 +35,6 @@ sensory_graph.db
 # OS
 .DS_Store
 Thumbs.db
+
+# Config
+src/config.py
