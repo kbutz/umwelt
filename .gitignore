@@ -37,4 +37,4 @@ sensory_graph.db
 Thumbs.db
 
 # Config
-**/config.py
+config.yml
