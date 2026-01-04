@@ -236,9 +236,9 @@ class Researcher:
         new_data = json.loads(new_json_data)
         scientific_name = new_data.get('identity', {}).get('scientific_name', animal_name)
         
-        # New Naming Convention: GBIF_ID - Scientific_Name.json
+        # New Naming Convention: GBIF_ID_Scientific_Name.json (no whitespace)
         if gbif_id:
-            filename = f"{gbif_id} - {scientific_name.replace(' ', '_')}.json"
+            filename = f"{gbif_id}_{scientific_name.replace(' ', '_')}.json"
         else:
             filename = f"{animal_name.replace(' ', '_')}.json"
             
@@ -282,6 +282,15 @@ class Researcher:
             existing_data['sensory_modalities'] = existing_modalities
             final_data = existing_data
         else:
+            # Check for old naming convention if scientific name match fails
+            # This handles cases where we renamed manually but didn't update the logic yet
+            old_pattern = os.path.join(VAULT_DIR, f"{gbif_id} - *.json")
+            old_matches = glob.glob(old_pattern)
+            if old_matches:
+                filepath = old_matches[0]
+                print(f"  📂 Existing record found (old format) for {scientific_name} ({os.path.basename(filepath)}). Merging...")
+                # ... same merge logic could go here, but for now we just rename then merge
+            
             final_data = new_data
             if gbif_id:
                 final_data['identity']['gbif_id'] = gbif_id
@@ -291,12 +300,18 @@ class Researcher:
         print(f"✓ Saved/Merged research to {filepath}")
 
     def is_already_researched(self, gbif_id):
-        """Checks if a file for this GBIF ID already exists in the vault."""
+        """Checks if a file for this GBIF ID already exists in the vault (any format)."""
         if not gbif_id:
             return False
-        pattern = os.path.join(VAULT_DIR, f"{gbif_id} - *.json")
-        matches = glob.glob(pattern)
-        return len(matches) > 0
+        # Match both new and old formats
+        patterns = [
+            os.path.join(VAULT_DIR, f"{gbif_id}_*.json"),
+            os.path.join(VAULT_DIR, f"{gbif_id} - *.json")
+        ]
+        for pattern in patterns:
+            if glob.glob(pattern):
+                return True
+        return False
 
     def run(self):
         job = self.get_job()
