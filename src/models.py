@@ -27,7 +27,7 @@ class QuantitativeData(BaseModel):
         return v
 
 class Mechanism(BaseModel):
-    level: Literal['Anatomical', 'Cellular', 'Neural', 'Genetic', 'Unknown']
+    level: Literal['Anatomical', 'Cellular', 'Neural', 'Genetic', 'Behavioral', 'Unknown']
     description: str
 
 class Evidence(BaseModel):

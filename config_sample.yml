@@ -1,0 +1,5 @@
+# Configuration Secrets
+# Copy this file to config.yml and fill in your actual secrets.
+# DO NOT commit config.yml to version control.
+
+GEMINI_API_KEY: "YOUR_API_KEY_HERE"
