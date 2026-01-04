@@ -1,0 +1,62 @@
+{
+  "identity": {
+    "common_name": "Dinogamasus tonkinensis",
+    "scientific_name": "Dinogamasus tonkinensis Lundqvist, 1999",
+    "gbif_id": 6888070,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Arachnida",
+      "order": "Mesostigmata",
+      "family": "Laelapidae"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "General Mechanoreception",
+      "stimulus_type": "Touch",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Sensory structures on body"
+      },
+      "evidence": [
+        {
+          "source_type": "Web Page",
+          "source_name": "GBIF",
+          "url": "https://www.gbif.org/species/6888070",
+          "title": "Dinogamasus tonkinensis Lundqvist, 1999",
+          "author": "GBIF",
+          "year": 2024,
+          "citation": "GBIF. (2024). Dinogamasus tonkinensis Lundqvist, 1999. GBIF Backbone Taxonomy.",
+          "note": "Inferred from being an arthropod."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "General Chemoreception",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Sensory structures on body"
+      },
+      "evidence": [
+        {
+          "source_type": "Web Page",
+          "source_name": "GBIF",
+          "url": "https://www.gbif.org/species/6888070",
+          "title": "Dinogamasus tonkinensis Lundqvist, 1999",
+          "author": "GBIF",
+          "year": 2024,
+          "citation": "GBIF. (2024). Dinogamasus tonkinensis Lundqvist, 1999. GBIF Backbone Taxonomy.",
+          "note": "Inferred from being an arthropod."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

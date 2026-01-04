@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Simplicillium formicidae",
+    "scientific_name": "Simplicillium formicidae W.H.Chen, C.Liu, Y.F.Han, J.D.Liang & Z.Q.Liang",
+    "gbif_id": 10866577,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Sordariomycetes",
+      "order": "Hypocreales",
+      "family": "Cordycipitaceae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

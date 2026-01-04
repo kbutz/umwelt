@@ -1,0 +1,62 @@
+{
+  "identity": {
+    "common_name": "Sumatran pitviper",
+    "scientific_name": "Trimeresurus sumatranus",
+    "gbif_id": 2443741,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Squamata",
+      "order": "None",
+      "family": "Viperidae"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Pit organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://www.gbif.org/species/2443741",
+          "title": "Trimeresurus sumatranus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Trimeresurus sumatranus. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred from 'pitviper' description."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Keeled scales"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://www.gbif.org/species/2443741",
+          "title": "Trimeresurus sumatranus - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Trimeresurus sumatranus. In Wikipedia, The Free Encyclopedia.",
+          "note": "From description of 'keeled' scales."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

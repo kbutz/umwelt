@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Forania sendrai",
+    "scientific_name": "Forania sendrai Mayoral & Barranco, 2010",
+    "gbif_id": 11578445,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Arachnida",
+      "order": "Trombidiformes",
+      "family": "Erythraeidae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

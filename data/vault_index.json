@@ -21,11 +21,25 @@
     "filename": "195304109_Hieraaetus_wahlbergi.json"
   },
   {
+    "gbif_id": 8323138,
+    "scientific_name": "Trimeresurus sabahi",
+    "common_name": "Sabah pit viper",
+    "family": "Viperidae",
+    "filename": "8323138_Trimeresurus_sabahi.json"
+  },
+  {
     "gbif_id": 179989831,
     "scientific_name": "Ixodes monospinosus",
     "common_name": "Ixodes monospinosus",
     "family": "Ixodidae",
     "filename": "179989831_Ixodes_monospinosus.json"
+  },
+  {
+    "gbif_id": 1649436,
+    "scientific_name": "Sabethes forattinii Cerqueira, 1961",
+    "common_name": "Sabethes forattinii",
+    "family": "Culicidae",
+    "filename": "1649436_Sabethes_forattinii_Cerqueira,_1961.json"
   },
   {
     "gbif_id": 205120692,
@@ -119,11 +133,11 @@
     "filename": "100388026_Atelocynus_microtis.json"
   },
   {
-    "gbif_id": 179989963,
-    "scientific_name": "Amblyomma fuscum",
-    "common_name": "Amblyomma fuscum",
-    "family": "Ixodidae",
-    "filename": "179989963_Amblyomma_fuscum.json"
+    "gbif_id": 9186189,
+    "scientific_name": "Anopheles mosquito",
+    "common_name": "Anopheles mosquito",
+    "family": "Culicidae",
+    "filename": "9186189_Anopheles_mosquito.json"
   },
   {
     "gbif_id": 165660517,
@@ -173,6 +187,20 @@
     "common_name": "Ixodes fynbosensis",
     "family": "Ixodidae",
     "filename": "179989699_Ixodes_fynbosensis.json"
+  },
+  {
+    "gbif_id": 1649446,
+    "scientific_name": "Sabethes xhyphydes Harbach, 1994",
+    "common_name": "Sabethes xhyphydes",
+    "family": "Culicidae",
+    "filename": "1649446_Sabethes_xhyphydes_Harbach,_1994.json"
+  },
+  {
+    "gbif_id": 10435169,
+    "scientific_name": "Imparipes malus Khaustov, 2008",
+    "common_name": "Imparipes malus",
+    "family": "Scutacaridae",
+    "filename": "10435169_Imparipes_malus_Khaustov,_2008.json"
   },
   {
     "gbif_id": 165191621,
@@ -243,6 +271,13 @@
     "common_name": "Felidae spec.",
     "family": "Felidae",
     "filename": "249289229_Felidae_spec..json"
+  },
+  {
+    "gbif_id": 205120728,
+    "scientific_name": "Lynx caracal",
+    "common_name": "Lynx caracal",
+    "family": "Felidae",
+    "filename": "205120728_Lynx_caracal.json"
   },
   {
     "gbif_id": 100374538,
@@ -357,11 +392,39 @@
     "filename": "179990104_Dermacentor_circumguttatus.json"
   },
   {
+    "gbif_id": 9414554,
+    "scientific_name": "Apidae melisuga",
+    "common_name": "Apidae melisuga",
+    "family": "Apidae",
+    "filename": "9414554_Apidae_melisuga.json"
+  },
+  {
+    "gbif_id": 10866577,
+    "scientific_name": "Simplicillium formicidae W.H.Chen, C.Liu, Y.F.Han, J.D.Liang & Z.Q.Liang",
+    "common_name": "Simplicillium formicidae",
+    "family": "Cordycipitaceae",
+    "filename": "10866577_Simplicillium_formicidae_W.H.Chen,_C.Liu,_Y.F.Han,_J.D.Liang_&_Z.Q.Liang.json"
+  },
+  {
+    "gbif_id": 4549071,
+    "scientific_name": "Varroa jacobsoni",
+    "common_name": "Varroa mite",
+    "family": "Varroidae",
+    "filename": "4549071_Varroa_jacobsoni.json"
+  },
+  {
     "gbif_id": 119526722,
     "scientific_name": "Polygenis platensis",
     "common_name": "Polygenis platensis",
     "family": "Rhopalopsyllidae",
     "filename": "119526722_Polygenis_platensis.json"
+  },
+  {
+    "gbif_id": 11578445,
+    "scientific_name": "Forania sendrai Mayoral & Barranco, 2010",
+    "common_name": "Forania sendrai",
+    "family": "Erythraeidae",
+    "filename": "11578445_Forania_sendrai_Mayoral_&_Barranco,_2010.json"
   },
   {
     "gbif_id": 205120702,
@@ -455,6 +518,13 @@
     "filename": "2440502_Tursiops_truncatus.json"
   },
   {
+    "gbif_id": 1345368,
+    "scientific_name": "Svastrides melanura",
+    "common_name": "Svastrides melanura",
+    "family": "Apidae",
+    "filename": "1345368_Svastrides_melanura.json"
+  },
+  {
     "gbif_id": 119526678,
     "scientific_name": "Tiamastus palpalis",
     "common_name": "Tiamastus palpalis",
@@ -497,11 +567,25 @@
     "filename": "100387953_Dusicyon_australis.json"
   },
   {
+    "gbif_id": 2443741,
+    "scientific_name": "Trimeresurus sumatranus",
+    "common_name": "Sumatran pitviper",
+    "family": "Viperidae",
+    "filename": "2443741_Trimeresurus_sumatranus.json"
+  },
+  {
     "gbif_id": 119526697,
     "scientific_name": "Eritranis andricus",
     "common_name": "Eritranis andricus",
     "family": "Rhopalopsyllidae",
     "filename": "119526697_Eritranis_andricus.json"
+  },
+  {
+    "gbif_id": 2444110,
+    "scientific_name": "Trimeresurus erythrurus",
+    "common_name": "red-tailed bamboo pitviper",
+    "family": "Viperidae",
+    "filename": "2444110_Trimeresurus_erythrurus.json"
   },
   {
     "gbif_id": 179990436,
@@ -532,11 +616,25 @@
     "filename": "1341976_Apis_mellifera.json"
   },
   {
+    "gbif_id": 8852866,
+    "scientific_name": "Diploscapter formicidae Zhao, Davies, Brenton-Rule, Grangier, Gruber, Giblin-Davis & Lester, 2013",
+    "common_name": "Diploscapter formicidae",
+    "family": "Rhabditidae",
+    "filename": "8852866_Diploscapter_formicidae_Zhao,_Davies,_Brenton-Rule,_Grangier,_Gruber,_Giblin-Davis_&_Lester,_2013.json"
+  },
+  {
     "gbif_id": 5133088,
     "scientific_name": "Danaus plexippus",
     "common_name": "Monarch butterfly",
     "family": "Nymphalidae",
     "filename": "5133088_Danaus_plexippus.json"
+  },
+  {
+    "gbif_id": 119526654,
+    "scientific_name": "Pulex irritans",
+    "common_name": "Human flea",
+    "family": "None",
+    "filename": "119526654_Pulex_irritans.json"
   },
   {
     "gbif_id": 179990184,
@@ -586,6 +684,13 @@
     "common_name": "Oncicola",
     "family": "Oligacanthorhynchidae",
     "filename": "163829560_Oncicola_canis.json"
+  },
+  {
+    "gbif_id": 6902641,
+    "scientific_name": "Dubininia africana Gaud, 1980",
+    "common_name": "Dubininia africana",
+    "family": "Xolalgidae",
+    "filename": "6902641_Dubininia_africana_Gaud,_1980.json"
   },
   {
     "gbif_id": 2433156,
@@ -658,6 +763,13 @@
     "filename": "209615682_Cheylabis_latus.json"
   },
   {
+    "gbif_id": 2184271,
+    "scientific_name": "Amblyomma fuscum Neumann, 1907",
+    "common_name": "Amblyomma fuscum",
+    "family": "Ixodidae",
+    "filename": "2184271_Amblyomma_fuscum_Neumann,_1907.json"
+  },
+  {
     "gbif_id": 2439433,
     "scientific_name": "Heterocephalus glaber",
     "common_name": "Naked mole-rat",
@@ -686,11 +798,32 @@
     "filename": "179990012_Amblyomma_splendidum.json"
   },
   {
+    "gbif_id": 6888070,
+    "scientific_name": "Dinogamasus tonkinensis Lundqvist, 1999",
+    "common_name": "Dinogamasus tonkinensis",
+    "family": "Laelapidae",
+    "filename": "6888070_Dinogamasus_tonkinensis_Lundqvist,_1999.json"
+  },
+  {
+    "gbif_id": 8602508,
+    "scientific_name": "Burmaculex antiquus",
+    "common_name": "Burmaculex",
+    "family": "Culicidae",
+    "filename": "8602508_Burmaculex_antiquus.json"
+  },
+  {
     "gbif_id": 179990320,
     "scientific_name": "Haemaphysalis elliptica",
     "common_name": "Haemaphysalis elliptica",
     "family": "Ixodidae",
     "filename": "179990320_Haemaphysalis_elliptica.json"
+  },
+  {
+    "gbif_id": 6921453,
+    "scientific_name": "Neoaulobia mironovi Bochkov & P\u00e9rez, 2002",
+    "common_name": "Neoaulobia mironovi",
+    "family": "Syringophilidae",
+    "filename": "6921453_Neoaulobia_mironovi_Bochkov_&_P\u00e9rez,_2002.json"
   },
   {
     "gbif_id": 205120710,
@@ -705,6 +838,13 @@
     "common_name": "Strigea meridionalis",
     "family": "Strigeidae",
     "filename": "7832670_Strigea_meridionalis.json"
+  },
+  {
+    "gbif_id": 8219807,
+    "scientific_name": "Trimeresurus albolabris",
+    "common_name": "White-lipped pit viper",
+    "family": "Viperidae",
+    "filename": "8219807_Trimeresurus_albolabris.json"
   },
   {
     "gbif_id": 165723778,
@@ -749,6 +889,13 @@
     "filename": "100459297_Palaeoloxodon_antiquus.json"
   },
   {
+    "gbif_id": 165618438,
+    "scientific_name": "Anoiapithecus brevirostris",
+    "common_name": "Anoiapithecus",
+    "family": "None",
+    "filename": "165618438_Anoiapithecus_brevirostris.json"
+  },
+  {
     "gbif_id": 179990021,
     "scientific_name": "Amblyomma tholloni",
     "common_name": "Amblyomma tholloni",
@@ -775,6 +922,20 @@
     "common_name": "Demodex cyonis",
     "family": "Unknown",
     "filename": "165239145_Demodex_cyonis.json"
+  },
+  {
+    "gbif_id": 10800743,
+    "scientific_name": "Lawrencipicobia poicephali",
+    "common_name": "Lawrencipicobia poicephali",
+    "family": "Syringophilidae",
+    "filename": "10800743_Lawrencipicobia_poicephali.json"
+  },
+  {
+    "gbif_id": 4652657,
+    "scientific_name": "Psittaboydaia psittaculae",
+    "common_name": "Psittaboydaia psittaculae",
+    "family": "Ereynetidae",
+    "filename": "4652657_Psittaboydaia_psittaculae.json"
   },
   {
     "gbif_id": 2436436,
