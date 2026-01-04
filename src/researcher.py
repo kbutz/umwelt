@@ -1,10 +1,11 @@
 import json
-import ollama
 import sqlite3
 import os
 import wikipediaapi
 from src.models import AnimalSensoryData
 from pydantic import ValidationError
+from src.gemini_adapter import GeminiAdapter
+from src.ollama_adapter import OllamaAdapter
 
 DB_PATH = 'data/orchestrator.db'
 VAULT_DIR = 'data/vault'
@@ -29,7 +30,7 @@ You must output strictly valid JSON with this EXACT structure:
   "identity": {
     "common_name": "Animal Name",
     "scientific_name": "Scientific Name",
-    "taxonomy": {"class": "Mammalia", "order": "Cetacea"}
+    "taxonomy": {"class": "Mammalia", "order": "Cetacea"} # class and order must be strings
   },
   "sensory_modalities": [
     {
@@ -66,8 +67,13 @@ No markdown. Just pure JSON.
 """
 
 class Researcher:
-    def __init__(self, model_name="llama3.2"):
-        self.model_name = model_name
+    def __init__(self, adapter="gemini"):
+        if adapter == "gemini":
+            self.adapter = GeminiAdapter()
+        elif adapter == "ollama":
+            self.adapter = OllamaAdapter()
+        else:
+            raise ValueError("Invalid adapter specified")
         self.wiki = wikipediaapi.Wikipedia('UmweltProject/1.0', 'en')
 
     def get_job(self):
@@ -140,34 +146,12 @@ class Researcher:
         2. Calls the Local LLM.
         3. Validates output with Pydantic.
         """
-        print(f"🧠 Researcher analyzing: {animal_name}...")
+        raw_json = self.adapter.research_animal(animal_name, context_text, SYSTEM_PROMPT_V4)
 
-        # Construct the User Prompt
-        user_prompt = f"""
-        ANIMAL: {animal_name}
-
-        CONTEXT DATA:
-        {context_text}
-
-        INSTRUCTIONS:
-        Based strictly on the context above, generate the JSON for {animal_name}.
-        """
+        if not raw_json:
+            return None
 
         try:
-            # Call Ollama
-            response = ollama.chat(model=self.model_name, messages=[
-                {'role': 'system', 'content': SYSTEM_PROMPT_V4},
-                {'role': 'user', 'content': user_prompt},
-            ])
-
-            raw_json = response['message']['content']
-
-            # Basic cleanup (sometimes LLMs add ```json ... ```)
-            if "```json" in raw_json:
-                raw_json = raw_json.split("```json")[1].split("```")[0]
-            elif "```" in raw_json:
-                raw_json = raw_json.split("```")[1].split("```")[0]
-
             data_dict = json.loads(raw_json)
             
             # Post-process to fix common LLM errors
@@ -205,6 +189,13 @@ class Researcher:
         if data_dict.get("meta", {}).get("data_quality_flag") == "Low_Evidence":
             data_dict["meta"]["data_quality_flag"] = "Low_Data"
 
+        # Correct taxonomy fields
+        if "identity" in data_dict and "taxonomy" in data_dict["identity"]:
+            if "class" in data_dict["identity"]["taxonomy"]:
+                data_dict["identity"]["taxonomy"]["class"] = str(data_dict["identity"]["taxonomy"]["class"])
+            if "order" in data_dict["identity"]["taxonomy"]:
+                data_dict["identity"]["taxonomy"]["order"] = str(data_dict["identity"]["taxonomy"]["order"])
+
         return data_dict
 
     def save_to_vault(self, animal_name, json_data):
@@ -237,5 +228,11 @@ class Researcher:
             self.update_status(job_id, "FAILED")
 
 if __name__ == "__main__":
-    agent = Researcher()
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Run the researcher with a specific adapter.")
+    parser.add_argument("--adapter", type=str, default="gemini", help="The adapter to use (gemini or ollama)")
+    args = parser.parse_args()
+
+    agent = Researcher(adapter=args.adapter)
     agent.run()

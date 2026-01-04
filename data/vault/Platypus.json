@@ -1,0 +1,49 @@
+{
+  "identity": {
+    "common_name": "Platypus",
+    "scientific_name": "Ornithorhynchus anatinus",
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Monotremata"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Electroreception",
+      "sub_type": "Passive Electroreception",
+      "stimulus_type": "Electric Field",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Electroreceptors in the skin of the bill"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "citation": "Wikipedia article",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Mechanoreceptors on bill"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "citation": "Wikipedia article",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}
