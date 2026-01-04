@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Serval",
+    "scientific_name": "Leptailurus serval",
+    "gbif_id": 205120691,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Carnivora"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Auditory",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ears"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Serval",
+          "title": "Serval - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Serval. In Wikipedia, The Free Encyclopedia.",
+          "note": "Uses its sense of hearing to locate prey"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

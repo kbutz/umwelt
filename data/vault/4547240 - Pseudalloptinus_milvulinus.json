@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "Pseudalloptinus milvulinus",
+    "scientific_name": "Pseudalloptinus milvulinus",
+    "gbif_id": 4547240,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Insecta",
+      "order": "Coleoptera"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Sensilla on exoskeleton"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Insect Physiology",
+          "url": null,
+          "title": "General Insect Physiology",
+          "author": "Inferred",
+          "year": null,
+          "citation": "Inferred from general insect sensory biology.",
+          "note": "Inferred based on general insect anatomy; all insects have tactile mechanoreceptors."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Odorants",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Antennae with olfactory receptors"
+      },
+      "evidence": [
+        {
+          "source_type": "Inference",
+          "source_name": "General Insect Physiology",
+          "url": null,
+          "title": "General Insect Physiology",
+          "author": "Inferred",
+          "year": null,
+          "citation": "Inferred from general insect sensory biology.",
+          "note": "Inferred based on general insect anatomy; all insects have olfactory chemoreceptors."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Dog flea",
+    "scientific_name": "Ctenocephalides canis",
+    "gbif_id": 119526652,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "None",
+      "order": "None"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Gustation",
+      "stimulus_type": "Blood",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Mouthparts adapted for piercing skin and sucking blood."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dog_flea",
+          "title": "Dog flea - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Dog flea. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Tactile Reception",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Hairs and spines on hard body"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dog_flea",
+          "title": "Dog flea - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Dog flea. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Proprioception",
+      "stimulus_type": "Movement",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Relatively long hind legs for jumping"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dog_flea",
+          "title": "Dog flea - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Dog flea. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

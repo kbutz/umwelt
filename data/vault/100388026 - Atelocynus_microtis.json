@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Short-eared dog",
+    "scientific_name": "Atelocynus microtis",
+    "gbif_id": 100388026,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Carnivora"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Paws are partly webbed"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Short-eared_dog",
+          "title": "Short-eared dog - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Short-eared dog. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context: The short-eared dog has short and slender limbs with short and rounded ears. Its paws are partly webbed, helping adapt it to its partly aquatic habitat."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}

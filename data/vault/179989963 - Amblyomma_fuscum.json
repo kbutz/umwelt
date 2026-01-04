@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Amblyomma fuscum",
+    "scientific_name": "Amblyomma fuscum",
+    "gbif_id": 179989963,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Unknown",
+      "order": "Unknown"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

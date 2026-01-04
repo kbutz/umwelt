@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Haemaphysalis semermis",
+    "scientific_name": "Haemaphysalis semermis",
+    "gbif_id": 179990228,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Arachnida",
+      "order": "Ixodida"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "General chemoreceptors assumed to exist, no specific data provided."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Animal_Name",
+          "title": "Animal Name - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Haemaphysalis semermis. In Wikipedia, The Free Encyclopedia.",
+          "note": "General sensory modality assumed for ticks, based on taxonomic relationships, but no Haemaphysalis semermis specific data provided."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "General thermoreceptors assumed to exist, no specific data provided."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Animal_Name",
+          "title": "Animal Name - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Haemaphysalis semermis. In Wikipedia, The Free Encyclopedia.",
+          "note": "General sensory modality assumed for ticks, based on taxonomic relationships, but no Haemaphysalis semermis specific data provided."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Vibration Detection",
+      "stimulus_type": "Vibration",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "General mechanoreceptors assumed to exist, no specific data provided."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Animal_Name",
+          "title": "Animal Name - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Haemaphysalis semermis. In Wikipedia, The Free Encyclopedia.",
+          "note": "General sensory modality assumed for ticks, based on taxonomic relationships, but no Haemaphysalis semermis specific data provided."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

@@ -1,6 +1,7 @@
 import json
 import sqlite3
 import os
+import glob
 import wikipediaapi
 from src.models import AnimalSensoryData
 from pydantic import ValidationError
@@ -205,11 +206,26 @@ class Researcher:
             data_dict["meta"]["data_quality_flag"] = "Low_Data"
 
         # Correct taxonomy fields
-        if "identity" in data_dict and "taxonomy" in data_dict["identity"]:
-            if "class" in data_dict["identity"]["taxonomy"]:
-                data_dict["identity"]["taxonomy"]["class"] = str(data_dict["identity"]["taxonomy"]["class"])
-            if "order" in data_dict["identity"]["taxonomy"]:
-                data_dict["identity"]["taxonomy"]["order"] = str(data_dict["identity"]["taxonomy"]["order"])
+        if "identity" not in data_dict:
+            data_dict["identity"] = {}
+        if "taxonomy" not in data_dict["identity"]:
+            data_dict["identity"]["taxonomy"] = {}
+        
+        # Ensure common_name and scientific_name exist
+        if not data_dict["identity"].get("common_name"):
+            data_dict["identity"]["common_name"] = animal_name
+        if not data_dict["identity"].get("scientific_name"):
+            data_dict["identity"]["scientific_name"] = animal_name
+
+        if "class" in data_dict["identity"]["taxonomy"]:
+            data_dict["identity"]["taxonomy"]["class"] = str(data_dict["identity"]["taxonomy"]["class"])
+        else:
+            data_dict["identity"]["taxonomy"]["class"] = "Unknown"
+            
+        if "order" in data_dict["identity"]["taxonomy"]:
+            data_dict["identity"]["taxonomy"]["order"] = str(data_dict["identity"]["taxonomy"]["order"])
+        else:
+            data_dict["identity"]["taxonomy"]["order"] = "Unknown"
 
         return data_dict
 
@@ -217,18 +233,19 @@ class Researcher:
         """
         Anchors data by GBIF ID and merges new claims into existing records.
         """
-        # If no GBIF ID, fall back to animal name for filename (not ideal, but safe)
+        new_data = json.loads(new_json_data)
+        scientific_name = new_data.get('identity', {}).get('scientific_name', animal_name)
+        
+        # New Naming Convention: GBIF_ID - Scientific_Name.json
         if gbif_id:
-            filename = f"{gbif_id}.json"
+            filename = f"{gbif_id} - {scientific_name.replace(' ', '_')}.json"
         else:
             filename = f"{animal_name.replace(' ', '_')}.json"
             
         filepath = os.path.join(VAULT_DIR, filename)
         
-        new_data = json.loads(new_json_data)
-        
         if os.path.exists(filepath):
-            print(f"  📂 Existing record found for {animal_name} ({filename}). Merging claims...")
+            print(f"  📂 Existing record found for {scientific_name} ({filename}). Merging claims...")
             with open(filepath, 'r') as f:
                 existing_data = json.load(f)
             
@@ -236,7 +253,7 @@ class Researcher:
             if animal_name not in existing_data['identity'].get('aliases', []):
                 if 'aliases' not in existing_data['identity']:
                     existing_data['identity']['aliases'] = []
-                if animal_name != existing_data['identity']['common_name']:
+                if animal_name != existing_data['identity']['common_name'] and animal_name != existing_data['identity']['scientific_name']:
                     existing_data['identity']['aliases'].append(animal_name)
             
             # 2. Merge Modalities
@@ -273,6 +290,14 @@ class Researcher:
             json.dump(final_data, f, indent=2)
         print(f"✓ Saved/Merged research to {filepath}")
 
+    def is_already_researched(self, gbif_id):
+        """Checks if a file for this GBIF ID already exists in the vault."""
+        if not gbif_id:
+            return False
+        pattern = os.path.join(VAULT_DIR, f"{gbif_id} - *.json")
+        matches = glob.glob(pattern)
+        return len(matches) > 0
+
     def run(self):
         job = self.get_job()
         if not job:
@@ -280,6 +305,13 @@ class Researcher:
             return
 
         job_id, animal_name, gbif_id = job
+        
+        # Skip if already researched
+        if self.is_already_researched(gbif_id):
+            print(f"⏩ Skipping {animal_name} (GBIF ID: {gbif_id}) - already in vault.")
+            self.update_status(job_id, "COMPLETED")
+            return
+
         self.update_status(job_id, "PROCESSING")
 
         try:

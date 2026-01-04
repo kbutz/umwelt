@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Elephas iolensis",
+    "scientific_name": "Palaeoloxodon jolensis",
+    "gbif_id": 165660517,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "None",
+      "order": "None"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

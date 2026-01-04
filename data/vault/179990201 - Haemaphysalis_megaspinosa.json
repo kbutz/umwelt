@@ -1,0 +1,83 @@
+{
+  "identity": {
+    "common_name": "Haemaphysalis megaspinosa",
+    "scientific_name": "Haemaphysalis megaspinosa",
+    "gbif_id": 179990201,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Arachnida",
+      "order": "Ixodida"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Olfaction",
+      "stimulus_type": "Chemical",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Setae on Haller's organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haemaphysalis_megaspinosa",
+          "title": "Haemaphysalis megaspinosa - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Haemaphysalis megaspinosa. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Ticks in general use Haller's organ for olfaction"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Infrared Detection",
+      "stimulus_type": "Heat",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Haller's organ"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haemaphysalis_megaspinosa",
+          "title": "Haemaphysalis megaspinosa - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Haemaphysalis megaspinosa. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Ticks in general use Haller's organ for thermoreception"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Vibration Detection",
+      "stimulus_type": "Vibration",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Setae"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haemaphysalis_megaspinosa",
+          "title": "Haemaphysalis megaspinosa - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Haemaphysalis megaspinosa. In Wikipedia, The Free Encyclopedia.",
+          "note": "Inferred: Ticks in general use setae for vibration detection"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

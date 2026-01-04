@@ -1,0 +1,722 @@
+[
+  {
+    "gbif_id": 158407650,
+    "scientific_name": "Parastrellus hesperus",
+    "common_name": "canyon bat",
+    "filename": "158407650 - Parastrellus_hesperus.json"
+  },
+  {
+    "gbif_id": 165733550,
+    "scientific_name": "Protemnocyon inflatus",
+    "common_name": "Protemnocyon inflatus",
+    "filename": "165733550 - Protemnocyon_inflatus.json"
+  },
+  {
+    "gbif_id": 4547240,
+    "scientific_name": "Pseudalloptinus milvulinus",
+    "common_name": "Pseudalloptinus milvulinus",
+    "filename": "4547240 - Pseudalloptinus_milvulinus.json"
+  },
+  {
+    "gbif_id": 165660519,
+    "scientific_name": "Elephas beyeri",
+    "common_name": "Elephas beyeri",
+    "filename": "165660519 - Elephas_beyeri.json"
+  },
+  {
+    "gbif_id": 179990176,
+    "scientific_name": "Haemaphysalis calva",
+    "common_name": "Haemaphysalis calva",
+    "filename": "179990176 - Haemaphysalis_calva.json"
+  },
+  {
+    "gbif_id": 2440502,
+    "scientific_name": "Tursiops truncatus",
+    "common_name": "Common bottlenose dolphin",
+    "filename": "2440502 - Tursiops_truncatus.json"
+  },
+  {
+    "gbif_id": 205120693,
+    "scientific_name": "Felis manul",
+    "common_name": "Pallas's cat",
+    "filename": "205120693 - Felis_manul.json"
+  },
+  {
+    "gbif_id": 179989699,
+    "scientific_name": "Ixodes fynbosensis",
+    "common_name": "Ixodes fynbosensis",
+    "filename": "179989699 - Ixodes_fynbosensis.json"
+  },
+  {
+    "gbif_id": 190350505,
+    "scientific_name": "Archaehierax sylvestris",
+    "common_name": "Archaehierax sylvestris",
+    "filename": "190350505 - Archaehierax_sylvestris.json"
+  },
+  {
+    "gbif_id": 119526673,
+    "scientific_name": "Tunga penetrans",
+    "common_name": "Tunga penetrans",
+    "filename": "119526673 - Tunga_penetrans.json"
+  },
+  {
+    "gbif_id": 5133088,
+    "scientific_name": "Danaus plexippus",
+    "common_name": "Monarch butterfly",
+    "filename": "5133088 - Danaus_plexippus.json"
+  },
+  {
+    "gbif_id": 119526678,
+    "scientific_name": "Tiamastus palpalis",
+    "common_name": "Tiamastus palpalis",
+    "filename": "119526678 - Tiamastus_palpalis.json"
+  },
+  {
+    "gbif_id": 179990369,
+    "scientific_name": "Rhipicephalus compositus",
+    "common_name": "Rhipicephalus compositus",
+    "filename": "179990369 - Rhipicephalus_compositus.json"
+  },
+  {
+    "gbif_id": 165234783,
+    "scientific_name": "Ekembo nyanzae",
+    "common_name": "Kenyapithecus africanus",
+    "filename": "165234783 - Ekembo_nyanzae.json"
+  },
+  {
+    "gbif_id": 179989831,
+    "scientific_name": "Ixodes monospinosus",
+    "common_name": "Ixodes monospinosus",
+    "filename": "179989831 - Ixodes_monospinosus.json"
+  },
+  {
+    "gbif_id": 165206375,
+    "scientific_name": "Pongo tapanuliensis",
+    "common_name": "Tapanuli orangutan",
+    "filename": "165206375 - Pongo_tapanuliensis.json"
+  },
+  {
+    "gbif_id": 2235942,
+    "scientific_name": "Odontodactylus scyllarus",
+    "common_name": "peacock mantis shrimp",
+    "filename": "2235942 - Odontodactylus_scyllarus.json"
+  },
+  {
+    "gbif_id": 205120702,
+    "scientific_name": "Felis badia",
+    "common_name": "Felis badia",
+    "filename": "205120702 - Felis_badia.json"
+  },
+  {
+    "gbif_id": 2271861,
+    "scientific_name": "Architeuthis dux",
+    "common_name": "Giant squid",
+    "filename": "2271861 - Architeuthis_dux.json"
+  },
+  {
+    "gbif_id": 119526697,
+    "scientific_name": "Eritranis andricus",
+    "common_name": "Eritranis andricus",
+    "filename": "119526697 - Eritranis_andricus.json"
+  },
+  {
+    "gbif_id": 165608799,
+    "scientific_name": "Accipiter albogularis",
+    "common_name": "Pied goshawk",
+    "filename": "165608799 - Accipiter_albogularis.json"
+  },
+  {
+    "gbif_id": 2470761,
+    "scientific_name": "Varanus komodoensis",
+    "common_name": "Komodo dragon",
+    "filename": "2470761 - Varanus_komodoensis.json"
+  },
+  {
+    "gbif_id": 2435304,
+    "scientific_name": "Loxodonta africana",
+    "common_name": "African bush elephant",
+    "filename": "2435304 - Loxodonta_africana.json"
+  },
+  {
+    "gbif_id": 12202492,
+    "scientific_name": "Felis irionwtensis",
+    "common_name": "Felis irionwtensis",
+    "filename": "12202492 - Felis_irionwtensis.json"
+  },
+  {
+    "gbif_id": 165231735,
+    "scientific_name": "Ouranopithecus macedoniensis",
+    "common_name": "Ouranopithecus macedoniensis",
+    "filename": "165231735 - Ouranopithecus_macedoniensis.json"
+  },
+  {
+    "gbif_id": 179990021,
+    "scientific_name": "Amblyomma tholloni",
+    "common_name": "Amblyomma tholloni",
+    "filename": "179990021 - Amblyomma_tholloni.json"
+  },
+  {
+    "gbif_id": 2497781,
+    "scientific_name": "Bubo virginianus",
+    "common_name": "Great horned owl",
+    "filename": "2497781 - Bubo_virginianus.json"
+  },
+  {
+    "gbif_id": 205120691,
+    "scientific_name": "Leptailurus serval",
+    "common_name": "Serval",
+    "filename": "205120691 - Leptailurus_serval.json"
+  },
+  {
+    "gbif_id": 2183161,
+    "scientific_name": "Haemaphysalis paraturturis",
+    "common_name": "Haemaphysalis paraturturis",
+    "filename": "2183161 - Haemaphysalis_paraturturis.json"
+  },
+  {
+    "gbif_id": 163829560,
+    "scientific_name": "Oncicola canis",
+    "common_name": "Oncicola",
+    "filename": "163829560 - Oncicola_canis.json"
+  },
+  {
+    "gbif_id": 179990340,
+    "scientific_name": "Hyalomma hussaini",
+    "common_name": "Hyalomma hussaini",
+    "filename": "179990340 - Hyalomma_hussaini.json"
+  },
+  {
+    "gbif_id": 179990436,
+    "scientific_name": "Rhipicephalus zambeziensis",
+    "common_name": "Rhipicephalus zambeziensis",
+    "filename": "179990436 - Rhipicephalus_zambeziensis.json"
+  },
+  {
+    "gbif_id": 165608781,
+    "scientific_name": "Accipiter trinotatus",
+    "common_name": "Spot-tailed sparrowhawk",
+    "filename": "165608781 - Accipiter_trinotatus.json"
+  },
+  {
+    "gbif_id": 165723778,
+    "scientific_name": "Pernis celebensis",
+    "common_name": "Barred honey buzzard",
+    "filename": "165723778 - Pernis_celebensis.json"
+  },
+  {
+    "gbif_id": 179990200,
+    "scientific_name": "Haemaphysalis nepalensis",
+    "common_name": "Haemaphysalis nepalensis",
+    "filename": "179990200 - Haemaphysalis_nepalensis.json"
+  },
+  {
+    "gbif_id": 179990104,
+    "scientific_name": "Dermacentor circumguttatus",
+    "common_name": "Dermacentor circumguttatus",
+    "filename": "179990104 - Dermacentor_circumguttatus.json"
+  },
+  {
+    "gbif_id": 165639346,
+    "scientific_name": "Ferrucyon avius",
+    "common_name": "Ferrucyon",
+    "filename": "165639346 - Ferrucyon_avius.json"
+  },
+  {
+    "gbif_id": 179989963,
+    "scientific_name": "Amblyomma fuscum",
+    "common_name": "Amblyomma fuscum",
+    "filename": "179989963 - Amblyomma_fuscum.json"
+  },
+  {
+    "gbif_id": 2495394,
+    "scientific_name": "Columba livia",
+    "common_name": "Rock dove",
+    "filename": "2495394 - Columba_livia.json"
+  },
+  {
+    "gbif_id": 2444158,
+    "scientific_name": "Crotalus atrox",
+    "common_name": "Western diamondback rattlesnake",
+    "filename": "2444158 - Crotalus_atrox.json"
+  },
+  {
+    "gbif_id": 205120703,
+    "scientific_name": "Felis silvestris",
+    "common_name": "European wildcat",
+    "filename": "205120703 - Felis_silvestris.json"
+  },
+  {
+    "gbif_id": 209615682,
+    "scientific_name": "Cheylabis latus",
+    "common_name": "Cheylabis latus",
+    "filename": "209615682 - Cheylabis_latus.json"
+  },
+  {
+    "gbif_id": 100492312,
+    "scientific_name": "Pan troglodytes",
+    "common_name": "Chimpanzee",
+    "filename": "100492312 - Pan_troglodytes.json"
+  },
+  {
+    "gbif_id": 179989957,
+    "scientific_name": "Amblyomma astrion",
+    "common_name": "Amblyomma astrion",
+    "filename": "179989957 - Amblyomma_astrion.json"
+  },
+  {
+    "gbif_id": 2401962,
+    "scientific_name": "Electrophorus electricus",
+    "common_name": "Electric Eel",
+    "filename": "2401962 - Electrophorus_electricus.json"
+  },
+  {
+    "gbif_id": 2271164,
+    "scientific_name": "Octopus vulgaris",
+    "common_name": "Common octopus",
+    "filename": "2271164 - Octopus_vulgaris.json"
+  },
+  {
+    "gbif_id": 179989836,
+    "scientific_name": "Ixodes muniensis",
+    "common_name": "Ixodes muniensis",
+    "filename": "179989836 - Ixodes_muniensis.json"
+  },
+  {
+    "gbif_id": 2481142,
+    "scientific_name": "Sterna paradisaea",
+    "common_name": "Arctic tern",
+    "filename": "2481142 - Sterna_paradisaea.json"
+  },
+  {
+    "gbif_id": 165608793,
+    "scientific_name": "Accipiter henicogrammus",
+    "common_name": "Moluccan goshawk",
+    "filename": "165608793 - Accipiter_henicogrammus.json"
+  },
+  {
+    "gbif_id": 9484867,
+    "scientific_name": "Prosthenorchis cerdocyonis",
+    "common_name": "Crab-Eating Fox Worm",
+    "filename": "9484867 - Prosthenorchis_cerdocyonis.json"
+  },
+  {
+    "gbif_id": 179990333,
+    "scientific_name": "Hyalomma isaaci",
+    "common_name": "Hyalomma isaaci",
+    "filename": "179990333 - Hyalomma_isaaci.json"
+  },
+  {
+    "gbif_id": 2264426,
+    "scientific_name": "Chironex fleckeri",
+    "common_name": "Australian box jelly",
+    "filename": "2264426 - Chironex_fleckeri.json"
+  },
+  {
+    "gbif_id": 205120690,
+    "scientific_name": "Puma concolor",
+    "common_name": "Cougar",
+    "filename": "205120690 - Puma_concolor.json"
+  },
+  {
+    "gbif_id": 165239145,
+    "scientific_name": "Demodex cyonis",
+    "common_name": "Demodex cyonis",
+    "filename": "165239145 - Demodex_cyonis.json"
+  },
+  {
+    "gbif_id": 2481047,
+    "scientific_name": "Falco peregrinus",
+    "common_name": "Peregrine falcon",
+    "filename": "2481047 - Falco_peregrinus.json"
+  },
+  {
+    "gbif_id": 195816173,
+    "scientific_name": "Hominidae spec.",
+    "common_name": "Hominidae spec.",
+    "filename": "195816173 - Hominidae_spec..json"
+  },
+  {
+    "gbif_id": 245606902,
+    "scientific_name": "Platykopus stuartjohnstoni",
+    "common_name": "Platykopus stuartjohnstoni",
+    "filename": "245606902 - Platykopus_stuartjohnstoni.json"
+  },
+  {
+    "gbif_id": 205120731,
+    "scientific_name": "Lynx rufus",
+    "common_name": "Bobcat",
+    "filename": "205120731 - Lynx_rufus.json"
+  },
+  {
+    "gbif_id": 2427091,
+    "scientific_name": "Lithobates sylvaticus",
+    "common_name": "Wood frog",
+    "filename": "2427091 - Lithobates_sylvaticus.json"
+  },
+  {
+    "gbif_id": 179989972,
+    "scientific_name": "Amblyomma eburneum",
+    "common_name": "Amblyomma eburneum",
+    "filename": "179989972 - Amblyomma_eburneum.json"
+  },
+  {
+    "gbif_id": 205120700,
+    "scientific_name": "Felis geoffroyi",
+    "common_name": "Felis geoffroyi",
+    "filename": "205120700 - Felis_geoffroyi.json"
+  },
+  {
+    "gbif_id": 2439433,
+    "scientific_name": "Heterocephalus glaber",
+    "common_name": "Naked mole-rat",
+    "filename": "2439433 - Heterocephalus_glaber.json"
+  },
+  {
+    "gbif_id": 179990184,
+    "scientific_name": "Haemaphysalis caucasica",
+    "common_name": "Haemaphysalis caucasica",
+    "filename": "179990184 - Haemaphysalis_caucasica.json"
+  },
+  {
+    "gbif_id": 165767540,
+    "scientific_name": "Zaragocyon daamsi",
+    "common_name": "Zaragocyon daamsi",
+    "filename": "165767540 - Zaragocyon_daamsi.json"
+  },
+  {
+    "gbif_id": 179990397,
+    "scientific_name": "Rhipicephalus ramachandrai",
+    "common_name": "Rhipicephalus ramachandrai",
+    "filename": "179990397 - Rhipicephalus_ramachandrai.json"
+  },
+  {
+    "gbif_id": 179990320,
+    "scientific_name": "Haemaphysalis elliptica",
+    "common_name": "Haemaphysalis elliptica",
+    "filename": "179990320 - Haemaphysalis_elliptica.json"
+  },
+  {
+    "gbif_id": 177683697,
+    "scientific_name": "Elephantidae gen",
+    "common_name": "Elephantidae gen",
+    "filename": "177683697 - Elephantidae_gen.json"
+  },
+  {
+    "gbif_id": 179990105,
+    "scientific_name": "Dermacentor bellulus",
+    "common_name": "Dermacentor bellulus",
+    "filename": "179990105 - Dermacentor_bellulus.json"
+  },
+  {
+    "gbif_id": 205120692,
+    "scientific_name": "Felis colocolo",
+    "common_name": "Felis colocolo",
+    "filename": "205120692 - Felis_colocolo.json"
+  },
+  {
+    "gbif_id": 165231460,
+    "scientific_name": "Mammuthus creticus",
+    "common_name": "Cretan dwarf mammoth",
+    "filename": "165231460 - Mammuthus_creticus.json"
+  },
+  {
+    "gbif_id": 165749650,
+    "scientific_name": "Spilornis rufipectus",
+    "common_name": "Sulawesi serpent eagle",
+    "filename": "165749650 - Spilornis_rufipectus.json"
+  },
+  {
+    "gbif_id": 195304109,
+    "scientific_name": "Hieraaetus wahlbergi",
+    "common_name": "Wahlberg's eagle",
+    "filename": "195304109 - Hieraaetus_wahlbergi.json"
+  },
+  {
+    "gbif_id": 241079574,
+    "scientific_name": "Gigantohierax suarezi",
+    "common_name": "Gigantohierax suarezi",
+    "filename": "241079574 - Gigantohierax_suarezi.json"
+  },
+  {
+    "gbif_id": 100391269,
+    "scientific_name": "Ursus thibetanus",
+    "common_name": "Asian black bear",
+    "filename": "100391269 - Ursus_thibetanus.json"
+  },
+  {
+    "gbif_id": 205120697,
+    "scientific_name": "Felis tigrina",
+    "common_name": "Oncilla",
+    "filename": "205120697 - Felis_tigrina.json"
+  },
+  {
+    "gbif_id": 100387953,
+    "scientific_name": "Dusicyon australis",
+    "common_name": "Falkland Islands wolf",
+    "filename": "100387953 - Dusicyon_australis.json"
+  },
+  {
+    "gbif_id": 165191621,
+    "scientific_name": "Accipiter rufitorques",
+    "common_name": "Fiji goshawk",
+    "filename": "165191621 - Accipiter_rufitorques.json"
+  },
+  {
+    "gbif_id": 119640053,
+    "scientific_name": "Harpyrhynchoides accipiter",
+    "common_name": "Harpyrhynchoides accipiter",
+    "filename": "119640053 - Harpyrhynchoides_accipiter.json"
+  },
+  {
+    "gbif_id": 2420712,
+    "scientific_name": "Carcharodon carcharias",
+    "common_name": "Great White Shark",
+    "filename": "2420712 - Carcharodon_carcharias.json"
+  },
+  {
+    "gbif_id": 205120722,
+    "scientific_name": "Panthera leo",
+    "common_name": "Lion",
+    "filename": "205120722 - Panthera_leo.json"
+  },
+  {
+    "gbif_id": 205120694,
+    "scientific_name": "Leopardus guigna",
+    "common_name": "kodkod",
+    "filename": "205120694 - Leopardus_guigna.json"
+  },
+  {
+    "gbif_id": 119526722,
+    "scientific_name": "Polygenis platensis",
+    "common_name": "Polygenis platensis",
+    "filename": "119526722 - Polygenis_platensis.json"
+  },
+  {
+    "gbif_id": 2433101,
+    "scientific_name": "Ornithorhynchus anatinus",
+    "common_name": "Platypus",
+    "filename": "2433101 - Ornithorhynchus_anatinus.json"
+  },
+  {
+    "gbif_id": 100388026,
+    "scientific_name": "Atelocynus microtis",
+    "common_name": "Short-eared dog",
+    "filename": "100388026 - Atelocynus_microtis.json"
+  },
+  {
+    "gbif_id": 100459297,
+    "scientific_name": "Palaeoloxodon antiquus",
+    "common_name": "Straight-tusked elephant",
+    "filename": "100459297 - Palaeoloxodon_antiquus.json"
+  },
+  {
+    "gbif_id": 179990201,
+    "scientific_name": "Haemaphysalis megaspinosa",
+    "common_name": "Haemaphysalis megaspinosa",
+    "filename": "179990201 - Haemaphysalis_megaspinosa.json"
+  },
+  {
+    "gbif_id": 179990374,
+    "scientific_name": "Rhipicephalus dux",
+    "common_name": "Rhipicephalus dux",
+    "filename": "179990374 - Rhipicephalus_dux.json"
+  },
+  {
+    "gbif_id": 165718890,
+    "scientific_name": "Palaeohierax gervaisii",
+    "common_name": "Palaeohierax gervaisii",
+    "filename": "165718890 - Palaeohierax_gervaisii.json"
+  },
+  {
+    "gbif_id": 205120730,
+    "scientific_name": "Lynx pardinus",
+    "common_name": "Iberian lynx",
+    "filename": "205120730 - Lynx_pardinus.json"
+  },
+  {
+    "gbif_id": 179990228,
+    "scientific_name": "Haemaphysalis semermis",
+    "common_name": "Haemaphysalis semermis",
+    "filename": "179990228 - Haemaphysalis_semermis.json"
+  },
+  {
+    "gbif_id": 249289229,
+    "scientific_name": "Felidae spec.",
+    "common_name": "Felidae spec.",
+    "filename": "249289229 - Felidae_spec..json"
+  },
+  {
+    "gbif_id": 165664496,
+    "scientific_name": "Erythrotriorchis buergersi",
+    "common_name": "Chestnut-shouldered goshawk",
+    "filename": "165664496 - Erythrotriorchis_buergersi.json"
+  },
+  {
+    "gbif_id": 2436214,
+    "scientific_name": "Condylura cristata",
+    "common_name": "Star-nosed mole",
+    "filename": "2436214 - Condylura_cristata.json"
+  },
+  {
+    "gbif_id": 165660517,
+    "scientific_name": "Palaeoloxodon jolensis",
+    "common_name": "Elephas iolensis",
+    "filename": "165660517 - Palaeoloxodon_jolensis.json"
+  },
+  {
+    "gbif_id": 100374538,
+    "scientific_name": "Gorilla gorilla",
+    "common_name": "Western Gorilla",
+    "filename": "100374538 - Gorilla_gorilla.json"
+  },
+  {
+    "gbif_id": 205120699,
+    "scientific_name": "Leopardus pardalis",
+    "common_name": "ocelot",
+    "filename": "205120699 - Leopardus_pardalis.json"
+  },
+  {
+    "gbif_id": 119526711,
+    "scientific_name": "Polygenis acodontis",
+    "common_name": "Polygenis acodontis",
+    "filename": "119526711 - Polygenis_acodontis.json"
+  },
+  {
+    "gbif_id": 205120685,
+    "scientific_name": "Felis viverrina",
+    "common_name": "Fishing cat",
+    "filename": "205120685 - Felis_viverrina.json"
+  },
+  {
+    "gbif_id": 179990419,
+    "scientific_name": "Rhipicephalus maculatus",
+    "common_name": "Rhipicephalus maculatus",
+    "filename": "179990419 - Rhipicephalus_maculatus.json"
+  },
+  {
+    "gbif_id": 2433433,
+    "scientific_name": "Phascolarctos cinereus",
+    "common_name": "Koala",
+    "filename": "2433433 - Phascolarctos_cinereus.json"
+  },
+  {
+    "gbif_id": 165231729,
+    "scientific_name": "Sivapithecus alpani",
+    "common_name": "Sivapithecus alpani",
+    "filename": "165231729 - Sivapithecus_alpani.json"
+  },
+  {
+    "gbif_id": 165718898,
+    "scientific_name": "Palaeoloxodon recki",
+    "common_name": "Palaeoloxodon recki",
+    "filename": "165718898 - Palaeoloxodon_recki.json"
+  },
+  {
+    "gbif_id": 179990012,
+    "scientific_name": "Amblyomma splendidum",
+    "common_name": "Amblyomma splendidum",
+    "filename": "179990012 - Amblyomma_splendidum.json"
+  },
+  {
+    "gbif_id": 119526652,
+    "scientific_name": "Ctenocephalides canis",
+    "common_name": "Dog flea",
+    "filename": "119526652 - Ctenocephalides_canis.json"
+  },
+  {
+    "gbif_id": 1341976,
+    "scientific_name": "Apis mellifera",
+    "common_name": "Western honey bee",
+    "filename": "1341976 - Apis_mellifera.json"
+  },
+  {
+    "gbif_id": 7832670,
+    "scientific_name": "Strigea meridionalis",
+    "common_name": "Strigea meridionalis",
+    "filename": "7832670 - Strigea_meridionalis.json"
+  },
+  {
+    "gbif_id": 179990130,
+    "scientific_name": "Dermacentor latus",
+    "common_name": "Dermacentor latus",
+    "filename": "179990130 - Dermacentor_latus.json"
+  },
+  {
+    "gbif_id": 146765811,
+    "scientific_name": "Accipitridae spec.",
+    "common_name": "Accipitridae spec.",
+    "filename": "146765811 - Accipitridae_spec..json"
+  },
+  {
+    "gbif_id": 165762630,
+    "scientific_name": "Ursus ingressus",
+    "common_name": "Gamssulzen Cave bear",
+    "filename": "165762630 - Ursus_ingressus.json"
+  },
+  {
+    "gbif_id": 2436436,
+    "scientific_name": "Homo sapiens",
+    "common_name": "Human",
+    "filename": "2436436 - Homo_sapiens.json"
+  },
+  {
+    "gbif_id": 179990146,
+    "scientific_name": "Nosomma monstrosum",
+    "common_name": "Nosomma monstrosum",
+    "filename": "179990146 - Nosomma_monstrosum.json"
+  },
+  {
+    "gbif_id": 205120709,
+    "scientific_name": "Felis margarita",
+    "common_name": "Sand cat",
+    "filename": "205120709 - Felis_margarita.json"
+  },
+  {
+    "gbif_id": 165234784,
+    "scientific_name": "Kenyapithecus wickeri",
+    "common_name": "Kenyapithecus wickeri",
+    "filename": "165234784 - Kenyapithecus_wickeri.json"
+  },
+  {
+    "gbif_id": 163829631,
+    "scientific_name": "Centrorhynchus guira",
+    "common_name": "Centrorhynchus guira",
+    "filename": "163829631 - Centrorhynchus_guira.json"
+  },
+  {
+    "gbif_id": 205120701,
+    "scientific_name": "Felis chaus",
+    "common_name": "Jungle cat",
+    "filename": "205120701 - Felis_chaus.json"
+  },
+  {
+    "gbif_id": 165660518,
+    "scientific_name": "Elephas ekorensis",
+    "common_name": "Elephas ekorensis",
+    "filename": "165660518 - Elephas_ekorensis.json"
+  },
+  {
+    "gbif_id": 100492307,
+    "scientific_name": "Pan paniscus",
+    "common_name": "Bonobo",
+    "filename": "100492307 - Pan_paniscus.json"
+  },
+  {
+    "gbif_id": 205120710,
+    "scientific_name": "Felis bieti",
+    "common_name": "Chinese mountain cat",
+    "filename": "205120710 - Felis_bieti.json"
+  },
+  {
+    "gbif_id": 2433156,
+    "scientific_name": "Desmodus rotundus",
+    "common_name": "Common vampire bat",
+    "filename": "2433156 - Desmodus_rotundus.json"
+  },
+  {
+    "gbif_id": 165212062,
+    "scientific_name": "Tremarctos floridanus",
+    "common_name": "Florida spectacled bear",
+    "filename": "165212062 - Tremarctos_floridanus.json"
+  }
+]

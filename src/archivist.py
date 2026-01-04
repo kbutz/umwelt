@@ -77,8 +77,31 @@ def run_archivist():
     # Process all JSON files in vault
     files = glob.glob(os.path.join(VAULT_DIR, '*.json'))
     print(f"Found {len(files)} files in vault.")
+    
+    index = []
+    
     for filepath in files:
         process_file(filepath)
+        
+        # Build index entry
+        try:
+            with open(filepath, 'r') as f:
+                data = json.load(f)
+            identity = data.get('identity', {})
+            index.append({
+                "gbif_id": identity.get("gbif_id"),
+                "scientific_name": identity.get("scientific_name"),
+                "common_name": identity.get("common_name"),
+                "filename": os.path.basename(filepath)
+            })
+        except:
+            pass
+            
+    # Save index
+    index_path = os.path.join('data', 'vault_index.json')
+    with open(index_path, 'w') as f:
+        json.dump(index, f, indent=2)
+    print(f"Vault index updated at {index_path}")
 
 if __name__ == "__main__":
     run_archivist()

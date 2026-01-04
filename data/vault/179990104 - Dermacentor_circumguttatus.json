@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Dermacentor circumguttatus",
+    "scientific_name": "Dermacentor circumguttatus",
+    "gbif_id": 179990104,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Arachnida",
+      "order": "Ixodida"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

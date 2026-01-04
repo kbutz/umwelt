@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Tunga penetrans",
+    "scientific_name": "Tunga penetrans",
+    "gbif_id": 119526673,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Insecta",
+      "order": "Siphonaptera"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

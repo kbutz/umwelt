@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "common_name": "Tapanuli orangutan",
+    "scientific_name": "Pongo tapanuliensis",
+    "gbif_id": 165206375,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Primates"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "Archaehierax sylvestris",
+    "scientific_name": "Archaehierax sylvestris",
+    "gbif_id": 190350505,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Aves",
+      "order": "Accipitriformes"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Avian Morphology",
+          "url": "N/A",
+          "title": "General Avian Morphology",
+          "author": "N/A",
+          "year": 2024,
+          "citation": "Inferred based on general avian morphology.",
+          "note": "Inferred based on general avian characteristics; all birds have eyes and use them for sight."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Audition",
+      "stimulus_type": "Sound",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Ears"
+      },
+      "evidence": [
+        {
+          "source_type": "Inferred",
+          "source_name": "General Avian Morphology",
+          "url": "N/A",
+          "title": "General Avian Morphology",
+          "author": "N/A",
+          "year": 2024,
+          "citation": "Inferred based on general avian morphology.",
+          "note": "Inferred based on general avian characteristics; all birds have ears and can hear."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "identity": {
+    "common_name": "Oncicola",
+    "scientific_name": "Oncicola canis",
+    "gbif_id": 163829560,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "NA",
+      "order": "NA"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Mechanoreception",
+      "sub_type": "Touch",
+      "stimulus_type": "Physical Contact",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Cuticle and hypodermal layer provide protection from the external environment and act as an external skeleton."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oncicola",
+          "title": "Oncicola - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Oncicola canis. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    },
+    {
+      "modality_domain": "Chemoreception",
+      "sub_type": "Fluid Transport",
+      "stimulus_type": "Fluid Composition",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Lemniscus aids in the transport of fluids to the proboscis."
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oncicola",
+          "title": "Oncicola - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Oncicola canis. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}

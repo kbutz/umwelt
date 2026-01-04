@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "common_name": "Chinese mountain cat",
+    "scientific_name": "Felis bieti",
+    "gbif_id": 205120710,
+    "aliases": [],
+    "taxonomy": {
+      "class_": "Mammalia",
+      "order": "Cetacea"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Photoreception",
+      "sub_type": "Vision",
+      "stimulus_type": "Light",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Anatomical",
+        "description": "Eyes"
+      },
+      "evidence": [
+        {
+          "source_type": "Review Paper",
+          "source_name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chinese_mountain_cat",
+          "title": "Chinese mountain cat - Wikipedia",
+          "author": "Wikipedia Contributors",
+          "year": 2024,
+          "citation": "Wikipedia contributors. (2024). Chinese mountain cat. In Wikipedia, The Free Encyclopedia.",
+          "note": "From provided context"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "Inferred_Only"
+  }
+}
