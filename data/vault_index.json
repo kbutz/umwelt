@@ -105,6 +105,13 @@
     "filename": "205120690_Puma_concolor.json"
   },
   {
+    "gbif_id": 1312770,
+    "scientific_name": "Camponotus pilicornis",
+    "common_name": "Camponotus pilicornis",
+    "family": "Formicidae",
+    "filename": "1312770_Camponotus_pilicornis.json"
+  },
+  {
     "gbif_id": 165231729,
     "scientific_name": "Sivapithecus alpani",
     "common_name": "Sivapithecus alpani",
@@ -152,6 +159,13 @@
     "common_name": "Crab-Eating Fox Worm",
     "family": "Oligacanthorhynchidae",
     "filename": "9484867_Prosthenorchis_cerdocyonis.json"
+  },
+  {
+    "gbif_id": 1312881,
+    "scientific_name": "Camponotus britteni Donisthorpe, 1931",
+    "common_name": "Camponotus britteni",
+    "family": "Formicidae",
+    "filename": "1312881_Camponotus_britteni_Donisthorpe,_1931.json"
   },
   {
     "gbif_id": 165664496,
@@ -266,6 +280,13 @@
     "filename": "2497781_Bubo_virginianus.json"
   },
   {
+    "gbif_id": 1312773,
+    "scientific_name": "Camponotus herculeanus",
+    "common_name": "Hercules ant",
+    "family": "Formicidae",
+    "filename": "1312773_Camponotus_herculeanus.json"
+  },
+  {
     "gbif_id": 249289229,
     "scientific_name": "Felidae spec.",
     "common_name": "Felidae spec.",
@@ -278,6 +299,13 @@
     "common_name": "Lynx caracal",
     "family": "Felidae",
     "filename": "205120728_Lynx_caracal.json"
+  },
+  {
+    "gbif_id": 1312835,
+    "scientific_name": "Camponotus piceus",
+    "common_name": "Camponotus piceus",
+    "family": "Formicidae",
+    "filename": "1312835_Camponotus_piceus.json"
   },
   {
     "gbif_id": 100374538,
@@ -308,11 +336,25 @@
     "filename": "179990333_Hyalomma_isaaci.json"
   },
   {
+    "gbif_id": 1312751,
+    "scientific_name": "Camponotus thales Forel, 1910",
+    "common_name": "Camponotus thales",
+    "family": "Formicidae",
+    "filename": "1312751_Camponotus_thales_Forel,_1910.json"
+  },
+  {
     "gbif_id": 119526711,
     "scientific_name": "Polygenis acodontis",
     "common_name": "Polygenis acodontis",
     "family": "Rhopalopsyllidae",
     "filename": "119526711_Polygenis_acodontis.json"
+  },
+  {
+    "gbif_id": 1312723,
+    "scientific_name": "Camponotus thoracicus",
+    "common_name": "Camponotus thoracicus",
+    "family": "Formicidae",
+    "filename": "1312723_Camponotus_thoracicus.json"
   },
   {
     "gbif_id": 100391269,
@@ -355,6 +397,13 @@
     "common_name": "Electric Eel",
     "family": "Unknown",
     "filename": "2401962_Electrophorus_electricus.json"
+  },
+  {
+    "gbif_id": 1312649,
+    "scientific_name": "Camponotus fallax",
+    "common_name": "Carpenter Ant",
+    "family": "Formicidae",
+    "filename": "1312649_Camponotus_fallax.json"
   },
   {
     "gbif_id": 179989957,
@@ -406,6 +455,13 @@
     "filename": "10866577_Simplicillium_formicidae_W.H.Chen,_C.Liu,_Y.F.Han,_J.D.Liang_&_Z.Q.Liang.json"
   },
   {
+    "gbif_id": 1312745,
+    "scientific_name": "Camponotus saxatilis",
+    "common_name": "Camponotus saxatilis",
+    "family": "Formicidae",
+    "filename": "1312745_Camponotus_saxatilis.json"
+  },
+  {
     "gbif_id": 4549071,
     "scientific_name": "Varroa jacobsoni",
     "common_name": "Varroa mite",
@@ -418,6 +474,13 @@
     "common_name": "Polygenis platensis",
     "family": "Rhopalopsyllidae",
     "filename": "119526722_Polygenis_platensis.json"
+  },
+  {
+    "gbif_id": 1312698,
+    "scientific_name": "Camponotus lateralis",
+    "common_name": "Camponotus lateralis",
+    "family": "Formicidae",
+    "filename": "1312698_Camponotus_lateralis.json"
   },
   {
     "gbif_id": 11578445,
@@ -581,6 +644,13 @@
     "filename": "119526697_Eritranis_andricus.json"
   },
   {
+    "gbif_id": 1312559,
+    "scientific_name": "Camponotus fedtschenkoi Mayr, 1877",
+    "common_name": "Camponotus fedtschenkoi",
+    "family": "Formicidae",
+    "filename": "1312559_Camponotus_fedtschenkoi_Mayr,_1877.json"
+  },
+  {
     "gbif_id": 2444110,
     "scientific_name": "Trimeresurus erythrurus",
     "common_name": "red-tailed bamboo pitviper",
@@ -721,6 +791,13 @@
     "filename": "190350505_Archaehierax_sylvestris.json"
   },
   {
+    "gbif_id": 1312486,
+    "scientific_name": "Camponotus cruentatus",
+    "common_name": "Camponotus cruentatus",
+    "family": "Formicidae",
+    "filename": "1312486_Camponotus_cruentatus.json"
+  },
+  {
     "gbif_id": 165234784,
     "scientific_name": "Kenyapithecus wickeri",
     "common_name": "Kenyapithecus wickeri",
@@ -754,6 +831,13 @@
     "common_name": "Ouranopithecus macedoniensis",
     "family": "Hominidae",
     "filename": "165231735_Ouranopithecus_macedoniensis.json"
+  },
+  {
+    "gbif_id": 1312857,
+    "scientific_name": "Camponotus tergestinus Mueller, 1921",
+    "common_name": "Camponotus tergestinus",
+    "family": "Formicidae",
+    "filename": "1312857_Camponotus_tergestinus_Mueller,_1921.json"
   },
   {
     "gbif_id": 209615682,
