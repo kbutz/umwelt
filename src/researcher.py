@@ -85,7 +85,7 @@ class Researcher:
     def get_job(self):
         conn = sqlite3.connect(DB_PATH)
         c = conn.cursor()
-        c.execute("SELECT id, animal_name FROM research_queue WHERE status='PENDING' ORDER BY priority ASC LIMIT 1")
+        c.execute("SELECT id, animal_name, gbif_id FROM research_queue WHERE status='PENDING' ORDER BY priority ASC LIMIT 1")
         job = c.fetchone()
         conn.close()
         return job
@@ -100,12 +100,10 @@ class Researcher:
     def gather_context(self, animal_name):
         """
         Gather research context from Wikipedia.
-        This implements a simple version of the 3-stage search strategy.
         """
         print(f"  📚 Gathering context for {animal_name}...")
-
-        # Try to get the Wikipedia page
         page = self.wiki.page(animal_name)
+        # ... (rest of gather_context stays the same, it's already quite robust)
 
         if not page.exists():
             print(f"  ⚠️  No Wikipedia page found for {animal_name}")
@@ -215,12 +213,65 @@ class Researcher:
 
         return data_dict
 
-    def save_to_vault(self, animal_name, json_data):
-        filename = f"{animal_name.replace(' ', '_')}.json"
+    def save_to_vault(self, animal_name, gbif_id, new_json_data):
+        """
+        Anchors data by GBIF ID and merges new claims into existing records.
+        """
+        # If no GBIF ID, fall back to animal name for filename (not ideal, but safe)
+        if gbif_id:
+            filename = f"{gbif_id}.json"
+        else:
+            filename = f"{animal_name.replace(' ', '_')}.json"
+            
         filepath = os.path.join(VAULT_DIR, filename)
+        
+        new_data = json.loads(new_json_data)
+        
+        if os.path.exists(filepath):
+            print(f"  📂 Existing record found for {animal_name} ({filename}). Merging claims...")
+            with open(filepath, 'r') as f:
+                existing_data = json.load(f)
+            
+            # 1. Update Identity / Aliases
+            if animal_name not in existing_data['identity'].get('aliases', []):
+                if 'aliases' not in existing_data['identity']:
+                    existing_data['identity']['aliases'] = []
+                if animal_name != existing_data['identity']['common_name']:
+                    existing_data['identity']['aliases'].append(animal_name)
+            
+            # 2. Merge Modalities
+            existing_modalities = existing_data.get('sensory_modalities', [])
+            for new_mod in new_data.get('sensory_modalities', []):
+                # Look for matching modality/subtype
+                match = next((m for m in existing_modalities 
+                             if m['modality_domain'] == new_mod['modality_domain'] 
+                             and m['sub_type'] == new_mod['sub_type']), None)
+                
+                if match:
+                    # Append evidence to existing modality
+                    # Check for duplicate citations before appending
+                    existing_citations = [e.get('citation') for e in match.get('evidence', [])]
+                    for ev in new_mod.get('evidence', []):
+                        if ev.get('citation') not in existing_citations:
+                            match['evidence'].append(ev)
+                    
+                    # Update quantitative data if the new one is 'better' (has more fields)
+                    if not match.get('quantitative_data') and new_mod.get('quantitative_data'):
+                        match['quantitative_data'] = new_mod['quantitative_data']
+                else:
+                    # New modality, just add it
+                    existing_modalities.append(new_mod)
+            
+            existing_data['sensory_modalities'] = existing_modalities
+            final_data = existing_data
+        else:
+            final_data = new_data
+            if gbif_id:
+                final_data['identity']['gbif_id'] = gbif_id
+
         with open(filepath, 'w') as f:
-            f.write(json_data)
-        print(f"Saved research to {filepath}")
+            json.dump(final_data, f, indent=2)
+        print(f"✓ Saved/Merged research to {filepath}")
 
     def run(self):
         job = self.get_job()
@@ -228,7 +279,7 @@ class Researcher:
             print("No pending jobs.")
             return
 
-        job_id, animal_name = job
+        job_id, animal_name, gbif_id = job
         self.update_status(job_id, "PROCESSING")
 
         try:
@@ -236,12 +287,14 @@ class Researcher:
             result_json = self.research_animal(animal_name, context, source_url)
 
             if result_json:
-                self.save_to_vault(animal_name, result_json)
+                self.save_to_vault(animal_name, gbif_id, result_json)
                 self.update_status(job_id, "COMPLETED")
             else:
                 self.update_status(job_id, "FAILED")
         except Exception as e:
             print(f"Job failed: {e}")
+            import traceback
+            traceback.print_exc()
             self.update_status(job_id, "FAILED")
 
 if __name__ == "__main__":

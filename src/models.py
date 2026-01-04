@@ -10,6 +10,8 @@ class Taxonomy(BaseModel):
 class Identity(BaseModel):
     common_name: str
     scientific_name: str
+    gbif_id: Optional[int] = Field(None, description="Global Biodiversity Information Facility ID")
+    aliases: List[str] = Field(default_factory=list)
     taxonomy: Taxonomy
 
 class QuantitativeData(BaseModel):
