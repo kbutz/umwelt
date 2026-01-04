@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "common_name": "Camponotus pilicornis",
+    "scientific_name": "Camponotus pilicornis",
+    "gbif_id": 1312770,
+    "aliases": [],
+    "taxonomy": {
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Formicidae"
+    }
+  },
+  "sensory_modalities": [],
+  "meta": {
+    "data_quality_flag": "Low_Data"
+  }
+}
