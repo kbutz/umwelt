@@ -1,0 +1,49 @@
+{
+  "identity": {
+    "common_name": "Naked Mole Rat",
+    "scientific_name": "Heterocephalus glaber",
+    "taxonomy": {
+      "class": "Mammalia",
+      "order": "Rodentia"
+    }
+  },
+  "sensory_modalities": [
+    {
+      "modality_domain": "Nociception",
+      "sub_type": "Acid Insensitivity",
+      "stimulus_type": "Protons (Acid)",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Genetic",
+        "description": "NaV1.7 voltage-gated sodium channel variant (blocked by protons)"
+      },
+      "evidence": [
+        {
+          "source_type": "Molecular Study",
+          "citation": "Smith et al. 2011 (Science)",
+          "note": "Evolutionary pressure selected for NaV1.7 variant."
+        }
+      ]
+    },
+    {
+      "modality_domain": "Thermoreception",
+      "sub_type": "Cold Sensing",
+      "stimulus_type": "Thermal Energy",
+      "quantitative_data": null,
+      "mechanism": {
+        "level": "Molecular",
+        "description": "TRPM8 channel (expanded cold sensing system)"
+      },
+      "evidence": [
+        {
+          "source_type": "Preprint/Study",
+          "citation": "BioRxiv 2025 (10.1101/2025.09.25.678629v1)",
+          "note": "Specialized cold sensing system."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "data_quality_flag": "High_Evidence"
+  }
+}
