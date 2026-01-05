@@ -1,0 +1,41 @@
+{
+  "family_name": "Tylodinidae",
+  "order_name": "Opisthobranchia",
+  "gbif_id": 2656,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present given that they are not described as living in lightless environments, but specific visual capabilities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for finding food and mates in a marine environment, as is typical for gastropods. This is inferred from general gastropod biology, but not directly stated.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for balance, orientation, and detecting water currents. This is inferred from general gastropod biology, but not directly stated.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tylodinidae",
+    "https://en.wikipedia.org/wiki/Tylodina_fungina",
+    "https://en.wikipedia.org/wiki/Tylodina_perversa"
+  ],
+  "generated_at": "2026-01-04T12:21:29.922859"
+}

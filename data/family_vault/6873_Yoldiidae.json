@@ -1,0 +1,40 @@
+{
+  "family_name": "Yoldiidae",
+  "order_name": "Nuculanida",
+  "gbif_id": 6873,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As saltwater clams, Yoldiidae likely possess mechanoreceptors for detecting vibrations and pressure changes in their environment. Inferred from general bivalve biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for food detection and possibly sensing predators. Inferred from general bivalve biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.0001
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Yoldiidae is not stated in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yoldiidae",
+    "https://en.wikipedia.org/wiki/Yoldia_sapotilla"
+  ],
+  "generated_at": "2026-01-04T12:40:33.130655"
+}

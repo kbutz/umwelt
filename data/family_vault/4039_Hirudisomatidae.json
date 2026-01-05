@@ -1,0 +1,39 @@
+{
+  "family_name": "Hirudisomatidae",
+  "order_name": "Polyzoniida",
+  "gbif_id": 4039,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Hirudisomatidae likely possess mechanoreceptors for detecting touch, pressure, and vibration in their environment. This is crucial for navigating soil and leaf litter.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes rely heavily on chemoreception for finding food, mates, and avoiding predators. It is inferred that Hirudisomatidae possess chemoreceptors on their antennae and other body parts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and quality of vision in Hirudisomatidae is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hirudisomatidae"
+  ],
+  "generated_at": "2026-01-04T11:10:43.091942"
+}

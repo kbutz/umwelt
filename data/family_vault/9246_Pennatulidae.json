@@ -1,0 +1,39 @@
+{
+  "family_name": "Pennatulidae",
+  "order_name": "Unknown",
+  "gbif_id": 9246,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Pennatulidae are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, sea pens likely rely on chemoreception for prey detection and other environmental cues. This is inferred given the sensory biology of other cnidarians.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, sea pens likely use mechanoreception to detect water currents and physical contact. This is inferred given the sensory biology of other cnidarians.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pennatulidae"
+  ],
+  "generated_at": "2026-01-04T13:02:41.850673"
+}

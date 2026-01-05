@@ -1,0 +1,42 @@
+{
+  "family_name": "Balanidae",
+  "order_name": "Balanomorpha",
+  "gbif_id": 9152,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Barnacles are preyed upon by sea stars and snails, and fish interact with them. This implies some level of mechanoreception for detecting predators and physical contact.",
+      "inferred_from_species": [
+        "Menesiniella aquila"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No explicit mention of chemoreception, but likely used for feeding and larval settlement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balanidae",
+    "https://en.wikipedia.org/wiki/Menesiniella_aquila"
+  ],
+  "generated_at": "2026-01-04T11:44:31.363820"
+}

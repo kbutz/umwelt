@@ -1,0 +1,40 @@
+{
+  "family_name": "Gyrodactylidae",
+  "order_name": "Gyrodactylidea",
+  "gbif_id": 3209,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Gyrodactylidae are largely undocumented in the provided text. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities are undocumented in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities are undocumented in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gyrodactylidae",
+    "https://en.wikipedia.org/wiki/Micropolyclithrum_parvum"
+  ],
+  "generated_at": "2026-01-04T12:23:08.908814"
+}

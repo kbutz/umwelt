@@ -1,0 +1,39 @@
+{
+  "family_name": "Synaptidae",
+  "order_name": "Unknown",
+  "gbif_id": 5616,
+  "sensory_modalities": {
+    "Mechanoreception": {
+      "presence": "common",
+      "notes": "The tegument is sticky due to anchor-like spicules projecting through the skin, suggesting a sensitivity to touch and substrate texture. Peristaltic contractions indicate a reliance on mechanosensory feedback for movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "Chemoreception": {
+      "presence": "unknown",
+      "notes": "No information provided on chemoreception. Likely present given that they are benthic organisms that feed, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1e-15
+      }
+    },
+    "Vision": {
+      "presence": "unknown",
+      "notes": "No mention of eyes or photosensitivity. Given the lack of complex structures, vision is likely absent or very simple.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synaptidae"
+  ],
+  "generated_at": "2026-01-04T11:58:04.679145"
+}

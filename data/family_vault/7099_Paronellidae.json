@@ -1,0 +1,43 @@
+{
+  "family_name": "Paronellidae",
+  "order_name": "Entomobryomorpha",
+  "gbif_id": 7099,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Paronellidae are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for finding food, mates, and navigating their environment. Myrmecophily in Cyphoderus similis suggests a reliance on chemical cues for interacting with ants.",
+      "inferred_from_species": [
+        "Cyphoderus similis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Essential for detecting substrate vibrations, air currents, and tactile interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paronellidae",
+    "https://en.wikipedia.org/wiki/Cyphoderus_similis",
+    "https://en.wikipedia.org/wiki/Cyphoderus_albinus"
+  ],
+  "generated_at": "2026-01-04T13:01:26.943543"
+}

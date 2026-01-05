@@ -1,0 +1,46 @@
+{
+  "family_name": "Aspidodiadematidae",
+  "order_name": "Unknown",
+  "gbif_id": 9520,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea urchins in this family have spines covering their armour, suggesting a capacity for tactile sensing. The spines likely function in detecting contact with the environment and potential predators. This is inferred from the general morphology described across Aspidodiadema jacobyi, Aspidodiadema africanum, and Aspidodiadema tonsum.",
+      "inferred_from_species": [
+        "Aspidodiadema jacobyi",
+        "Aspidodiadema africanum",
+        "Aspidodiadema tonsum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of chemoreception in this family are currently unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in this family are currently unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aspidodiadematidae",
+    "https://en.wikipedia.org/wiki/Aspidodiadema_jacobyi",
+    "https://en.wikipedia.org/wiki/Aspidodiadema_africanum",
+    "https://en.wikipedia.org/wiki/Aspidodiadema_tonsum"
+  ],
+  "generated_at": "2026-01-04T12:03:59.578679"
+}

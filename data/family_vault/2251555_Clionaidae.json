@@ -1,0 +1,39 @@
+{
+  "family_name": "Clionaidae",
+  "order_name": "Hadromerida",
+  "gbif_id": 2251555,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As sponges, Clionaidae likely rely heavily on chemoreception to detect food particles, suitable settlement locations, and potential hosts (e.g., mollusks, corals).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges generally possess mechanoreceptors to detect water currents and physical disturbances, which would be important for filter feeding and responding to environmental changes. Given their boring behavior, sensitivity to substrate texture/pressure is plausible.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Clionaidae is currently unknown from the provided context. Sponges generally do not have eyes or image-forming vision, but some species may have light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clionaidae"
+  ],
+  "generated_at": "2026-01-04T12:13:31.206240"
+}

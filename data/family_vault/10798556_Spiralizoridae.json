@@ -1,0 +1,39 @@
+{
+  "family_name": "Spiralizoridae",
+  "order_name": "Zoraptera",
+  "gbif_id": 10798556,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Winged forms possess compound eyes and ocelli (simple eyes). Wingless forms lack eyes and ocelli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to habitat and feeding behavior. Likely important for finding food and mates under bark, in dry wood, or in leaf litter. Nine-segmented beaded antennae are present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to the need to navigate in dark environments and detect vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 10000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zoraptera"
+  ],
+  "generated_at": "2026-01-04T11:30:27.065153"
+}

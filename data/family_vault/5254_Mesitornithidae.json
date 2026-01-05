@@ -1,0 +1,60 @@
+{
+  "family_name": "Mesitornithidae",
+  "order_name": "Unknown",
+  "gbif_id": 5254,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely the primary sense, as they are birds and diurnal, though the extent of color vision or UV sensitivity is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Auditory sense is expected for birds for communication and predator detection. Specific hearing range is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sense is present, important for ground-dwelling behavior and interacting with the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown but likely present to some extent. Ground-dwelling birds may use scent for foraging or social interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste is likely present, though the specific range and sensitivity are unknown. Important for food selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mesitornithidae",
+    "https://en.wikipedia.org/wiki/Monias_benschi",
+    "https://en.wikipedia.org/wiki/Mesitornis_variegatus",
+    "https://en.wikipedia.org/wiki/Mesitornis_unicolor"
+  ],
+  "generated_at": "2026-01-04T12:33:38.580588"
+}

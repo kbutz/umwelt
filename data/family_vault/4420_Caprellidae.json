@@ -1,0 +1,39 @@
+{
+  "family_name": "Caprellidae",
+  "order_name": "Amphipoda",
+  "gbif_id": 4420,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Caprellidae is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As amphipods, they likely use chemoreception to locate food and mates, but specific data for Caprellidae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their threadlike body and association with seaweed, hydroids, and bryozoans, they likely rely on mechanoreception to detect water currents and substrate vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caprellidae"
+  ],
+  "generated_at": "2026-01-04T11:30:43.346986"
+}

@@ -1,0 +1,48 @@
+{
+  "family_name": "Cyematidae",
+  "order_name": "Unknown",
+  "gbif_id": 5088,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are unknown, but given the deep-sea habitat, it may be reduced or specialized. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line or similar system for detecting vibrations and pressure changes in the water, common in fish.",
+      "inferred_from_species": [
+        "Cyema atrum",
+        "Neocyema erythrosoma"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely rely on chemoreception to locate prey and navigate in the deep sea environment. Typical for fish.",
+      "inferred_from_species": [
+        "Cyema atrum",
+        "Neocyema erythrosoma"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyematidae",
+    "https://en.wikipedia.org/wiki/Cyema_atrum",
+    "https://en.wikipedia.org/wiki/Neocyema_erythrosoma",
+    "https://en.wikipedia.org/wiki/Leptocephalus_holti"
+  ],
+  "generated_at": "2026-01-04T11:39:47.681383"
+}

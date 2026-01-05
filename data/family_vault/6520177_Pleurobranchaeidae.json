@@ -1,0 +1,43 @@
+{
+  "family_name": "Pleurobranchaeidae",
+  "order_name": "Pleurobranchomorpha",
+  "gbif_id": 6520177,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Voracious predators that use chemical receptors lined along the anterior edge of their veil for localized feeding.",
+      "inferred_from_species": [
+        "Pleurobranchaea californica"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-7,
+        "max": 10000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of vision are unknown based on the context data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-7,
+        "max": 10000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of mechanoreception are unknown based on the context data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-7,
+        "max": 10000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pleurobranchaeidae",
+    "https://en.wikipedia.org/wiki/Pleurobranchaea_tarda",
+    "https://en.wikipedia.org/wiki/Pleurobranchaea_californica"
+  ],
+  "generated_at": "2026-01-04T12:53:48.605452"
+}

@@ -1,0 +1,49 @@
+{
+  "family_name": "Opisthodactylidae",
+  "order_name": "Unknown",
+  "gbif_id": 4847162,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown, but given the relationship to Rheidae, vision is likely present. No specific data is available about the visual capabilities of Opisthodactylidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are unknown. Given that it is a bird, hearing is likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown. No information available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "somatosensation": {
+      "presence": "unknown",
+      "notes": "Somatosensory capabilities are unknown. Tactile sensation is likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rheidae",
+    "https://en.wikipedia.org/wiki/Diogenornis_fragilis"
+  ],
+  "generated_at": "2026-01-04T12:33:28.154958"
+}

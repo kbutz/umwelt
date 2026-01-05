@@ -1,0 +1,37 @@
+{
+  "family_name": "Psocidae",
+  "order_name": "Psocodea",
+  "gbif_id": 7942,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information is available about vision in Psocidae based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information is available about chemoreception in Psocidae based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "No information is available about mechanoreception in Psocidae based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [],
+  "generated_at": "2026-01-04T12:16:24.173812"
+}

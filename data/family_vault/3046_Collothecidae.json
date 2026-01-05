@@ -1,0 +1,39 @@
+{
+  "family_name": "Collothecidae",
+  "order_name": "Collothecaceae",
+  "gbif_id": 3046,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in this family are not detailed in the provided context. Mechanoreception, the ability to detect physical stimuli like touch or water movement, is likely present as it's fundamental for many aquatic organisms, but there's no specific information here.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception, the ability to detect chemical stimuli, is likely present for feeding and environmental sensing, but explicit details are absent from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreception (light sensitivity) in Collothecidae is unknown based on the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Collothecidae"
+  ],
+  "generated_at": "2026-01-04T09:54:58.205305"
+}

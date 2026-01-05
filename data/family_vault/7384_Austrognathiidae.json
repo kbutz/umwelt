@@ -1,0 +1,39 @@
+{
+  "family_name": "Austrognathiidae",
+  "order_name": "Bursovaginoidea",
+  "gbif_id": 7384,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to touch, pressure, or vibration are unknown for this family, but likely present given their lifestyle as worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities are unknown, but likely present for detecting food and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown and unlikely given the worm morphology. ",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austrognathiidae"
+  ],
+  "generated_at": "2026-01-04T10:22:44.750288"
+}

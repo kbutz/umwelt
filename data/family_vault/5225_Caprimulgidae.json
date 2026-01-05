@@ -1,0 +1,51 @@
+{
+  "family_name": "Caprimulgidae",
+  "order_name": "Caprimulgiformes",
+  "gbif_id": 5225,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Nocturnal or crepuscular birds, suggesting good low-light vision. Plumage coloration provides camouflage, and contrasting pale patches or spots are likely used for intraspecific communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Nocturnal behavior suggests an importance of auditory cues, likely for detecting insect prey and possibly for communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Rictal bristles are present in typical nightjars, likely used to detect insects during flight. Also sensitive to touch for roosting.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Role of smell is not mentioned in source. Difficult to confidently assert prevalence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caprimulgidae",
+    "https://en.wikipedia.org/wiki/Nyctiprogne_vielliardi",
+    "https://en.wikipedia.org/wiki/Nyctiprogne_leucopyga",
+    "https://en.wikipedia.org/wiki/Caprimulgus_manillensis"
+  ],
+  "generated_at": "2026-01-04T12:32:31.834901"
+}

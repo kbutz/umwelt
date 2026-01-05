@@ -1,0 +1,39 @@
+{
+  "family_name": "Loxosomatidae",
+  "order_name": "Coloniales",
+  "gbif_id": 1895,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Loxosomatidae are not specified in the provided context. Given they are aquatic and colonial, mechanoreception for sensing water currents or disturbances is plausible, but requires further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Loxosomatidae are not specified in the provided context. Chemoreception for detecting food or environmental cues is plausible, but requires further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Loxosomatidae are not specified in the provided context. It is not known if they have photoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Loxosomatidae"
+  ],
+  "generated_at": "2026-01-04T12:54:29.006784"
+}

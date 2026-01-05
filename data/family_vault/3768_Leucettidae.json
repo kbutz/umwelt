@@ -1,0 +1,39 @@
+{
+  "family_name": "Leucettidae",
+  "order_name": "Unknown",
+  "gbif_id": 3768,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Leucettidae likely possess mechanoreceptors to detect water flow and physical stimuli. This is inferred from the general physiology of sponges which rely on water flow for feeding and gas exchange.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Leucettidae likely use chemoreception to detect food particles and other chemical cues in the water. This is inferred from the general physiology of sponges, which are filter feeders.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors is unknown in Leucettidae. There is no indication of specialized light-sensing organs in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leucettidae"
+  ],
+  "generated_at": "2026-01-04T11:26:22.018278"
+}

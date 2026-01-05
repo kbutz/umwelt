@@ -1,0 +1,39 @@
+{
+  "family_name": "Echiniscidae",
+  "order_name": "Echiniscoidea",
+  "gbif_id": 3118,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Echiniscidae tardigrades are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As segmented micro-animals, they likely possess mechanoreceptors for sensing touch and pressure.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreceptors for detecting chemical cues in their aquatic environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echiniscidae"
+  ],
+  "generated_at": "2026-01-04T09:45:11.860709"
+}

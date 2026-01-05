@@ -1,0 +1,41 @@
+{
+  "family_name": "Panorpidae",
+  "order_name": "Mecoptera",
+  "gbif_id": 7925,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess four membranous wings, suggesting visual capabilities for flight and navigation. Further research would be needed to provide specifics on visual acuity or color perception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Elongated faces terminate with mouthparts that are used to feed on dead and dying insects, nectar, and rotting fruit, suggesting a reliance on chemoreception to locate food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Threadlike antennae likely function in mechanoreception, detecting air currents and nearby objects. Further research would be needed to provide specifics on antennal sensory capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Panorpidae",
+    "https://en.wikipedia.org/wiki/Panorpa_americana",
+    "https://en.wikipedia.org/wiki/Panorpa_insolens"
+  ],
+  "generated_at": "2026-01-04T11:05:14.921101"
+}

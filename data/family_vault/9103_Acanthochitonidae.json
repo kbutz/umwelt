@@ -1,0 +1,40 @@
+{
+  "family_name": "Acanthochitonidae",
+  "order_name": "Polyplacophora",
+  "gbif_id": 9103,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely possess basic light sensitivity given they are marine mollusks, but details are unknown. Research needed to assess visual acuity or presence of eyespots.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine mollusks, they likely rely on chemoreception for food detection, mate recognition, and navigation. Specific receptors and sensitivity ranges are unknown but common for the environment that they inhabit.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for detecting water currents, substrate vibrations, and contact with other organisms. Important for navigation and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acanthochitonidae",
+    "https://en.wikipedia.org/wiki/Craspedochiton_elegans"
+  ],
+  "generated_at": "2026-01-04T12:29:19.193861"
+}

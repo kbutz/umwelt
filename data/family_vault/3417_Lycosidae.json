@@ -1,0 +1,39 @@
+{
+  "family_name": "Lycosidae",
+  "order_name": "Araneae",
+  "gbif_id": 3417,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Wolf spiders are known for their excellent eyesight, with two large and prominent eyes among their eight eyes. This adaptation supports their hunting behavior.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "vibration_sense": {
+      "presence": "common",
+      "notes": "Likely possess vibration sensing capabilities through their legs to detect prey or predators, inferred due to their hunting strategies and lack of reliance on webs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The extent of chemoreception (smell and taste) is currently unknown but probable in hunting and mating. Requires further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lycosidae"
+  ],
+  "generated_at": "2026-01-04T12:01:50.248867"
+}

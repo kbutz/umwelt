@@ -1,0 +1,42 @@
+{
+  "family_name": "Umbraculidae",
+  "order_name": "Umbraculida",
+  "gbif_id": 7052,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of vision in Umbraculidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be used for locating sponge prey. Found in marine gastropods.",
+      "inferred_from_species": [
+        "Umbraculum umbraculum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for balance and orientation in the marine environment; inferred from related gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Umbraculidae",
+    "https://en.wikipedia.org/wiki/Umbraculum_umbraculum"
+  ],
+  "generated_at": "2026-01-04T12:21:38.108230"
+}

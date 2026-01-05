@@ -1,0 +1,39 @@
+{
+  "family_name": "Neanuridae",
+  "order_name": "Poduromorpha",
+  "gbif_id": 7212,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly mentioned in the provided text. Further research is needed to determine the presence and nature of vision in Neanuridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As springtails, Neanuridae likely possess mechanoreceptors for sensing touch, pressure, and vibration, which are crucial for navigation, predator avoidance, and finding food. This is inferred from the general biology of springtails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for Neanuridae to locate food sources and potential mates. This is a common sensory modality in soil-dwelling arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neanuridae"
+  ],
+  "generated_at": "2026-01-04T12:55:09.604641"
+}

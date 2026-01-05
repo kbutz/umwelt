@@ -1,0 +1,39 @@
+{
+  "family_name": "Sminthuridae",
+  "order_name": "Symphypleona",
+  "gbif_id": 5844,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Globular springtails. No specific information provided about their vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As springtails, they likely possess mechanoreceptors for sensing vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreceptors for detecting chemical cues in their environment, important for foraging and mate selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sminthuridae"
+  ],
+  "generated_at": "2026-01-04T12:55:01.571044"
+}

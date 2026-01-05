@@ -1,0 +1,39 @@
+{
+  "family_name": "Tulumellidae",
+  "order_name": "Unknown",
+  "gbif_id": 2075,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Tulumellidae likely possess mechanoreceptors for detecting water movement and vibrations. This is crucial for orientation and prey detection in their aquatic environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans generally rely on chemoreception for finding food and mates in aquatic environments. Tulumellidae likely use chemoreceptors to navigate their surroundings.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tulumellidae"
+  ],
+  "generated_at": "2026-01-04T10:07:35.870556"
+}

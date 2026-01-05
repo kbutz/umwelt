@@ -1,0 +1,40 @@
+{
+  "family_name": "Sagartiidae",
+  "order_name": "Unknown",
+  "gbif_id": 5141,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea anemones are generally sensitive to touch and water currents, which they use to detect prey and avoid predators. This is inferred from other anemone species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea anemones use chemoreception to detect chemical cues in the water, helping them locate food and suitable settlement sites. This is inferred from other anemone species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Sagartiidae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sagartiidae",
+    "https://en.wikipedia.org/wiki/Anthothoe_chilensis"
+  ],
+  "generated_at": "2026-01-04T10:12:43.220704"
+}

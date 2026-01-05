@@ -1,0 +1,46 @@
+{
+  "family_name": "Australiteuthidae",
+  "order_name": "Myopsida",
+  "gbif_id": 4357010,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As members of Myopsida, these squid likely possess well-developed vision, typical of cephalopods in this order. However, specific visual capabilities are unknown.",
+      "inferred_from_species": [
+        "Australiteuthis aldrichi"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for prey detection and intraspecific communication, as in other cephalopods. Specific mechanisms unknown.",
+      "inferred_from_species": [
+        "Australiteuthis aldrichi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception, including touch and the detection of water currents, is likely present, aiding in navigation and prey capture.",
+      "inferred_from_species": [
+        "Australiteuthis aldrichi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Australiteuthidae",
+    "https://en.wikipedia.org/wiki/Australiteuthis_aldrichi"
+  ],
+  "generated_at": "2026-01-04T12:24:10.955864"
+}

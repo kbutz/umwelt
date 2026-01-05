@@ -1,0 +1,42 @@
+{
+  "family_name": "Helicidae",
+  "order_name": "Stylommatophora",
+  "gbif_id": 6540,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presence of eyes is common in terrestrial snails, although visual acuity is likely limited to light/dark detection and gross object recognition. Used in navigation and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Snails rely heavily on chemoreception for finding food, mates, and suitable habitats. They possess chemoreceptors on their tentacles and other body parts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Snails are sensitive to vibrations and touch through mechanoreceptors in their foot and other tissues. This helps them detect predators and navigate their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helicidae",
+    "https://en.wikipedia.org/wiki/Eobania_vermiculata",
+    "https://en.wikipedia.org/wiki/Theba_pisana",
+    "https://en.wikipedia.org/wiki/Cepaea_hortensis"
+  ],
+  "generated_at": "2026-01-04T11:52:54.234299"
+}

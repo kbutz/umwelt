@@ -1,0 +1,41 @@
+{
+  "family_name": "Halocyprididae",
+  "order_name": "Halocyprida",
+  "gbif_id": 9191,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Ostracods generally rely on chemoreception for finding food and mates. This is inferred, as all crustaceans need to find food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence detection": {
+      "presence": "common",
+      "notes": "Some members are bioluminescent and others may be able to detect bioluminescence, such as Conchoecia pseudodiscophora, and are believed to use coelenterazine and a coelenterazine luciferase, rather than vargulin.",
+      "inferred_from_species": [
+        "Conchoecia pseudodiscophora"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halocyprididae"
+  ],
+  "generated_at": "2026-01-04T10:11:30.365743"
+}

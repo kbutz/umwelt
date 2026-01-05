@@ -1,0 +1,68 @@
+{
+  "family_name": "Prolagidae",
+  "order_name": "Lagomorpha",
+  "gbif_id": 5468,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As lagomorphs, Prolagidae likely possessed functional vision. The reliance on vision is inferred from its extant relatives, the pikas (Ochotona).",
+      "inferred_from_species": [
+        "Ochotona"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing was likely crucial for predator detection and communication, as inferred from other lagomorphs.",
+      "inferred_from_species": [
+        "Ochotona"
+      ],
+      "frequency_range_hz": {
+        "min": 100.0,
+        "max": 42000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Smell likely played a role in foraging and social interactions, inferred from related lagomorphs.",
+      "inferred_from_species": [
+        "Ochotona"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Touch and other tactile senses were likely present, as with most mammals. This would be important for navigation and social interactions.",
+      "inferred_from_species": [
+        "Ochotona"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste likely used for assessing food quality, inferred from related lagomorphs.",
+      "inferred_from_species": [
+        "Ochotona"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prolagidae",
+    "https://en.wikipedia.org/wiki/Prolagus_sardus"
+  ],
+  "generated_at": "2026-01-04T10:31:57.311566"
+}

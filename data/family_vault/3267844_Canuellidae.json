@@ -1,0 +1,39 @@
+{
+  "family_name": "Canuellidae",
+  "order_name": "Polyarthra",
+  "gbif_id": 3267844,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As copepods, Canuellidae likely possess mechanoreceptors for detecting water currents and vibrations, crucial for prey detection and predator avoidance. Inferred from general copepod biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 10.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Copepods, including Canuellidae, likely use chemoreceptors to detect chemical cues in the water, aiding in finding food and mates. Inferred from general copepod biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Canuellidae are currently unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canuellidae"
+  ],
+  "generated_at": "2026-01-04T13:00:25.471377"
+}

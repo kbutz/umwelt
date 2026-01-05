@@ -1,0 +1,39 @@
+{
+  "family_name": "Disculicepitidae",
+  "order_name": "Cathetocephalidea",
+  "gbif_id": 4282342,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to touch, pressure, and vibration are unknown in detail for this family of flatworms. As a flatworm, it is reasonable to assume the presence of some mechanoreception. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present for detecting hosts or food sources, but specific details are unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreceptors is unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Disculicepitidae"
+  ],
+  "generated_at": "2026-01-04T12:22:36.144414"
+}

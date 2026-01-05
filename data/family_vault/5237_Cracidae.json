@@ -1,0 +1,70 @@
+{
+  "family_name": "Cracidae",
+  "order_name": "Galliformes",
+  "gbif_id": 5237,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for foraging, mate selection (given plumage differences), and predator detection. Diurnal birds inhabiting forest and forest edge habitats.",
+      "inferred_from_species": [
+        "Crax rubra",
+        "Crax globulosa",
+        "Crax daubentoni"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Presumably important for communication and predator detection in forest environments. Vocalizations are likely used for mate attraction and territorial defense. Further research needed to define the range of hearing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile_reception": {
+      "presence": "common",
+      "notes": "Important for ground foraging, nest building, and potentially social interactions. Uses feet and beak to manipulate objects and food.",
+      "inferred_from_species": [
+        "Crax rubra",
+        "Crax globulosa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction is unknown within the family. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Important for diet of fruit, arthropods and small vertebrates. Likely able to distinguish between ripe and unripe fruits.",
+      "inferred_from_species": [
+        "Crax rubra",
+        "Crax globulosa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cracidae",
+    "https://en.wikipedia.org/wiki/Crax_rubra",
+    "https://en.wikipedia.org/wiki/Crax_globulosa",
+    "https://en.wikipedia.org/wiki/Crax_daubentoni"
+  ],
+  "generated_at": "2026-01-04T10:17:25.591231"
+}

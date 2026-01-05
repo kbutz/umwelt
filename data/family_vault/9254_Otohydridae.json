@@ -1,0 +1,39 @@
+{
+  "family_name": "Otohydridae",
+  "order_name": "Unknown",
+  "gbif_id": 9254,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory abilities in this family are poorly understood based on the provided information. Further research is needed to determine the prevalence and characteristics of mechanoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present as a common sensory modality in Cnidaria, but specific data for Otohydridae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception may be present, but specific data for Otohydridae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Otohydridae"
+  ],
+  "generated_at": "2026-01-04T11:46:28.987732"
+}

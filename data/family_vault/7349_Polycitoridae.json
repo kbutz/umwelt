@@ -1,0 +1,39 @@
+{
+  "family_name": "Polycitoridae",
+  "order_name": "Aplousobranchia",
+  "gbif_id": 7349,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in tunicates, especially at the family level, are poorly documented in the provided context. No specific information is available regarding vision in Polycitoridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As tunicates are sessile filter feeders, chemoreception is likely important for detecting food and suitable settlement sites. This is inferred, as explicit details are absent in the provided text, but common for tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and other environmental changes, important for filter feeding and maintaining position. Inferred due to the lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycitoridae"
+  ],
+  "generated_at": "2026-01-04T12:46:05.783182"
+}

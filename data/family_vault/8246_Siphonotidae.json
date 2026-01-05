@@ -1,0 +1,39 @@
+{
+  "family_name": "Siphonotidae",
+  "order_name": "Polyzoniida",
+  "gbif_id": 8246,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown for this family based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Siphonotidae likely possess chemoreceptors for detecting chemical cues in their environment, used for foraging, navigation, and communication. However, the exact mechanisms and sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Siphonotidae likely possess mechanoreceptors to detect tactile stimuli, vibrations, and pressure. This is important for navigating their environment and detecting potential threats or mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphonotidae"
+  ],
+  "generated_at": "2026-01-04T11:10:34.164927"
+}

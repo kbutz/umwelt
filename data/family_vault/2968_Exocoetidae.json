@@ -1,0 +1,42 @@
+{
+  "family_name": "Exocoetidae",
+  "order_name": "Beloniformes",
+  "gbif_id": 2968,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Marine ray-finned fish. Vision is essential for predator avoidance and likely plays a role in coordinating leaps and gliding. ",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present for detecting water movement and pressure changes, aiding in predator detection and spatial awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste likely play a role in food detection and habitat selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Exocoetidae",
+    "https://en.wikipedia.org/wiki/Parexocoetus_mento",
+    "https://en.wikipedia.org/wiki/Parexocoetus_brachypterus",
+    "https://en.wikipedia.org/wiki/Parexocoetus_hillianus"
+  ],
+  "generated_at": "2026-01-04T09:53:16.003057"
+}

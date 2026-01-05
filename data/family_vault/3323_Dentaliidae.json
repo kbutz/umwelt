@@ -1,0 +1,39 @@
+{
+  "family_name": "Dentaliidae",
+  "order_name": "Dentaliida",
+  "gbif_id": 3323,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Dentaliidae are largely unstudied; vision is presumed to be absent or rudimentary given their lifestyle as burrowing mollusks, but data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely relies on chemoreception for locating food and mates in the sediment. Inferred from general mollusk biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting substrate vibrations and potential threats. Inferred from general mollusk biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dentaliidae"
+  ],
+  "generated_at": "2026-01-04T11:20:48.600550"
+}

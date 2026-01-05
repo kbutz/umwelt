@@ -1,0 +1,53 @@
+{
+  "family_name": "Soricidae",
+  "order_name": "Eulipotyphla",
+  "gbif_id": 5534,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Shrews possess vision, though its importance likely varies across species. General external appearance is that of a long-nosed mouse.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Shrews have a long nose, suggesting a reliance on olfaction for foraging and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sensation is likely important for navigating their environment, especially in subterranean or aquatic species like Nectogale elegans.",
+      "inferred_from_species": [
+        "Nectogale elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely important for detecting prey and predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Soricidae",
+    "https://en.wikipedia.org/wiki/Nectogale_elegans",
+    "https://en.wikipedia.org/wiki/Nesiotites_similis",
+    "https://en.wikipedia.org/wiki/Nesiotites_hidalgo"
+  ],
+  "generated_at": "2026-01-04T10:39:05.267506"
+}

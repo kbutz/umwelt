@@ -1,0 +1,40 @@
+{
+  "family_name": "Glossiphoniidae",
+  "order_name": "Unknown",
+  "gbif_id": 3575,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information on vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be used for host detection and prey location, given that they feed on blood and invertebrates. Likely involved in detecting chemical cues from potential hosts and prey in freshwater environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents, substrate vibrations, and physical contact with hosts or prey. Important for navigation and locating food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glossiphoniidae",
+    "https://en.wikipedia.org/wiki/Haementeria_officinalis"
+  ],
+  "generated_at": "2026-01-04T11:15:41.018076"
+}

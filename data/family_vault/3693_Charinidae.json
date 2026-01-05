@@ -1,0 +1,39 @@
+{
+  "family_name": "Charinidae",
+  "order_name": "Tailless Whip Scorpions (Amblypygi)",
+  "gbif_id": 3693,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arachnids and whip scorpions, Charinidae likely possess sensitive mechanoreceptors for detecting vibrations and tactile stimuli in their environment. Pedipalps are modified for prey capture and sensory input.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreceptors to detect prey and navigate their environment, as observed in other arachnids.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The extent and capabilities of vision in Charinidae are unknown based on the provided context. Other Amblypygi families may show variations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charinidae"
+  ],
+  "generated_at": "2026-01-04T11:22:34.293605"
+}

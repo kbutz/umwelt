@@ -1,0 +1,42 @@
+{
+  "family_name": "Cypraeidae",
+  "order_name": "Not specified in context",
+  "gbif_id": 2675,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Cypraeidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, cowries likely use chemoreception to locate food and mates, and to detect predators. This is inferred, as no specific sensory data is provided, but is a common trait amongst marine gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, cowries likely use mechanoreception to sense their environment, including water currents and substrate vibrations. This is inferred, as no specific sensory data is provided, but is a common trait amongst marine gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cypraeidae",
+    "https://en.wikipedia.org/wiki/Propustularia_surinamensis",
+    "https://en.wikipedia.org/wiki/Macrocypraea_zebra",
+    "https://en.wikipedia.org/wiki/Macrocypraea_cervus"
+  ],
+  "generated_at": "2026-01-04T12:12:33.601946"
+}

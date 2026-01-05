@@ -1,0 +1,40 @@
+{
+  "family_name": "Archaeobalanidae",
+  "order_name": "Balanomorpha",
+  "gbif_id": 5103,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not specified in the provided context. Vision may be present, but there is no information given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not specified in the provided context. Chemoreception is likely present, but there is no information given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not specified in the provided context. Mechanoreception is likely present, but there is no information given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balanidae",
+    "https://en.wikipedia.org/wiki/Chirona_hameri"
+  ],
+  "generated_at": "2026-01-04T11:44:40.254235"
+}

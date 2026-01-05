@@ -1,0 +1,48 @@
+{
+  "family_name": "Didemnidae",
+  "order_name": "Aplousobranchia",
+  "gbif_id": 5220,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Zooids have reduced morphology, but the extent of visual capabilities across the family is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine invertebrates, they likely rely on chemoreception for feeding and habitat selection. Inferred from general knowledge of tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used to detect water currents and physical contact. Inferred from their sessile, colonial lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photosymbiosis_related_light_detection": {
+      "presence": "common",
+      "notes": "Obligate photosymbiotic relationships with cyanobacteria (Prochloron) suggest a general ability to detect and respond to light levels, though this might be specific to the symbiotic relationship rather than a general visual sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Didemnidae"
+  ],
+  "generated_at": "2026-01-04T12:45:49.079614"
+}

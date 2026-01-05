@@ -1,0 +1,39 @@
+{
+  "family_name": "Cidaridae",
+  "order_name": "Cidaroida",
+  "gbif_id": 9515,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sea urchins generally possess light-sensitive cells distributed across their body surface, but specific visual capabilities in Cidaridae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present due to the general echinoderm body plan and need to sense the environment. Inference based on the general biology of sea urchins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present, similar to other sea urchins, for detecting food and other chemical cues in their environment. Inference based on the general biology of sea urchins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cidaridae"
+  ],
+  "generated_at": "2026-01-04T11:56:14.215375"
+}

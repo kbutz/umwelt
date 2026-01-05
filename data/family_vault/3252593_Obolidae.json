@@ -1,0 +1,39 @@
+{
+  "family_name": "Obolidae",
+  "order_name": "Unknown",
+  "gbif_id": 3252593,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to touch, pressure, or vibration are unknown for this extinct family of brachiopods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of chemoreception (taste, smell) in Obolidae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors and vision in Obolidae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Obolidae"
+  ],
+  "generated_at": "2026-01-04T11:47:46.017141"
+}

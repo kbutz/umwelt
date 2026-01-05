@@ -1,0 +1,49 @@
+{
+  "family_name": "Synbranchidae",
+  "order_name": "Unspecified",
+  "gbif_id": 2223,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision within Synbranchidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for prey detection and navigation in their aquatic environment. No specific details are available, but chemoreception is generally vital for fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting water movement and prey. Lacking scales may enhance sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of electroreception is not mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synbranchidae",
+    "https://en.wikipedia.org/wiki/Synbranchus_marmoratus"
+  ],
+  "generated_at": "2026-01-04T10:56:10.448766"
+}

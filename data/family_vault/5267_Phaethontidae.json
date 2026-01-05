@@ -1,0 +1,64 @@
+{
+  "family_name": "Phaethontidae",
+  "order_name": "Phaethontiformes",
+  "gbif_id": 5267,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Tropicbirds have predominantly white plumage, suggesting visual signaling. They are pelagic seabirds that plunge-dive for fish and squid, requiring acute vision for prey detection.",
+      "inferred_from_species": [
+        "Phaethon rubricauda",
+        "Phaethon lepturus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are not explicitly mentioned, but as birds, they likely possess functional hearing. Further research is needed to determine the range and sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste capabilities are not mentioned. As birds, they likely possess taste receptors, but the extent and specialization of taste are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not mentioned. The extent to which tropicbirds rely on smell is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation is crucial for nesting behavior (scrape building, incubation) and general awareness of the environment.",
+      "inferred_from_species": [
+        "Phaethon rubricauda"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phaethontidae",
+    "https://en.wikipedia.org/wiki/Phaethon_rubricauda",
+    "https://en.wikipedia.org/wiki/Phaethon_lepturus"
+  ],
+  "generated_at": "2026-01-04T12:08:22.476301"
+}

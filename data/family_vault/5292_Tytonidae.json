@@ -1,0 +1,67 @@
+{
+  "family_name": "Tytonidae",
+  "order_name": "Strigiformes",
+  "gbif_id": 5292,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Nocturnal vision adapted for hunting in low light conditions. Diurnal hunting has been observed in Tyto alba in Great Britain, suggesting some level of daylight vision. Large heads and forward-facing eyes provide binocular vision for depth perception.",
+      "inferred_from_species": [
+        "Tyto alba",
+        "Phodilus badius"
+      ],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Acute hearing is crucial for locating prey, particularly small mammals, by sound. The facial disc is heart-shaped and helps to focus sound. Tyto alba is known for its exceptionally acute hearing used in hunting.",
+      "inferred_from_species": [
+        "Tyto alba"
+      ],
+      "frequency_range_hz": {
+        "min": 0.05,
+        "max": 12.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Strong legs with powerful talons used for capturing and handling prey provide tactile feedback. Feather arrangement likely provides tactile information about airflow during flight.",
+      "inferred_from_species": [
+        "Tyto alba"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not well documented in the provided text. Further research is required to determine the extent and role of olfaction in Tytonidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "magnetoreception": {
+      "presence": "unknown",
+      "notes": "No information on magnetoreception is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tytonidae",
+    "https://en.wikipedia.org/wiki/Tyto_alba",
+    "https://en.wikipedia.org/wiki/Phodilus_badius",
+    "https://en.wikipedia.org/wiki/Phodilus_prigoginei"
+  ],
+  "generated_at": "2026-01-04T11:50:31.866186"
+}

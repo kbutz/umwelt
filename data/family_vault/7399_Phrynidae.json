@@ -1,0 +1,39 @@
+{
+  "family_name": "Phrynidae",
+  "order_name": "Amblypygi",
+  "gbif_id": 7399,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision is not available from the provided context. Some species are subterranean, which might imply reduced or absent vision in those species, but this is not explicitly stated.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arthropods, they possess mechanoreceptors for sensing touch and vibrations. Given they are nocturnal and territorial, mechanoreception likely plays an important role in navigation, prey detection, and intraspecific interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As arthropods, they likely possess chemoreceptors for detecting chemical cues in their environment. This could be important for prey detection, mate finding, and territory marking (given that they defend territories).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phrynidae"
+  ],
+  "generated_at": "2026-01-04T11:22:42.615284"
+}

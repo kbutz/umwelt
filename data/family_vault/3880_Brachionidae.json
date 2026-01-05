@@ -1,0 +1,39 @@
+{
+  "family_name": "Brachionidae",
+  "order_name": "Ploima",
+  "gbif_id": 3880,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and vibrations, given their aquatic lifestyle, but specific data is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting food and mates, but specific data is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brachionidae"
+  ],
+  "generated_at": "2026-01-04T11:31:49.088204"
+}

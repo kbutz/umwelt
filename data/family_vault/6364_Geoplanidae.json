@@ -1,0 +1,51 @@
+{
+  "family_name": "Geoplanidae",
+  "order_name": "Unclear from context",
+  "gbif_id": 6364,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Land planarians are sensitive to physical contact, which they use to hunt and capture invertebrate prey. They use physical force to subdue prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "They use adhesive and digestive properties of their mucus to capture and digest prey. This implies chemoreception for prey detection and assessment of food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "hygroreception": {
+      "presence": "common",
+      "notes": "They are very sensitive to humidity variations in their environment due to the lack of water-retaining mechanisms. Therefore, they likely possess specialized hygroreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No data provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Geoplanidae",
+    "https://en.wikipedia.org/wiki/Arthurdendyus_triangulatus",
+    "https://en.wikipedia.org/wiki/Arthurdendyus_australis",
+    "https://en.wikipedia.org/wiki/Arthurdendyus_testaceus"
+  ],
+  "generated_at": "2026-01-04T09:45:41.967363"
+}

@@ -1,0 +1,67 @@
+{
+  "family_name": "Titanohyracidae",
+  "order_name": "Hyracoidea",
+  "gbif_id": 11191620,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision in Titanohyracidae is provided in the context. Inferred based on modern Hyraxes having vision, but quality unknown in the extinct family.",
+      "inferred_from_species": [
+        "Procavia capensis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "No specific information on audition in Titanohyracidae is provided in the context. Inferred based on modern Hyraxes having audition, but quality unknown in the extinct family.",
+      "inferred_from_species": [
+        "Procavia capensis"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No specific information on olfaction in Titanohyracidae is provided in the context. Inferred based on modern Hyraxes having olfaction, but quality unknown in the extinct family.",
+      "inferred_from_species": [
+        "Procavia capensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100000
+      }
+    },
+    "somatosensation": {
+      "presence": "unknown",
+      "notes": "No specific information on somatosensation in Titanohyracidae is provided in the context. Inferred based on modern Hyraxes having somatosensation, but quality unknown in the extinct family.",
+      "inferred_from_species": [
+        "Procavia capensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "No specific information on gustation in Titanohyracidae is provided in the context. Inferred based on modern Hyraxes having gustation, but quality unknown in the extinct family.",
+      "inferred_from_species": [
+        "Procavia capensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Titanohyracidae"
+  ],
+  "generated_at": "2026-01-04T10:31:24.810462"
+}

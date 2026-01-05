@@ -1,0 +1,39 @@
+{
+  "family_name": "Genostomatidae",
+  "order_name": "Fecampiida",
+  "gbif_id": 3268735,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are largely unknown for this family. Further research is needed to determine the presence and characteristics of vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are largely unknown for this family. Further research is needed to determine the presence and characteristics of chemoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are largely unknown for this family. Further research is needed to determine the presence and characteristics of mechanoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Genostomatidae"
+  ],
+  "generated_at": "2026-01-04T12:20:55.956128"
+}

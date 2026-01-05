@@ -1,0 +1,66 @@
+{
+  "family_name": "Cacatuidae",
+  "order_name": "Psittaciformes",
+  "gbif_id": 3242992,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Cockatoos possess well-developed vision, likely crucial for foraging, predator detection, and social interactions. Plumage colorations suggest visual signaling. Pink eye-rings noted in Zanda latirostris.",
+      "inferred_from_species": [
+        "Lophochroa leadbeateri",
+        "Zanda latirostris",
+        "Zanda funerea"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is important for communication. The text mentions 'loud, wailing calls' that 'carry for long distances' in Zanda funerea, implying a significant role for auditory communication within the family.",
+      "inferred_from_species": [
+        "Zanda funerea"
+      ],
+      "frequency_range_hz": {
+        "min": 80,
+        "max": 12000
+      }
+    },
+    "taste/gustation": {
+      "presence": "common",
+      "notes": "Taste is likely used to assess food quality, especially in seed, tuber, and fruit selection. No specific taste-related adaptations are mentioned, but general feeding habits infer its presence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in cockatoos is not mentioned in the provided text. Its importance is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation is important for object manipulation with the bill and feet. Preening behavior also relies on tactile feedback.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cacatuidae",
+    "https://en.wikipedia.org/wiki/Lophochroa_leadbeateri",
+    "https://en.wikipedia.org/wiki/Zanda_latirostris",
+    "https://en.wikipedia.org/wiki/Zanda_funerea"
+  ],
+  "generated_at": "2026-01-04T11:48:46.445900"
+}

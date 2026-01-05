@@ -1,0 +1,39 @@
+{
+  "family_name": "Ilbiidae",
+  "order_name": "Opisthobranchia",
+  "gbif_id": 4605537,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to vision are unknown for this family based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Ilbiidae likely rely on chemoreception for foraging and navigation, although specific details are not provided in the context. This is a common feature of marine mollusks.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Ilbiidae likely possess mechanoreceptors for detecting water currents and substrate vibrations. This is a common feature of marine mollusks.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ilbiidae"
+  ],
+  "generated_at": "2026-01-04T12:52:28.556874"
+}

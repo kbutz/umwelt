@@ -1,0 +1,39 @@
+{
+  "family_name": "Lepidomysidae",
+  "order_name": "Stygiomysida/Mysida",
+  "gbif_id": 5403,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Lepidomysidae is not available in the provided context. Given that they are found in caves (Spelaeomysis means cave-dwelling mysid), reduced vision or absence of vision is possible, but cannot be confirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Lepidomysidae likely possess mechanoreceptors for detecting water currents, pressure, and touch. This is inferred based on the general sensory biology of crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans generally rely on chemoreception for detecting food and mates. Lepidomysidae likely have chemoreceptors for these purposes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepidomysidae"
+  ],
+  "generated_at": "2026-01-04T10:48:00.946398"
+}

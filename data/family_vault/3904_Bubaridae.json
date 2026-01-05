@@ -1,0 +1,39 @@
+{
+  "family_name": "Bubaridae",
+  "order_name": "Bubarida",
+  "gbif_id": 3904,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As sponges, Bubaridae likely possess mechanosensory abilities to detect water flow and physical stimuli, which is crucial for filter feeding and coordinating cellular activities. Inferred based on general sponge biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Bubaridae, rely on chemoreception to detect chemical cues in the water for feeding and recognizing suitable settlement sites. This is a fundamental sensory modality for sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "photosensitivity": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photosensitivity in Bubaridae is currently unknown, given the limited information available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bubaridae"
+  ],
+  "generated_at": "2026-01-04T12:26:44.228328"
+}

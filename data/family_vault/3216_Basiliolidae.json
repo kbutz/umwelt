@@ -1,0 +1,39 @@
+{
+  "family_name": "Basiliolidae",
+  "order_name": "Rhynchonellida",
+  "gbif_id": 3216,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for basic environmental awareness, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting chemical cues in the water, but specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 0.0001
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and type of photoreceptors are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basiliolidae"
+  ],
+  "generated_at": "2026-01-04T09:55:35.463413"
+}

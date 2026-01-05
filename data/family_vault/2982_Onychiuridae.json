@@ -1,0 +1,39 @@
+{
+  "family_name": "Onychiuridae",
+  "order_name": "Collembola",
+  "gbif_id": 2982,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Onychiuridae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As Collembola are soil-dwelling organisms, chemoreception is likely important for finding food and mates, though no specific data is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As Collembola are soil-dwelling organisms, mechanoreception is likely important for navigation and predator avoidance, though no specific data is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onychiuridae"
+  ],
+  "generated_at": "2026-01-04T12:55:25.535819"
+}

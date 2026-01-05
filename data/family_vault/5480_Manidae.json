@@ -1,0 +1,58 @@
+{
+  "family_name": "Manidae",
+  "order_name": "N/A",
+  "gbif_id": 5480,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Pangolins possess vision, though details on acuity and color perception are not provided in the context. Patriomanis americana had longer hair between its scales, implying a possible function related to visual perception or camouflage.",
+      "inferred_from_species": [
+        "Patriomanis americanus"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not explicitly detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Patriomanis americana possessed longer ears, suggesting auditory capabilities, but specific details are unavailable.",
+      "inferred_from_species": [
+        "Patriomanis americanus"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile_sensation": {
+      "presence": "common",
+      "notes": "Given their scaled bodies and arboreal lifestyle (Manis javanica, Patriomanis americanus), tactile sensation is likely important for navigation and object manipulation. The prehensile tail of Patriomanis americana suggests a reliance on tactile feedback.",
+      "inferred_from_species": [
+        "Patriomanis americanus",
+        "Manis javanica"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manidae",
+    "https://en.wikipedia.org/wiki/Patriomanis_americanus",
+    "https://en.wikipedia.org/wiki/Manis_javanica",
+    "https://en.wikipedia.org/wiki/Manis_culionensis"
+  ],
+  "generated_at": "2026-01-04T10:36:03.339091"
+}

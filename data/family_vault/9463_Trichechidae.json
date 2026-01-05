@@ -1,0 +1,51 @@
+{
+  "family_name": "Trichechidae",
+  "order_name": "Sirenia",
+  "gbif_id": 9463,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, but specific details are not elaborated in the provided context.",
+      "inferred_from_species": [
+        "Trichechus manatus",
+        "Trichechus inunguis",
+        "Trichechus senegalensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Covered in highly sensitive whiskers (vibrissae) used for feeding and navigation. Skin has fine hairs.",
+      "inferred_from_species": [
+        "Trichechus manatus",
+        "Trichechus inunguis"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Developed vocal communication abilities.",
+      "inferred_from_species": [
+        "Trichechus manatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trichechidae",
+    "https://en.wikipedia.org/wiki/Trichechus_inunguis",
+    "https://en.wikipedia.org/wiki/Trichechus_senegalensis",
+    "https://en.wikipedia.org/wiki/Trichechus_manatus"
+  ],
+  "generated_at": "2026-01-04T10:38:45.983468"
+}

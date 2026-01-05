@@ -1,0 +1,42 @@
+{
+  "family_name": "Daesiidae",
+  "order_name": "Solifugae",
+  "gbif_id": 5850,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Daesiidae are currently unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As solifugids, Daesiidae likely rely heavily on mechanoreception for detecting vibrations and tactile information from their environment. This inference is based on the general sensory ecology of related solifuges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for prey detection and navigation, inferred from other arachnids and solifuges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daesiidae",
+    "https://en.wikipedia.org/wiki/Hemiblossiola_kraepelini",
+    "https://en.wikipedia.org/wiki/Namibesia_pallida",
+    "https://en.wikipedia.org/wiki/Bitonota_kraepelini"
+  ],
+  "generated_at": "2026-01-04T10:23:13.168857"
+}

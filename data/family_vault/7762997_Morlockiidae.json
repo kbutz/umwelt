@@ -1,0 +1,46 @@
+{
+  "family_name": "Morlockiidae",
+  "order_name": "Remipedia",
+  "gbif_id": 7762997,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "rare",
+      "notes": "Eyeless crustaceans, suggesting loss of vision is common, though potentially variable across the family.",
+      "inferred_from_species": [
+        "Morlockia atlantida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence based on crustacean sensory ecology. Likely crucial for prey detection in dark environments.",
+      "inferred_from_species": [
+        "Morlockia atlantida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for navigation and prey detection in the absence of light. Common in crustaceans.",
+      "inferred_from_species": [
+        "Morlockia atlantida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Morlockiidae",
+    "https://en.wikipedia.org/wiki/Morlockia_atlantida"
+  ],
+  "generated_at": "2026-01-04T10:50:53.450323"
+}

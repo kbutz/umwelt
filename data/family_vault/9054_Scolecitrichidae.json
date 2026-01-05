@@ -1,0 +1,39 @@
+{
+  "family_name": "Scolecitrichidae",
+  "order_name": "Calanoida",
+  "gbif_id": 9054,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Copepods generally rely on mechanoreception to detect vibrations and water currents for prey detection, predator avoidance, and mate finding. Inferred to be present in Scolecitrichidae as a common trait across copepods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 10,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Copepods use chemoreception to detect chemical cues in the water, aiding in prey localization and mate recognition. Likely plays a role in Scolecitrichidae feeding and reproduction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and functionality of photoreceptors in Scolecitrichidae is unknown. Copepods can possess simple eyespots or more complex eyes depending on their habitat and lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scolecitrichidae"
+  ],
+  "generated_at": "2026-01-04T10:08:47.651010"
+}

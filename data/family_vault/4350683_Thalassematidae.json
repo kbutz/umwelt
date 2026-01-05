@@ -1,0 +1,39 @@
+{
+  "family_name": "Thalassematidae",
+  "order_name": "Echiurida",
+  "gbif_id": 4350683,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of spoonworms in the Thalassematidae family are largely unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of spoonworms in the Thalassematidae family are largely unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of spoonworms in the Thalassematidae family are largely unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thalassematidae"
+  ],
+  "generated_at": "2026-01-04T12:29:27.061882"
+}

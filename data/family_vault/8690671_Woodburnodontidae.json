@@ -1,0 +1,57 @@
+{
+  "family_name": "Woodburnodontidae",
+  "order_name": "Microbiotheria",
+  "gbif_id": 8690671,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown for this extinct family. Given their marsupial classification, they likely possessed vision, but the extent of its development is uncertain due to the limited fossil evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are unknown for this extinct family. As marsupials, they likely possessed hearing. Fossil evidence would be needed to assess details such as frequency range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown. As mammals, they almost certainly possessed a sense of smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "unknown",
+      "notes": "Tactile sense likely present, as it is common in marsupials, but details are unknown for this extinct family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Gustatory sense likely present, as it is common in marsupials, but specific details are unknown for this extinct family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Woodburnodontidae"
+  ],
+  "generated_at": "2026-01-04T10:34:02.927741"
+}

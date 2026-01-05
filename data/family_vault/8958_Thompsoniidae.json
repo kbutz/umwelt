@@ -1,0 +1,39 @@
+{
+  "family_name": "Thompsoniidae",
+  "order_name": "Akentrogonida",
+  "gbif_id": 8958,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of parasitic barnacles in the Thompsoniidae family are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of parasitic barnacles in the Thompsoniidae family are not detailed in the provided context. Chemoreception may be used for host detection, but there is no specific evidence in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of parasitic barnacles in the Thompsoniidae family are not detailed in the provided context. Mechanoreception may be used, but there is no specific evidence in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thompsoniidae"
+  ],
+  "generated_at": "2026-01-04T11:41:37.226790"
+}

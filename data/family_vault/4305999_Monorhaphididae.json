@@ -1,0 +1,44 @@
+{
+  "family_name": "Monorhaphididae",
+  "order_name": "Unknown",
+  "gbif_id": 4305999,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Monorhaphididae likely possess basic mechanoreception capabilities to sense water currents and other physical stimuli in their environment. The giant basal spicule could also transmit vibrations.",
+      "inferred_from_species": [
+        "Monorhaphis chuni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreception for detecting dissolved substances in the water, crucial for feeding and other physiological processes common to sponges.",
+      "inferred_from_species": [
+        "Monorhaphis chuni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Deep-sea habitat suggests photoreception is unlikely, but the presence cannot be ruled out without specific studies.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monorhaphis_chuni",
+    "https://en.wikipedia.org/wiki/Monorhaphididae"
+  ],
+  "generated_at": "2026-01-04T09:56:03.505599"
+}

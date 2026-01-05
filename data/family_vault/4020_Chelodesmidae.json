@@ -1,0 +1,39 @@
+{
+  "family_name": "Chelodesmidae",
+  "order_name": "Polydesmida",
+  "gbif_id": 4020,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Chelodesmidae are unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Chelodesmidae likely rely on chemoreception for navigation, food detection, and communication. This is inferred from other millipede species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception via tactile sensory structures (e.g., sensilla) is likely common for interacting with the environment and detecting substrate vibrations. This is inferred from other millipede species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chelodesmidae"
+  ],
+  "generated_at": "2026-01-04T11:34:55.150932"
+}

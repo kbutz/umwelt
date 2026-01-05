@@ -1,0 +1,39 @@
+{
+  "family_name": "Craspedosomatidae",
+  "order_name": "Chordeumatida",
+  "gbif_id": 3013,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Craspedosomatidae is unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Craspedosomatidae likely rely on chemoreception for navigation, finding food, and mating. This is inferred due to their general lifestyle, but specific sensory organs or capabilities cannot be determined from the given text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes, including Craspedosomatidae, likely possess mechanoreceptors for detecting touch, pressure, and vibrations. This is inferred due to their general lifestyle, but specific sensory organs or capabilities cannot be determined from the given text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Craspedosomatidae"
+  ],
+  "generated_at": "2026-01-04T11:08:37.367831"
+}

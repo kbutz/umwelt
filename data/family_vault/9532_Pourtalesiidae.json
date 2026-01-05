@@ -1,0 +1,39 @@
+{
+  "family_name": "Pourtalesiidae",
+  "order_name": "Holasteroida",
+  "gbif_id": 9532,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As irregular sea urchins living in the deep sea, they likely rely on mechanoreception to detect vibrations and currents in their environment. Inferred from general sea urchin sensory biology and deep-sea lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely rely on chemoreception to locate food sources and assess water quality in the deep sea environment. Inferred from general sea urchin sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is not mentioned in the provided context. Given the deep-sea habitat, vision may be absent or reduced, but further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pourtalesiidae"
+  ],
+  "generated_at": "2026-01-04T12:03:23.032937"
+}

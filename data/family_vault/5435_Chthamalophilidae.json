@@ -1,0 +1,39 @@
+{
+  "family_name": "Chthamalophilidae",
+  "order_name": "Rhizocephala",
+  "gbif_id": 5435,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in this family are largely unstudied given the parasitic lifestyle and limited available information. Vision may be reduced or absent, similar to other parasitic barnacles, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for host location and recognition in parasitic barnacles. This is inferred from the general biology of Rhizocephala.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely important for sensing the environment and physical contact with the host. This is inferred from the general biology of Rhizocephala.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chthamalophilidae"
+  ],
+  "generated_at": "2026-01-04T11:41:53.787277"
+}

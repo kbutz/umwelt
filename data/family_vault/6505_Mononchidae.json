@@ -1,0 +1,30 @@
+{
+  "family_name": "Mononchidae",
+  "order_name": "Dorylaimida",
+  "gbif_id": 6505,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Nematodes generally possess mechanoreceptors for sensing touch and movement. The presence and specific characteristics within Mononchidae are unknown based on provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Nematodes generally possess chemoreceptors for detecting chemical cues in their environment. The presence and specific characteristics within Mononchidae are unknown based on provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mononchidae"
+  ],
+  "generated_at": "2026-01-04T10:57:30.577910"
+}

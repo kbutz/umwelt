@@ -1,0 +1,45 @@
+{
+  "family_name": "Aphredoderidae",
+  "order_name": "Percopsiformes",
+  "gbif_id": 8605,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for nocturnal predation, inferred from the description of *Aphredoderus sayanus* as a nocturnal predator inhabiting clear water.",
+      "inferred_from_species": [
+        "Aphredoderus sayanus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Important for detecting prey and navigating in aquatic environments.",
+      "inferred_from_species": [
+        "Aphredoderus sayanus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Necessary for detecting water currents and vibrations, aiding in prey detection and navigation. Lateral line system is expected.",
+      "inferred_from_species": [
+        "Aphredoderus sayanus"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aphredoderidae",
+    "https://en.wikipedia.org/wiki/Aphredoderus_sayanus"
+  ],
+  "generated_at": "2026-01-04T11:38:48.214224"
+}

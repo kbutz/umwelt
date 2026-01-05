@@ -1,0 +1,64 @@
+{
+  "family_name": "Pelagiidae",
+  "order_name": "Unknown",
+  "gbif_id": 9247,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Jellyfish possess sensory structures that detect physical stimuli, likely for balance and orientation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Jellyfish can detect chemical cues in the water, which is important for finding prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Pelagiidae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "common",
+      "notes": "Some species, such as Pelagia noctiluca, are capable of bioluminescence.",
+      "inferred_from_species": [
+        "Pelagia noctiluca"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "nociception": {
+      "presence": "common",
+      "notes": "The presence of stinging cells suggests a sensitivity to painful stimuli.",
+      "inferred_from_species": [
+        "Pelagia noctiluca",
+        "Sanderia malayensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pelagiidae",
+    "https://en.wikipedia.org/wiki/Sanderia_malayensis",
+    "https://en.wikipedia.org/wiki/Pelagia_noctiluca"
+  ],
+  "generated_at": "2026-01-04T10:14:03.058591"
+}

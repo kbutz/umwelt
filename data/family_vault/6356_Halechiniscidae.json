@@ -1,0 +1,42 @@
+{
+  "family_name": "Halechiniscidae",
+  "order_name": "Unknown",
+  "gbif_id": 6356,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Halechiniscidae are unknown based on the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tardigrades generally possess mechanoreceptors for sensing their environment, likely including members of Halechiniscidae. Given they are marine, this would be crucial for navigation and prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for detecting chemical cues in their marine environment, aiding in prey location and habitat selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halechiniscidae",
+    "https://en.wikipedia.org/wiki/Orzeliscus_belopus",
+    "https://en.wikipedia.org/wiki/Exoclavarctus_dineti",
+    "https://en.wikipedia.org/wiki/Parmursa_fimbriata"
+  ],
+  "generated_at": "2026-01-04T11:00:39.488297"
+}

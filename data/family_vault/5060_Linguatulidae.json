@@ -1,0 +1,44 @@
+{
+  "family_name": "Linguatulidae",
+  "order_name": "Porocephalida",
+  "gbif_id": 5060,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Linguatulidae is not mentioned in the provided text. Given their parasitic lifestyle and habitat within the respiratory systems of vertebrates, it is plausible that vision may be reduced or absent, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasites living within host organisms, Linguatulidae likely rely on chemoreception to locate and identify hosts, as well as to navigate within the host's body.",
+      "inferred_from_species": [
+        "Linguatula serrata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their presence within the respiratory systems of vertebrates, Linguatulidae likely possess mechanoreception to detect movement and changes in pressure within the host. This would be crucial for maintaining their position and avoiding being expelled.",
+      "inferred_from_species": [
+        "Linguatula serrata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Linguatulidae",
+    "https://en.wikipedia.org/wiki/Linguatula_serrata"
+  ],
+  "generated_at": "2026-01-04T11:43:26.408638"
+}

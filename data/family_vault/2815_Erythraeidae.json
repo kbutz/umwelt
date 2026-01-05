@@ -1,0 +1,39 @@
+{
+  "family_name": "Erythraeidae",
+  "order_name": "Trombidiformes",
+  "gbif_id": 2815,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Adults possess one or two pairs of eyes, suggesting vision is important for predation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Densely hairy body suggests sensitivity to touch and air currents, potentially used for prey detection and predator avoidance. Legs adapted for running further indicate reliance on mechanoreception for locomotion and environmental awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 20000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred, given the parasitic larval stage biting and feeding via a stylostome (drinking straw). Adults are free-living predators so likely use chemoreception to locate prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 10000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erythraeidae"
+  ],
+  "generated_at": "2026-01-04T09:59:03.253836"
+}

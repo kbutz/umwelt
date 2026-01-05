@@ -1,0 +1,39 @@
+{
+  "family_name": "Asperspinidae",
+  "order_name": "Acochlidiacea",
+  "gbif_id": 4359259,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Asperspinidae are currently unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Asperspinidae likely rely on chemoreception for detecting food and mates. This is a common sensory modality in sea slugs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sea slugs, Asperspinidae likely possess mechanoreceptors for sensing touch, pressure, and substrate vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asperspinidae"
+  ],
+  "generated_at": "2026-01-04T12:53:56.571307"
+}

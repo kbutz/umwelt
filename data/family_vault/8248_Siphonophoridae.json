@@ -1,0 +1,39 @@
+{
+  "family_name": "Siphonophoridae",
+  "order_name": "Siphonophorida",
+  "gbif_id": 8248,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes in general rely on chemoreception for navigation and food detection. Likely present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes likely possess mechanoreceptors for sensing vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphonophoridae"
+  ],
+  "generated_at": "2026-01-04T11:35:03.035748"
+}

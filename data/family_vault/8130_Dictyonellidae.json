@@ -1,0 +1,39 @@
+{
+  "family_name": "Dictyonellidae",
+  "order_name": "Bubarida",
+  "gbif_id": 8130,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Dictyonellidae likely possess basic mechanoreception capabilities to sense water currents and physical contact. This is inferred from the general sensory capabilities of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect food particles and potential threats in the water. This is a fundamental aspect of their filter-feeding lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 0.001
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Dictyonellidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dictyonellidae"
+  ],
+  "generated_at": "2026-01-04T12:26:52.656753"
+}

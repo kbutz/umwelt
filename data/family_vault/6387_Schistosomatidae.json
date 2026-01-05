@@ -1,0 +1,39 @@
+{
+  "family_name": "Schistosomatidae",
+  "order_name": "Not Available",
+  "gbif_id": 6387,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic trematodes with complex life cycles involving multiple hosts, chemoreception is likely crucial for host location and recognition. Inferred, as all trematodes rely on this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for navigation within hosts and responding to fluid dynamics. Inferred, as they are active swimmers.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Schistosomatidae is unknown from provided data. Given their parasitic lifestyle inside hosts, photoreception may be limited or absent in adult stages. However, it is possible that cercariae (larval stage) may exhibit some light sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Schistosomatidae"
+  ],
+  "generated_at": "2026-01-04T12:13:06.383934"
+}

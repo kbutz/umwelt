@@ -1,0 +1,50 @@
+{
+  "family_name": "Apororhynchidae",
+  "order_name": "Apororhynchida",
+  "gbif_id": 6930,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to locate and identify suitable hosts within the avian cloaca. As parasites, they would rely on chemical cues to navigate and find specific attachment sites. Inferred due to parasitic lifestyle.",
+      "inferred_from_species": [
+        "Apororhynchus paulonucleatus",
+        "Apororhynchus amphistomi",
+        "Apororhynchus silesiacus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-158,
+        "max": 1e148
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possesses mechanoreceptors for detecting physical contact and pressure within the host's cloaca, aiding in attachment and avoiding dislodgement. This is essential for maintaining their parasitic lifestyle. Inferred from reliance on a proboscis.",
+      "inferred_from_species": [
+        "Apororhynchus paulonucleatus",
+        "Apororhynchus amphistomi",
+        "Apororhynchus silesiacus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No data found regarding photoreceptors or visual capabilities in this family. It is likely absent due to their parasitic lifestyle within the cloaca of birds.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apororhynchus",
+    "https://en.wikipedia.org/wiki/Apororhynchus_paulonucleatus",
+    "https://en.wikipedia.org/wiki/Apororhynchus_amphistomi",
+    "https://en.wikipedia.org/wiki/Apororhynchus_silesiacus"
+  ],
+  "generated_at": "2026-01-04T09:50:19.971944"
+}

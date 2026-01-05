@@ -1,0 +1,51 @@
+{
+  "family_name": "Gonorynchidae",
+  "order_name": "Gonorynchiformes",
+  "gbif_id": 3709,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is likely present, but specific adaptations and capabilities are unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating sandy environments, given their digging behavior and habitat. This is common in fishes.",
+      "inferred_from_species": [
+        "Gonorynchus gonorynchus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is not mentioned in the provided text. Research is needed to determine if Gonorynchidae possess this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for food detection and navigation, as is common in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gonorynchidae",
+    "https://en.wikipedia.org/wiki/Gonorynchus_gonorynchus"
+  ],
+  "generated_at": "2026-01-04T11:24:25.081878"
+}

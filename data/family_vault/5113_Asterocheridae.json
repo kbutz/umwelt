@@ -1,0 +1,39 @@
+{
+  "family_name": "Asterocheridae",
+  "order_name": "Siphonostomatoida",
+  "gbif_id": 5113,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As copepods, Asterocheridae likely possess mechanoreceptors for detecting water currents and vibrations, but specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Copepods generally rely on chemoreception for mate finding and food detection. Prevalence within Asterocheridae is not specified in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of eyes in Asterocheridae are unknown from the given information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asterocheridae"
+  ],
+  "generated_at": "2026-01-04T11:45:23.999103"
+}

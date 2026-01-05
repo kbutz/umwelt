@@ -1,0 +1,39 @@
+{
+  "family_name": "Spadellidae",
+  "order_name": "Phragmophora",
+  "gbif_id": 1905,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As plankton predators in the epipelagic zone, vision is likely important, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating the water column. Common to aquatic organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for detecting prey or mates. Common in marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spadellidae"
+  ],
+  "generated_at": "2026-01-04T12:14:47.086316"
+}

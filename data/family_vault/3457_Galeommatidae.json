@@ -1,0 +1,39 @@
+{
+  "family_name": "Galeommatidae",
+  "order_name": "Galeommatida",
+  "gbif_id": 3457,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, they likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves typically use chemoreceptors to detect chemical cues in the water for feeding, predator avoidance, and possibly mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyes or other photoreceptive organs is unknown for this family based on provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Galeommatidae"
+  ],
+  "generated_at": "2026-01-04T12:51:33.951285"
+}

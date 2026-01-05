@@ -1,0 +1,67 @@
+{
+  "family_name": "Dasypodidae",
+  "order_name": "Cingulata",
+  "gbif_id": 9369,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Armadillos in this family are terrestrial and vision is likely used, although potentially not the primary sense. Nocturnal lifestyle suggests adaptation to low-light conditions. Likely functional, but relative importance unknown.",
+      "inferred_from_species": [
+        "Dasypus septemcinctus",
+        "Dasypus pilosus",
+        "Dasypus hybridus"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for a terrestrial, nocturnal animal for foraging and navigation.",
+      "inferred_from_species": [
+        "Dasypus septemcinctus",
+        "Dasypus pilosus",
+        "Dasypus hybridus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Important for interacting with the environment, especially given their fossorial tendencies. Sensitive snouts are likely used for probing.",
+      "inferred_from_species": [
+        "Dasypus septemcinctus",
+        "Dasypus pilosus",
+        "Dasypus hybridus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely used for detecting predators and conspecifics.",
+      "inferred_from_species": [
+        "Dasypus septemcinctus",
+        "Dasypus pilosus",
+        "Dasypus hybridus"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dasypodidae",
+    "https://en.wikipedia.org/wiki/Dasypus_septemcinctus",
+    "https://en.wikipedia.org/wiki/Dasypus_pilosus",
+    "https://en.wikipedia.org/wiki/Dasypus_hybridus"
+  ],
+  "generated_at": "2026-01-04T10:21:09.797960"
+}

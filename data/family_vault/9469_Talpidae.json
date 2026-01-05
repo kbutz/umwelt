@@ -1,0 +1,55 @@
+{
+  "family_name": "Talpidae",
+  "order_name": "Eulipotyphla",
+  "gbif_id": 9469,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, though potentially reduced in some subterranean species. Degree of reliance on vision varies across the family, with some species adapting to subterranean or aquatic life where vision may be less crucial.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is an important sense for Talpidae. Some species, like Parascaptor leucura, exhibit specialized ear structures such as a hypertrophied malleus. The tensor tympani muscle can be absent in some species.",
+      "inferred_from_species": [
+        "Parascaptor leucura"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Highly sensitive tactile senses are likely important for subterranean and aquatic species to navigate and find prey in the dark. The star-nosed mole (not explicitly mentioned but implied by family context) is a prime example of tactile specialization.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely important for finding prey and navigating underground. The Russian desman appears to have a complex communication and social system, suggesting olfaction likely plays a role.",
+      "inferred_from_species": [
+        "Desmana moschata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Talpidae",
+    "https://en.wikipedia.org/wiki/Parascaptor_leucura",
+    "https://en.wikipedia.org/wiki/Desmana_moschata",
+    "https://en.wikipedia.org/wiki/Urotrichus_talpoides"
+  ],
+  "generated_at": "2026-01-04T10:39:17.111358"
+}

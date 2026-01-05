@@ -1,0 +1,39 @@
+{
+  "family_name": "Kudoidae",
+  "order_name": "Unknown",
+  "gbif_id": 3249333,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasites, Kudoidae likely rely on chemoreception to locate and identify suitable hosts within marine and estuarine environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for orientation and attachment within the host.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Kudoidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kudoidae"
+  ],
+  "generated_at": "2026-01-04T12:07:03.812683"
+}

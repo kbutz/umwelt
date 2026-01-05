@@ -1,0 +1,47 @@
+{
+  "family_name": "Holothuriidae",
+  "order_name": "Unknown",
+  "gbif_id": 9548,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Possess tube feet operated by a water vascular system for movement and potentially sensory input related to touch and pressure. Likely used for substrate interaction and possibly detecting water currents.",
+      "inferred_from_species": [
+        "Holothuria forskali",
+        "Holothuria tubulosa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Tentacles present around the mouth are likely used for chemoreception, to locate food. Inferred based on feeding behavior and presence of tentacles.",
+      "inferred_from_species": [
+        "Holothuria forskali",
+        "Holothuria tubulosa"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Whether they have photoreceptors is unknown from provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Holothuriidae",
+    "https://en.wikipedia.org/wiki/Holothuria_forskali",
+    "https://en.wikipedia.org/wiki/Holothuria_tubulosa"
+  ],
+  "generated_at": "2026-01-04T12:42:57.798261"
+}

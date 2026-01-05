@@ -1,0 +1,58 @@
+{
+  "family_name": "Presbyornithidae",
+  "order_name": "Unknown",
+  "gbif_id": 4848305,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presbyornithids were birds, and as such, vision was likely a primary sense. Given their morphology, similar to ducks and geese, they likely had good visual acuity for spotting food and navigating their environment. No specific visual adaptations are mentioned, so we assume a generalized avian visual system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As birds, presbyornithids likely possessed a well-developed sense of hearing for communication, predator detection, and environmental awareness. While specific auditory adaptations are not detailed in the text, it can be inferred that they used hearing for social interactions and survival.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Presbyornithids possessed tactile receptors throughout their bodies, enabling them to perceive pressure, temperature, and pain. This sense would have been crucial for activities such as foraging, nesting, and social interactions. The bill, similar to that of a duck, would likely have been sensitive to touch for filter feeding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of taste receptors in presbyornithids are currently unknown based on the provided text. While birds generally have fewer taste receptors compared to mammals, further research would be needed to determine the gustatory capabilities of this specific family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "The olfactory capabilities of presbyornithids are unknown based on the provided text. While some birds have a reduced sense of smell, others rely on it for foraging and navigation. Without more information, it is difficult to assess the importance of olfaction in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Presbyornithidae",
+    "https://en.wikipedia.org/wiki/Teviornis_gobiensis"
+  ],
+  "generated_at": "2026-01-04T11:18:50.248491"
+}

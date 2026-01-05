@@ -1,0 +1,39 @@
+{
+  "family_name": "Comatulidae",
+  "order_name": "Unknown",
+  "gbif_id": 7521278,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Comatulidae are largely unexplored in the provided context. Visual capabilities are unknown, but generally crinoids possess simple photoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present but not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely present, allowing detection of water currents and substrate vibrations, but details are lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Comatulidae"
+  ],
+  "generated_at": "2026-01-04T10:42:12.133820"
+}

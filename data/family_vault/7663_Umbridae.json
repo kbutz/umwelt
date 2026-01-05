@@ -1,0 +1,44 @@
+{
+  "family_name": "Umbridae",
+  "order_name": "Salmoniformes",
+  "gbif_id": 7663,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely used for prey detection and navigation in freshwater habitats. Spawning colors suggest a role in mate selection (inferred from Novumbra hubbsi).",
+      "inferred_from_species": [
+        "Novumbra hubbsi"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for detecting prey and potentially for navigation and communication in their weed-choked habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line likely used for detecting water movements and nearby predators or prey, especially in environments with low visibility.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Umbridae",
+    "https://en.wikipedia.org/wiki/Novumbra_hubbsi",
+    "https://en.wikipedia.org/wiki/Umbra_limi",
+    "https://en.wikipedia.org/wiki/Umbra_pygmaea"
+  ],
+  "generated_at": "2026-01-04T10:00:47.263981"
+}

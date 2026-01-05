@@ -1,0 +1,66 @@
+{
+  "family_name": "Diomedeidae",
+  "order_name": "Procellariiformes",
+  "gbif_id": 5238,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Albatrosses likely possess good vision for spotting prey like squid, fish, and krill, both on the surface and while diving. Their foraging strategies and long-distance navigation suggest reliance on visual cues.",
+      "inferred_from_species": [
+        "Phoebetria palpebrata",
+        "Phoebastria irrorata"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "As members of Procellariiformes (the tubenoses), albatrosses are inferred to possess a developed sense of smell, potentially for locating prey and navigating. This inference stems from the general characteristics of the order.",
+      "inferred_from_species": [
+        "Phoebetria palpebrata",
+        "Phoebetria fusca"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely used for communication within colonies and potentially for detecting prey underwater, although specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Important for tactile interactions during mating rituals, nesting, and chick rearing. Also used for sensing prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The extent and role of taste are unknown, but it is likely present to some degree for food discrimination.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diomedeidae",
+    "https://en.wikipedia.org/wiki/Phoebetria_palpebrata",
+    "https://en.wikipedia.org/wiki/Phoebetria_fusca",
+    "https://en.wikipedia.org/wiki/Phoebastria_irrorata"
+  ],
+  "generated_at": "2026-01-04T12:10:52.890333"
+}

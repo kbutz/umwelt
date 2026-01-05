@@ -1,0 +1,49 @@
+{
+  "family_name": "Monognathidae",
+  "order_name": "Unknown",
+  "gbif_id": 5089,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Deep-sea habitat suggests potentially reduced or specialized vision, but this is unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for prey detection and navigation in the deep sea, as is common in eels.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present, enabling detection of vibrations and pressure changes in the water. Important for orientation and prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Potential use for prey detection in the deep sea, but there is no information about this in Monognathidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monognathidae",
+    "https://en.wikipedia.org/wiki/Monognathus_boehlkei"
+  ],
+  "generated_at": "2026-01-04T11:39:38.906150"
+}

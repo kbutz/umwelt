@@ -1,0 +1,44 @@
+{
+  "family_name": "Themistidae",
+  "order_name": "Sipunculida",
+  "gbif_id": 3390,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As benthic marine worms, they likely possess mechanoreceptors for sensing their environment and potentially detecting water currents or substrate vibrations. This is inferred as a basic necessity for interacting with their habitat. They are filter feeders, so they must be able to sense particles in the water.",
+      "inferred_from_species": [
+        "Themiste hennahi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for food detection and possibly intraspecific communication. Being filter feeders, they must be able to detect chemical cues related to food sources.",
+      "inferred_from_species": [
+        "Themiste hennahi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is currently unknown. Benthic existence may or may not favor the development of photoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Themiste",
+    "https://en.wikipedia.org/wiki/Themiste_hennahi"
+  ],
+  "generated_at": "2026-01-04T09:57:37.438691"
+}

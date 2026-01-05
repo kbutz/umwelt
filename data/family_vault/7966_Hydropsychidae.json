@@ -1,0 +1,39 @@
+{
+  "family_name": "Hydropsychidae",
+  "order_name": "Trichoptera",
+  "gbif_id": 7966,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present in both larval and adult stages, as caddisflies generally rely on vision for navigation and mate finding. Specific visual capabilities are unknown, but presumed functional.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Crucial for larvae to detect water currents for filter feeding and predator avoidance. Adults likely use mechanoreceptors for flight and balance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Important for larvae to locate suitable net-building sites and for adults to find mates. The specific chemical cues detected are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hydropsychidae"
+  ],
+  "generated_at": "2026-01-04T11:05:42.325821"
+}

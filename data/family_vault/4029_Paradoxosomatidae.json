@@ -1,0 +1,39 @@
+{
+  "family_name": "Paradoxosomatidae",
+  "order_name": "Polydesmida",
+  "gbif_id": 4029,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but information is not provided in the given context. Further research is needed to determine the extent and capabilities of vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Paradoxosomatidae likely possess chemoreceptors for detecting chemical cues in their environment, aiding in finding food, mates, and avoiding predators. This is a common sensory modality among terrestrial arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes in general, including Paradoxosomatidae, rely on mechanoreceptors for sensing vibrations, touch, and proprioception to navigate their environment and detect threats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paradoxosomatidae"
+  ],
+  "generated_at": "2026-01-04T11:34:36.511448"
+}

@@ -1,0 +1,42 @@
+{
+  "family_name": "Halicreatidae",
+  "order_name": "Hydroida",
+  "gbif_id": 8200,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As hydrozoans, Halicreatidae likely possess mechanoreceptors to detect water currents and pressure changes, aiding in prey capture and orientation. This is inferred based on the general sensory biology of hydrozoans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used to detect chemical cues related to prey or environmental conditions, common in hydrozoans for feeding and habitat selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreceptors within Halicreatidae is currently unknown. While some hydrozoans have ocelli, the specific visual capabilities of this family require further investigation. Given they are deep sea hydrozoans, any photoreception would likely be specialized.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halicreatidae",
+    "https://en.wikipedia.org/wiki/Haliscera_alba",
+    "https://en.wikipedia.org/wiki/Haliscera_conica",
+    "https://en.wikipedia.org/wiki/Haliscera_bigelowi"
+  ],
+  "generated_at": "2026-01-04T10:13:34.782016"
+}

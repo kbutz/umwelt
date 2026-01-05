@@ -1,0 +1,59 @@
+{
+  "family_name": "Kollikodontidae",
+  "order_name": "Monotremata (inferred)",
+  "gbif_id": 4832720,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available from provided texts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No information available from provided texts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No information available from provided texts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "unknown",
+      "notes": "No information available from provided texts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No information available from provided texts. Given they are related to monotremes, it is possible but not confirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kollikodontidae",
+    "https://en.wikipedia.org/wiki/Kryoryctes_cadburyi",
+    "https://en.wikipedia.org/wiki/Kollikodon_ritchiei"
+  ],
+  "generated_at": "2026-01-04T10:34:24.172226"
+}

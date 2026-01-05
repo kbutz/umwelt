@@ -1,0 +1,39 @@
+{
+  "family_name": "Myxinidae",
+  "order_name": "Myxiniformes",
+  "gbif_id": 5870,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information about vision in Hagfish is not present in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine predators and scavengers, chemoreception is likely important for locating food sources. Further research would be needed to define the specific compounds they are sensitive to.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As eel-shaped fish, mechanoreception is likely important for navigation, prey detection, and predator avoidance in the marine environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Myxinidae"
+  ],
+  "generated_at": "2026-01-04T10:23:56.502651"
+}

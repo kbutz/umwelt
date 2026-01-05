@@ -1,0 +1,42 @@
+{
+  "family_name": "Protentomidae",
+  "order_name": "Protura",
+  "gbif_id": 7765,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information about chemoreception is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "No information about mechanoreception is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Protentomidae",
+    "https://en.wikipedia.org/wiki/Proturentomon_dorae",
+    "https://en.wikipedia.org/wiki/Proturentomon_condei",
+    "https://en.wikipedia.org/wiki/Proturentomon_minimum"
+  ],
+  "generated_at": "2026-01-04T11:27:19.462218"
+}

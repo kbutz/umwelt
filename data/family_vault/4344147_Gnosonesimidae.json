@@ -1,0 +1,39 @@
+{
+  "family_name": "Gnosonesimidae",
+  "order_name": "Unknown",
+  "gbif_id": 4344147,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As free-living flatworms, Gnosonesimidae likely rely on chemoreception for locating food and mates. Inferred from related free-living Rhabditophora.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for detecting touch and water currents. Inferred from related free-living Rhabditophora.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 2000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and sophistication of photoreceptors are unknown; depends on habitat and lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhabditophora"
+  ],
+  "generated_at": "2026-01-04T12:52:12.197747"
+}

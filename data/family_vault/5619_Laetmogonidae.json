@@ -1,0 +1,44 @@
+{
+  "family_name": "Laetmogonidae",
+  "order_name": "Unknown",
+  "gbif_id": 5619,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers generally possess tactile sensitivity across their body surface, likely used for navigation and food detection in the benthic zone. Given their lifestyle, mechanoreception is probably important for interacting with the environment.",
+      "inferred_from_species": [
+        "Pannychia moseleyi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers are known to use chemoreception to locate food and assess the surrounding environment. This is inferred due to their benthic lifestyle and deposit-feeding habits.",
+      "inferred_from_species": [
+        "Pannychia moseleyi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown whether Laetmogonidae possess photoreceptors. Given the deep-sea habitat of Pannychia moseleyi, photoreception is possibly absent or highly reduced. Need more information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laetmogonidae",
+    "https://en.wikipedia.org/wiki/Pannychia_moseleyi"
+  ],
+  "generated_at": "2026-01-04T10:44:22.081226"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Adinetidae",
+  "order_name": "Bdelloidea",
+  "gbif_id": 3878,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Adinetidae is currently unknown based on available context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely common in rotifers for detecting food and mates, though specific data for Adinetidae is unavailable in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely used for sensing the environment and potential threats. Specific details are unknown from the provided context but is a common need for such organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adinetidae"
+  ],
+  "generated_at": "2026-01-04T11:31:40.895837"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Heterokrohniidae",
+  "order_name": "Phragmophora",
+  "gbif_id": 4307499,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Heterokrohniidae are currently unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present as a fundamental sensory modality for prey detection and navigation, but specific details for Heterokrohniidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely important for detecting water currents and prey movement, but specific details for Heterokrohniidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heterokrohniidae"
+  ],
+  "generated_at": "2026-01-04T12:14:55.094577"
+}

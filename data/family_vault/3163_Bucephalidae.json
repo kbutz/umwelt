@@ -1,0 +1,39 @@
+{
+  "family_name": "Bucephalidae",
+  "order_name": "Trematoda",
+  "gbif_id": 3163,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasites, Bucephalidae likely rely on chemoreception to locate hosts and suitable environments within the host. Inferred due to parasitic lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 1000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Bucephalidae likely possess mechanoreceptors to detect changes in pressure or movement within their hosts. This is inferred based on their need to maintain position and respond to host physiology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Bucephalidae is unknown based on the provided text. Given their parasitic lifestyle within hosts, photoreception is potentially reduced or absent in adult stages.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bucephalidae"
+  ],
+  "generated_at": "2026-01-04T09:46:45.336980"
+}

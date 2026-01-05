@@ -1,0 +1,39 @@
+{
+  "family_name": "Speleophriidae",
+  "order_name": "Copepoda",
+  "gbif_id": 4303230,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As inhabitants of anchialine caves (and hyperbenthos for Archimisophria), it is unknown if vision is present or functional. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Copepods generally rely on mechanoreceptors for detecting water currents and vibrations, which is likely crucial in dark cave environments. This is inferred based on general copepod biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for locating food and mates in the anchialine cave environment. This is inferred based on general copepod biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Speleophriidae"
+  ],
+  "generated_at": "2026-01-04T10:10:10.682030"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Zelinkaderidae",
+  "order_name": "Cyclorhagida",
+  "gbif_id": 5705,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As marine worms, they likely possess mechanoreceptors for sensing water currents and substrate vibrations. This is a common feature in many marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting chemical cues in the environment, such as food sources or potential mates. This is a common sensory modality in marine worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is not explicitly mentioned and is likely absent or rudimentary, given their lifestyle as marine worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zelinkaderidae"
+  ],
+  "generated_at": "2026-01-04T12:56:41.307670"
+}

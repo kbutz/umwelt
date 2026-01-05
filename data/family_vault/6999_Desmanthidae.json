@@ -1,0 +1,39 @@
+{
+  "family_name": "Desmanthidae",
+  "order_name": "Bubarida",
+  "gbif_id": 6999,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely heavily on chemoreception for detecting food particles and environmental cues. They lack nervous systems, but cells can respond to chemical gradients.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges can detect water currents and physical stimuli via specialized cells. This is important for filter feeding and coordinating their oscula.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Desmanthidae is not mentioned in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Desmanthidae"
+  ],
+  "generated_at": "2026-01-04T12:27:00.951538"
+}

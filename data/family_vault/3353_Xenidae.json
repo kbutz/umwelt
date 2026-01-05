@@ -1,0 +1,39 @@
+{
+  "family_name": "Xenidae",
+  "order_name": "Strepsiptera",
+  "gbif_id": 3353,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Xenidae are largely unstudied in the provided context. Vision may be present, but it is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception, including touch and proprioception, is likely present, but there's no specific information in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is probably present for host finding and other behaviors, but this is not explicit in the given text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xenidae"
+  ],
+  "generated_at": "2026-01-04T11:29:27.466905"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Longipediidae",
+  "order_name": "Polyarthra",
+  "gbif_id": 9102,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not specified in the provided text. Vision may be present, but this cannot be determined from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not specified in the provided text. Mechanoreception may be present, but this cannot be determined from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not specified in the provided text. Chemoreception may be present, but this cannot be determined from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longipediidae"
+  ],
+  "generated_at": "2026-01-04T13:00:33.334600"
+}

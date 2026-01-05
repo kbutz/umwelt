@@ -1,0 +1,39 @@
+{
+  "family_name": "Barentsiidae",
+  "order_name": "Solitaria",
+  "gbif_id": 1897,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting physical stimuli (e.g., water currents, substrate vibrations). Further research needed to ascertain the prevalence and specifics within Barentsiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting chemical stimuli in the environment. Further research is required to determine the extent of chemoreception in Barentsiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting light. The presence or absence of photoreceptors and light sensitivity in Barentsiidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barentsiidae"
+  ],
+  "generated_at": "2026-01-04T12:54:04.588426"
+}

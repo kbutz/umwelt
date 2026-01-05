@@ -1,0 +1,39 @@
+{
+  "family_name": "Axonolaimidae",
+  "order_name": "Araeolaimida",
+  "gbif_id": 6519,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely heavily on chemoreception for orientation, feeding, and mate finding in their marine environment. This is inferred based on general nematode biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception to sense touch, pressure, and movement in their environment. This is inferred based on general nematode biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 10000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally absent in nematodes, though some exceptions exist. It is unlikely to be a defining feature of this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Axonolaimidae"
+  ],
+  "generated_at": "2026-01-04T11:02:35.902775"
+}

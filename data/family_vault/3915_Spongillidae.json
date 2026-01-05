@@ -1,0 +1,39 @@
+{
+  "family_name": "Spongillidae",
+  "order_name": "Unknown",
+  "gbif_id": 3915,
+  "sensory_modalities": {
+    "Mechanosensation": {
+      "presence": "common",
+      "notes": "As sponges, Spongillidae likely possess basic mechanosensory capabilities to respond to water currents and physical stimuli, although specific mechanisms are not detailed in the provided context. This is inferred from general sponge biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Spongillidae, like other sponges, likely rely on chemoreception to detect food particles and assess water quality. Specific receptors or mechanisms are not detailed in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "Photosensitivity": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photosensitivity in Spongillidae is unknown based on the provided context. While some sponges have light-sensitive cells, there is no specific information available for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1e-15
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spongillidae"
+  ],
+  "generated_at": "2026-01-04T12:30:20.794639"
+}

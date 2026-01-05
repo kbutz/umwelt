@@ -1,0 +1,39 @@
+{
+  "family_name": "Ascothoracidae",
+  "order_name": "Dendrogastrida",
+  "gbif_id": 4993,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Ascothoracidae are largely unknown from the provided context. Given they are crustaceans, some sensory structures are expected, but no specific information is provided on vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Ascothoracidae are largely unknown from the provided context. Given they are crustaceans, some sensory structures are expected, but no specific information is provided on chemoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Ascothoracidae are largely unknown from the provided context. Given they are crustaceans, some sensory structures are expected, but no specific information is provided on mechanoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ascothoracidae"
+  ],
+  "generated_at": "2026-01-04T10:09:30.045150"
+}

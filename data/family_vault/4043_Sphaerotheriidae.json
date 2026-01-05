@@ -1,0 +1,40 @@
+{
+  "family_name": "Sphaerotheriidae",
+  "order_name": "Diplopoda",
+  "gbif_id": 4043,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Sphaerotheriidae are not specified in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Sphaerotheriidae likely use chemoreception (smell and taste) for navigation, food detection, and mate recognition. This is inferred from general millipede biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes rely on touch and vibration for sensing their environment. This is inferred from general millipede biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sphaerotheriidae",
+    "https://en.wikipedia.org/wiki/Kylindotherium_leve"
+  ],
+  "generated_at": "2026-01-04T11:35:37.457228"
+}

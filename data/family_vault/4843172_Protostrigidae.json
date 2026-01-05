@@ -1,0 +1,48 @@
+{
+  "family_name": "Protostrigidae",
+  "order_name": "Strigiformes (inferred)",
+  "gbif_id": 4843172,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presumed to be well-developed, as they are owls. Owl vision is typically adapted for nocturnal hunting, with large eyes for light gathering and potentially good binocular vision for depth perception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Presumed to have good hearing, similar to modern owls, which is crucial for detecting prey. This may include adaptations for sound localization. ",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 200,
+        "max": 12000
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Likely possess tactile senses similar to modern birds, used for detecting prey and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown, but are likely similar to modern owls. Owls do not rely as much on scent compared to many other bird groups.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Protostrigidae"
+  ],
+  "generated_at": "2026-01-04T11:50:40.760846"
+}

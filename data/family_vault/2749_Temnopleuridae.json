@@ -1,0 +1,40 @@
+{
+  "family_name": "Temnopleuridae",
+  "order_name": "Echinoida",
+  "gbif_id": 2749,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea urchins, including Temnopleuridae, possess spines and tube feet, which are likely used for mechanoreception to detect touch and movement in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea urchins use chemoreception to detect chemical cues in the water for foraging and other purposes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Temnopleuridae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Temnopleuridae",
+    "https://en.wikipedia.org/wiki/Amblypneustes_elevatus"
+  ],
+  "generated_at": "2026-01-04T12:04:08.741950"
+}

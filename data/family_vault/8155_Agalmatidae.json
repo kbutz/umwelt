@@ -1,0 +1,44 @@
+{
+  "family_name": "Agalmatidae",
+  "order_name": "Siphonophorae",
+  "gbif_id": 8155,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision are unknown, given the colonial nature and varied zooid specialization within the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As planktonic organisms inhabiting the epipelagic and mesopelagic zones, they likely possess mechanoreceptors for detecting water movement and prey. This is inferred from their plankton feeding behavior.",
+      "inferred_from_species": [
+        "Nanomia bijuga"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for prey detection and potentially for coordinating zooid function within the colony.",
+      "inferred_from_species": [
+        "Nanomia bijuga"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agalmatidae",
+    "https://en.wikipedia.org/wiki/Nanomia_bijuga"
+  ],
+  "generated_at": "2026-01-04T12:06:55.581959"
+}

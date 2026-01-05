@@ -1,0 +1,39 @@
+{
+  "family_name": "Camacolaimidae",
+  "order_name": "Araeolaimida",
+  "gbif_id": 4281984,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely heavily on chemoreception for navigation, prey detection, and mate finding in their environment. This is inferred for Camacolaimidae, as it is a common trait in nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes possess mechanoreceptors that allow them to sense touch, pressure, and vibrations in their environment. This is inferred for Camacolaimidae, as it is a common trait in nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is not generally present in nematodes, but without specific data, it is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Camacolaimidae"
+  ],
+  "generated_at": "2026-01-04T12:58:54.125184"
+}

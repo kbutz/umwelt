@@ -1,0 +1,68 @@
+{
+  "family_name": "Opisthocomidae",
+  "order_name": "Opisthocomiformes",
+  "gbif_id": 5261,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As birds, Opisthocomidae likely rely on vision for navigation, foraging, and social interactions. No specific details are provided but the family is extant and diurnal.",
+      "inferred_from_species": [
+        "Opisthocomus hoazin"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As birds, Opisthocomidae likely have a good sense of hearing for communication and predator detection. No specific details are provided in the texts.",
+      "inferred_from_species": [
+        "Opisthocomus hoazin"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not explicitly mentioned in the provided text. The extent to which Opisthocomidae rely on smell is unclear.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Taste is likely present to assess food quality, though no specific details are provided for the family. As herbivores, this sense is likely important",
+      "inferred_from_species": [
+        "Opisthocomus hoazin"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sensation is expected, especially given the presence of claws in chicks, however no further information is provided.",
+      "inferred_from_species": [
+        "Opisthocomus hoazin"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opisthocomidae",
+    "https://en.wikipedia.org/wiki/Opisthocomus_hoazin",
+    "https://en.wikipedia.org/wiki/Hoazinoides_magdalenae",
+    "https://en.wikipedia.org/wiki/Hoazinavis_lacustris"
+  ],
+  "generated_at": "2026-01-04T12:33:48.575558"
+}

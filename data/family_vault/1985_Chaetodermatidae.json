@@ -1,0 +1,39 @@
+{
+  "family_name": "Chaetodermatidae",
+  "order_name": "Caudofoveata",
+  "gbif_id": 1985,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present as a general sense for detecting substrate vibrations or water currents, given their benthic lifestyle, but specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely used for detecting food sources and mates, common in marine invertebrates, but specific data for Chaetodermatidae is unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "No eyes are mentioned in the provided data, and given their deep-sea benthic habitat, light sensitivity is likely reduced or absent. However, photosensitive cells might exist.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chaetodermatidae"
+  ],
+  "generated_at": "2026-01-04T12:13:56.167806"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Ampeliscidae",
+  "order_name": "Amphipoda",
+  "gbif_id": 4412,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As benthic dwellers in fine sediments, they likely rely on mechanoreception to detect vibrations and currents in their environment. This would aid in finding food, avoiding predators, and maintaining their position within their infaunal tubes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for locating food sources and potentially for detecting mates or conspecifics in their benthic environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and importance of vision are unknown based on the provided context. Given their benthic, tube-dwelling lifestyle in fine sediments, vision may be reduced or absent in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ampeliscidae"
+  ],
+  "generated_at": "2026-01-04T11:30:51.656112"
+}

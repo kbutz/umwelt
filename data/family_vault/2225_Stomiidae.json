@@ -1,0 +1,42 @@
+{
+  "family_name": "Stomiidae",
+  "order_name": "Unknown",
+  "gbif_id": 2225,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, though details are unknown. Deep-sea fish, so potentially adapted for low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Present, allows the fish to sense vibrations and pressure changes in the water. Important for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Present, allows the fish to detect chemical cues in the water, important for finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stomiidae",
+    "https://en.wikipedia.org/wiki/Eupogonesthes_xenicus",
+    "https://en.wikipedia.org/wiki/Stomias_atriventer",
+    "https://en.wikipedia.org/wiki/Stomias_lampropeltis"
+  ],
+  "generated_at": "2026-01-04T10:26:59.649206"
+}

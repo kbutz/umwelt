@@ -1,0 +1,40 @@
+{
+  "family_name": "Limnognathiidae",
+  "order_name": "Unknown",
+  "gbif_id": 4632628,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available on vision in this family. Given their microscopic size and freshwater habitat, some light sensitivity is possible, but unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for sensing water currents and substrate, given their freshwater habitat, but unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for food detection in their freshwater environment, but unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Limnognathiidae",
+    "https://en.wikipedia.org/wiki/Limnognathia_maerski"
+  ],
+  "generated_at": "2026-01-04T12:05:15.404364"
+}

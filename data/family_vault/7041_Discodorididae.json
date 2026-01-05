@@ -1,0 +1,44 @@
+{
+  "family_name": "Discodorididae",
+  "order_name": "Nudibranchia",
+  "gbif_id": 7041,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea slugs in this family are thought to feed on sponges, suggesting a reliance on chemoreception to locate prey. Some species, like Peltodoris nobilis, are known to emit a strong fruity citrus smell, suggesting chemoreception capabilities.",
+      "inferred_from_species": [
+        "Peltodoris nobilis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "While not explicitly stated, many nudibranchs have simple eyes. Given their nocturnal behavior (thought to feed at night), vision may play a role in orientation and predator avoidance, but this is uncertain in the context provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As shell-less marine gastropods, Discodorididae likely possess mechanoreceptors for detecting water currents and substrate vibrations, aiding in navigation and predator detection. This is inferred due to their lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 2000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Discodorididae",
+    "https://en.wikipedia.org/wiki/Platydoris_angustipes",
+    "https://en.wikipedia.org/wiki/Platydoris_macfarlandi",
+    "https://en.wikipedia.org/wiki/Rostanga_rubra"
+  ],
+  "generated_at": "2026-01-04T11:03:05.205383"
+}

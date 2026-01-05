@@ -1,0 +1,39 @@
+{
+  "family_name": "Xyalidae",
+  "order_name": "Monhysterida",
+  "gbif_id": 4348631,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for navigation, finding food, and mate detection. This is likely the primary sense for Xyalidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception to detect touch, pressure, and vibrations in their environment. This is likely important for movement and interaction with their substrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Nematodes typically lack eyes, so vision is rare within the family. If present, it would be a specialized adaptation in specific species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xyalidae"
+  ],
+  "generated_at": "2026-01-04T09:47:15.252639"
+}

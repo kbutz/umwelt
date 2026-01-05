@@ -1,0 +1,64 @@
+{
+  "family_name": "Megatheriidae",
+  "order_name": "Not available in context",
+  "gbif_id": 3239349,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information is provided about the vision of Megatheriidae. Given their size and habitat, it's likely they possessed some degree of vision, but the acuity or specific adaptations are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not mentioned in the context. Further research is needed to determine the importance of smell for these animals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are unknown. No information is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "As large terrestrial mammals, they would have relied on touch for navigating their environment and interacting with others. Their robust physique suggests a reliance on tactile sensing.",
+      "inferred_from_species": [
+        "Eremotherium eomigrans",
+        "Megatherium"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Being herbivores, they would have needed taste to assess the quality and edibility of plants.",
+      "inferred_from_species": [
+        "Eremotherium eomigrans",
+        "Megatherium"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Megatheriidae",
+    "https://en.wikipedia.org/wiki/Eremotherium_eomigrans"
+  ],
+  "generated_at": "2026-01-04T12:01:04.045579"
+}

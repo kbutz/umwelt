@@ -1,0 +1,72 @@
+{
+  "family_name": "Psittacidae",
+  "order_name": "Psittaciformes",
+  "gbif_id": 9340,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Parrots are known for their excellent color vision, likely important for foraging and social signaling. This is inferred based on the general knowledge of parrots and their behavior.",
+      "inferred_from_species": [
+        "Northiella haematogaster",
+        "Forpus modestus",
+        "Forpus xanthops"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely well-developed for vocal communication and predator detection, inferred due to vocal nature of the species. Need more data for frequency range",
+      "inferred_from_species": [
+        "Northiella haematogaster",
+        "Forpus modestus",
+        "Forpus xanthops"
+      ],
+      "frequency_range_hz": {
+        "min": 80,
+        "max": 12000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfaction in parrots is not well-documented in the context data, therefore it is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste capabilities in parrots are not mentioned in the provided context data, so their presence and function is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation is essential for preening, feeding, and social interactions. Assumed to be present. Need more specific research data.",
+      "inferred_from_species": [
+        "Northiella haematogaster",
+        "Forpus modestus",
+        "Forpus xanthops"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Psittacidae",
+    "https://en.wikipedia.org/wiki/Northiella_haematogaster",
+    "https://en.wikipedia.org/wiki/Forpus_modestus",
+    "https://en.wikipedia.org/wiki/Forpus_xanthops"
+  ],
+  "generated_at": "2026-01-04T11:48:25.526001"
+}

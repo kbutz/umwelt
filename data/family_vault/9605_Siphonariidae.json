@@ -1,0 +1,39 @@
+{
+  "family_name": "Siphonariidae",
+  "order_name": "Pulmonata",
+  "gbif_id": 9605,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but information lacking. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Gastropods generally rely on chemoreception for finding food and mates. Inferred to be present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for balance and orientation. Typical for marine snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphonariidae"
+  ],
+  "generated_at": "2026-01-04T12:49:56.072299"
+}

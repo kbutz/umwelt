@@ -1,0 +1,47 @@
+{
+  "family_name": "Clathrinidae",
+  "order_name": "Clathrinida",
+  "gbif_id": 7745,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information on vision is available. Calcareous sponges generally lack complex sensory structures.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present for filter feeding and response to environmental cues. Sponges rely on water flow and chemical gradients.",
+      "inferred_from_species": [
+        "Clathrina blanca",
+        "Clathrina ceylonensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present at a basic level for structural integrity and response to water flow.",
+      "inferred_from_species": [
+        "Clathrina blanca",
+        "Clathrina ceylonensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clathrinidae",
+    "https://en.wikipedia.org/wiki/Clathrina_blanca",
+    "https://en.wikipedia.org/wiki/Clathrina_ceylonensis"
+  ],
+  "generated_at": "2026-01-04T11:26:04.949627"
+}

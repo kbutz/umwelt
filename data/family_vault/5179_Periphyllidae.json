@@ -1,0 +1,39 @@
+{
+  "family_name": "Periphyllidae",
+  "order_name": "Unknown",
+  "gbif_id": 5179,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Periphyllidae jellyfish are not specified in the provided context. Further research is required to determine visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Periphyllidae jellyfish are not specified in the provided context. Further research is required to determine mechanoreception capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Periphyllidae jellyfish are not specified in the provided context. Further research is required to determine chemoreception capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Periphyllidae"
+  ],
+  "generated_at": "2026-01-04T10:15:08.171079"
+}

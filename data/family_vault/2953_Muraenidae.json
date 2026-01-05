@@ -1,0 +1,48 @@
+{
+  "family_name": "Muraenidae",
+  "order_name": "Unknown",
+  "gbif_id": 2953,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Moray eels inhabit marine environments and are generally active during the day (diurnal, inferred from Gymnothorax kidako), suggesting functional vision. Found in shallow reef and rocky shorelines southeastern Taiwan at depths of 3–30 m (9.8–98.4 ft), inferred from Gymnothorax taiwanensis and deep water (90-450 meters) in the Pacific and Indian Oceans, inferred from Gymnothorax elegans. Visual acuity and color perception are unknown, but presence is inferred.",
+      "inferred_from_species": [
+        "Gymnothorax kidako",
+        "Gymnothorax taiwanensis",
+        "Gymnothorax elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As eels, Muraenidae likely rely heavily on chemoreception for hunting and navigation. Given they are piscivorous (Gymnothorax kidako), they likely use chemical cues to locate prey.",
+      "inferred_from_species": [
+        "Gymnothorax kidako"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1e-7
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system is expected in aquatic eels for detecting water movement and pressure changes. The exact sensitivity range is unknown, but likely important for detecting prey and avoiding predators in reef environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Muraenidae",
+    "https://en.wikipedia.org/wiki/Gymnothorax_kidako",
+    "https://en.wikipedia.org/wiki/Gymnothorax_taiwanensis",
+    "https://en.wikipedia.org/wiki/Gymnothorax_elegans"
+  ],
+  "generated_at": "2026-01-04T09:52:12.420707"
+}

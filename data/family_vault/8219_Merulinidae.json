@@ -1,0 +1,41 @@
+{
+  "family_name": "Merulinidae",
+  "order_name": "Scleractinia",
+  "gbif_id": 8219,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on visual capabilities of Merulinidae corals is not provided in the context. Likely present to some extent, as they respond to light, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Corals are known to use chemoreception for feeding and other life processes. Specific details for Merulinidae are not available in the given context, but the trait is inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Corals can sense water flow and physical contact, though the exact mechanisms are not detailed in the context. This allows them to react to changes in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Merulinidae",
+    "https://en.wikipedia.org/wiki/Trachyphyllia_geoffroyi",
+    "https://en.wikipedia.org/wiki/Catalaphyllia_jardinei"
+  ],
+  "generated_at": "2026-01-04T10:15:26.294071"
+}

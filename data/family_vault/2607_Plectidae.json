@@ -1,0 +1,39 @@
+{
+  "family_name": "Plectidae",
+  "order_name": "Araeolaimida",
+  "gbif_id": 2607,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely heavily on chemoreception for finding food and mates. This is likely true for Plectidae, although specific receptors haven't been identified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception to sense touch and movement in their environment. Likely present in Plectidae, but specifics unknown from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is uncommon in nematodes, and there is no indication of eyespots or other visual structures in Plectidae from the provided information. Likely absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plectidae"
+  ],
+  "generated_at": "2026-01-04T12:58:30.046161"
+}

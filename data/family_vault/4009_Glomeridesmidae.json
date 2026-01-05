@@ -1,0 +1,39 @@
+{
+  "family_name": "Glomeridesmidae",
+  "order_name": "Glomeridesmida",
+  "gbif_id": 4009,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in this family are currently unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As arthropods and millipedes, Glomeridesmidae likely rely on chemoreception for navigation, food detection, and communication. This is inferred, but typical for millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile senses are likely important for navigating the environment, especially in leaf litter or soil habitats. This is inferred, but typical for millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glomeridesmidae"
+  ],
+  "generated_at": "2026-01-04T11:34:19.208234"
+}

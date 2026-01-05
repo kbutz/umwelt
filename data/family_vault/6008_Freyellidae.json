@@ -1,0 +1,39 @@
+{
+  "family_name": "Freyellidae",
+  "order_name": "Brisingida",
+  "gbif_id": 6008,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As starfish, Freyellidae likely possess mechanoreceptors for detecting water currents and substrate vibrations, aiding in prey detection and navigation in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreceptors to detect chemical cues in the water, aiding in food localization in the deep sea environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of functional eyes is unknown in Freyellidae. Deep-sea environments have reduced light, but some deep-sea animals possess bioluminescence sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Freyellidae"
+  ],
+  "generated_at": "2026-01-04T10:58:00.779763"
+}

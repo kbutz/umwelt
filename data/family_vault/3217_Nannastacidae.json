@@ -1,0 +1,39 @@
+{
+  "family_name": "Nannastacidae",
+  "order_name": "Cumacea",
+  "gbif_id": 3217,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision is provided. General crustacean sensory systems often include vision, but it is unknown if it is present in Nannastacidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans generally rely on chemoreception for detecting food and mates. The presence of antennae suggests a role for chemoreception, although the specifics for Nannastacidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Crustaceans commonly use mechanoreception to sense their environment. The presence of maxillipeds and pereopods indicates a role in sensing their physical surroundings and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nannastacidae"
+  ],
+  "generated_at": "2026-01-04T12:02:32.710073"
+}

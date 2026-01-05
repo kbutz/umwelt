@@ -1,0 +1,50 @@
+{
+  "family_name": "Quadrigyridae",
+  "order_name": "Gyracanthocephala",
+  "gbif_id": 6933,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms, Quadrigyridae likely rely on chemoreception to locate hosts and suitable environments within the host. This is inferred due to the general nature of parasitic lifestyles.",
+      "inferred_from_species": [
+        "Acanthogyrus intermedius",
+        "Acanthogyrus anguillae",
+        "Acanthogyrus maroccanus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for orientation and attachment within the host. This is inferred due to the general nature of parasitic lifestyles.",
+      "inferred_from_species": [
+        "Acanthogyrus intermedius",
+        "Acanthogyrus anguillae",
+        "Acanthogyrus maroccanus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available regarding vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quadrigyridae",
+    "https://en.wikipedia.org/wiki/Acanthogyrus_intermedius",
+    "https://en.wikipedia.org/wiki/Acanthogyrus_anguillae",
+    "https://en.wikipedia.org/wiki/Acanthogyrus_maroccanus"
+  ],
+  "generated_at": "2026-01-04T09:50:35.548490"
+}

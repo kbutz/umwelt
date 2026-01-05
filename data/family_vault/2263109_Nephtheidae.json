@@ -1,0 +1,39 @@
+{
+  "family_name": "Nephtheidae",
+  "order_name": "Unknown",
+  "gbif_id": 2263109,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and prey; inferred from the presence of tentacles and polyp behavior.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Essential for prey detection and food capture using tentacles. Likely plays a role in detecting chemical cues in the water column.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The role of photoreception is currently unknown, but possible for entrainment of circadian rhythms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nephtheidae"
+  ],
+  "generated_at": "2026-01-04T13:02:58.311285"
+}

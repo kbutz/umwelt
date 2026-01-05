@@ -1,0 +1,44 @@
+{
+  "family_name": "Lineidae",
+  "order_name": "Nemertea",
+  "gbif_id": 6296,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As scavengers and predators in marine environments, Lineidae likely rely on chemoreception to locate food sources.",
+      "inferred_from_species": [
+        "Parborlasia corrugatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As worms living in marine environments, Lineidae likely possess mechanoreceptors for detecting physical stimuli and navigating their surroundings.",
+      "inferred_from_species": [
+        "Parborlasia corrugatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Lineidae are unknown from the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lineidae",
+    "https://en.wikipedia.org/wiki/Parborlasia_corrugatus"
+  ],
+  "generated_at": "2026-01-04T12:52:45.529190"
+}

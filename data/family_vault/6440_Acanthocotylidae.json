@@ -1,0 +1,40 @@
+{
+  "family_name": "Acanthocotylidae",
+  "order_name": "Monogenea",
+  "gbif_id": 6440,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for host detection, but specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for sensing water currents or host skin texture, but specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and function of photoreceptors are unknown in this family of skin parasites.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acanthocotylidae",
+    "https://en.wikipedia.org/wiki/Acanthocotyle_elegans"
+  ],
+  "generated_at": "2026-01-04T12:23:25.906071"
+}

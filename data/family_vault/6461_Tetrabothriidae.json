@@ -1,0 +1,39 @@
+{
+  "family_name": "Tetrabothriidae",
+  "order_name": "Tetrabothriidea",
+  "gbif_id": 6461,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As endoparasites in seabirds, cetaceans, and pinnipeds, Tetrabothriidae likely rely heavily on chemoreception to navigate their hosts' internal environment, find suitable attachment sites, and detect nutrients.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tapeworms need to sense their physical environment within the host. Mechanoreceptors help them maintain position and respond to host peristalsis.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally lost in endoparasitic tapeworms. No evidence suggests Tetrabothriidae possess eyespots or other visual structures.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetrabothriidae"
+  ],
+  "generated_at": "2026-01-04T12:28:54.033522"
+}

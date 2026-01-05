@@ -1,0 +1,50 @@
+{
+  "family_name": "Alepocephalidae",
+  "order_name": "Unspecified",
+  "gbif_id": 8477,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As deep-sea fish, the functionality and importance of vision are unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely uses a lateral line system to detect vibrations and pressure changes in the water, common in fish. Considering the bathypelagic habitat, this is likely a crucial sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to detect chemical cues in the water, which is important for finding food and mates in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is not explicitly mentioned in the provided text. Therefore its presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alepocephalidae",
+    "https://en.wikipedia.org/wiki/Bathyprion_danae",
+    "https://en.wikipedia.org/wiki/Xenodermichthys_copei"
+  ],
+  "generated_at": "2026-01-04T11:11:55.285658"
+}

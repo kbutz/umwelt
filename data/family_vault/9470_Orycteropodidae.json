@@ -1,0 +1,62 @@
+{
+  "family_name": "Orycteropodidae",
+  "order_name": "Tubulidentata",
+  "gbif_id": 9470,
+  "sensory_modalities": {
+    "olfaction": {
+      "presence": "common",
+      "notes": "Possess a long proboscis, similar to a pig's snout, which is used to sniff out food (ants and termites). Likely crucial for nocturnal foraging.",
+      "inferred_from_species": [
+        "Orycteropus afer"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Sharp claws and powerful legs used for digging insects out of their hills and creating burrows. Indicates sensitivity to touch and pressure.",
+      "inferred_from_species": [
+        "Orycteropus afer"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "No information provided. Likely important for predator avoidance and potentially intra-species communication, given nocturnal habits, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information provided. Nocturnal habits suggest vision may be less important than other senses, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "No information provided. Diet of ants and termites suggests taste may play a role in food selection, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Orycteropodidae",
+    "https://en.wikipedia.org/wiki/Aardvark"
+  ],
+  "generated_at": "2026-01-04T10:39:35.791316"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Lithoglyptidae",
+  "order_name": "Lithoglyptida",
+  "gbif_id": 9150,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Lithoglyptidae are currently unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Barnacles generally rely on mechanoreception to detect water movement and potential food sources. It is inferred that this family also possesses mechanoreceptive abilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Barnacles use chemoreception to detect chemical cues in the water, aiding in feeding and settlement. It is inferred that this family also uses chemoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lithoglyptidae"
+  ],
+  "generated_at": "2026-01-04T11:43:42.503580"
+}

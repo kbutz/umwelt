@@ -1,0 +1,39 @@
+{
+  "family_name": "Braconidae",
+  "order_name": "Hymenoptera",
+  "gbif_id": 6910,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present in most members, enabling them to locate hosts and navigate. Specific visual capabilities are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Essential for host location and recognition as parasitoid wasps. Details of specific compounds and receptors are unknown from the provided context, but it is a very common sense in insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Necessary for detecting vibrations, touch, and potentially sound for host location and orientation. Details unknown, but a standard insect sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Braconidae"
+  ],
+  "generated_at": "2026-01-04T11:53:20.647782"
+}

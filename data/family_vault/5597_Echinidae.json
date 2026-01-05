@@ -1,0 +1,40 @@
+{
+  "family_name": "Echinidae",
+  "order_name": "Camarodonta",
+  "gbif_id": 5597,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea urchins, including members of Echinidae, possess mechanoreceptors for detecting touch and vibrations. These are inferred to be common in the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea urchins, including members of Echinidae, likely use chemoreceptors to detect chemical cues in the water for finding food and mates. This is inferred to be common in the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of photoreception within the Echinidae family is currently unknown from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinidae",
+    "https://en.wikipedia.org/wiki/Dermechinus_horridus"
+  ],
+  "generated_at": "2026-01-04T12:04:25.821485"
+}

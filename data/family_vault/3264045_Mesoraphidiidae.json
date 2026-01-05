@@ -1,0 +1,39 @@
+{
+  "family_name": "Mesoraphidiidae",
+  "order_name": "Raphidiomorpha",
+  "gbif_id": 3264045,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available from provided text. Assuming insects have vision unless specified otherwise is risky.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information available from provided text. Common in insects, but cannot be stated for certain without more data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "No information available from provided text. Tactile and balance senses are likely present in most insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mesoraphidiidae"
+  ],
+  "generated_at": "2026-01-04T10:32:15.087414"
+}

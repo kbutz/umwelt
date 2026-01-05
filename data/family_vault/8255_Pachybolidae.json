@@ -1,0 +1,39 @@
+{
+  "family_name": "Pachybolidae",
+  "order_name": "Spirobolida",
+  "gbif_id": 8255,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but specific adaptations unknown. Further research needed to determine visual capabilities and range. Millipedes in general often have simple eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present and important for navigation, food detection, and mate recognition, as is common in millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting vibrations and touch, given their terrestrial lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pachybolidae"
+  ],
+  "generated_at": "2026-01-04T11:55:57.487110"
+}

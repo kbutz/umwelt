@@ -1,0 +1,39 @@
+{
+  "family_name": "Embiidae",
+  "order_name": "Embioptera",
+  "gbif_id": 2061,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Embiidae are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As webspinners, Embiidae likely possess mechanoreceptors for detecting vibrations in their silken webs. Details of range and sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception likely plays a role in foraging and mate location, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Embiidae"
+  ],
+  "generated_at": "2026-01-04T10:03:08.913719"
+}

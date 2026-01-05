@@ -1,0 +1,42 @@
+{
+  "family_name": "Plethodontidae",
+  "order_name": "Urodela",
+  "gbif_id": 6748,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely present in most species, although the degree of reliance may vary. No specific information available, assuming a general amphibian-like vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000.0,
+        "max": 750000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Salamanders rely heavily on chemoreception for prey detection, navigation, and social interactions. This includes both olfactory and gustatory senses. Family members are terrestrial, so environmental chemical gradients would be important.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception, including tactile senses and the detection of vibrations, is important for prey capture and predator avoidance. The arboreal and terrestrial habitats of many species suggest a reliance on tactile cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plethodontidae",
+    "https://en.wikipedia.org/wiki/Chiropterotriton_multidentatus",
+    "https://en.wikipedia.org/wiki/Chiropterotriton_priscus",
+    "https://en.wikipedia.org/wiki/Chiropterotriton_cracens"
+  ],
+  "generated_at": "2026-01-04T11:00:01.500110"
+}

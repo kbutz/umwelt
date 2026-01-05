@@ -1,0 +1,44 @@
+{
+  "family_name": "Acanthobdellidae",
+  "order_name": "Acanthobdellida",
+  "gbif_id": 3549,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ectoparasites feeding on fish, they likely possess mechanoreceptors to detect hosts and attach to their skin.",
+      "inferred_from_species": [
+        "Acanthobdella peledina"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for host detection.",
+      "inferred_from_species": [
+        "Acanthobdella peledina"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyes and visual capabilities is unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acanthobdellidae",
+    "https://en.wikipedia.org/wiki/Acanthobdella_peledina"
+  ],
+  "generated_at": "2026-01-04T11:15:05.524696"
+}

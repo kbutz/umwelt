@@ -1,0 +1,41 @@
+{
+  "family_name": "Scissurellidae",
+  "order_name": "Vetigastropoda",
+  "gbif_id": 2860,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities in Scissurellidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Scissurellidae likely use chemoreception to detect food and other chemicals in the water. This is inferred from the general biology of marine snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Scissurellidae likely use mechanoreception to sense their environment, including water currents, substrate vibrations, and physical contact. This is inferred from the general biology of marine snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scissurellidae",
+    "https://en.wikipedia.org/wiki/Incisura_lytteltonensis",
+    "https://en.wikipedia.org/wiki/Incisura_rosea"
+  ],
+  "generated_at": "2026-01-04T12:50:52.657570"
+}

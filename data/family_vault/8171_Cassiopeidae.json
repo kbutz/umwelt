@@ -1,0 +1,47 @@
+{
+  "family_name": "Cassiopeidae",
+  "order_name": "Unknown",
+  "gbif_id": 8171,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Members of this family require light for symbiotic dinoflagellates, suggesting the presence of photoreceptors. They live upside-down to maximize light exposure.",
+      "inferred_from_species": [
+        "Cassiopea xamachana"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Jellyfish use water currents for swimming and capturing prey, implying a sensitivity to water movement and physical contact.",
+      "inferred_from_species": [
+        "Cassiopea xamachana"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Implied by prey capture mechanisms and response to chemical cues in the water.",
+      "inferred_from_species": [
+        "Cassiopea xamachana"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cassiopeidae",
+    "https://en.wikipedia.org/wiki/Cassiopea_xamachana",
+    "https://en.wikipedia.org/wiki/Cassiopea_ndrosia"
+  ],
+  "generated_at": "2026-01-04T11:34:01.556061"
+}

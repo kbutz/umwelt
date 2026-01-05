@@ -1,0 +1,39 @@
+{
+  "family_name": "Coenagrionidae",
+  "order_name": "Odonata",
+  "gbif_id": 8577,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As Zygoptera (damselflies), members of Coenagrionidae likely rely heavily on vision for prey detection, mate recognition, and navigation. Details of specific visual capabilities within the family are unknown but inferred to be generally well-developed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Detection of water movement and vibrations through mechanoreceptors is inferred, enabling prey detection and predator avoidance in their aquatic larval stage. Sensory hairs likely play a role. No specific information is available regarding frequency ranges or specialized structures within Coenagrionidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and role of chemoreception in Coenagrionidae are currently unknown, but likely play a role in larval prey detection and oviposition site selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coenagrionidae"
+  ],
+  "generated_at": "2026-01-04T10:33:28.032494"
+}

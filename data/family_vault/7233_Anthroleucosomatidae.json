@@ -1,0 +1,39 @@
+{
+  "family_name": "Anthroleucosomatidae",
+  "order_name": "Chordeumatida",
+  "gbif_id": 7233,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in some species, but the prevalence across the family is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, they likely use chemoreception for navigation, food finding, and possibly communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes use mechanoreceptors for detecting vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthroleucosomatidae"
+  ],
+  "generated_at": "2026-01-04T11:08:53.531846"
+}

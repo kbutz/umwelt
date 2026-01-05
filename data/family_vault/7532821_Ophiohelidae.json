@@ -1,0 +1,39 @@
+{
+  "family_name": "Ophiohelidae",
+  "order_name": "Ophioscolecida",
+  "gbif_id": 7532821,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, Ophiohelidae likely possess mechanoreceptors to detect physical stimuli in their environment, aiding in movement, feeding, and predator avoidance. Inferred from general echinoderm biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreceptors to detect chemical cues in the water, which is crucial for locating food sources and potential mates. Inferred from general echinoderm biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and functionality of photoreceptors are unknown in this family. General echinoderms may have some light sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000,
+        "max": 750000000000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ophiohelidae"
+  ],
+  "generated_at": "2026-01-04T12:51:11.577571"
+}

@@ -1,0 +1,64 @@
+{
+  "family_name": "Psittaculidae",
+  "order_name": "Psittaciformes",
+  "gbif_id": 8482797,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Parrots are highly visual animals. Colour vision is likely important for foraging, social signalling, and mate choice. Extinct species, such as the Paradise Parrot (Psephotellus pulcherrimus) were noted for their colourful plumage.",
+      "inferred_from_species": [
+        "Psephotellus pulcherrimus",
+        "Psephotellus chrysopterygius",
+        "Lophopsittacus mauritianus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely plays a key role in communication, predator detection, and navigation, similar to most birds. Specific frequency ranges are unknown but inferred to be within typical avian ranges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100.0,
+        "max": 12000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities in parrots are not well-documented in the provided text. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste perception is likely present, influencing food selection. However, no specific information is given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Touch, pressure, and temperature sensitivity are expected for environmental interaction and social behavior (e.g., preening).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Psittaculidae",
+    "https://en.wikipedia.org/wiki/Psephotellus_pulcherrimus",
+    "https://en.wikipedia.org/wiki/Psephotellus_chrysopterygius",
+    "https://en.wikipedia.org/wiki/Lophopsittacus_mauritianus"
+  ],
+  "generated_at": "2026-01-04T11:48:35.887681"
+}

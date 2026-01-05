@@ -1,0 +1,39 @@
+{
+  "family_name": "Acrobothriidae",
+  "order_name": "Spathebothriidea",
+  "gbif_id": 4345364,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Acrobothriidae flatworms are generally poorly studied. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Acrobothriidae likely rely on chemoreception for detecting hosts and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely used for detecting water currents or host movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acrobothriidae"
+  ],
+  "generated_at": "2026-01-04T12:13:14.621155"
+}

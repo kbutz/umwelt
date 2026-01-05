@@ -1,0 +1,44 @@
+{
+  "family_name": "Cateriidae",
+  "order_name": "Cyclorhagida/Allomalorhagida",
+  "gbif_id": 9223,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As intertidal mud-dwelling animals, kinorhynchs likely rely on mechanoreception to navigate and detect prey in their environment. Further research is needed to determine specific mechanoreceptor types.",
+      "inferred_from_species": [
+        "Cateria gerlachi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "In the sandy intertidal habitat, chemoreception is likely crucial for locating food sources and detecting potential mates. Specific chemoreceptor types and sensitivities are unknown.",
+      "inferred_from_species": [
+        "Cateria gerlachi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception presence is uncertain as the provided context lacks information about visual structures or light sensitivity. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cateriidae",
+    "https://en.wikipedia.org/wiki/Cateria_gerlachi"
+  ],
+  "generated_at": "2026-01-04T13:00:58.750816"
+}

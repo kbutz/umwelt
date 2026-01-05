@@ -1,0 +1,49 @@
+{
+  "family_name": "Schendylidae",
+  "order_name": "Geophilomorpha",
+  "gbif_id": 4077,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As soil centipedes, Schendylidae likely rely on mechanoreception for navigating their environment and detecting prey. This is inferred from their lifestyle and the general sensory ecology of geophilomorph centipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Soil centipedes likely use chemoreception to locate prey and mates. This is inferred from their lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "hygroreception": {
+      "presence": "common",
+      "notes": "Soil centipedes are sensitive to moisture gradients. Hygroreception is important for avoiding dessication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of eyes are unknown in this family based on the provided context. Vision may be reduced or absent in soil-dwelling centipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Schendylidae",
+    "https://en.wikipedia.org/wiki/Nesonyx_flagellans"
+  ],
+  "generated_at": "2026-01-04T11:36:03.986063"
+}

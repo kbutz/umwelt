@@ -1,0 +1,42 @@
+{
+  "family_name": "Axinellidae",
+  "order_name": "Axinellida",
+  "gbif_id": 8129,
+  "sensory_modalities": {
+    "light_detection": {
+      "presence": "common",
+      "notes": "Some species within this family are photosynthetic and rely on symbiotic zooxanthellae. Therefore, they must be able to detect light levels to ensure sufficient photosynthesis. This indicates a basic light detection capability.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "water_flow_detection": {
+      "presence": "common",
+      "notes": "As sessile filter-feeders, Axinellidae likely possess the ability to detect water flow to optimize filter feeding. This is a common trait in sponges.",
+      "inferred_from_species": [
+        "Cymbastela stipitata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "chemical_detection": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect food particles and avoid harmful substances in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1000000000000000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Axinellidae",
+    "https://en.wikipedia.org/wiki/Cymbastela_stipitata"
+  ],
+  "generated_at": "2026-01-04T12:17:15.074553"
+}

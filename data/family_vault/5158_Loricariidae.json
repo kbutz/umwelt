@@ -1,0 +1,51 @@
+{
+  "family_name": "Loricariidae",
+  "order_name": "Siluriformes",
+  "gbif_id": 5158,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present in most species, though possibly reduced in some specialized species. Data is limited, but presumed functional.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present due to being fish. Given the presence of bony plates, lateral line may be specialized but is presumed functional. The catfish family possesses neuromasts sensitive to water movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Common in fish. Likely important for food detection and possibly social communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is common in Siluriformes, but context doesn't specify if Loricariidae possess this trait. Thus, it is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Loricariidae",
+    "https://en.wikipedia.org/wiki/Oligancistrus_punctatissimus",
+    "https://en.wikipedia.org/wiki/Lithogenes_villosus",
+    "https://en.wikipedia.org/wiki/Lithogenes_valencia"
+  ],
+  "generated_at": "2026-01-04T10:12:55.049550"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Daphniidae",
+  "order_name": "Anomopoda",
+  "gbif_id": 7513,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As water fleas, Daphniidae likely possess vision, although details are not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for sensing water movement and vibrations, common in aquatic invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreceptors for detecting chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daphniidae"
+  ],
+  "generated_at": "2026-01-04T09:59:49.232663"
+}

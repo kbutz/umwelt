@@ -1,0 +1,39 @@
+{
+  "family_name": "Hamacanthidae",
+  "order_name": "Merliida",
+  "gbif_id": 4906,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Hamacanthidae likely possess mechanoreceptors to detect water currents and changes in their environment. This is crucial for filter feeding and other essential functions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Hamacanthidae, rely on chemoreception to detect dissolved chemicals in the water, which is vital for feeding and identifying suitable substrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown whether Hamacanthidae have photoreceptors, given their lifestyle as sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hamacanthidae"
+  ],
+  "generated_at": "2026-01-04T12:31:23.987279"
+}

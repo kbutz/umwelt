@@ -1,0 +1,39 @@
+{
+  "family_name": "Perophoridae",
+  "order_name": "Phlebobranchia",
+  "gbif_id": 7351,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Perophoridae sea squirts are not detailed in the provided context. Vision presence and capabilities are therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities of Perophoridae sea squirts are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities of Perophoridae sea squirts are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Perophoridae"
+  ],
+  "generated_at": "2026-01-04T12:43:46.291611"
+}

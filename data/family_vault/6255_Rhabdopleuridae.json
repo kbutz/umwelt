@@ -1,0 +1,50 @@
+{
+  "family_name": "Rhabdopleuridae",
+  "order_name": "Rhabdopleurida",
+  "gbif_id": 6255,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sessile suspension feeders, they likely have mechanoreceptors to detect water currents and particles for feeding. Inferred given their feeding strategy.",
+      "inferred_from_species": [
+        "Rhabdopleura striata",
+        "Rhabdopleura annulata",
+        "Rhabdopleura normani"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreception to detect food particles and suitable locations for tube building. Inferred given their feeding strategy and sessile lifestyle.",
+      "inferred_from_species": [
+        "Rhabdopleura striata",
+        "Rhabdopleura annulata",
+        "Rhabdopleura normani"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available regarding vision in Rhabdopleuridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhabdopleurida",
+    "https://en.wikipedia.org/wiki/Rhabdopleura_striata",
+    "https://en.wikipedia.org/wiki/Rhabdopleura_annulata",
+    "https://en.wikipedia.org/wiki/Rhabdopleura_normani"
+  ],
+  "generated_at": "2026-01-04T12:32:21.346398"
+}

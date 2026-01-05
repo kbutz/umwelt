@@ -1,0 +1,39 @@
+{
+  "family_name": "Typhlotanaidae",
+  "order_name": "Tanaidacea",
+  "gbif_id": 4304171,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The prefix 'Typhlo-' often refers to blindness or reduced vision, which might suggest reduced or absent vision in this family. However, the presence and extent of vision remains unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Typhlotanaidae likely possess mechanoreceptors for detecting water currents, vibrations, and touch. This is inferred from the general sensory biology of crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans typically rely on chemoreception for food detection and mate recognition. This is inferred from the general sensory biology of crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Typhlotanaidae"
+  ],
+  "generated_at": "2026-01-04T11:41:29.088001"
+}

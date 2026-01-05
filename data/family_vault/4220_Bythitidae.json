@@ -1,0 +1,39 @@
+{
+  "family_name": "Bythitidae",
+  "order_name": "Ophidiiformes",
+  "gbif_id": 4220,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Most species likely possess functional vision, though some cave-dwelling species (e.g., Mexican blind brotula *Typhliasina pearsei*, *Lucifuga* species) have reduced or absent eyes. This suggests vision is generally important, but can be lost in specific habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating the environment, especially in deep-sea or cave habitats where vision may be limited. Common in fishes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system and inner ear for detecting water movement and sound. This is a standard sensory modality in fishes and likely important for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 2000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bythitidae"
+  ],
+  "generated_at": "2026-01-04T11:38:08.975830"
+}

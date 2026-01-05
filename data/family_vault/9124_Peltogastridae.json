@@ -1,0 +1,39 @@
+{
+  "family_name": "Peltogastridae",
+  "order_name": "Rhizocephala",
+  "gbif_id": 9124,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As parasitic barnacles in the infraclass Rhizocephala, known for extreme morphological simplification, the presence or absence of vision in Peltogastridae is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of chemoreception is unknown based on the provided context, but likely important for host finding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of mechanoreception is unknown based on the provided context, but likely important for host attachment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peltogastridae"
+  ],
+  "generated_at": "2026-01-04T10:09:54.415659"
+}

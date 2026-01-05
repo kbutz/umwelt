@@ -1,0 +1,39 @@
+{
+  "family_name": "Muricidae",
+  "order_name": "Neogastropoda",
+  "gbif_id": 2304120,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As predatory sea snails, Muricidae likely rely heavily on chemoreception to locate prey. Specifics about the receptors and ranges are unknown but inferred to be present for prey detection in marine environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting water currents, substrate vibrations, and physical contact. Details are unknown, but inferred from their benthic lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Muricidae are not explicitly stated in the provided context. General gastropod sensory biology suggests the likelihood of some photoreceptive abilities, but the extent is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Muricidae",
+    "https://en.wikipedia.org/wiki/Monstrotyphis_pauperis",
+    "https://en.wikipedia.org/wiki/Siphonochelus_solus",
+    "https://en.wikipedia.org/wiki/Prototyphis_eos"
+  ],
+  "generated_at": "2026-01-04T11:03:30.855165"
+}

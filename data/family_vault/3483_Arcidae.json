@@ -1,0 +1,41 @@
+{
+  "family_name": "Arcidae",
+  "order_name": "Not specified in context",
+  "gbif_id": 3483,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, ark clams likely possess chemoreceptors for detecting chemical cues in the water, which are used for feeding, predator avoidance, and reproduction. This is inferred, but typical for bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Ark clams likely have mechanoreceptors for detecting touch, pressure, and vibrations, crucial for burrowing, detecting predators, and sensing water currents. Inferred from other bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arcidae",
+    "https://en.wikipedia.org/wiki/Barbatia_reeveana",
+    "https://en.wikipedia.org/wiki/Barbatia_domingensis"
+  ],
+  "generated_at": "2026-01-04T12:44:46.744006"
+}

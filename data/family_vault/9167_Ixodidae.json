@@ -1,0 +1,40 @@
+{
+  "family_name": "Ixodidae",
+  "order_name": "Unknown",
+  "gbif_id": 9167,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities within the Ixodidae family are not detailed in the provided context. Further research is required to determine the prevalence and characteristics of vision in these ticks.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As ectoparasites, Ixodidae likely rely heavily on chemoreception to locate hosts. This inference is based on the general biology of ticks and ectoparasites.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Ticks are likely to use mechanoreception to detect the presence and movement of hosts. This inference is based on the general biology of ticks and ectoparasites.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ixodidae",
+    "https://en.wikipedia.org/wiki/Ixodes_persulcatus"
+  ],
+  "generated_at": "2026-01-04T11:44:04.701069"
+}

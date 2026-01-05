@@ -1,0 +1,46 @@
+{
+  "family_name": "Blenniidae",
+  "order_name": "Blenniiformes",
+  "gbif_id": 4251,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for foraging in coral reefs and identifying conspecifics. Found in tropical and subtropical waters in the Atlantic, Pacific and Indian Oceans.",
+      "inferred_from_species": [
+        "Atrosalarias hosokawai",
+        "Stanulus talboti",
+        "Stanulus seychellensis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as a standard sense for fish, used for detecting food and potentially conspecifics in aquatic environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system inferred to be present, allowing detection of water movement and pressure changes, important for predator avoidance and prey detection. General sense common to fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blenniidae",
+    "https://en.wikipedia.org/wiki/Atrosalarias_hosokawai",
+    "https://en.wikipedia.org/wiki/Stanulus_talboti",
+    "https://en.wikipedia.org/wiki/Stanulus_seychellensis"
+  ],
+  "generated_at": "2026-01-04T10:04:04.454549"
+}

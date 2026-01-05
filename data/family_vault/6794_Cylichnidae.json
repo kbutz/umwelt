@@ -1,0 +1,40 @@
+{
+  "family_name": "Cylichnidae",
+  "order_name": "Not Available",
+  "gbif_id": 6794,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Cylichnidae is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Cylichnidae likely rely on chemoreception to locate food and mates. However, no explicit mention is in the provided text. Inferred due to the general sensory ecology of marine gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Cylichnidae likely have mechanoreceptors for balance, orientation, and detecting water currents/substrate vibrations. However, no explicit mention is in the provided text. Inferred due to the general sensory ecology of marine gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cylichnidae",
+    "https://en.wikipedia.org/wiki/Cylichna_gouldii"
+  ],
+  "generated_at": "2026-01-04T09:48:37.344962"
+}

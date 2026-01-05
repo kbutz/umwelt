@@ -1,0 +1,50 @@
+{
+  "family_name": "Polyodontidae",
+  "order_name": "Acipenseriformes",
+  "gbif_id": 1,
+  "sensory_modalities": {
+    "electroreception": {
+      "presence": "common",
+      "notes": "Enhanced electroreception due to an elongated rostrum, used to detect prey in murky water.",
+      "inferred_from_species": [
+        "Polyodon spathula"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are not mentioned in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present as a general sense in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present as a general sense in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polyodontidae"
+  ],
+  "generated_at": "2026-01-04T11:17:10.967248"
+}

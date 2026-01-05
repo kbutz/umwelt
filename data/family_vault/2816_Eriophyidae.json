@@ -1,0 +1,40 @@
+{
+  "family_name": "Eriophyidae",
+  "order_name": "Unknown",
+  "gbif_id": 2816,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Microscopic size suggests potentially limited or absent vision, but data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As plant parasites, Eriophyidae likely rely on chemoreception to locate host plants and suitable feeding sites. The exact mechanisms are unknown, but this is inferred from their parasitic lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their small size and reliance on wind dispersal, mechanoreceptors are likely important for detecting air currents, navigating within plant tissues, and sensing suitable substrate for feeding and oviposition. The two pairs of legs also likely possess mechanoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eriophyidae",
+    "https://en.wikipedia.org/wiki/Colomerus_vitis"
+  ],
+  "generated_at": "2026-01-04T09:58:54.617025"
+}

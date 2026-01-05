@@ -1,0 +1,43 @@
+{
+  "family_name": "Tripylidae",
+  "order_name": "Enoplida",
+  "gbif_id": 6496,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes, in general, rely heavily on chemoreception for finding food, mates, and avoiding harmful substances. This is inferred for Tripylidae as a common nematode trait.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 1000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreceptors for sensing touch, pressure, and movement in their environment. Likely present in Tripylidae.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 1000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Tripylidae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tripylidae"
+  ],
+  "generated_at": "2026-01-04T10:30:09.581732"
+}

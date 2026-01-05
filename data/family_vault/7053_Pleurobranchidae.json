@@ -1,0 +1,42 @@
+{
+  "family_name": "Pleurobranchidae",
+  "order_name": "Pleurobranchida",
+  "gbif_id": 7053,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as they are marine gastropods, but no specific information is provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as they are sea slugs that feed on ascidians, which would require chemical cues for detection.",
+      "inferred_from_species": [
+        "Pleurobranchus areolatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for navigation and interaction with the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pleurobranchidae",
+    "https://en.wikipedia.org/wiki/Pleurobranchus_areolatus"
+  ],
+  "generated_at": "2026-01-04T12:53:39.254711"
+}

@@ -1,0 +1,41 @@
+{
+  "family_name": "Zenarchopteridae",
+  "order_name": "Beloniformes",
+  "gbif_id": 7193256,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Ray-finned fishes; vision is likely the primary sense for prey detection and navigation in aquatic environments. Assumed to be similar to other ray-finned fishes unless specified otherwise.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fish possess a lateral line system for detecting vibrations and pressure changes in the water. This is crucial for spatial awareness, predator avoidance, and potentially communication. Common in ray-finned fishes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish rely on both taste and smell to locate food, assess water quality, and potentially recognize individuals. Given the freshwater and brackish habitats of many species, chemoreception is likely well-developed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zenarchopteridae",
+    "https://en.wikipedia.org/wiki/Tondanichthys_kottelati",
+    "https://en.wikipedia.org/wiki/Hemirhamphodon_tengah"
+  ],
+  "generated_at": "2026-01-04T09:53:37.307870"
+}

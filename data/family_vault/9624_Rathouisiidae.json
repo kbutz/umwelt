@@ -1,0 +1,39 @@
+{
+  "family_name": "Rathouisiidae",
+  "order_name": "Pulmonata",
+  "gbif_id": 9624,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present to some degree, as they are land slugs and related to other slugs with vision. However, the extent and quality are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for prey detection and navigation, as they are carnivorous land slugs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for sensing the environment and potential prey. Present in the foot and other body parts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rathouisiidae"
+  ],
+  "generated_at": "2026-01-04T11:52:34.258194"
+}

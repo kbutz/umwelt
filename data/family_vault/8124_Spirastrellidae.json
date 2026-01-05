@@ -1,0 +1,39 @@
+{
+  "family_name": "Spirastrellidae",
+  "order_name": "Clionaida",
+  "gbif_id": 8124,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges lack a nervous system, but possess chemoreceptors enabling them to detect chemical signals in the water for feeding, reproduction, and defense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges can detect water flow and physical stimuli via specialized cells, although details are not readily available at the family level.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "Photosensitivity has been demonstrated in some sponges, but its prevalence and function in Spirastrellidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spirastrellidae"
+  ],
+  "generated_at": "2026-01-04T12:13:39.600750"
+}

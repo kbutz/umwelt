@@ -1,0 +1,59 @@
+{
+  "family_name": "Mustelidae",
+  "order_name": "Carnivora",
+  "gbif_id": 5307,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Mustelids generally possess functional vision, though its importance may vary across species depending on their activity patterns (diurnal, nocturnal, crepuscular). Further research would be needed to classify different species, such as the nocturnal Bornean ferret badger, by reliance on vision. The Javan ferret badger also lives in forested areas, potentially relying more on other senses.",
+      "inferred_from_species": [
+        "Melogale orientalis",
+        "Melogale everetti",
+        "Melogale moschata"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely crucial for foraging, communication, and navigation, especially in nocturnal or heavily vegetated habitats. Ferret-badgers forage on the ground for invertebrates, amphibians, insects, fruit, and carrion, so sense of smell is likely a key trait.",
+      "inferred_from_species": [
+        "Melogale everetti"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing likely plays a role in predator detection and communication. The nocturnal habits of some mustelids (e.g., Bornean ferret badger) suggest that auditory cues are important.",
+      "inferred_from_species": [
+        "Melogale everetti"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile senses, including the use of vibrissae (whiskers), are likely important for navigating their environment, particularly in low-light conditions and for prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mustelidae",
+    "https://en.wikipedia.org/wiki/Melogale_orientalis",
+    "https://en.wikipedia.org/wiki/Melogale_everetti",
+    "https://en.wikipedia.org/wiki/Melogale_moschata"
+  ],
+  "generated_at": "2026-01-04T10:19:59.167669"
+}

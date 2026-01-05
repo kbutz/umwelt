@@ -1,0 +1,48 @@
+{
+  "family_name": "Propeamussiidae",
+  "order_name": "Pectinida",
+  "gbif_id": 2742,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Propeamussiidae are currently unknown based on the provided text. Further research would be needed to determine if they possess eyes or other light-sensitive structures, and if so, their capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Propeamussiidae likely possess mechanoreceptors to detect vibrations and pressure changes in their environment. This would be crucial for predator detection and potentially for coordinating feeding or other behaviors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves typically use chemoreceptors to detect chemical cues in the water. This is important for locating food sources and assessing water quality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "statocysts": {
+      "presence": "common",
+      "notes": "Most bivalves possess statocysts to sense gravity and orientation. This is likely true for Propeamussiidae given their relatedness to scallops.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Propeamussiidae"
+  ],
+  "generated_at": "2026-01-04T12:34:57.225789"
+}

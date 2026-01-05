@@ -1,0 +1,45 @@
+{
+  "family_name": "Phyllostomidae",
+  "order_name": "Chiroptera",
+  "gbif_id": 9366,
+  "sensory_modalities": {
+    "echolocation": {
+      "presence": "common",
+      "notes": "Nasal echolocation is common, often associated with a nose-leaf structure that modifies and directs the echolocation call. This is thought to be present in most members but reduced in some nectar and pollen feeders.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20000.0,
+        "max": 110000.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely present, but the extent of its use relative to echolocation varies among species. Diets include fruit, nectar, and insects, suggesting some reliance on visual cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430.0,
+        "max": 770.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely important for finding food sources such as fruit, nectar, and insects. Flower bats such as Erophylla species would likely rely on olfactory cues to locate flowers.",
+      "inferred_from_species": [
+        "Erophylla sezekorni",
+        "Erophylla bombifrons"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phyllostomidae",
+    "https://en.wikipedia.org/wiki/Centurio_senex",
+    "https://en.wikipedia.org/wiki/Erophylla_sezekorni",
+    "https://en.wikipedia.org/wiki/Erophylla_bombifrons"
+  ],
+  "generated_at": "2026-01-04T10:20:48.484323"
+}

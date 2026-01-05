@@ -1,0 +1,62 @@
+{
+  "family_name": "Cathartidae",
+  "order_name": "Not specified",
+  "gbif_id": 3242141,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is crucial for locating carrion. New World vultures find carcasses visually, similar to Old World vultures, showcasing convergent evolution. Bald head and neck are adaptations related to feeding on carrion, suggesting reliance on visual cues to find food.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Some species (Cathartes sp.) have a good sense of smell for locating carcasses. This is a distinguishing feature from Old World vultures, which rely solely on sight.",
+      "inferred_from_species": [
+        "Cathartes sp."
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste/gustation": {
+      "presence": "unknown",
+      "notes": "While they can likely taste, there is no available information about the specific taste receptors or preferences in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing/audition": {
+      "presence": "unknown",
+      "notes": "There is no information about hearing range or capabilities in the provided texts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch/somatosensation": {
+      "presence": "unknown",
+      "notes": "There is no specific information on tactile sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cathartidae",
+    "https://en.wikipedia.org/wiki/Vultur_gryphus",
+    "https://en.wikipedia.org/wiki/Gymnogyps_californianus",
+    "https://en.wikipedia.org/wiki/Sarcoramphus_papa"
+  ],
+  "generated_at": "2026-01-04T12:08:44.284406"
+}

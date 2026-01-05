@@ -1,0 +1,46 @@
+{
+  "family_name": "Brissidae",
+  "order_name": "Spatangoida",
+  "gbif_id": 9528,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "The armour of Brissidae is covered in spines, suggesting a reliance on mechanoreception to sense the environment and potentially detect predators or prey. Given their burrowing lifestyle, this sense is likely important for navigation and interaction with the substrate.",
+      "inferred_from_species": [
+        "Brissus unicolor",
+        "Brissus latecarinatus",
+        "Meoma ventricosa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present but not explicitly mentioned in the provided context. Echinoderms generally possess chemosensory abilities for food detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception capabilities are unknown. While some echinoderms possess light-sensing abilities, the extent and nature of this sense in Brissidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brissidae",
+    "https://en.wikipedia.org/wiki/Brissus_unicolor",
+    "https://en.wikipedia.org/wiki/Brissus_latecarinatus",
+    "https://en.wikipedia.org/wiki/Meoma_ventricosa"
+  ],
+  "generated_at": "2026-01-04T11:57:48.116196"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Minchinellidae",
+  "order_name": "Lithonida",
+  "gbif_id": 3772,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for basic environmental awareness, but specific mechanisms are unknown in the context provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for filter feeding and environmental sensing, but specific mechanisms are unknown in the context provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreception is unknown in the context provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Minchinellidae"
+  ],
+  "generated_at": "2026-01-04T10:02:29.650185"
+}

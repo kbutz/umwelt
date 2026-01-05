@@ -1,0 +1,59 @@
+{
+  "family_name": "Trachipteridae",
+  "order_name": "Lampriformes",
+  "gbif_id": 7675,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, given that they are not described as living in lightless environments, inhabiting epipelagic to mesopelagic zones. Size of eye, acuity, and spectral sensitivity is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line with heavy spines suggests sensitivity to water movement and pressure changes. They also have numerous lumps in the skin which may have a sensory function.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present, as it is a common feature in fish. However, the sensitivity and role are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No information is available regarding electroreception in Trachipteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Hearing ability is unknown for this family. The presence or absence of specialized structures for hearing has not been described.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trachipteridae",
+    "https://en.wikipedia.org/wiki/Desmodema_polystictum",
+    "https://en.wikipedia.org/wiki/Trachipterus_fukuzakii"
+  ],
+  "generated_at": "2026-01-04T11:25:27.612707"
+}

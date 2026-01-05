@@ -1,0 +1,51 @@
+{
+  "family_name": "Gruidae",
+  "order_name": "Gruiformes",
+  "gbif_id": 9313,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Cranes have well-developed vision, important for foraging, predator detection, and navigation during long-distance migration. Their plumage is typically muted gray or white with black markings and red bare patches on the face.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is crucial for communication, especially in gregarious flocks. Their calls are likely important for mate attraction, territorial defense, and coordinating movements within flocks. Species have differences in calls.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile senses are important for foraging, nest building, and social interactions. They use their long legs and necks for probing and manipulating objects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The role of smell and taste in cranes is unknown, but it likely plays a role in food selection and potentially social signaling.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gruidae",
+    "https://en.wikipedia.org/wiki/Bugeranus_carunculatus",
+    "https://en.wikipedia.org/wiki/Anthropoides_virgo",
+    "https://en.wikipedia.org/wiki/Anthropoides_paradiseus"
+  ],
+  "generated_at": "2026-01-04T12:00:44.851553"
+}

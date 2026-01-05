@@ -1,0 +1,58 @@
+{
+  "family_name": "Rallidae",
+  "order_name": "Gruiformes",
+  "gbif_id": 9342,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Rails generally have good vision, useful for foraging and navigating complex wetland environments. Color vision is likely present but not explicitly stated in given sources.",
+      "inferred_from_species": [
+        "Fulica atra",
+        "Cyanolimnas cerverai"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is important for communication and predator detection. Vocalizations are known, though frequency range is not specified in the provided context.",
+      "inferred_from_species": [
+        "Cyanolimnas cerverai"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Tactile senses are important for foraging in dense vegetation and nesting. They build nests (Eulabeornis castaneoventris) implying tactile sensitivity.",
+      "inferred_from_species": [
+        "Eulabeornis castaneoventris"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities in rails are not mentioned in the provided context. It is unknown whether they rely heavily on scent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rallidae",
+    "https://en.wikipedia.org/wiki/Cyanolimnas_cerverai",
+    "https://en.wikipedia.org/wiki/Eulabeornis_castaneoventris",
+    "https://en.wikipedia.org/wiki/Fulica_atra"
+  ],
+  "generated_at": "2026-01-04T12:00:35.472614"
+}

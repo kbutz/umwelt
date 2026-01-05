@@ -1,0 +1,76 @@
+{
+  "family_name": "Dromornithidae",
+  "order_name": "Galloanserae",
+  "gbif_id": 4851589,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely possessed functional vision, similar to extant flightless birds like emus and ostriches, although specific visual capabilities are unknown. Diurnal herbivorous lifestyle infers importance of vision for foraging and predator avoidance.",
+      "inferred_from_species": [
+        "Ilbandornis woodburnei",
+        "Dromornis stirtoni",
+        "Genyornis newtoni"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing likely plays a role in predator detection and intraspecific communication. No specific data on auditory range.",
+      "inferred_from_species": [
+        "Ilbandornis woodburnei",
+        "Dromornis stirtoni",
+        "Genyornis newtoni"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The extent of olfactory capabilities in dromornithids is unknown. Fowl typically have a less developed sense of smell, but the large size and herbivorous diet of dromornithids could have influenced olfactory requirements.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Likely possesses taste receptors for basic taste categories, similar to other avian species. Important for diet selection as herbivores.",
+      "inferred_from_species": [
+        "Ilbandornis woodburnei",
+        "Dromornis stirtoni",
+        "Genyornis newtoni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation important for general awareness and interaction with the environment. Feather coverage would likely influence tactile sensitivity.",
+      "inferred_from_species": [
+        "Ilbandornis woodburnei",
+        "Dromornis stirtoni",
+        "Genyornis newtoni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dromornithidae",
+    "https://en.wikipedia.org/wiki/Ilbandornis_woodburnei",
+    "https://en.wikipedia.org/wiki/Dromornis_stirtoni",
+    "https://en.wikipedia.org/wiki/Genyornis_newtoni"
+  ],
+  "generated_at": "2026-01-04T10:18:19.859441"
+}

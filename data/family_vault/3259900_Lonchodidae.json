@@ -1,0 +1,39 @@
+{
+  "family_name": "Lonchodidae",
+  "order_name": "Phasmatodea",
+  "gbif_id": 3259900,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities within Lonchodidae are currently unknown. Further research is needed to determine the prevalence and characteristics of vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As stick insects, Lonchodidae likely possess mechanoreceptors for detecting vibrations and tactile stimuli. These are crucial for maintaining balance, navigating their environment, and detecting potential predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The use of chemoreception for food source detection and mate recognition is unknown in Lonchodidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lonchodidae"
+  ],
+  "generated_at": "2026-01-04T11:54:27.208377"
+}

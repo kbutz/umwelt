@@ -1,0 +1,40 @@
+{
+  "family_name": "Neelidae",
+  "order_name": "Neelipleona",
+  "gbif_id": 3690,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Neelidae is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As springtails, they likely use chemoreception for finding food and mates, although this is inferred due to the lack of specific sensory information in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As springtails, they likely use mechanoreception for sensing their environment, although this is inferred due to the lack of specific sensory information in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neelidae",
+    "https://en.wikipedia.org/wiki/Megalothorax_minimus"
+  ],
+  "generated_at": "2026-01-04T12:54:37.288537"
+}

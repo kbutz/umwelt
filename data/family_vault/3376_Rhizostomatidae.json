@@ -1,0 +1,41 @@
+{
+  "family_name": "Rhizostomatidae",
+  "order_name": "Scyphozoa",
+  "gbif_id": 3376,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are not specified in the provided context. Further research is needed to determine the presence and nature of vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, Rhizostomatidae likely possess basic mechanoreceptors for sensing touch and water currents. This is crucial for their movement and prey capture, though specific details for this family are unavailable in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Similar to other jellyfish, Rhizostomatidae likely use chemoreceptors to detect chemical cues in the water, aiding in prey detection and navigation. Specific details on the types and sensitivity of chemoreceptors are not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhizostomatidae",
+    "https://en.wikipedia.org/wiki/Nemopilema_nomurai",
+    "https://en.wikipedia.org/wiki/Eupilema_inexpectata"
+  ],
+  "generated_at": "2026-01-04T11:34:11.107185"
+}

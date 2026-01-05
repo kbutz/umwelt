@@ -1,0 +1,39 @@
+{
+  "family_name": "Anisolabididae",
+  "order_name": "Dermaptera",
+  "gbif_id": 2796,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Anisolabididae earwigs are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As earwigs, members of Anisolabididae likely rely on mechanoreception for detecting vibrations and tactile information. This is inferred from related Dermaptera families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for finding food and mates. This is inferred from related Dermaptera families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anisolabididae"
+  ],
+  "generated_at": "2026-01-04T11:28:37.619947"
+}

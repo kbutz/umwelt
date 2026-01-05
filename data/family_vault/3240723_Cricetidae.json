@@ -1,0 +1,64 @@
+{
+  "family_name": "Cricetidae",
+  "order_name": "Rodentia",
+  "gbif_id": 3240723,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present in most members, though details of acuity and color vision are unknown at this family level. No information about loss or specialization.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Presumed to be well-developed, as with most rodents. Used in foraging, social behavior and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 10000000000
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is likely important for communication and predator detection. Range data is not available from provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sense likely well-developed, especially vibrissae for navigating environments. Some species are semiaquatic (Ichthyomys spp.) and may have specialized adaptations.",
+      "inferred_from_species": [
+        "Ichthyomys tweedii",
+        "Ichthyomys pittieri",
+        "Ichthyomys stolzmanni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste is likely present, though specific details are unknown. Given dietary diversity, some specialization may exist.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cricetidae",
+    "https://en.wikipedia.org/wiki/Ichthyomys_tweedii",
+    "https://en.wikipedia.org/wiki/Ichthyomys_pittieri",
+    "https://en.wikipedia.org/wiki/Ichthyomys_stolzmanni"
+  ],
+  "generated_at": "2026-01-04T11:54:08.617431"
+}

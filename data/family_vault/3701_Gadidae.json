@@ -1,0 +1,44 @@
+{
+  "family_name": "Gadidae",
+  "order_name": "Gadiformes",
+  "gbif_id": 3701,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely important for schooling and prey detection in Gadidae, which are generally found in temperate, subtropical, subarctic, and Arctic oceans.",
+      "inferred_from_species": [
+        "Boreogadus saida",
+        "Gadus chalcogrammus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Gadids possess barbels on their chins, which they use while browsing on the sea floor. These barbels likely contain chemoreceptors for detecting prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, Gadidae likely possess a lateral line system for detecting changes in water pressure and movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gadidae",
+    "https://en.wikipedia.org/wiki/Boreogadus_saida",
+    "https://en.wikipedia.org/wiki/Gadus_chalcogrammus"
+  ],
+  "generated_at": "2026-01-04T10:01:21.904773"
+}

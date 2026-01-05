@@ -1,0 +1,40 @@
+{
+  "family_name": "Callochitonidae",
+  "order_name": "Chitonida",
+  "gbif_id": 4370333,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to sight in Callochitonidae are currently unknown based on the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As members of Chitonida, Callochitonidae likely possess chemoreceptors for detecting chemical cues in their environment. Specific chemoreception modalities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As members of Chitonida, Callochitonidae likely possess mechanoreceptors for detecting tactile and proprioceptive stimuli. Specific mechanoreception modalities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callochitonidae",
+    "https://en.wikipedia.org/wiki/Eudoxochiton_nobilis"
+  ],
+  "generated_at": "2026-01-04T12:57:14.738959"
+}

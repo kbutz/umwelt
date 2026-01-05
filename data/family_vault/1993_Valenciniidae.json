@@ -1,0 +1,40 @@
+{
+  "family_name": "Valenciniidae",
+  "order_name": "Heteronemertea",
+  "gbif_id": 1993,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Valenciniidae are currently unknown based on available data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As nemerteans, Valenciniidae likely rely on chemoreception for prey detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As nemerteans, Valenciniidae likely possess mechanoreceptors for detecting tactile stimuli and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valenciniidae",
+    "https://en.wikipedia.org/wiki/Poliopsis_lacazei"
+  ],
+  "generated_at": "2026-01-04T12:52:53.702274"
+}

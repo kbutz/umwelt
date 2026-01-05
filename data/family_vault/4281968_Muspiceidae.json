@@ -1,0 +1,30 @@
+{
+  "family_name": "Muspiceidae",
+  "order_name": "Muspiceida",
+  "gbif_id": 4281968,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely heavily on chemoreception for finding food, mates, and suitable environments. This is inferred to be present in Muspiceidae as a fundamental trait of nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes possess mechanoreceptors for sensing touch, pressure, and movement. This is inferred to be present in Muspiceidae as a fundamental trait of nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Muspiceidae"
+  ],
+  "generated_at": "2026-01-04T13:01:42.755935"
+}

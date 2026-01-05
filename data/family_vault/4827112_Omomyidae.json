@@ -1,0 +1,51 @@
+{
+  "family_name": "Omomyidae",
+  "order_name": "Primates",
+  "gbif_id": 4827112,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As primates, omomyids likely relied heavily on vision. Given their possible relation to Tarsiiformes (specifically tarsiers), they might have possessed relatively large eyes for nocturnal or crepuscular activity, although this is speculative based on the limited context. Further research is needed to confirm specific visual adaptations.",
+      "inferred_from_species": [
+        "Tarsiiformes"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing was likely an important sense for omomyids, for communication and predator avoidance. Specific frequency ranges and adaptations are unknown, but assumed to be within the typical mammalian range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Smell likely played a role in omomyid sensory ecology, though likely less so than vision. The extent of olfactory reliance is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile senses were undoubtedly present in omomyids, important for object manipulation, social interaction, and navigation within their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Omomyidae",
+    "https://en.wikipedia.org/wiki/Altiatlasius_koulchii"
+  ],
+  "generated_at": "2026-01-04T10:37:10.485646"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Bugulidae",
+  "order_name": "Cheilostomatida",
+  "gbif_id": 2105,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and substrate vibrations, but detailed information is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Presumably used for detecting food sources and chemical cues in the water, but specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and function of photoreceptors are unknown. Some bryozoans may possess simple light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bugulidae"
+  ],
+  "generated_at": "2026-01-04T09:50:10.178780"
+}

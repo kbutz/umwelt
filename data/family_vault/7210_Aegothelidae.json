@@ -1,0 +1,47 @@
+{
+  "family_name": "Aegothelidae",
+  "order_name": "Unknown",
+  "gbif_id": 7210,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Owlet-nightjars are crepuscular, suggesting good vision in low light conditions. They are known to hawk insects in the air.",
+      "inferred_from_species": [
+        "Aegotheles savesi",
+        "Aegotheles bennettii"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Other owlet-nightjar species make churring and whistling sounds, suggesting that they can likely hear those sounds. Species observed 'hawking' in trees to feed on insects indicates that they can hear their insect prey.",
+      "inferred_from_species": [
+        "Aegotheles savesi"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Possess prominent whiskers around their tiny bill. These likely provide tactile information for catching insects, especially in low light.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aegothelidae",
+    "https://en.wikipedia.org/wiki/Aegotheles_bennettii",
+    "https://en.wikipedia.org/wiki/Aegotheles_savesi",
+    "https://en.wikipedia.org/wiki/Aegotheles_wallacii"
+  ],
+  "generated_at": "2026-01-04T11:49:59.830558"
+}

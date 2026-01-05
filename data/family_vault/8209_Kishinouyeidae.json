@@ -1,0 +1,44 @@
+{
+  "family_name": "Kishinouyeidae",
+  "order_name": "Stauromedusae",
+  "gbif_id": 8209,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Kishinouyeidae are not detailed in provided context. As jellyfish, they likely possess some form of light sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As inhabitants of rocky intertidal and sublittoral zones, mechanoreception for balance and detecting water currents is inferred to be common.",
+      "inferred_from_species": [
+        "Calvadosia cruxmelitensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is inferred to be present for prey detection.",
+      "inferred_from_species": [
+        "Calvadosia cruxmelitensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kishinouyeidae",
+    "https://en.wikipedia.org/wiki/Calvadosia_cruxmelitensis"
+  ],
+  "generated_at": "2026-01-04T11:33:42.138542"
+}

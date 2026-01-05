@@ -1,0 +1,39 @@
+{
+  "family_name": "Amphilinidae",
+  "order_name": "Amphilinidea",
+  "gbif_id": 3025,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As flatworms living in body cavities, Amphilinids likely rely on mechanoreception to navigate their environment and detect host cues. The presence of a muscular proboscis at the anterior end suggests a potential for tactile sensing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Parasitic flatworms such as Amphilinids often employ chemoreception to locate hosts and nutrients within the host's body. This is crucial for survival in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "It is unknown if Amphilinids possess eyespots or any form of vision. Given their parasitic lifestyle in body cavities, vision may be absent or greatly reduced.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphilinidae"
+  ],
+  "generated_at": "2026-01-04T09:54:50.847956"
+}

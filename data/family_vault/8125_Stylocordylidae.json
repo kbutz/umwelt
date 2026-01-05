@@ -1,0 +1,39 @@
+{
+  "family_name": "Stylocordylidae",
+  "order_name": "Suberitida",
+  "gbif_id": 8125,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As sponges, Stylocordylidae likely possess mechanosensory abilities to detect water currents and physical stimuli. This is inferred from the general physiology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect food particles and other chemical signals in the water. This is a fundamental aspect of their filter-feeding lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photosensitivity": {
+      "presence": "unknown",
+      "notes": "Photosensitivity in Stylocordylidae is unknown. Sponges generally lack complex visual systems, and the presence of light-sensitive cells in this family has not been documented.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stylocordylidae"
+  ],
+  "generated_at": "2026-01-04T12:17:50.087598"
+}

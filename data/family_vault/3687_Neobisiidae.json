@@ -1,0 +1,39 @@
+{
+  "family_name": "Neobisiidae",
+  "order_name": "Pseudoscorpiones",
+  "gbif_id": 3687,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Pseudoscorpions generally rely on tactile senses and vibration detection through setae on their bodies and pedipalps to navigate their environment and detect prey. This is likely true for Neobisiidae, given their diverse habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Pseudoscorpions use chemoreceptors on their pedipalps and other appendages to detect chemical cues in their environment, which aids in prey detection, mate finding, and orientation. This is likely a crucial sense for Neobisiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "While some pseudoscorpions possess simple eyes (ocelli), their presence and functionality in Neobisiidae are not clearly stated in the provided context. Vision might be reduced or absent, especially in cave-dwelling species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neobisiidae"
+  ],
+  "generated_at": "2026-01-04T11:23:09.253713"
+}

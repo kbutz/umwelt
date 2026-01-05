@@ -1,0 +1,51 @@
+{
+  "family_name": "Meinertellidae",
+  "order_name": "Archaeognatha",
+  "gbif_id": 3783,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Diurnally active (Machilinus aurantiacus) suggests reliance on vision, but the precise capabilities are unknown. Presence of silvery scales in Machilinus aurantiacus could influence visual perception, though this is more likely for camouflage and thermoregulation.",
+      "inferred_from_species": [
+        "Machilinus aurantiacus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presence of antennae suggests mechanoreception and possibly chemoreception. The text mentions 'scales at the base of the legs and antennae' are lacking, meaning they otherwise DO possess antennae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "hygroreception": {
+      "presence": "inferred",
+      "notes": "Adaptation to wet environments like the Amazon rainforest implies a sensitivity to humidity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Use of antennae likely plays a role in chemical sensing, aiding in finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Meinertellidae",
+    "https://en.wikipedia.org/wiki/Machilinus_aurantiacus"
+  ],
+  "generated_at": "2026-01-04T11:28:04.114872"
+}

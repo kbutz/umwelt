@@ -1,0 +1,39 @@
+{
+  "family_name": "Molgulidae",
+  "order_name": "Ascidiacea",
+  "gbif_id": 9304,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Molgulidae are not detailed in the provided context. Mechanoreception, the ability to detect physical stimuli, is likely present, as it is a common sense in marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception, the ability to detect chemical stimuli, is likely present for feeding and other purposes, but specific details are not available in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception, or light sensitivity, may be limited or absent in Molgulidae, but the details are not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Molgulidae"
+  ],
+  "generated_at": "2026-01-04T12:41:44.074857"
+}

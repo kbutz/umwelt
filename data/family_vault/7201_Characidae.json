@@ -1,0 +1,44 @@
+{
+  "family_name": "Characidae",
+  "order_name": "Characiformes",
+  "gbif_id": 7201,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Characidae possess well-developed vision for detecting prey and navigating their environment. Some species, like Deuterodon heterostomus, may use visual mimicry for predation.",
+      "inferred_from_species": [
+        "Probolodus heterostomus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to detect food and other chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Possess a lateral line system for detecting vibrations and pressure changes in the water, aiding in predator avoidance and prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Characidae",
+    "https://en.wikipedia.org/wiki/Probolodus_heterostomus",
+    "https://en.wikipedia.org/wiki/Oxybrycon_parvulus",
+    "https://en.wikipedia.org/wiki/Carlana_eigenmanni"
+  ],
+  "generated_at": "2026-01-04T09:56:34.578225"
+}

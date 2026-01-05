@@ -1,0 +1,39 @@
+{
+  "family_name": "Cylindroleberididae",
+  "order_name": "Unknown",
+  "gbif_id": 5674,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No data on vision is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine ostracods, they likely possess mechanoreceptors for detecting water currents and vibrations, though specific structures are not described in the context. The baleen-comb on the maxilla may have sensory function.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for food detection and mate recognition in the marine environment. No specific structures are described in the context, but it is a common sensory modality in marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cylindroleberididae"
+  ],
+  "generated_at": "2026-01-04T11:45:32.299667"
+}

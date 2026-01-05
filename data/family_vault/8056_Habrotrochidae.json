@@ -1,0 +1,39 @@
+{
+  "family_name": "Habrotrochidae",
+  "order_name": "Bdelloida",
+  "gbif_id": 8056,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are generally poorly documented at the family level for rotifers. Visual capabilities, if present, are unknown in detail.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As microscopic aquatic organisms, rotifers rely heavily on chemoreception for finding food and mates. This is inferred but considered common to all rotifers.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely crucial for detecting water currents and substrate vibrations, aiding in locomotion and feeding. Inferred presence based on general rotifer biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Habrotrochidae"
+  ],
+  "generated_at": "2026-01-04T11:31:32.889552"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Ascopariidae",
+  "order_name": "Nemertodermatida",
+  "gbif_id": 1969,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory abilities of nemertodermatids related to touch, pressure, and substrate vibration are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemosensory capabilities, used for detecting chemical cues in the environment, are unknown in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of light sensitivity and photoreceptors in Ascopariidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ascopariidae"
+  ],
+  "generated_at": "2026-01-04T12:25:33.912129"
+}

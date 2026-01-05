@@ -1,0 +1,31 @@
+{
+  "family_name": "Bothidae",
+  "order_name": "Pleuronectiformes",
+  "gbif_id": 8608,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Bothidae are lefteye flounders, with both eyes typically located on the left side of their body, indicating the importance of vision for prey detection and navigation. Specific visual capabilities like color vision or UV sensitivity are unknown, but the presence of eyes suggests a functional visual system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, Bothidae likely possess a lateral line system for detecting vibrations and pressure changes in the water. This is inferred, but a common trait for fish and essential for awareness in their environment. Additionally, the presence of spines on the snout and near the eyes might function in sensing the immediate surroundings.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bothidae",
+    "https://en.wikipedia.org/wiki/Japonolaeops_dentatus"
+  ],
+  "generated_at": "2026-01-04T10:04:34.827317"
+}

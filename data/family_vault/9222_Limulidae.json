@@ -1,0 +1,52 @@
+{
+  "family_name": "Limulidae",
+  "order_name": "Xiphosura",
+  "gbif_id": 9222,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Horseshoe crabs possess multiple eyes located on the cephalothorax. Specific details on spectral sensitivity are unavailable in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arthropods living in marine and brackish environments, horseshoe crabs likely possess mechanoreceptors for detecting water currents and substrate vibrations. Specifics are not detailed in the provided text, but inferred from their lifestyle.",
+      "inferred_from_species": [
+        "Limulus polyphemus",
+        "Tachypleus gigas",
+        "Tachypleus tridentatus",
+        "Carcinoscorpius rotundicauda"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Given their benthic lifestyle and scavenging habits (inferred from being used as bait), chemoreception is likely important for locating food. Specific details are not available in the provided text.",
+      "inferred_from_species": [
+        "Limulus polyphemus",
+        "Tachypleus gigas",
+        "Tachypleus tridentatus",
+        "Carcinoscorpius rotundicauda"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Limulidae",
+    "https://en.wikipedia.org/wiki/Tachypleus_gigas",
+    "https://en.wikipedia.org/wiki/Tachypleus_tridentatus",
+    "https://en.wikipedia.org/wiki/Limulus_polyphemus"
+  ],
+  "generated_at": "2026-01-04T12:23:35.427100"
+}

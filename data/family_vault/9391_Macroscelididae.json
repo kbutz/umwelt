@@ -1,0 +1,51 @@
+{
+  "family_name": "Macroscelididae",
+  "order_name": "Macroscelidea",
+  "gbif_id": 9391,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely important for navigation and predator avoidance in diverse habitats, from deserts to forests.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "The long nose suggests a reliance on olfaction, potentially for foraging insects and navigating complex environments. This is further implied by the common name 'elephant shrew'.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely used for predator detection and communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sense is likely important, especially in the snout area, for exploring the environment and locating insect prey. ",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macroscelididae",
+    "https://en.wikipedia.org/wiki/Elephantulus_rozeti",
+    "https://en.wikipedia.org/wiki/Elephantulus_intufi",
+    "https://en.wikipedia.org/wiki/Elephantulus_fuscipes"
+  ],
+  "generated_at": "2026-01-04T11:51:45.011151"
+}

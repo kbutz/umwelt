@@ -1,0 +1,39 @@
+{
+  "family_name": "Ctenophthalmidae",
+  "order_name": "Siphonaptera",
+  "gbif_id": 3259516,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Ctenophthalmidae fleas are not mentioned in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fleas in general rely on chemoreception to find hosts. While not explicitly stated, it is inferred as a common sensory modality for host detection and potentially mate finding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fleas likely use mechanoreceptors to detect vibrations or air currents related to host presence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ctenophthalmidae"
+  ],
+  "generated_at": "2026-01-04T11:40:22.322343"
+}

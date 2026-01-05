@@ -1,0 +1,39 @@
+{
+  "family_name": "Spathebothriidae",
+  "order_name": "Spathebothriidea",
+  "gbif_id": 4282339,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Spathebothriidae likely rely heavily on chemoreception for finding hosts and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and physical contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyespots or more complex visual structures is currently unknown for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spathebothriidae"
+  ],
+  "generated_at": "2026-01-04T12:13:22.436835"
+}

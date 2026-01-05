@@ -1,0 +1,40 @@
+{
+  "family_name": "Viviparidae",
+  "order_name": "Not Available",
+  "gbif_id": 2855,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As freshwater snails, chemoreception is likely important for finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used to detect vibrations and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Viviparidae",
+    "https://en.wikipedia.org/wiki/Campeloma_decampi"
+  ],
+  "generated_at": "2026-01-04T09:48:58.964775"
+}

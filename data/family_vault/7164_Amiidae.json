@@ -1,0 +1,41 @@
+{
+  "family_name": "Amiidae",
+  "order_name": "Unknown",
+  "gbif_id": 7164,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, as they are ray-finned fishes. Eyespot bowfin suggests visual signaling, implying good vision.",
+      "inferred_from_species": [
+        "Amia ocellicauda"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Typical for ray-finned fishes in aquatic environments. Likely includes lateral line system for detecting water movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Typical for ray-finned fishes in aquatic environments; used for detecting chemical cues in water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amiidae"
+  ],
+  "generated_at": "2026-01-04T09:51:26.426947"
+}

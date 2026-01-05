@@ -1,0 +1,42 @@
+{
+  "family_name": "Haliotidae",
+  "order_name": "Not provided in context",
+  "gbif_id": 3245014,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Haliotidae are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities in Haliotidae are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities in Haliotidae are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haliotidae",
+    "https://en.wikipedia.org/wiki/Haliotis_corrugata",
+    "https://en.wikipedia.org/wiki/Haliotis_sorenseni",
+    "https://en.wikipedia.org/wiki/Haliotis_dalli"
+  ],
+  "generated_at": "2026-01-04T12:51:03.281383"
+}

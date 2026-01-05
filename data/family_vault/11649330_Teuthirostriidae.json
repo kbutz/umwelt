@@ -1,0 +1,43 @@
+{
+  "family_name": "Teuthirostriidae",
+  "order_name": "Unknown",
+  "gbif_id": 11649330,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "inferred",
+      "notes": "As deep-sea limpets, they likely rely on chemoreception to locate food sources and potential mates in the deep ocean environment. Inferred from the lifestyle of Fedikovella beanii.",
+      "inferred_from_species": [
+        "Fedikovella beanii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "inferred",
+      "notes": "Likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact. Inferred from the lifestyle of Fedikovella beanii.",
+      "inferred_from_species": [
+        "Fedikovella beanii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision is unknown. Deep-sea limpets may lack functional eyes due to the absence of light in their habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fedikovella_beanii"
+  ],
+  "generated_at": "2026-01-04T12:56:12.776094"
+}

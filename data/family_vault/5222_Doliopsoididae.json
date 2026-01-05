@@ -1,0 +1,39 @@
+{
+  "family_name": "Doliopsoididae",
+  "order_name": "Doliolida",
+  "gbif_id": 5222,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not detailed in provided context. Vision is assumed to be present unless indicated otherwise.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present in tunicates for feeding and navigation, but specific details for Doliopsoididae are missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely important for sensing water currents and maintaining position, but details are not present in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Doliopsoididae"
+  ],
+  "generated_at": "2026-01-04T10:16:33.983143"
+}

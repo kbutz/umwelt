@@ -1,0 +1,63 @@
+{
+  "family_name": "Ginglymostomatidae",
+  "order_name": "Orectolobiformes",
+  "gbif_id": 2201,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present and functional for prey detection and navigation. They are active at night, suggesting good low-light vision.",
+      "inferred_from_species": [
+        "Ginglymostoma cirratum",
+        "Nebrius ferrugineus"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Sharks possess ampullae of Lorenzini for detecting electrical fields, which is likely present in this family for prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system is expected, enabling detection of water movement and vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste is likely used in prey assessment upon contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ginglymostomatidae",
+    "https://en.wikipedia.org/wiki/Pseudoginglymostoma_brevicaudatum",
+    "https://en.wikipedia.org/wiki/Ginglymostoma_cirratum",
+    "https://en.wikipedia.org/wiki/Nebrius_ferrugineus"
+  ],
+  "generated_at": "2026-01-04T10:24:31.614516"
+}

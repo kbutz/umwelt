@@ -1,0 +1,54 @@
+{
+  "family_name": "Sagittariidae",
+  "order_name": "Unknown",
+  "gbif_id": null,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As a raptor family, vision is likely a primary sense for hunting and navigation. Details of spectral sensitivity and acuity are unknown, but assumed to be well-developed.",
+      "inferred_from_species": [
+        "Sagittarius serpentarius"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Auditory sense is likely present for environmental awareness and potentially prey detection. Specifics of frequency range are unknown.",
+      "inferred_from_species": [
+        "Sagittarius serpentarius"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The importance of smell is unknown, but likely present to some extent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Tactile sense is present via feathers and beak.",
+      "inferred_from_species": [
+        "Sagittarius serpentarius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sagittariidae"
+  ],
+  "generated_at": "2026-01-04T12:08:51.981313"
+}

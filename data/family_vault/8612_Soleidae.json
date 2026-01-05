@@ -1,0 +1,49 @@
+{
+  "family_name": "Soleidae",
+  "order_name": "Unspecified (Flatfishes)",
+  "gbif_id": 8612,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Flatfishes generally possess vision, though details of acuity and spectral sensitivity are unknown. Given the benthic lifestyle, it is likely adapted for low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess lateral line systems for detecting water movement and pressure changes, common in fish. Important for prey detection and predator avoidance in benthic environments. Sensitivity to substrate vibrations is also probable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Essential for locating benthic invertebrates, their primary food source. Likely use chemoreception to navigate and identify prey items in the sediment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1e-6
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of electroreception in Soleidae is unknown. Requires further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 2000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Soleidae",
+    "https://en.wikipedia.org/wiki/Dexillus_muelleri"
+  ],
+  "generated_at": "2026-01-04T10:04:25.610849"
+}

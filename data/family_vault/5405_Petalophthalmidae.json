@@ -1,0 +1,39 @@
+{
+  "family_name": "Petalophthalmidae",
+  "order_name": "Mysida",
+  "gbif_id": 5405,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and characteristics of vision are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine crustaceans in the order Mysida, they likely possess mechanoreceptors for detecting water currents and vibrations, common in marine environments. This is inferred from general crustacean sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine crustaceans, they likely possess chemoreceptors for detecting chemical cues in the water, important for finding food and mates. This is inferred from general crustacean sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Petalophthalmidae"
+  ],
+  "generated_at": "2026-01-04T10:47:52.682697"
+}

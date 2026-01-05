@@ -1,0 +1,39 @@
+{
+  "family_name": "Stygocarididae",
+  "order_name": "Anaspidacea",
+  "gbif_id": 6037,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Given that this family is likely subterranean, vision may be reduced or absent. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans generally rely on chemoreception for finding food and mates in aquatic environments. Likely present in this family as well.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Crustaceans use mechanoreceptors for detecting water currents, vibrations, and tactile stimuli. Likely crucial for navigation and prey detection in the absence of light.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stygocarididae"
+  ],
+  "generated_at": "2026-01-04T10:58:42.552720"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Plumatellidae",
+  "order_name": "Plumatellida",
+  "gbif_id": 3510,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Plumatellidae are not described in the provided text. Vision presence and capabilities are therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Plumatellidae are not described in the provided text. Chemoreception presence and capabilities are therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Plumatellidae are not described in the provided text. Mechanoreception presence and capabilities are therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plumatellidae"
+  ],
+  "generated_at": "2026-01-04T11:12:53.240221"
+}

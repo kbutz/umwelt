@@ -1,0 +1,72 @@
+{
+  "family_name": "Pseudocheiridae",
+  "order_name": "Diprotodontia",
+  "gbif_id": 9374,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Lemuroid ringtail possums have large, forward-facing eyes, suggesting good vision. Other species likely possess functional vision for arboreal life. Colour vision is unknown.",
+      "inferred_from_species": [
+        "Hemibelideus lemuroides",
+        "Pseudocheirus peregrinus"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Lemuroid ringtail possums have small ears, suggesting hearing is present, although potentially not highly specialized. Other species likely use hearing for communication and predator detection.",
+      "inferred_from_species": [
+        "Hemibelideus lemuroides"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction likely plays a role in foraging, social interactions, and navigation within their arboreal environment.",
+      "inferred_from_species": [
+        "Pseudocheirus peregrinus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Prehensile tails in some species (e.g., Hemibelideus lemuroides) and hairless, scaly tails in others (Petropseudes dahli) indicate tactile sensitivity for grasping and navigation. General touch sensitivity is assumed across the body.",
+      "inferred_from_species": [
+        "Hemibelideus lemuroides",
+        "Petropseudes dahli"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Herbivorous diet (leaves, flowers, fruits, sap) implies functional taste receptors for food discrimination. Some species (Pseudocheirus peregrinus) also consume caecotropes.",
+      "inferred_from_species": [
+        "Pseudocheirus peregrinus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pseudocheiridae",
+    "https://en.wikipedia.org/wiki/Petropseudes_dahli",
+    "https://en.wikipedia.org/wiki/Hemibelideus_lemuroides",
+    "https://en.wikipedia.org/wiki/Pseudocheirus_peregrinus"
+  ],
+  "generated_at": "2026-01-04T11:51:35.641955"
+}

@@ -1,0 +1,47 @@
+{
+  "family_name": "Erpobdellidae",
+  "order_name": "Arhynchobdellida",
+  "gbif_id": 6945,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision in Erpobdellidae is provided in the context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As aquatic invertebrate predators and scavengers, it is inferred that they possess chemoreception for detecting prey and other environmental cues. Further research is needed to understand the specific chemicals and mechanisms involved.",
+      "inferred_from_species": [
+        "Nephelopsis obscura",
+        "Erpobdella punctata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred based on their need to navigate aquatic environments, detect prey, and avoid predators. They likely use mechanoreceptors to sense water currents, vibrations, and physical contact.",
+      "inferred_from_species": [
+        "Nephelopsis obscura",
+        "Erpobdella punctata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erpobdellidae",
+    "https://en.wikipedia.org/wiki/Nephelopsis_obscura",
+    "https://en.wikipedia.org/wiki/Erpobdella_punctata"
+  ],
+  "generated_at": "2026-01-04T11:15:15.080499"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Ophiolepididae",
+  "order_name": "Unknown",
+  "gbif_id": 3219,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in brittle stars is poorly understood from the available information. Further research would be needed to determine prevalence and capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Most brittle stars rely on chemoreception to locate food and detect predators. Assumed to be common within the family, although specific sensory structures or ranges are not described in the given data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Brittle stars are sensitive to touch and water currents. Assumed common in the family due to their mobile nature and habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ophiolepididae"
+  ],
+  "generated_at": "2026-01-04T12:47:03.539025"
+}

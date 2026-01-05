@@ -1,0 +1,39 @@
+{
+  "family_name": "Tynommatidae",
+  "order_name": "Callipodida",
+  "gbif_id": 8816996,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Tynommatidae likely possess mechanoreceptors for detecting touch, pressure, and vibrations in their environment. This is crucial for navigation, detecting predators, and interacting with the substrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes typically rely on chemoreception to locate food, mates, and suitable habitats. They likely have chemoreceptors on their antennae and other body parts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Tynommatidae are unknown based on the provided context. It is common for millipedes to have simple eyes (ocelli) or lack vision entirely.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tynommatidae"
+  ],
+  "generated_at": "2026-01-04T09:54:21.851584"
+}

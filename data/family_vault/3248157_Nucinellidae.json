@@ -1,0 +1,54 @@
+{
+  "family_name": "Nucinellidae",
+  "order_name": "Solemyida",
+  "gbif_id": 3248157,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Bivalves likely possess mechanoreceptors for sensing their environment and movement, inferred from the presence of a foot with papillae, which are likely sensitive to touch and substrate vibrations. This is essential for burrowing and feeding.",
+      "inferred_from_species": [
+        "Nucinella boucheti",
+        "Huxleyia"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves use chemoreception to detect food and potential hazards in the water. The presence of large gills suggests a significant surface area for chemoreceptors. Reduced palps might indicate reliance on other chemosensory structures.",
+      "inferred_from_species": [
+        "Nucinella boucheti",
+        "Huxleyia"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception is unknown in this family. Given their deep-water habitat, it is possible that they lack eyes or have very simple light-sensing capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "georeception": {
+      "presence": "unknown",
+      "notes": "Georeception is unknown. It is possible that they are sensitive to gravity, but more data would be needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nucinellidae"
+  ],
+  "generated_at": "2026-01-04T12:35:24.338480"
+}

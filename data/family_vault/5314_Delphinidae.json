@@ -1,0 +1,78 @@
+{
+  "family_name": "Delphinidae",
+  "order_name": "Cetacea",
+  "gbif_id": 5314,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, but likely not as important as other senses. Functionality may vary across species, but generally adapted for underwater use. | Vision is present and functional in Delphinidae, allowing them to navigate and hunt in the marine environment. However, details on visual acuity and color perception are not available in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is highly developed, especially for echolocation. They produce low-frequency whistles for communication and high-frequency broadband clicks (80-220 kHz) primarily for echolocation. | Delphinids communicate by sound, producing low-frequency whistles. They also produce high-frequency broadband clicks of 80–220 kHz primarily used for echolocation. This suggests a well-developed auditory sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 220000.0
+      }
+    },
+    "echolocation": {
+      "presence": "common",
+      "notes": "Dolphins use echolocation extensively for hunting and navigation. They produce high-frequency broadband clicks of 80–220 kHz. | Delphinids utilize echolocation for navigation and hunting, producing high-frequency clicks.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 80000.0,
+        "max": 220000.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The extent and importance of taste in Delphinidae are not clear from the provided text. | Information on taste is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of smell in Delphinidae are not mentioned in the context. It is possible that it is reduced or absent, as is common in cetaceans, but this needs further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Touch likely plays a role in social interactions and navigation, given their complex social structures and underwater environment. | Information on touch is not provided in the context, however given their social nature it can be inferred it exists to some degree.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Information on olfaction is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Delphinidae",
+    "https://en.wikipedia.org/wiki/Tursiops_truncatus",
+    "https://en.wikipedia.org/wiki/Steno_bredanensis",
+    "https://en.wikipedia.org/wiki/Pseudorca_crassidens"
+  ],
+  "generated_at": "2026-01-04T09:36:23.675846"
+}

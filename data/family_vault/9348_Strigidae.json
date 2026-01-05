@@ -1,0 +1,66 @@
+{
+  "family_name": "Strigidae",
+  "order_name": "Strigiformes",
+  "gbif_id": 9348,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Owls in this family possess well-developed binocular vision, crucial for nocturnal or crepuscular hunting. Some species are active during the day. Some species have evolved longer legs for sprinting after prey.",
+      "inferred_from_species": [
+        "Athene cunicularia",
+        "Athene noctua",
+        "Athene brama"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Attuned hearing is mentioned as important for crepuscular hunters. This is a common trait for owls.",
+      "inferred_from_species": [
+        "Athene cunicularia"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "touch": {
+      "presence": "unknown",
+      "notes": "Tactile sense is assumed to be present, but no specific information is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The importance of smell is unknown for the Strigidae. No mention of olfactory capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "thermoception": {
+      "presence": "unknown",
+      "notes": "No information available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Strigidae",
+    "https://en.wikipedia.org/wiki/Athene_cunicularia",
+    "https://en.wikipedia.org/wiki/Athene_noctua",
+    "https://en.wikipedia.org/wiki/Athene_brama"
+  ],
+  "generated_at": "2026-01-04T11:50:20.391733"
+}

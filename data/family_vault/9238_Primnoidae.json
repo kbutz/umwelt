@@ -1,0 +1,39 @@
+{
+  "family_name": "Primnoidae",
+  "order_name": "Unknown",
+  "gbif_id": 9238,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As soft corals, Primnoidae likely possess mechanoreceptors to detect water currents and pressure changes, crucial for filter feeding and orientation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present to detect dissolved organic matter and other chemical cues related to feeding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 1e-9
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of photoreceptors are unknown in this family. While some corals have photosensitive cells, their role in Primnoidae needs further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Primnoidae"
+  ],
+  "generated_at": "2026-01-04T13:02:33.791848"
+}

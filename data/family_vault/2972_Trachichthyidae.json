@@ -1,0 +1,45 @@
+{
+  "family_name": "Trachichthyidae",
+  "order_name": "Beryciformes",
+  "gbif_id": 2972,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Inferred to be present as they are found in a range of depths, including the photic zone (Paratrachichthys fernandezianus). Species like Paratrachichthys macleayi inhabit open rocky reefs, suggesting visual reliance.",
+      "inferred_from_species": [
+        "Paratrachichthys fernandezianus",
+        "Paratrachichthys macleayi"
+      ],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and predators in their deep-sea and reef environments. The network of muciferous canals riddling their heads (as noted in the family description) suggests a well-developed lateral line system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present for foraging and social interactions, as in most fish families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trachichthyidae",
+    "https://en.wikipedia.org/wiki/Paratrachichthys_trailli",
+    "https://en.wikipedia.org/wiki/Paratrachichthys_fernandezianus",
+    "https://en.wikipedia.org/wiki/Paratrachichthys_macleayi"
+  ],
+  "generated_at": "2026-01-04T09:53:58.918881"
+}

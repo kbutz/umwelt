@@ -1,0 +1,39 @@
+{
+  "family_name": "Opilioacaridae",
+  "order_name": "Opilioacarida",
+  "gbif_id": 7400,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Retain six pairs of eyes, suggesting a reliance on visual cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating their environment (leaf-litter, under rocks, caves).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for locating food sources such as arthropod carcasses, fungal spores, and pollen.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 10000000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opilioacaridae"
+  ],
+  "generated_at": "2026-01-04T11:22:17.147933"
+}

@@ -1,0 +1,59 @@
+{
+  "family_name": "Thylacomyidae",
+  "order_name": "Peramelemorphia",
+  "gbif_id": 9414,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, as bilbies are described as having rabbit-like features and being active at night, which implies functional vision for nocturnal activity. Given the lack of specific information on spectral sensitivity or acuity, assume it is within a typical mammalian range.",
+      "inferred_from_species": [
+        "Macrotis lagotis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 770000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Bilbies have very long ears, suggesting an important role for auditory perception, possibly for detecting predators or prey in their arid environments.",
+      "inferred_from_species": [
+        "Macrotis lagotis"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "They have a long, pointy nose, suggesting a reliance on smell, which is plausible given their nocturnal and burrowing habits. Likely used in foraging and social communication.",
+      "inferred_from_species": [
+        "Macrotis lagotis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sense is crucial for navigating burrows and detecting prey and environment conditions.",
+      "inferred_from_species": [
+        "Macrotis lagotis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thylacomyidae",
+    "https://en.wikipedia.org/wiki/Macrotis_leucura",
+    "https://en.wikipedia.org/wiki/Macrotis_lagotis",
+    "https://en.wikipedia.org/wiki/Liyamayi_dayi"
+  ],
+  "generated_at": "2026-01-04T10:35:11.922395"
+}

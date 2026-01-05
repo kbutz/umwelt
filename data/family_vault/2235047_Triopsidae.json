@@ -1,0 +1,41 @@
+{
+  "family_name": "Triopsidae",
+  "order_name": "Notostraca",
+  "gbif_id": 2235047,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess a single pair of compound eyes located on the head, beneath the carapace.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Numerous flattened legs along the abdomen likely used for detecting water currents and vibrations. Telson and caudal rami may also play a role.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely important for detecting food and mates in their aquatic environment. Details are not explicitly mentioned in the provided text, but is common in crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Triopsidae",
+    "https://en.wikipedia.org/wiki/Lepidurus_arcticus",
+    "https://en.wikipedia.org/wiki/Triops_cancriformis"
+  ],
+  "generated_at": "2026-01-04T11:22:25.689261"
+}

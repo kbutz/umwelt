@@ -1,0 +1,39 @@
+{
+  "family_name": "Groenlandibelidae",
+  "order_name": "Unknown",
+  "gbif_id": 4625190,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Groenlandibelidae are not explicitly mentioned in the provided context. As coleoid cephalopods, they likely possessed some form of vision, but the specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Groenlandibelidae are not explicitly mentioned in the provided context. As coleoid cephalopods, they likely possessed some form of chemoreception, but the specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Groenlandibelidae are not explicitly mentioned in the provided context. As coleoid cephalopods, they likely possessed some form of mechanoreception, but the specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Groenlandibelidae"
+  ],
+  "generated_at": "2026-01-04T11:03:58.698856"
+}

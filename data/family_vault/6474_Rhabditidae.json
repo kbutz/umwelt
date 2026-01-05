@@ -1,0 +1,35 @@
+{
+  "family_name": "Rhabditidae",
+  "order_name": "Unknown",
+  "gbif_id": 6474,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for navigating their environment, finding food, and detecting mates. Given that Caenorhabditis elegans is a member of this family and is well-known for its sophisticated chemosensory abilities, chemoreception is likely a common and important sense for the Rhabditidae.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes are known to respond to tactile stimuli. As a family of nematodes, Rhabditidae are very likely to utilize mechanoreception.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhabditidae",
+    "https://en.wikipedia.org/wiki/Diploscapter_pachys"
+  ],
+  "generated_at": "2026-01-04T09:46:53.341382"
+}

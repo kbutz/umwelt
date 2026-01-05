@@ -1,0 +1,50 @@
+{
+  "family_name": "Gonostomatidae",
+  "order_name": "Unknown",
+  "gbif_id": 5905,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presumed functional vision, typical for mesopelagic fish. However, specific visual adaptations or spectral sensitivities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "common",
+      "notes": "Possess green or red light-producing photophores aligned along the undersides of their heads or bodies. Used for communication or camouflage.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 570000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present for detecting water movement and pressure changes, common in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely rely on chemoreception for detecting prey and mates in the deep sea environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gonostomatidae",
+    "https://en.wikipedia.org/wiki/Sigmops_elongatus",
+    "https://en.wikipedia.org/wiki/Triplophos_hemingi"
+  ],
+  "generated_at": "2026-01-04T10:27:19.575838"
+}

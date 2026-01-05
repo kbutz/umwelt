@@ -1,0 +1,39 @@
+{
+  "family_name": "Hyalonematidae",
+  "order_name": "Amphidiscosida",
+  "gbif_id": 7550,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, they likely possess mechanoreceptors to detect water currents and physical disturbances. These would be crucial for filter feeding and responding to the environment. Inferred due to the necessity for basic survival in sessile filter feeders.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreceptors to detect dissolved substances in the water, which is crucial for filter feeding and detecting changes in water quality. Inferred due to the necessity for basic survival in sessile filter feeders.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is unknown. Living at depths up to 6000 meters may make it less essential, but it is unknown if there are sensory cells in the tissue.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hyalonematidae"
+  ],
+  "generated_at": "2026-01-04T09:55:47.592750"
+}

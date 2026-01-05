@@ -1,0 +1,39 @@
+{
+  "family_name": "Echinostomatidae",
+  "order_name": "Plagiorchiida",
+  "gbif_id": 2528,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As trematodes, Echinostomatidae likely rely heavily on chemoreception for locating hosts and navigating their environment. This is inferred due to their parasitic lifestyle and lack of complex sensory organs described in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for sensing physical contact and movement in their environment and within their hosts. This is inferred due to their parasitic lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Echinostomatidae is unknown based on the provided text. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinostomatidae"
+  ],
+  "generated_at": "2026-01-04T09:46:37.173019"
+}

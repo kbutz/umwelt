@@ -1,0 +1,39 @@
+{
+  "family_name": "Cyclopidae",
+  "order_name": "Cyclopoida",
+  "gbif_id": 4988,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and vibrations, common in copepods, but specific data for Cyclopidae is absent in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for food detection and mate recognition, as common in copepods, but specific data for Cyclopidae is absent in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities are unknown. More information needed to determine if they possess any visual structures",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyclopidae"
+  ],
+  "generated_at": "2026-01-04T10:08:56.050359"
+}

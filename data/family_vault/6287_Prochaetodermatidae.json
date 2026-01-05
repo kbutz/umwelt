@@ -1,0 +1,39 @@
+{
+  "family_name": "Prochaetodermatidae",
+  "order_name": "Chaetodermomorpha",
+  "gbif_id": 6287,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As burrowing organisms, they likely rely on mechanoreception to detect vibrations and pressure changes in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreception to locate food sources in the sediment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-9,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No data on vision available. Given their burrowing lifestyle and deep-sea habitat, vision may be absent or reduced.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prochaetodermatidae"
+  ],
+  "generated_at": "2026-01-04T12:14:04.132186"
+}

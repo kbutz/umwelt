@@ -1,0 +1,39 @@
+{
+  "family_name": "Eotomariidae",
+  "order_name": "Vetigastropoda",
+  "gbif_id": 3245210,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Eotomariidae are unknown from the provided text. As gastropods, they may have possessed simple eyes, but this cannot be determined from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities are unknown. Gastropods generally possess chemoreceptors for detecting chemicals in the water, but no specific information is available for this extinct family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception (touch, balance) is likely present in some form, as it is fundamental for gastropods, but no specific data is provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eotomariidae"
+  ],
+  "generated_at": "2026-01-04T12:48:23.879885"
+}

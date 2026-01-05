@@ -1,0 +1,60 @@
+{
+  "family_name": "Megalonychidae",
+  "order_name": "Unknown",
+  "gbif_id": 6160,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific details on vision are mentioned in the provided text. Given that they are extinct and include both potentially arboreal and ground-dwelling forms, vision capabilities likely varied across species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No information is available regarding olfactory capabilities in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No information is available regarding hearing capabilities in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Inferred to be present in all members of the family due to their mammalian status and the necessity for interacting with their environment. This encompasses tactile sensation through skin and likely prehensile capabilities in some species, especially those that were partly tree-dwelling.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Inferred to be present in all members of the family as a fundamental sensory modality for food selection and consumption.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Megalonychidae",
+    "https://en.wikipedia.org/wiki/Ahytherium_aureum",
+    "https://en.wikipedia.org/wiki/Pliometanastes_protistus",
+    "https://en.wikipedia.org/wiki/Imagocnus_zazae"
+  ],
+  "generated_at": "2026-01-04T12:01:16.536973"
+}

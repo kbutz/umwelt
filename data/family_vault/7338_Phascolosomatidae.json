@@ -1,0 +1,39 @@
+{
+  "family_name": "Phascolosomatidae",
+  "order_name": "Phascolosomatida",
+  "gbif_id": 7338,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Phascolosomatidae are generally understudied. Vision is likely present but not confirmed in the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present in marine worms for food detection and environmental sensing, but this is not specified in the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception via epidermal receptors is likely present for detecting substrate vibrations and tactile stimuli, but this is not specified in the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phascolosomatidae"
+  ],
+  "generated_at": "2026-01-04T11:21:51.209029"
+}

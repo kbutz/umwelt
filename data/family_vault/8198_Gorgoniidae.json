@@ -1,0 +1,39 @@
+{
+  "family_name": "Gorgoniidae",
+  "order_name": "Malacalcyonacea",
+  "gbif_id": 8198,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Gorgoniidae are not detailed in the provided context. Vision presence and capabilities are therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As soft corals, Gorgoniidae likely rely on chemoreception for detecting food and environmental cues. This is inferred based on the commonality of chemoreception in similar marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sessile organisms in aquatic environments, Gorgoniidae likely possess mechanoreceptors to detect water currents and other physical stimuli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gorgoniidae"
+  ],
+  "generated_at": "2026-01-04T13:03:06.599448"
+}

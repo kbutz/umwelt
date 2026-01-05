@@ -1,0 +1,60 @@
+{
+  "family_name": "Felidae",
+  "order_name": "Carnivora",
+  "gbif_id": 9703,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Excellent vision is common across the family. Activity patterns range from nocturnal and crepuscular to diurnal, indicating visual adaptation for various light levels.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is likely well-developed, typical for predators. No specific frequency range is given, but assumed based on other terrestrial carnivores.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100.0,
+        "max": 60000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Smell is important for hunting and social behavior.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Cats have sensitive whiskers for sensing their environment, especially in low light conditions. Slender muscular bodies indicate good proprioception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No evidence provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felidae",
+    "https://en.wikipedia.org/wiki/Prionailurus_rubiginosus",
+    "https://en.wikipedia.org/wiki/Prionailurus_viverrinus",
+    "https://en.wikipedia.org/wiki/Prionailurus_iriomotensis"
+  ],
+  "generated_at": "2026-01-04T10:20:23.351768"
+}

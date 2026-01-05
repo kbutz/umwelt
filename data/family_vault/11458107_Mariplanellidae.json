@@ -1,0 +1,39 @@
+{
+  "family_name": "Mariplanellidae",
+  "order_name": "Rhabdocoela",
+  "gbif_id": 11458107,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in this family are largely unexplored based on the provided context. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, chemoreception is likely used for detecting food and mates, though specific details for Mariplanellidae are unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception, likely via epidermal sensory cells, is expected for detecting changes in water pressure and contact with surfaces.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mariplanellidae"
+  ],
+  "generated_at": "2026-01-04T13:01:34.833360"
+}

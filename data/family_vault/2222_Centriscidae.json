@@ -1,0 +1,55 @@
+{
+  "family_name": "Centriscidae",
+  "order_name": "Syngnathiformes",
+  "gbif_id": 2222,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely the primary sense used for prey detection and navigation. They inhabit shallow to moderately deep waters where light penetrates. Macroramphosus scolopax and Centriscus scutatus context suggest reliance on sight for hunting small crustaceans and general awareness of the environment.",
+      "inferred_from_species": [
+        "Macroramphosus scolopax",
+        "Centriscus scutatus",
+        "Macroramphosus gracilis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system for detecting water movements and pressure changes, aiding in predator avoidance and prey detection. Given their body morphology, sensitivity to disturbances is likely vital. Inferred based on the general presence of this system in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The role of chemoreception (taste and smell) is unknown. While likely present, the reliance on it relative to other senses is unclear from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "electroreception": {
+      "presence": "rare",
+      "notes": "There is no evidence of electroreception in the provided context. This sensory modality is considered rare in marine teleosts, so it is unlikely to be present in Centriscidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Centriscidae",
+    "https://en.wikipedia.org/wiki/Macroramphosus_scolopax",
+    "https://en.wikipedia.org/wiki/Macroramphosus_gracilis",
+    "https://en.wikipedia.org/wiki/Centriscus_scutatus"
+  ],
+  "generated_at": "2026-01-04T10:26:37.699483"
+}

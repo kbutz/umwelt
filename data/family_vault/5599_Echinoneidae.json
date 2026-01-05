@@ -1,0 +1,39 @@
+{
+  "family_name": "Echinoneidae",
+  "order_name": "Echinoneoida",
+  "gbif_id": 5599,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Echinoderms generally possess mechanoreceptors for detecting touch and substrate vibrations. Likely used for navigation and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Echinoderms use chemoreception to detect chemical cues in the water, important for finding food and potentially mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of photoreception in this family are unknown. Echinoderms can have light-sensitive cells, but their capabilities in Echinoneidae need further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinoneidae"
+  ],
+  "generated_at": "2026-01-04T12:04:56.180039"
+}

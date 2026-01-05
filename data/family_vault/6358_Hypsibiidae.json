@@ -1,0 +1,44 @@
+{
+  "family_name": "Hypsibiidae",
+  "order_name": "Eutardigrada",
+  "gbif_id": 6358,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Hypsibiidae are unknown from the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As tardigrades, Hypsibiidae likely possess mechanoreceptors for sensing their environment and movement.",
+      "inferred_from_species": [
+        "Acutuncus antarcticus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As with most animals, chemoreception is likely present for detecting chemical cues in their environment.",
+      "inferred_from_species": [
+        "Acutuncus antarcticus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hypsibiidae",
+    "https://en.wikipedia.org/wiki/Acutuncus_antarcticus"
+  ],
+  "generated_at": "2026-01-04T09:45:27.937419"
+}

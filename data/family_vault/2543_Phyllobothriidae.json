@@ -1,0 +1,39 @@
+{
+  "family_name": "Phyllobothriidae",
+  "order_name": "Phyllobothriidea",
+  "gbif_id": 2543,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "As flatworms, Phyllobothriidae likely use chemoreception to detect hosts and navigate their environment, but specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As flatworms, Phyllobothriidae likely use mechanoreception to detect changes in pressure and touch, but specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown if Phyllobothriidae possess photoreceptors. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phyllobothriidae"
+  ],
+  "generated_at": "2026-01-04T12:44:28.315921"
+}

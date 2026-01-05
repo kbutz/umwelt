@@ -1,0 +1,40 @@
+{
+  "family_name": "Entomobryidae",
+  "order_name": "Entomobryomorpha",
+  "gbif_id": 7216,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision within Entomobryidae are not specified in the provided context. Further research is required to determine the extent to which vision is utilized, as some species may possess eyes while others may not.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As springtails, Entomobryidae likely possess mechanoreceptors for detecting vibrations and touch, important for navigation, predator avoidance, and potentially communication. The presence of scales in many species suggests a sensory role beyond protection, potentially influencing airflow and vibration detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is inferred as a crucial sense for Entomobryidae, enabling them to locate food sources, assess environmental conditions, and potentially find mates. This is inferred because they are terrestrial arthropods and this is a very common trait.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Entomobryidae",
+    "https://en.wikipedia.org/wiki/Sinella_sexoculata"
+  ],
+  "generated_at": "2026-01-04T13:01:08.766797"
+}

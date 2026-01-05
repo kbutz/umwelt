@@ -1,0 +1,39 @@
+{
+  "family_name": "Doliopsidae",
+  "order_name": "Doliolida",
+  "gbif_id": 9283,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Doliopsidae are currently unknown based on available data. As tunicates, they may possess light-sensitive cells or simple ocelli, but this is not confirmed for this specific family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of mechanoreception in Doliopsidae is not specified in the provided context. Tunicates generally have some capacity to detect water movement or touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities in Doliopsidae are not detailed in the context. Tunicates likely use chemoreception for feeding and detecting suitable environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Doliopsidae"
+  ],
+  "generated_at": "2026-01-04T10:16:25.710909"
+}

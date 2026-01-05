@@ -1,0 +1,55 @@
+{
+  "family_name": "Myrmecobiidae",
+  "order_name": "Peramelemorphia",
+  "gbif_id": 5453,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Diurnal lifestyle suggests functional vision, though details are lacking. Likely used for foraging and predator avoidance.",
+      "inferred_from_species": [
+        "Myrmecobius fasciatus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Insectivorous diet, especially reliance on termites, suggests a developed sense of smell for locating prey.",
+      "inferred_from_species": [
+        "Myrmecobius fasciatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No information on auditory capabilities provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Presumed to be present for interacting with the environment and prey detection.",
+      "inferred_from_species": [
+        "Myrmecobius fasciatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Myrmecobiidae",
+    "https://en.wikipedia.org/wiki/Myrmecobius_fasciatus"
+  ],
+  "generated_at": "2026-01-04T10:22:01.040331"
+}

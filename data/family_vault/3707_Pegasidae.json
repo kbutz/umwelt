@@ -1,0 +1,53 @@
+{
+  "family_name": "Pegasidae",
+  "order_name": "Syngnathiformes",
+  "gbif_id": 3707,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Ray-finned fishes inhabiting coastal tropical waters. Vision likely used for prey detection, predator avoidance, and mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present, enabling detection of water movement and vibrations for prey detection and predator avoidance. Can sense touch through body encased in bony plates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to detect chemical cues in the water for locating food and potential mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "camouflage": {
+      "presence": "common",
+      "notes": "Known to change colors to camouflage them, suggesting photoreceptors allow color differentiation.",
+      "inferred_from_species": [
+        "Pegasus lancifer"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pegasidae",
+    "https://en.wikipedia.org/wiki/Pegasus_lancifer",
+    "https://en.wikipedia.org/wiki/Pegasus_volitans",
+    "https://en.wikipedia.org/wiki/Pegasus_laternarius"
+  ],
+  "generated_at": "2026-01-04T10:01:42.182348"
+}

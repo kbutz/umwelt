@@ -1,0 +1,39 @@
+{
+  "family_name": "Isotomidae",
+  "order_name": "Entomobryomorpha",
+  "gbif_id": 7214,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Isotomidae are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As springtails, Isotomidae likely possess mechanoreceptors for detecting vibrations and touch, crucial for sensing their environment and potential threats. Elongate body shape suggests reliance on tactile information for navigating narrow spaces.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for Isotomidae to locate food sources and assess their surroundings. Typical of soil dwelling organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isotomidae"
+  ],
+  "generated_at": "2026-01-04T13:01:16.827273"
+}

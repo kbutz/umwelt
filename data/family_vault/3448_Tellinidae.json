@@ -1,0 +1,44 @@
+{
+  "family_name": "Tellinidae",
+  "order_name": "Cardiida",
+  "gbif_id": 3448,
+  "sensory_modalities": {
+    "Mechanoreception": {
+      "presence": "common",
+      "notes": "Bivalves possess a muscular foot, which allows them to burrow and likely sense the surrounding sediment. The mantle inside the shell also provides tactile sensory input.",
+      "inferred_from_species": [
+        "Fabulina fabula"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Tellinidae use long siphons to respire and likely to detect chemical cues in the water column and sediment for food location.",
+      "inferred_from_species": [
+        "Fabulina fabula"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "Vision": {
+      "presence": "unknown",
+      "notes": "No information provided about the presence or absence of vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tellinidae",
+    "https://en.wikipedia.org/wiki/Fabulina_fabula"
+  ],
+  "generated_at": "2026-01-04T12:44:11.317834"
+}

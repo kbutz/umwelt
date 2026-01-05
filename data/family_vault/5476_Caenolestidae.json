@@ -1,0 +1,60 @@
+{
+  "family_name": "Caenolestidae",
+  "order_name": "Paucituberculata",
+  "gbif_id": 5476,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Small eyes and poor sight, suggesting limited visual acuity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is used to locate prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Long, sensitive whiskers (vibrissae) are used to locate prey. Likely important for navigation in burrows and surface runways.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No direct mention, but a long pointed snout suggests a potentially important role in chemoreception. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Diet includes insects, earthworms, small vertebrates, and plant material, suggesting some degree of taste discrimination, but no specific information is available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caenolestidae",
+    "https://en.wikipedia.org/wiki/Caenolestes_convelatus",
+    "https://en.wikipedia.org/wiki/Caenolestes_condorensis",
+    "https://en.wikipedia.org/wiki/Caenolestes_caniventer"
+  ],
+  "generated_at": "2026-01-04T10:34:35.712969"
+}

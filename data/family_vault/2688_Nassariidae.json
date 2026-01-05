@@ -1,0 +1,47 @@
+{
+  "family_name": "Nassariidae",
+  "order_name": "Neogastropoda",
+  "gbif_id": 2688,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nassariidae are active scavengers, suggesting a well-developed sense of chemoreception to locate food sources in sandy or muddy substrates. The siphonal notch likely plays a role in drawing water for chemosensory analysis.",
+      "inferred_from_species": [
+        "Nassarius acutus",
+        "Nassarius consensus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As snails inhabiting sandy or muddy substrates, they likely possess mechanoreceptors for detecting vibrations or physical contact for navigation and predator avoidance.",
+      "inferred_from_species": [
+        "Nassarius acutus",
+        "Nassarius consensus"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 2000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "While many gastropods have eyes, the presence and functionality of vision in Nassariidae is not specified in the provided context. Further research would be required to determine the extent of their visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nassariidae",
+    "https://en.wikipedia.org/wiki/Nassarius_acutus",
+    "https://en.wikipedia.org/wiki/Nassarius_consensus"
+  ],
+  "generated_at": "2026-01-04T11:03:50.389956"
+}

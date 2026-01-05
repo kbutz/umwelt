@@ -1,0 +1,57 @@
+{
+  "family_name": "Eurypygidae",
+  "order_name": "Eurypygiformes",
+  "gbif_id": 5710,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely relies on vision for foraging and predator avoidance, inferred from the description as a bittern-like bird.",
+      "inferred_from_species": [
+        "Eurypyga helias"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Auditory sense likely important for communication and predator detection. Bittern-like birds typically have good hearing.",
+      "inferred_from_species": [
+        "Eurypyga helias"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Tactile sense is essential for interacting with the environment, including foraging and social interactions.",
+      "inferred_from_species": [
+        "Eurypyga helias"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are likely used in foraging and assessing food quality.",
+      "inferred_from_species": [
+        "Eurypyga helias"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eurypygidae",
+    "https://en.wikipedia.org/wiki/Eurypyga_helias"
+  ],
+  "generated_at": "2026-01-04T12:32:01.656573"
+}

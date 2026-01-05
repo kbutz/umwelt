@@ -1,0 +1,51 @@
+{
+  "family_name": "Craugastoridae",
+  "order_name": "Anura",
+  "gbif_id": 6730,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as it is common in most frog families. Further research is needed to understand the specific visual capabilities of Craugastoridae species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is likely present as it is common in most frog families. Further research is needed to understand the specific auditory capabilities of Craugastoridae species, including frequency ranges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 5000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception (taste and smell) is likely present in Craugastoridae, playing a role in prey detection and possibly intraspecific communication, similar to other frogs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception (touch, vibration sensing) is likely present, crucial for detecting predators, prey, and navigating their environment. Includes lateral line system in tadpoles, if present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 2000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Craugastoridae",
+    "https://en.wikipedia.org/wiki/Psychrophrynella_usurpator",
+    "https://en.wikipedia.org/wiki/Lynchius_parkeri",
+    "https://en.wikipedia.org/wiki/Lynchius_nebulanastes"
+  ],
+  "generated_at": "2026-01-04T10:59:37.351351"
+}

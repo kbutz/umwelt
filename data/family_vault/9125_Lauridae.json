@@ -1,0 +1,39 @@
+{
+  "family_name": "Lauridae",
+  "order_name": "Laurida",
+  "gbif_id": 9125,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Lauridae are currently unknown due to limited information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Lauridae likely possess mechanoreceptors for detecting water currents and vibrations. This is inferred from other crustacean families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans generally rely on chemoreception for detecting chemical cues in their environment. This is inferred from other crustacean families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lauridae"
+  ],
+  "generated_at": "2026-01-04T11:42:53.234763"
+}

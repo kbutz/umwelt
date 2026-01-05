@@ -1,0 +1,64 @@
+{
+  "family_name": "Palaelodidae",
+  "order_name": "Phoenicopteriformes",
+  "gbif_id": 4848524,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Inferred to be important for spotting prey like insect larvae and aquatic invertebrates in brackish lakes and lagoons, similar to extant flamingos. Also important for navigation and social interactions. Details of spectral sensitivity are unknown.",
+      "inferred_from_species": [
+        "Palaelodus ambiguus",
+        "Palaelodus wilsoni"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting prey movement in water and on land. Tactile sensation in the beak is likely important for foraging. Also important for balance and spatial orientation.",
+      "inferred_from_species": [
+        "Palaelodus ambiguus",
+        "Palaelodus wilsoni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely important for communication and predator detection, similar to modern birds. Specific frequency range is unknown but assumed to be within the avian range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100.0,
+        "max": 10000.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "No information available regarding taste capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown, but likely present to some degree. Modern birds have varying olfactory abilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palaelodidae",
+    "https://en.wikipedia.org/wiki/Palaelodus_wilsoni"
+  ],
+  "generated_at": "2026-01-04T10:47:27.475149"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Saleniidae",
+  "order_name": "Salenioida",
+  "gbif_id": 9527,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Saleniidae are not specified in the provided context. Vision presence is unknown but typical of Echinodermata.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities of Saleniidae are not specified in the provided context but are generally present in Echinodermata.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities of Saleniidae are not specified in the provided context, but are expected in Echinodermata.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saleniidae"
+  ],
+  "generated_at": "2026-01-04T10:43:20.348872"
+}

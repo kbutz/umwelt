@@ -1,0 +1,39 @@
+{
+  "family_name": "Loxokalypodidae",
+  "order_name": "Coloniales",
+  "gbif_id": 1896,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting physical stimuli like touch or water currents are unknown, but presumed present in some form for feeding and environmental awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception for detecting chemical cues in the water is unknown, but likely plays a role in feeding and larval settlement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1e-6
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception capabilities are unknown. No evidence is provided within the source documents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Loxokalypodidae"
+  ],
+  "generated_at": "2026-01-04T12:54:20.854286"
+}

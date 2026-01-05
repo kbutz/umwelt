@@ -1,0 +1,42 @@
+{
+  "family_name": "Aeginidae",
+  "order_name": "Narcomedusae",
+  "gbif_id": 8154,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Aeginidae are currently unknown based on the provided context. Given their deep-sea habitat for at least one species, specialized adaptations or loss of vision are possibilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present due to the presence of tentacles, which are typically used for prey capture and sensing the environment. The exact sensitivity and range are unknown but assumed present.",
+      "inferred_from_species": [
+        "Aeginura grimaldii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present, as it is a common sensory modality in marine invertebrates for prey detection and environmental sensing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aeginidae",
+    "https://en.wikipedia.org/wiki/Aeginura_grimaldii"
+  ],
+  "generated_at": "2026-01-04T10:46:31.640488"
+}

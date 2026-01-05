@@ -1,0 +1,42 @@
+{
+  "family_name": "Bittacidae",
+  "order_name": "Mecoptera",
+  "gbif_id": 6991,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presence of two pairs of wings suggests reliance on visual cues for flight and prey capture. Inference based on general insect morphology and the need to distinguish from crane flies.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely plays a role in detecting prey and sensing the environment, inferred from insect biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Plays a role in mate attraction, potentially related to the nuptial gift. Inferred from the context of mating behavior.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bittacidae",
+    "https://en.wikipedia.org/wiki/Bittacus_stigmaterus",
+    "https://en.wikipedia.org/wiki/Bittacus_occidentis",
+    "https://en.wikipedia.org/wiki/Bittacus_texanus"
+  ],
+  "generated_at": "2026-01-04T11:05:25.941806"
+}

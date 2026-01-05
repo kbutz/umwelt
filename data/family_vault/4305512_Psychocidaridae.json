@@ -1,0 +1,39 @@
+{
+  "family_name": "Psychocidaridae",
+  "order_name": "Cidaroida",
+  "gbif_id": 4305512,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea urchins generally possess mechanoreceptors for detecting touch and vibrations in the water and substrate. Given that Psychocidaridae is a family of sea urchins, this is likely a common trait.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea urchins use chemoreception to detect chemical cues in the water, aiding in food finding and potentially mate recognition. This is likely a common trait in Psychocidaridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 0.1
+      }
+    },
+    " photoreception": {
+      "presence": "unknown",
+      "notes": "While some sea urchins possess light-sensitive cells, the extent and functionality within Psychocidaridae are unknown based on provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Psychocidaridae"
+  ],
+  "generated_at": "2026-01-04T11:56:22.549688"
+}

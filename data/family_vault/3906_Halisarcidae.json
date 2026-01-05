@@ -1,0 +1,39 @@
+{
+  "family_name": "Halisarcidae",
+  "order_name": "Chondrillida",
+  "gbif_id": 3906,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Halisarcidae likely possess mechanoreceptors to detect water flow and other physical stimuli. This is crucial for filter feeding and responding to environmental changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is essential for sponges to detect and respond to chemical cues related to food sources, potential threats, and reproduction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 10000000000
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Halisarcidae is currently unknown. Sponges generally lack complex nervous systems and eyes, but some species may possess light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000,
+        "max": 790000000000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halisarcidae"
+  ],
+  "generated_at": "2026-01-04T12:20:14.008605"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Acroreiidae",
+  "order_name": "Pulmonata",
+  "gbif_id": 4599287,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but information is unavailable for this extinct family. Extant siphonariids possess eyes, but their visual capabilities are not well-defined.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence of chemoreceptors based on general gastropod biology and the need to find food and mates. Likely used for both distance and contact chemoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for sensing substrate vibrations and physical contact. Important for navigation and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acroreiidae"
+  ],
+  "generated_at": "2026-01-04T12:50:04.093469"
+}

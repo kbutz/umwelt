@@ -1,0 +1,42 @@
+{
+  "family_name": "Tyrannidae",
+  "order_name": "Passeriformes",
+  "gbif_id": 5291,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Tyrant flycatchers are visually oriented birds, found throughout the Americas. They vary greatly in shape, patterns, size, and colors, suggesting a reliance on visual cues for mate recognition, foraging, and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As passerine birds, tyrant flycatchers possess hearing capabilities. However, they are suboscines, lacking the sophisticated vocal capabilities of songbirds (oscines). This suggests hearing is important, but potentially less specialized for complex song learning and discrimination compared to oscines.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "vocalization": {
+      "presence": "common",
+      "notes": "Though they lack the sophisticated vocal learning of oscines, Tyrannidae do vocalize. Their vocalizations are likely important for communication within species, such as for territorial defense or mate attraction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1000,
+        "max": 8000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tyrannidae",
+    "https://en.wikipedia.org/wiki/Polioxolmis_rufipennis",
+    "https://en.wikipedia.org/wiki/Pseudocolopteryx_sclateri",
+    "https://en.wikipedia.org/wiki/Pseudocolopteryx_flaviventris"
+  ],
+  "generated_at": "2026-01-04T10:18:54.273305"
+}

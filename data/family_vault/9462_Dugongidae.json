@@ -1,0 +1,54 @@
+{
+  "family_name": "Dugongidae",
+  "order_name": "Sirenia",
+  "gbif_id": 9462,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, but specific capabilities are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "The extinct Steller's sea cow communicated with 'sighs and snorting sounds', indicating hearing is present within the family.",
+      "inferred_from_species": [
+        "Hydrodamalis gigas"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Likely present, inferred from general mammalian biology and the presence of bristles on the upper lip of Steller's sea cow, which may have a tactile function.",
+      "inferred_from_species": [
+        "Hydrodamalis gigas"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information available regarding taste or smell in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dugongidae",
+    "https://en.wikipedia.org/wiki/Hydrodamalis_gigas",
+    "https://en.wikipedia.org/wiki/Halitherium_schinzii"
+  ],
+  "generated_at": "2026-01-04T10:38:36.933637"
+}

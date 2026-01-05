@@ -1,0 +1,39 @@
+{
+  "family_name": "Limifossoridae",
+  "order_name": "Chaetodermatida",
+  "gbif_id": 6286,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in this family are poorly studied. Given they are molluscs, mechanoreception is likely important for sensing their environment, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "As marine molluscs, chemoreception is probably used for feeding and potentially mate detection, but there is no information about this family specifically.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception is unknown in this family. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Limifossoridae"
+  ],
+  "generated_at": "2026-01-04T12:14:12.532425"
+}

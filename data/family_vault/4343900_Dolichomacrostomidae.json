@@ -1,0 +1,39 @@
+{
+  "family_name": "Dolichomacrostomidae",
+  "order_name": "Macrostomorpha",
+  "gbif_id": 4343900,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Dolichomacrostomidae are largely unstudied. Given they are free-living flatworms, some light sensitivity is plausible, but specific visual structures or capabilities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As free-living flatworms, chemoreception is likely crucial for finding food and mates. Details of receptors are unknown, but this is a likely fundamental sensory modality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile sensing and response to water currents are essential for navigation and prey detection in aquatic flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dolichomacrostomidae"
+  ],
+  "generated_at": "2026-01-04T12:37:31.406867"
+}

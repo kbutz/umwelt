@@ -1,0 +1,39 @@
+{
+  "family_name": "Hymerhabdiidae",
+  "order_name": "Agelasida",
+  "gbif_id": 6786760,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Hymerhabdiidae likely possess mechanoreceptors for detecting water flow and physical stimuli. This is inferred as a basic sensory capability for filter-feeding sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges are known to use chemoreception to detect and respond to chemical cues in their environment, particularly related to food sources and settlement cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-9,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors in Hymerhabdiidae is currently unknown based on the provided information. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hymerhabdiidae"
+  ],
+  "generated_at": "2026-01-04T11:07:14.831911"
+}

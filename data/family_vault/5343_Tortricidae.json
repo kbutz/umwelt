@@ -1,0 +1,51 @@
+{
+  "family_name": "Tortricidae",
+  "order_name": "Lepidoptera",
+  "gbif_id": 5343,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As moths, Tortricidae likely possess compound eyes for vision. Further research is needed to identify specific adaptations or spectral sensitivities within the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430.0,
+        "max": 790.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Moths use antennae to detect pheromones and other chemical cues for mate finding and host plant identification. Given their pest status, chemoreception is likely well-developed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Moths use mechanoreceptors to sense touch, vibration, and airflow, which are essential for flight and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hygroreception": {
+      "presence": "common",
+      "notes": "Moths are sensitive to humidity using hygroreceptors, which assist in habitat selection and avoiding desiccation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tortricidae",
+    "https://en.wikipedia.org/wiki/Rebinea_erebina",
+    "https://en.wikipedia.org/wiki/Chileulia_stalactitis",
+    "https://en.wikipedia.org/wiki/Xenophylla_megalogona"
+  ],
+  "generated_at": "2026-01-04T10:36:31.776817"
+}

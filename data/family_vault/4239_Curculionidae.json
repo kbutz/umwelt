@@ -1,0 +1,39 @@
+{
+  "family_name": "Curculionidae",
+  "order_name": "Coleoptera",
+  "gbif_id": 4239,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on the provided context. Further research is needed to determine the prevalence and characteristics of vision within this highly diverse family. Given the wood-boring lifestyle of Scolytinae, vision may be reduced in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown, but likely used for host plant detection and mate finding. Further research is needed to determine the sensitivity and range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanosensation": {
+      "presence": "unknown",
+      "notes": "Mechanosensation, likely via sensilla, is presumably present for detecting substrate vibrations, movement, and physical contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Curculionidae"
+  ],
+  "generated_at": "2026-01-04T11:57:10.855903"
+}

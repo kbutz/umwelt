@@ -1,0 +1,39 @@
+{
+  "family_name": "Hemiasteridae",
+  "order_name": "Spatangoida",
+  "gbif_id": 9529,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Echinoderms generally possess mechanoreceptors for detecting tactile stimuli and vibrations in their environment. Given the family belongs to the Spatangoida order, this is likely a primary sense for burrowing and navigating sediment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Echinoderms use chemoreception to detect dissolved chemicals in the water for food localization and environmental assessment. This is crucial for burrowing spatangoids.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    " photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of photoreceptors in Hemiasteridae is not explicitly mentioned. While some echinoderms have limited light sensitivity, burrowing species often reduce or lose this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hemiasteridae"
+  ],
+  "generated_at": "2026-01-04T11:57:56.251516"
+}

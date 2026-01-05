@@ -1,0 +1,40 @@
+{
+  "family_name": "Xystodesmidae",
+  "order_name": "Polydesmida",
+  "gbif_id": 4036,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Xystodesmidae are not explicitly detailed in the provided context. Vision may be present, but data is absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred as common given the general lifestyle of millipedes and the need to find food and mates. Further data would be helpful.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred as common given the general lifestyle of millipedes and the need to navigate their environment. Further data would be helpful.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xystodesmidae",
+    "https://en.wikipedia.org/wiki/Montaphe_elrodi"
+  ],
+  "generated_at": "2026-01-04T11:34:46.959048"
+}

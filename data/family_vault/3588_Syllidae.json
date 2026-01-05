@@ -1,0 +1,39 @@
+{
+  "family_name": "Syllidae",
+  "order_name": "Polychaeta",
+  "gbif_id": 3588,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information on vision is provided in the context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As generalist feeders found in diverse habitats, chemoreception is likely used for food detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their active movement on substrates and presence in crevices, mechanoreception is likely important for sensing their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syllidae"
+  ],
+  "generated_at": "2026-01-04T11:16:09.085090"
+}

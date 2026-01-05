@@ -1,0 +1,30 @@
+{
+  "family_name": "Salticidae",
+  "order_name": "Araneae",
+  "gbif_id": 5644,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Jumping spiders have exceptional vision, considered among the best in arthropods, including stereoptic color vision. They have four pairs of eyes: a principal pair that is movable, and three fixed secondary pairs. The anterior median eyes are particularly large. Posterior median eyes are vestigial in many species but can detect motion. Posterior lateral eyes (PLEs) are wide-angle motion detectors. Anterior lateral eyes (ALEs) have the best visual acuity of the secondary eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred through jumping and motion detection capabilities. Agile jumps used in hunting and response to threats suggest sensitivity to vibrations and mechanical stimuli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salticidae"
+  ],
+  "generated_at": "2026-01-04T12:01:33.258978"
+}

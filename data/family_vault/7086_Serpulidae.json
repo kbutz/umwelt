@@ -1,0 +1,39 @@
+{
+  "family_name": "Serpulidae",
+  "order_name": "Polychaeta",
+  "gbif_id": 7086,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred due to the marine environment and necessity to find food and mates, though not explicitly stated. Annelids are known to use chemoreception in general.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred due to the sessile lifestyle; they likely need to detect water currents for feeding and potential threats. Annelids are known to use mechanoreception in general.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Serpulidae"
+  ],
+  "generated_at": "2026-01-04T11:16:34.822799"
+}

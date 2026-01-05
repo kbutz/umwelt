@@ -1,0 +1,37 @@
+{
+  "family_name": "Meyliidae",
+  "order_name": "Desmoscolecida",
+  "gbif_id": 4281987,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely on chemoreception for various functions, including food detection and mate recognition. Inferred presence due to widespread reliance on chemoreception in nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely on mechanoreception for sensing their environment and movement. Inferred presence due to widespread reliance on mechanoreception in nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Meyliidae is not mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Meyliidae"
+  ],
+  "generated_at": "2026-01-04T11:02:19.500961"
+}

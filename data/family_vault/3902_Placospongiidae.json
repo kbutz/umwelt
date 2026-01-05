@@ -1,0 +1,39 @@
+{
+  "family_name": "Placospongiidae",
+  "order_name": "Clionaida",
+  "gbif_id": 3902,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As sponges, Placospongiidae likely possess mechanosensory capabilities to detect water currents and particle movement for filter feeding. This is inferred from other sponge species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect dissolved organic matter and other chemical cues in the water, influencing their feeding and other physiological processes. This is inferred from other sponge species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1
+      }
+    },
+    "photosensitivity": {
+      "presence": "unknown",
+      "notes": "The presence and role of photosensitivity in Placospongiidae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Placospongiidae"
+  ],
+  "generated_at": "2026-01-04T12:13:47.841585"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Heteropiidae",
+  "order_name": "Leucosolenida",
+  "gbif_id": 7751,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As Calcarea sponges, Heteropiidae likely possess a basic ability to detect water movement and physical stimuli through cellular mechanisms. Sponges lack a nervous system, so mechanoreception is based on individual cell responses and coordination.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Heteropiidae likely use chemoreception to detect dissolved chemicals in the water, which is crucial for feeding and other physiological processes. This is inferred from the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Heteropiidae is currently unknown. While some sponges possess light-sensitive cells, it is not confirmed for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000,
+        "max": 790000000000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heteropiidae"
+  ],
+  "generated_at": "2026-01-04T11:26:40.348073"
+}

@@ -1,0 +1,57 @@
+{
+  "family_name": "Macropodidae",
+  "order_name": "Macropodiformes",
+  "gbif_id": 9372,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely a primary sense for Macropodidae, used for navigation, predator detection, and social interactions. They inhabit diverse environments, from forests to rocky areas, implying a need for good visual acuity. Diurnal and nocturnal species exist.",
+      "inferred_from_species": [
+        "Setonix brachyurus",
+        "Petrogale brachyotis",
+        "Petrogale penicillata"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is important for predator detection and communication within social groups. The presence of 'small-eared rock-wallaby' implies auditory capabilities, though the specific range is unknown.",
+      "inferred_from_species": [
+        "Petrogale penicillata"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction likely plays a role in foraging, social recognition, and possibly predator avoidance. As marsupials, they likely possess a functional olfactory system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Touch is essential for interaction with the environment and other individuals. Tactile sensitivity would be important for navigating complex terrains and mother-infant interactions. The context mentions the presence of fur/hair, thus touch is implied.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macropodidae",
+    "https://en.wikipedia.org/wiki/Setonix_brachyurus",
+    "https://en.wikipedia.org/wiki/Petrogale_brachyotis",
+    "https://en.wikipedia.org/wiki/Petrogale_penicillata"
+  ],
+  "generated_at": "2026-01-04T11:51:14.897618"
+}

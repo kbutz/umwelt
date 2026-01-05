@@ -1,0 +1,39 @@
+{
+  "family_name": "Semelidae",
+  "order_name": "Cardiida",
+  "gbif_id": 6845,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Semelidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and potential threats or food sources. This is inferred from the general sensory biology of bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for detecting food and assessing water quality. This is inferred from the general sensory biology of bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 10000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Semelidae is currently unknown based on the provided context. Some bivalves have eyespots or simple eyes, while others lack visual structures.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Semelidae"
+  ],
+  "generated_at": "2026-01-04T12:44:19.943496"
+}

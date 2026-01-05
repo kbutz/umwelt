@@ -1,0 +1,39 @@
+{
+  "family_name": "Coelogynoporidae",
+  "order_name": "Proseriata",
+  "gbif_id": 7245,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Given that they are flatworms, the presence and nature of vision is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence. Many flatworms use chemoreception to find food and mates. No specific information available for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence. Likely sensitive to touch and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coelogynoporidae"
+  ],
+  "generated_at": "2026-01-04T11:19:53.479400"
+}

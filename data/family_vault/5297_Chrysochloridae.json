@@ -1,0 +1,55 @@
+{
+  "family_name": "Chrysochloridae",
+  "order_name": "Unknown",
+  "gbif_id": 5297,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision within the family Chrysochloridae is not available in the provided context. Given their burrowing lifestyle, reduced or specialized vision is possible, but cannot be confirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities of Chrysochloridae are unknown based on the provided context. Given their subterranean lifestyle, they may have specialized hearing for detecting vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch/vibration": {
+      "presence": "common",
+      "notes": "As burrowing mammals, golden moles likely rely heavily on tactile senses and detection of substrate vibrations for navigation, foraging, and predator avoidance. This is inferred given their underground lifestyle.",
+      "inferred_from_species": [
+        "Eremitalpa granti",
+        "Neamblysomus julianae",
+        "Neamblysomus gunningi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The extent of olfaction in Chrysochloridae is unknown from the provided text. It is plausible they use olfaction for locating prey or navigating their burrows, but this is unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chrysochloridae",
+    "https://en.wikipedia.org/wiki/Eremitalpa_granti",
+    "https://en.wikipedia.org/wiki/Neamblysomus_julianae",
+    "https://en.wikipedia.org/wiki/Neamblysomus_gunningi"
+  ],
+  "generated_at": "2026-01-04T10:44:54.645882"
+}

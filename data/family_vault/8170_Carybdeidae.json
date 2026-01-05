@@ -1,0 +1,41 @@
+{
+  "family_name": "Carybdeidae",
+  "order_name": "Cubozoa",
+  "gbif_id": 8170,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess eye-like sensory structures (rhopalia).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water movement and prey, inferred from jellyfish morphology and lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting prey and other chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carybdeidae",
+    "https://en.wikipedia.org/wiki/Carybdea_xaymacana",
+    "https://en.wikipedia.org/wiki/Carybdea_marsupialis"
+  ],
+  "generated_at": "2026-01-04T12:36:29.100127"
+}

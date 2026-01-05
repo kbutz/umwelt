@@ -1,0 +1,66 @@
+{
+  "family_name": "Chanidae",
+  "order_name": "Gonorhynchiformes",
+  "gbif_id": 3708,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Ray-finned fish; vision is inferred to be a primary sense, as is typical for diurnal fish. Further data needed.",
+      "inferred_from_species": [
+        "Chanos chanos"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fish possess a lateral line system for detecting vibrations and pressure changes in water. This is a common feature of ray-finned fish.",
+      "inferred_from_species": [
+        "Chanos chanos"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish possess olfactory receptors for detecting chemicals in the water. Important for finding food and navigating.",
+      "inferred_from_species": [
+        "Chanos chanos"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The Ostariophysi, the order most closely related to Gonorhynchiformes, possess electroreception. It is not known whether Chanidae possess this sense. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Milkfish are in the order Gonorhynchiformes, which is closely related to Ostariophysi (carps, catfish, and loaches). Ostariophysi have specialized hearing structures. Thus, it is likely that milkfish can hear. Details of the structure and range require further study.",
+      "inferred_from_species": [
+        "Chanos chanos"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chanidae",
+    "https://en.wikipedia.org/wiki/Chanos_chanos"
+  ],
+  "generated_at": "2026-01-04T11:24:35.211433"
+}

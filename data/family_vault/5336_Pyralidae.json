@@ -1,0 +1,49 @@
+{
+  "family_name": "Pyralidae",
+  "order_name": "Lepidoptera",
+  "gbif_id": 5336,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present given that they are moths, though details of spectral sensitivity are unknown. Wingspans are usually between 9 and 37 mm, implying functional eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Antennae present, indicating the likely use of chemoreceptors for detecting pheromones and other chemical cues. Likely important for locating food sources and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting air currents and vibrations, important for flight and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities not explicitly mentioned, further research needed to determine if present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pyralidae",
+    "https://en.wikipedia.org/wiki/Ocrisiodes_antiopa"
+  ],
+  "generated_at": "2026-01-04T10:36:50.259517"
+}

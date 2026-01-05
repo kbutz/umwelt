@@ -1,0 +1,39 @@
+{
+  "family_name": "Elpidiidae",
+  "order_name": "OrderName",
+  "gbif_id": 9553,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sea pigs live in the darkest parts of the ocean, suggesting potentially reduced or absent vision, but this needs further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presence of podia acting like legs suggests sensitivity to touch and pressure. Oral tentacles further imply tactile sensing for food acquisition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting food and navigating the deep-sea environment. Oral tentacles likely play a role.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elpidiidae"
+  ],
+  "generated_at": "2026-01-04T10:44:04.333429"
+}

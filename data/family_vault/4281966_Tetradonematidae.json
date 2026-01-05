@@ -1,0 +1,39 @@
+{
+  "family_name": "Tetradonematidae",
+  "order_name": "Unknown",
+  "gbif_id": 4281966,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred as nematodes are likely to use chemoreception for host location and navigation within the host.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred as nematodes rely on mechanoreception for movement and sensing their environment within a host.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence or absence of vision is unknown in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetradonematidae"
+  ],
+  "generated_at": "2026-01-04T11:01:21.920705"
+}

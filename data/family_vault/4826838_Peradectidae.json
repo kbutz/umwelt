@@ -1,0 +1,57 @@
+{
+  "family_name": "Peradectidae",
+  "order_name": "Unknown",
+  "gbif_id": 4826838,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Inferred to be present due to arboreal/scansorial lifestyle similar to opossums, but direct evidence is lacking. Diurnal or crepuscular activity is possible.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 750000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for foraging and potentially social communication, given their small size and inferred insectivorous/frugivorous diet.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely present and functional for detecting prey and potential predators. Range is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Important for navigating arboreal environments and handling small prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Used for assessing the quality and edibility of fruit and insects. Range is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peradectidae"
+  ],
+  "generated_at": "2026-01-04T10:30:55.859963"
+}

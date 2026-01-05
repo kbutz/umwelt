@@ -1,0 +1,50 @@
+{
+  "family_name": "Asteriidae",
+  "order_name": "Forcipulatida",
+  "gbif_id": 6009,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Asteriidae are not detailed in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea stars are known to use chemoreception to locate prey such as mollusks. This is inferred to be common in the Asteriidae family due to their predatory lifestyle. Further detail required to characterize this sense.",
+      "inferred_from_species": [
+        "Pisaster giganteus",
+        "Pisaster brevispinus",
+        "Pisaster ochraceus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given that Asteriidae inhabit rocky shores and sandy bottoms, mechanoreception is likely used for navigation and prey detection. Further detail required to characterize this sense.",
+      "inferred_from_species": [
+        "Pisaster giganteus",
+        "Pisaster brevispinus",
+        "Pisaster ochraceus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asteriidae",
+    "https://en.wikipedia.org/wiki/Pisaster_giganteus",
+    "https://en.wikipedia.org/wiki/Pisaster_brevispinus",
+    "https://en.wikipedia.org/wiki/Pisaster_ochraceus"
+  ],
+  "generated_at": "2026-01-04T11:54:53.300454"
+}

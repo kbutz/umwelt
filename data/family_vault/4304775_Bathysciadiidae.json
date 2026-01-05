@@ -1,0 +1,42 @@
+{
+  "family_name": "Bathysciadiidae",
+  "order_name": "Unknown",
+  "gbif_id": 4304775,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision in Bathysciadiidae is currently unavailable. As deep-sea limpets, it is possible vision is reduced or absent, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for locating food and mates in the deep sea environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Essential for sensing the environment and detecting vibrations or water currents. Important for locomotion and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bathysciadiidae",
+    "https://en.wikipedia.org/wiki/Pilus_conicus",
+    "https://en.wikipedia.org/wiki/Xenodonta_bogasoni",
+    "https://en.wikipedia.org/wiki/Bathysciadium_xylophagum"
+  ],
+  "generated_at": "2026-01-04T12:56:03.851828"
+}

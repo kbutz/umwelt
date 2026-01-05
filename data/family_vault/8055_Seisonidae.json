@@ -1,0 +1,49 @@
+{
+  "family_name": "Seisonidae",
+  "order_name": "Ploima",
+  "gbif_id": 8055,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presence of longitudinal and annular muscles suggests a capacity for detecting mechanical stimuli and movement, potentially for sensing the host or changes in the environment. Semi-sessile lifestyle suggests reliance on touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred chemoreception for host location (Nebalia, a marine crustacean) and feeding (bacteria or hemolymph).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "oxygen_sensing": {
+      "presence": "common",
+      "notes": "Tolerance to low oxygen conditions (anoxia) suggests the ability to sense and respond to oxygen levels.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No evidence of eyes or visual structures is mentioned in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seisonidae",
+    "https://en.wikipedia.org/wiki/Paraseison_annulatus"
+  ],
+  "generated_at": "2026-01-04T11:31:16.682472"
+}

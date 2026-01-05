@@ -1,0 +1,67 @@
+{
+  "family_name": "Rhinidae",
+  "order_name": "Rhinopristiformes",
+  "gbif_id": 4288061,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As rays, Rhinidae likely possess functional vision for navigation and prey detection in their marine environment. All species described inhabit coastal waters, implying visual reliance.",
+      "inferred_from_species": [
+        "Rhynchobatus luebberti",
+        "Rhynchobatus djiddensis",
+        "Rhynchobatus palpebratus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "As members of the Rhinopristiformes order, Rhinidae are inferred to possess ampullae of Lorenzini, enabling electroreception for detecting prey and navigating via the Earth's magnetic field. This is common among elasmobranchs.",
+      "inferred_from_species": [
+        "Rhynchobatus luebberti",
+        "Rhynchobatus djiddensis",
+        "Rhynchobatus palpebratus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line systems are common in aquatic vertebrates, and it is inferred that Rhinidae use them to detect vibrations and pressure changes in the water. This aids in detecting prey and avoiding predators.",
+      "inferred_from_species": [
+        "Rhynchobatus luebberti",
+        "Rhynchobatus djiddensis",
+        "Rhynchobatus palpebratus"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are important senses for locating food and navigating in aquatic environments. It is inferred that Rhinidae use chemoreception to detect chemical cues in the water.",
+      "inferred_from_species": [
+        "Rhynchobatus luebberti",
+        "Rhynchobatus djiddensis",
+        "Rhynchobatus palpebratus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhinidae",
+    "https://en.wikipedia.org/wiki/Rhynchobatus_luebberti",
+    "https://en.wikipedia.org/wiki/Rhynchobatus_djiddensis",
+    "https://en.wikipedia.org/wiki/Rhynchobatus_palpebratus"
+  ],
+  "generated_at": "2026-01-04T12:41:05.056547"
+}

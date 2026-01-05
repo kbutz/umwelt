@@ -1,0 +1,42 @@
+{
+  "family_name": "Blaniulidae",
+  "order_name": "Julida",
+  "gbif_id": 8567,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes may be present or absent in members of this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Members have ozadenes (odiferous glands) on each segment, suggesting a reliance on chemical sensing.",
+      "inferred_from_species": [
+        "Blaniulus guttulatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present given their terrestrial lifestyle, but not explicitly mentioned in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blaniulidae",
+    "https://en.wikipedia.org/wiki/Blaniulus_guttulatus"
+  ],
+  "generated_at": "2026-01-04T11:09:42.509599"
+}

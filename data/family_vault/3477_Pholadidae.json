@@ -1,0 +1,47 @@
+{
+  "family_name": "Pholadidae",
+  "order_name": "Unknown",
+  "gbif_id": 3477,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As burrowing bivalves, piddocks likely rely on mechanoreception to detect substrate composition, water currents, and potential threats. This is inferred from their burrowing behavior.",
+      "inferred_from_species": [
+        "Cyrtopleura costata",
+        "Martesia striata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves are generally known to use chemoreception for food detection and possibly mate recognition. Given their burrowing lifestyle, it is likely important for detecting organic matter in the sediment.",
+      "inferred_from_species": [
+        "Cyrtopleura costata",
+        "Martesia striata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyes or other light-sensing organs is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pholadidae",
+    "https://en.wikipedia.org/wiki/Cyrtopleura_costata",
+    "https://en.wikipedia.org/wiki/Martesia_striata"
+  ],
+  "generated_at": "2026-01-04T12:34:37.666825"
+}

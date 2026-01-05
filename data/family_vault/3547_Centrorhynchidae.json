@@ -1,0 +1,39 @@
+{
+  "family_name": "Centrorhynchidae",
+  "order_name": "Unknown",
+  "gbif_id": 3547,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms, they likely rely on chemoreception to locate and identify hosts within the digestive tract. This is inferred as it is a necessity for their parasitic lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for sensing the environment within the host's digestive system, aiding in attachment and movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence of eyes or other light-sensing organs is unknown in this family. Given their endoparasitic lifestyle, it is unlikely.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Centrorhynchidae"
+  ],
+  "generated_at": "2026-01-04T11:14:48.421728"
+}

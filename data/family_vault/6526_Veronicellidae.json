@@ -1,0 +1,44 @@
+{
+  "family_name": "Veronicellidae",
+  "order_name": "Pulmonata",
+  "gbif_id": 6526,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As terrestrial slugs, Veronicellidae likely rely on chemoreception for navigation, food detection, and mate finding. Inferred due to their lifestyle and general mollusc sensory biology.",
+      "inferred_from_species": [
+        "Leidyula moreleti"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile sense is likely important for navigation and interaction with the environment. Inferred due to their lifestyle as terrestrial slugs.",
+      "inferred_from_species": [
+        "Leidyula moreleti"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Veronicellidae",
+    "https://en.wikipedia.org/wiki/Leidyula_moreleti"
+  ],
+  "generated_at": "2026-01-04T11:52:26.256524"
+}

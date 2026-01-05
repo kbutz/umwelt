@@ -1,0 +1,39 @@
+{
+  "family_name": "Zephroniidae",
+  "order_name": "Sphaerotheriida",
+  "gbif_id": 9663,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Zephroniidae are not described in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for finding food and mates in millipedes. Further research is needed to determine specific chemicals they are sensitive to.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is important for sensing the environment and detecting predators. Likely through setae (bristles) and other sensory structures. Further research is needed to determine how this functions in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zephroniidae"
+  ],
+  "generated_at": "2026-01-04T11:35:19.605747"
+}

@@ -1,0 +1,56 @@
+{
+  "family_name": "Musophagidae",
+  "order_name": "Musophagiformes",
+  "gbif_id": 5258,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Turacos are noted for unique pigments giving them bright green and red feathers. This indicates well-developed color vision, likely important for identifying ripe fruit and for communication. They have open or nearly-open eyes at birth.",
+      "inferred_from_species": [
+        "Musophaga rossae"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Many species are noisy, with go-away-birds noted for piercing alarm calls. Crinifer piscator has a loud cow-cow-cow call, which is very familiar in west Africa. This suggests well-developed hearing for communication and predator detection.",
+      "inferred_from_species": [
+        "Crinifer piscator",
+        "Crinifer zonurus"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "taste/gustation": {
+      "presence": "common",
+      "notes": "All species are frugivorous, eating leaves, buds, and flowers. Figs are an important part of their diet. This implies a functional sense of taste for identifying food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch/tactition": {
+      "presence": "common",
+      "notes": "They build large stick nests in trees, and the young are born with thick down, suggesting a developed sense of touch is crucial for nest building and parental care.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Musophagidae",
+    "https://en.wikipedia.org/wiki/Crinifer_piscator",
+    "https://en.wikipedia.org/wiki/Crinifer_zonurus",
+    "https://en.wikipedia.org/wiki/Musophaga_rossae"
+  ],
+  "generated_at": "2026-01-04T11:48:12.344496"
+}

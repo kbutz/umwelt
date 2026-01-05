@@ -1,0 +1,48 @@
+{
+  "family_name": "Astartidae",
+  "order_name": "Carditida",
+  "gbif_id": 6859,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Astartidae likely possess mechanoreceptors for detecting touch, pressure, and vibrations in their environment, important for burrowing, feeding, and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves use chemoreceptors to detect chemical cues in the water, which is crucial for locating food, identifying suitable habitats, and detecting predators or conspecifics.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-9,
+        "max": 0.1
+      }
+    },
+    "statocysts": {
+      "presence": "common",
+      "notes": "Statocysts are used for balance and orientation. It is very common in bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "While some bivalves possess eyes, it is unlikely that Astartidae have image-forming vision. However, they may have light-sensitive cells capable of detecting shadows or changes in light intensity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Astartidae"
+  ],
+  "generated_at": "2026-01-04T12:36:12.505884"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Cryptophialidae",
+  "order_name": "Cryptophialida",
+  "gbif_id": 5102,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available on vision in this family. Given their burrowing lifestyle, vision may be reduced or absent, but this requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely crucial for detecting substrate vibrations and water currents, important for finding suitable burrowing sites and sensing the environment. This is inferred from other burrowing crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Important for identifying suitable substrates for burrowing (e.g., limestone, shells, corals) and locating potential mates. Inferred from other marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cryptophialidae"
+  ],
+  "generated_at": "2026-01-04T11:43:50.740084"
+}

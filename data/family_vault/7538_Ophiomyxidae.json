@@ -1,0 +1,39 @@
+{
+  "family_name": "Ophiomyxidae",
+  "order_name": "Ophiacanthida",
+  "gbif_id": 7538,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are largely unknown based on the provided context. As echinoderms, some may possess rudimentary light sensitivity, but this is speculative for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for foraging or navigation, typical of marine invertebrates, but unknown for this family specifically.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for balance and awareness of surroundings in a marine environment, but unknown for this family specifically.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ophiomyxidae"
+  ],
+  "generated_at": "2026-01-04T12:46:38.943338"
+}

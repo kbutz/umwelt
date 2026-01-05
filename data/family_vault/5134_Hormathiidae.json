@@ -1,0 +1,40 @@
+{
+  "family_name": "Hormathiidae",
+  "order_name": "Actiniaria",
+  "gbif_id": 5134,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea anemones possess sensory cells that detect mechanical stimuli, allowing them to respond to touch and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea anemones use chemoreception to detect chemical cues in the water, which helps them locate food and potential threats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Hormathiidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hormathiidae",
+    "https://en.wikipedia.org/wiki/Allantactis_parasitica"
+  ],
+  "generated_at": "2026-01-04T10:12:33.956099"
+}

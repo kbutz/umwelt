@@ -1,0 +1,41 @@
+{
+  "family_name": "Campanulariidae",
+  "order_name": "Unknown",
+  "gbif_id": 8168,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, they likely possess basic mechanoreceptors to detect water currents and physical contact for prey capture and orientation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Cnidarians possess chemoreceptors for detecting chemical cues in the water, aiding in prey detection and potentially mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "While some cnidarians have simple eyes or light-sensitive cells, it is unknown if this family possesses them. Obelia longissima exhibits bioluminescence, suggesting some light sensitivity, but it is not necessarily used for vision.",
+      "inferred_from_species": [
+        "Obelia longissima"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Campanulariidae"
+  ],
+  "generated_at": "2026-01-04T10:14:39.190868"
+}

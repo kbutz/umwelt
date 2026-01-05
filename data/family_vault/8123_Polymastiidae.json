@@ -1,0 +1,39 @@
+{
+  "family_name": "Polymastiidae",
+  "order_name": "Polymastiida",
+  "gbif_id": 8123,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As demosponges, Polymastiidae likely rely heavily on chemoreception to detect food particles and environmental cues in the water column. This is inferred from the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 100000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges generally possess mechanoreceptors to sense water flow and physical disturbances. Polymastiidae likely use this sense to coordinate filter feeding and respond to environmental changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 100000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreception in Polymastiidae is currently unknown. The provided text does not give any indication of this sensory modality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polymastiidae"
+  ],
+  "generated_at": "2026-01-04T12:30:46.117188"
+}

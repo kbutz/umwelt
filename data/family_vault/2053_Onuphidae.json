@@ -1,0 +1,39 @@
+{
+  "family_name": "Onuphidae",
+  "order_name": "Unknown",
+  "gbif_id": 2053,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Onuphidae are currently unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As polychaetes, Onuphidae likely rely on chemoreception for detecting food and mates. This is a general trait for marine worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As polychaetes, Onuphidae likely rely on mechanoreception for sensing their environment and detecting vibrations. This is a general trait for marine worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onuphidae"
+  ],
+  "generated_at": "2026-01-04T10:49:36.050828"
+}

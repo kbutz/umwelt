@@ -1,0 +1,63 @@
+{
+  "family_name": "Zeidae",
+  "order_name": "Zeiformes",
+  "gbif_id": 2214,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for prey detection and navigation in their deep-sea habitat. Mirror-like scales in some species (Zenopsis nebulosa) suggest a role in camouflage or communication using reflected light. Visual capabilities likely adapted to low-light conditions.",
+      "inferred_from_species": [
+        "Zenopsis nebulosa"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present, used for detecting water movement and pressure changes to sense predators, prey, and navigate the environment. Presence of spines suggests potential defensive function related to mechanoreception.",
+      "inferred_from_species": [
+        "Zenopsis nebulosa"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting prey and possibly for communication. Common in marine fish, so inferred to be present in Zeidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No information available regarding electroreception in Zeidae. Deep-sea environment might favor such adaptations, but further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely possess inner ear structures common to bony fishes for detecting sound and maintaining balance. Used for predator avoidance, prey detection, or communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zeidae",
+    "https://en.wikipedia.org/wiki/Zenopsis_conchifer",
+    "https://en.wikipedia.org/wiki/Zenopsis_nebulosa"
+  ],
+  "generated_at": "2026-01-04T10:55:34.761944"
+}

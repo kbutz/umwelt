@@ -1,0 +1,30 @@
+{
+  "family_name": "Solpugidae",
+  "order_name": "Solifugae",
+  "gbif_id": 5856,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Solpugids possess mechanoreceptors located on papillae on their pedipalps, enabling them to detect touch and potentially sound.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Solpugids possess contact chemoreceptors located on papillae on their pedipalps.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solpugidae"
+  ],
+  "generated_at": "2026-01-04T10:23:20.881270"
+}

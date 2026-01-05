@@ -1,0 +1,44 @@
+{
+  "family_name": "Solenidae",
+  "order_name": "Euheterodonta",
+  "gbif_id": 3449,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, Solenidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and potential predators or prey. This is inferred as a necessity for burrowing and filter feeding.",
+      "inferred_from_species": [
+        "Solen marginatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Solenidae, as filter feeders, likely possess chemoreceptors to detect food particles and assess water quality. This is inferred as a necessity for filter feeding.",
+      "inferred_from_species": [
+        "Solen marginatus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-11,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "While some bivalves have eyes, it is unknown if Solenidae possess them. If present, they are likely simple ocelli for light detection rather than image formation. Given their burrowing lifestyle, sophisticated vision is unlikely.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solenidae",
+    "https://en.wikipedia.org/wiki/Solen_marginatus"
+  ],
+  "generated_at": "2026-01-04T12:45:23.410491"
+}

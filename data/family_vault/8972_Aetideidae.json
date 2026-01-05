@@ -1,0 +1,39 @@
+{
+  "family_name": "Aetideidae",
+  "order_name": "Calanoida",
+  "gbif_id": 8972,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Copepods in general rely heavily on mechanoreception to detect water movement and hydrodynamic signals from predators and prey. This is inferred as a common trait for the family Aetideidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 10.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is used by copepods for mate finding, prey detection, and avoidance of harmful substances. Likely a common trait for Aetideidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "While some copepods have simple eyes, their presence and functionality in Aetideidae is not explicitly stated in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aetideidae"
+  ],
+  "generated_at": "2026-01-04T10:08:38.951358"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Atrochidae",
+  "order_name": "Collothecaceae",
+  "gbif_id": 7516,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As rotifers, Atrochidae likely possess mechanoreceptors for detecting water currents and vibrations, aiding in food capture and predator avoidance. This is inferred from the general biology of rotifers.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for detecting chemical cues related to food sources and potential mates, a common trait in rotifers.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Atrochidae is currently unknown based on the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atrochidae"
+  ],
+  "generated_at": "2026-01-04T09:55:05.166786"
+}

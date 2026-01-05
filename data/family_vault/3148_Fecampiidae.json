@@ -1,0 +1,39 @@
+{
+  "family_name": "Fecampiidae",
+  "order_name": "Fecampiida",
+  "gbif_id": 3148,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Fecampiidae flatworms are not detailed in the provided context. Vision may be present, absent, or modified.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as a common sensory modality in flatworms for navigation and food detection. Precise mechanisms unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as a common sensory modality in flatworms for detecting substrate and water currents. Precise mechanisms unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fecampiidae"
+  ],
+  "generated_at": "2026-01-04T12:20:48.026218"
+}

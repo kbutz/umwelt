@@ -1,0 +1,42 @@
+{
+  "family_name": "Plagiorhynchidae",
+  "order_name": "Unknown",
+  "gbif_id": 6944,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As parasitic worms, they likely possess some mechanoreception for navigating within the host and anchoring themselves, but this is currently unknown based on the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely used for host detection and nutrient sensing, but no information available in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "No information available; unlikely in endoparasites, but remains unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plagiorhynchidae",
+    "https://en.wikipedia.org/wiki/Lueheia_inscripta",
+    "https://en.wikipedia.org/wiki/Lueheia_adlueheia",
+    "https://en.wikipedia.org/wiki/Lueheia_cajabambensis"
+  ],
+  "generated_at": "2026-01-04T11:14:57.197511"
+}

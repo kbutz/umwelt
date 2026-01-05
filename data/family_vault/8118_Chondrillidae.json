@@ -1,0 +1,39 @@
+{
+  "family_name": "Chondrillidae",
+  "order_name": "Chondrillida",
+  "gbif_id": 8118,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Chondrillidae likely possess mechanoreceptors to detect water flow and physical stimuli. This is inferred due to the general sessile filter-feeding lifestyle of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Chondrillidae, use chemoreception to detect chemical cues in the water for feeding and potentially for identifying suitable settlement locations or avoiding toxins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Chondrillidae is currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chondrillidae"
+  ],
+  "generated_at": "2026-01-04T12:20:22.886251"
+}

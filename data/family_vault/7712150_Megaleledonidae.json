@@ -1,0 +1,54 @@
+{
+  "family_name": "Megaleledonidae",
+  "order_name": "Octopoda",
+  "gbif_id": 7712150,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as Octopoda generally possess vision, although the specific capabilities in Megaleledonidae are unknown from the context. Given the deep-sea habitat of some species like Thaumeledone gunteri, it may be adapted to low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "tactile_reception": {
+      "presence": "common",
+      "notes": "Likely well-developed, as in other octopuses, for exploring and manipulating the environment. The context mentions benthic species like Thaumeledone gunteri, which would rely on tactile sensing on the seafloor.",
+      "inferred_from_species": [
+        "Thaumeledone gunteri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Presumed present for prey detection and potentially intraspecific communication, as in other octopuses.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 1000000000000.0
+      }
+    },
+    "proprioception": {
+      "presence": "common",
+      "notes": "Necessary for coordinating movement and maintaining body position, particularly in benthic species.",
+      "inferred_from_species": [
+        "Thaumeledone gunteri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Megaleledonidae",
+    "https://en.wikipedia.org/wiki/Vosseledone_charrua",
+    "https://en.wikipedia.org/wiki/Thaumeledone_gunteri"
+  ],
+  "generated_at": "2026-01-04T09:49:16.157210"
+}

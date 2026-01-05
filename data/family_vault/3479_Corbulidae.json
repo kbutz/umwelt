@@ -1,0 +1,40 @@
+{
+  "family_name": "Corbulidae",
+  "order_name": "Myida",
+  "gbif_id": 3479,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Corbulidae likely possess mechanoreceptors for detecting water movement and substrate vibrations. This is inferred from the general biology of bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves use chemoreception to detect food and potential threats. This is a common sensory modality in marine bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Corbulidae is unknown based on the provided information. Many bivalves lack complex eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corbulidae",
+    "https://en.wikipedia.org/wiki/Varicorbula_gibba"
+  ],
+  "generated_at": "2026-01-04T12:34:17.594783"
+}

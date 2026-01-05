@@ -1,0 +1,67 @@
+{
+  "family_name": "Muridae",
+  "order_name": "Rodentia",
+  "gbif_id": 5510,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Murids likely possess vision, as they are generally surface-dwelling and active in various habitats. Specific visual capabilities may vary among species.",
+      "inferred_from_species": [
+        "Lophuromys flavopunctatus",
+        "Lophuromys rahmi",
+        "Lophuromys medicaudatus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is likely well-developed in Muridae for communication and predator detection.",
+      "inferred_from_species": [
+        "Lophuromys flavopunctatus",
+        "Lophuromys rahmi",
+        "Lophuromys medicaudatus"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction likely plays a significant role in foraging, social interactions, and navigation.",
+      "inferred_from_species": [
+        "Lophuromys flavopunctatus",
+        "Lophuromys rahmi",
+        "Lophuromys medicaudatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Touch and other somatosensory modalities are important for interacting with the environment and navigating complex habitats.",
+      "inferred_from_species": [
+        "Lophuromys flavopunctatus",
+        "Lophuromys rahmi",
+        "Lophuromys medicaudatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Muridae",
+    "https://en.wikipedia.org/wiki/Lophuromys_flavopunctatus",
+    "https://en.wikipedia.org/wiki/Lophuromys_rahmi",
+    "https://en.wikipedia.org/wiki/Lophuromys_medicaudatus"
+  ],
+  "generated_at": "2026-01-04T11:53:57.695091"
+}

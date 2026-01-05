@@ -1,0 +1,39 @@
+{
+  "family_name": "Ateluridae",
+  "order_name": "Zygentoma",
+  "gbif_id": 4770353,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "rare",
+      "notes": "Ateluridae generally lack eyes, though some species may possess them.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred. As inquilines in ant and termite nests, chemoreception is likely crucial for locating hosts and navigating the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred. Likely important for detecting vibrations and physical contact in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ateluridae"
+  ],
+  "generated_at": "2026-01-04T11:06:24.614988"
+}

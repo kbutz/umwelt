@@ -1,0 +1,50 @@
+{
+  "family_name": "Amphiuridae",
+  "order_name": "Unknown",
+  "gbif_id": 5680,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but data is unavailable based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be common as it is a vital sense for marine invertebrates for food detection and navigation. However, specific information is not available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be common, enabling detection of water currents and substrate vibrations. Necessary for burrowing and interaction with the environment. However, specific information is not available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence detection": {
+      "presence": "rare",
+      "notes": "Some species, like the dwarf brittle star (Amphipholis squamata) exhibit bioluminescence.",
+      "inferred_from_species": [
+        "Amphipholis squamata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphiuridae"
+  ],
+  "generated_at": "2026-01-04T12:46:47.468218"
+}

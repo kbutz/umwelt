@@ -1,0 +1,62 @@
+{
+  "family_name": "Chlamydoselachidae",
+  "order_name": "Hexanchiformes",
+  "gbif_id": 2205,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, given their predatory lifestyle and presence in deep-sea habitats where some light may penetrate. No specific details are provided in the context, but vision is a common sense in sharks.",
+      "inferred_from_species": [
+        "Chlamydoselachus anguineus",
+        "Chlamydoselachus africana"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Sharks possess ampullae of Lorenzini for detecting electrical fields. This is a common trait among sharks and likely present in this family. Important for prey detection in deep-sea environments.",
+      "inferred_from_species": [
+        "Chlamydoselachus anguineus",
+        "Chlamydoselachus africana"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 20
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system detects vibrations and pressure changes in the water. This is a common sensory system in sharks.",
+      "inferred_from_species": [
+        "Chlamydoselachus anguineus",
+        "Chlamydoselachus africana"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfactory senses are used to detect chemical cues in the water. Sharks have well-developed olfactory systems for locating prey and navigating.",
+      "inferred_from_species": [
+        "Chlamydoselachus anguineus",
+        "Chlamydoselachus africana"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chlamydoselachidae",
+    "https://en.wikipedia.org/wiki/Chlamydoselachus_anguineus",
+    "https://en.wikipedia.org/wiki/Chlamydoselachus_africana"
+  ],
+  "generated_at": "2026-01-04T10:25:05.383163"
+}

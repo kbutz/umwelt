@@ -1,0 +1,55 @@
+{
+  "family_name": "Erinaceidae",
+  "order_name": "Eulipotyphla",
+  "gbif_id": 5722,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely present in most members, as they are not described as subterranean or lacking eyes. Further research is required to define range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely important for foraging and navigation, given that they are primarily carnivorous and related to insectivores. Further study needed.",
+      "inferred_from_species": [
+        "Echinosorex gymnura"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Tactile sensation is important for interacting with the environment and detecting prey. Hedgehogs have spines which provide tactile information.",
+      "inferred_from_species": [
+        "Erinaceinae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is likely present, as they are not specifically noted as deaf. Further research is required to define range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erinaceidae",
+    "https://en.wikipedia.org/wiki/Echinosorex_gymnura",
+    "https://en.wikipedia.org/wiki/Podogymnura_aureospinula",
+    "https://en.wikipedia.org/wiki/Podogymnura_truei"
+  ],
+  "generated_at": "2026-01-04T10:45:05.490372"
+}

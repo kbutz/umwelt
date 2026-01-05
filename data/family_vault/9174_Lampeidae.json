@@ -1,0 +1,40 @@
+{
+  "family_name": "Lampeidae",
+  "order_name": "Cydippida",
+  "gbif_id": 9174,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Ctenophores, including Lampeidae, possess statocysts for balance and orientation, which are sensitive to mechanical stimuli. They likely use mechanoreceptors to detect water currents and prey movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Ctenophores are known to respond to chemical cues in the water, likely used for prey detection or avoiding unfavorable conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of photoreception in Lampeidae is currently unknown based on available data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lampeidae",
+    "https://en.wikipedia.org/wiki/Lampea_lactea"
+  ],
+  "generated_at": "2026-01-04T12:00:14.948904"
+}

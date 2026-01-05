@@ -1,0 +1,40 @@
+{
+  "family_name": "Lophopodidae",
+  "order_name": "Plumatellida",
+  "gbif_id": 3508,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents or substrate vibrations, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting food particles and chemical cues in the water, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Possible rudimentary light sensitivity, but unknown given the lack of information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lophopodidae",
+    "https://en.wikipedia.org/wiki/Lophopus_crystallinus"
+  ],
+  "generated_at": "2026-01-04T11:13:02.716297"
+}

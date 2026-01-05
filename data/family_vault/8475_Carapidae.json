@@ -1,0 +1,55 @@
+{
+  "family_name": "Carapidae",
+  "order_name": "Unspecified",
+  "gbif_id": 8475,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Pearlfish inhabit tropical waters at depths up to 2,000m. Though many are translucent, the presence of species like Snyderidia canina suggests functional vision is common across the family.",
+      "inferred_from_species": [
+        "Snyderidia canina"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Given their symbiotic/parasitic relationships with invertebrates like sea cucumbers (e.g., Encheliophis boraborensis), chemoreception is likely important for host detection and navigation.",
+      "inferred_from_species": [
+        "Encheliophis boraborensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As slender, scaleless fish living in close proximity to other organisms, mechanoreception (including lateral line system) is likely important for navigation, prey detection, and avoiding predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No information available regarding electroreception in Carapidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carapidae",
+    "https://en.wikipedia.org/wiki/Snyderidia_canina",
+    "https://en.wikipedia.org/wiki/Encheliophis_boraborensis",
+    "https://en.wikipedia.org/wiki/Eurypleuron_owasianum"
+  ],
+  "generated_at": "2026-01-04T11:38:19.677267"
+}

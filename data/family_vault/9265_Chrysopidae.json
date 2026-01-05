@@ -1,0 +1,48 @@
+{
+  "family_name": "Chrysopidae",
+  "order_name": "Neuroptera",
+  "gbif_id": 9265,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Green lacewings are insects, and vision is likely a primary sense. Further research is needed to detail spectral sensitivity and visual acuity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "Insects generally possess mechanosensory abilities for detecting vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Insects rely on chemoreception for finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "The extent of auditory capabilities in Chrysopidae is not specified in the provided context. Requires further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chrysopidae"
+  ],
+  "generated_at": "2026-01-04T12:03:06.527939"
+}

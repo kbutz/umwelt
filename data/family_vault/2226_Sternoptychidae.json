@@ -1,0 +1,42 @@
+{
+  "family_name": "Sternoptychidae",
+  "order_name": "Stomiiformes",
+  "gbif_id": 2226,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Deep-sea fish; vision likely important for bioluminescence detection and conspecific communication in low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present for detecting pressure changes and movement in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfactory senses likely used for prey detection and possibly mate recognition in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sternoptychidae",
+    "https://en.wikipedia.org/wiki/Maurolicus_inventionis",
+    "https://en.wikipedia.org/wiki/Maurolocus_rudjakovi",
+    "https://en.wikipedia.org/wiki/Maurolicus_breviculus"
+  ],
+  "generated_at": "2026-01-04T10:27:10.556224"
+}

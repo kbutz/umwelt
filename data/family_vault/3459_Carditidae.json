@@ -1,0 +1,39 @@
+{
+  "family_name": "Carditidae",
+  "order_name": "Carditida",
+  "gbif_id": 3459,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities in Carditidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, chemoreception is likely essential for feeding and environmental sensing. Exact mechanisms and sensitivity remain unspecified in the provided context but are likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, mechanoreception is likely used to detect water currents, substrate vibrations, and potential threats. Exact mechanisms and sensitivity remain unspecified in the provided context but are likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carditidae"
+  ],
+  "generated_at": "2026-01-04T12:36:03.683484"
+}

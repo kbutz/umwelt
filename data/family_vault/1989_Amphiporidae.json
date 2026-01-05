@@ -1,0 +1,39 @@
+{
+  "family_name": "Amphiporidae",
+  "order_name": "Hoplonemertea",
+  "gbif_id": 1989,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely important for prey detection and navigation, as in other ribbonworms, but specific data for Amphiporidae is unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely present for detecting water currents and substrate vibrations, similar to other nemerteans, but specific details for Amphiporidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception may be present via ocelli or simple eyespots, common in ribbonworms, but specific data is lacking for Amphiporidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphiporidae"
+  ],
+  "generated_at": "2026-01-04T12:05:56.960123"
+}

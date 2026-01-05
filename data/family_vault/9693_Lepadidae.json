@@ -1,0 +1,42 @@
+{
+  "family_name": "Lepadidae",
+  "order_name": "Sessilia",
+  "gbif_id": 9693,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As barnacles, Lepadidae likely possess mechanoreceptors to detect water currents and vibrations for feeding and orientation. Given their pelagic lifestyle, sensitivity to water movement is likely important. Information inferred from general barnacle biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used to detect food particles and potential settlement cues. This is inferred from the filter-feeding lifestyle common to barnacles.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The extent of photoreception in Lepadidae is unknown. While some barnacle larvae have simple eyes, the presence and function of photoreceptors in adults requires further research. ",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400,
+        "max": 790
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepadidae",
+    "https://en.wikipedia.org/wiki/Alepas_pacifica",
+    "https://en.wikipedia.org/wiki/Dosima_fascicularis",
+    "https://en.wikipedia.org/wiki/Conchoderma_virgatum"
+  ],
+  "generated_at": "2026-01-04T10:11:22.169813"
+}

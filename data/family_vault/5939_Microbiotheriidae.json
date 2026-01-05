@@ -1,0 +1,68 @@
+{
+  "family_name": "Microbiotheriidae",
+  "order_name": "Microbiotheria",
+  "gbif_id": 5939,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As an arboreal and nocturnal species, vision is likely important for navigation and foraging, inferred from Dromiciops gliroides.",
+      "inferred_from_species": [
+        "Dromiciops gliroides"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for foraging and social interactions, inferred from marsupial traits and Dromiciops gliroides diet of insects and fruit.",
+      "inferred_from_species": [
+        "Dromiciops gliroides"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely present and important for detecting predators and prey, inferred from Dromiciops gliroides. Typical mammalian hearing range.",
+      "inferred_from_species": [
+        "Dromiciops gliroides"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Important for arboreal locomotion and interacting with the environment, inferred from Dromiciops gliroides prehensile tail and lifestyle.",
+      "inferred_from_species": [
+        "Dromiciops gliroides"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Important for food discrimination, inferred from Dromiciops gliroides omnivorous diet.",
+      "inferred_from_species": [
+        "Dromiciops gliroides"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Microbiotheriidae",
+    "https://en.wikipedia.org/wiki/Dromiciops_gliroides"
+  ],
+  "generated_at": "2026-01-04T10:33:54.263194"
+}

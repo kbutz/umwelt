@@ -1,0 +1,53 @@
+{
+  "family_name": "Escavadodontidae",
+  "order_name": "Palaeanodonta",
+  "gbif_id": 4830246,
+  "sensory_modalities": {
+    "olfaction": {
+      "presence": "inferred",
+      "notes": "Inferred to be important for myrmecophagous lifestyle, similar to pangolins. Likely used for finding insects.",
+      "inferred_from_species": [
+        "Escavadodon zygus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown, but likely present to some degree.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sensation": {
+      "presence": "inferred",
+      "notes": "Likely important for locating prey and navigating burrows.",
+      "inferred_from_species": [
+        "Escavadodon zygus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Escavadodon",
+    "https://en.wikipedia.org/wiki/Escavadodon_zygus"
+  ],
+  "generated_at": "2026-01-04T10:36:11.867371"
+}

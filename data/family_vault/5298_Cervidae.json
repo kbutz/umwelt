@@ -1,0 +1,51 @@
+{
+  "family_name": "Cervidae",
+  "order_name": "Artiodactyla",
+  "gbif_id": 5298,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Deer have functional vision, crucial for predator detection and navigation within their environment. Specific visual capabilities (e.g., color vision) not detailed in the provided context, but assumed present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is assumed to be important for predator detection and intraspecific communication. Specific frequency ranges are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Smell is likely important for foraging, predator avoidance, and social communication, although specific details of olfactory sensitivity are not provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Tactile sense is essential for interacting with the environment, sensing temperature, and social interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cervidae",
+    "https://en.wikipedia.org/wiki/Pudu_puda",
+    "https://en.wikipedia.org/wiki/Pudu_mephistophiles",
+    "https://en.wikipedia.org/wiki/Hydropotes_inermis"
+  ],
+  "generated_at": "2026-01-04T10:19:38.959872"
+}

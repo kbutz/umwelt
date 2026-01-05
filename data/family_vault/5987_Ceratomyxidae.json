@@ -1,0 +1,39 @@
+{
+  "family_name": "Ceratomyxidae",
+  "order_name": "Unknown",
+  "gbif_id": 5987,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of myxozoans are poorly understood. Chemoreception likely plays a role in host detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception may be involved in sensing host environment or movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "No evidence suggests photoreception in this family based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ceratomyxidae"
+  ],
+  "generated_at": "2026-01-04T10:30:25.826368"
+}

@@ -1,0 +1,71 @@
+{
+  "family_name": "Rondeletiidae",
+  "order_name": "Unknown",
+  "gbif_id": 2975,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present in deep-sea fish. Vertical migration to shallower depths (100m) suggests functional vision, although specific adaptations to low light are unknown.",
+      "inferred_from_species": [
+        "Rondeletia loricata",
+        "Rondeletia bicolor"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely uses lateral line system to detect vibrations in the water, common in fish.",
+      "inferred_from_species": [
+        "Rondeletia loricata",
+        "Rondeletia bicolor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Uses chemoreception to locate prey items like crustaceans and amphipods.",
+      "inferred_from_species": [
+        "Rondeletia loricata",
+        "Rondeletia bicolor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Potential for electroreception is unknown. No evidence from provided texts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "Tominaga's organ": {
+      "presence": "common",
+      "notes": "Possession of Tominaga's organ, function mysterious.",
+      "inferred_from_species": [
+        "Rondeletia loricata",
+        "Rondeletia bicolor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rondeletiidae",
+    "https://en.wikipedia.org/wiki/Rondeletia_bicolor",
+    "https://en.wikipedia.org/wiki/Rondeletia_loricata"
+  ],
+  "generated_at": "2026-01-04T11:18:18.216422"
+}

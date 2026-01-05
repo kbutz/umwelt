@@ -1,0 +1,42 @@
+{
+  "family_name": "Neopilinidae",
+  "order_name": "Tryblidiida",
+  "gbif_id": 3316,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "As marine molluscs, they likely possess chemoreceptors for detecting chemicals in the water, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for detecting touch and pressure, important for navigating the deep-sea environment. Assumed due to their mollusc body plan.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Whether Neopilinidae possess eyes or other light-sensing organs is unknown from the provided context. Given their deep-sea habitat, functional vision may be reduced or absent in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neopilinidae",
+    "https://en.wikipedia.org/wiki/Micropilina_arntzi",
+    "https://en.wikipedia.org/wiki/Micropilina_wareni",
+    "https://en.wikipedia.org/wiki/Micropilina_rakiura"
+  ],
+  "generated_at": "2026-01-04T12:55:44.234181"
+}

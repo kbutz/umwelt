@@ -1,0 +1,40 @@
+{
+  "family_name": "Cirolanidae",
+  "order_name": "Isopoda",
+  "gbif_id": 5347,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Cirolanidae is unknown from the provided text. Given that Antrolana lira is cave-dwelling, reduced or absent vision might be expected in some members, but this cannot be generalized to the entire family based on the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As aquatic isopods, Cirolanidae likely rely on chemoreception for finding food and mates. This is inferred from the general biology of aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As aquatic isopods, Cirolanidae likely rely on mechanoreception for sensing their environment. This is inferred from the general biology of aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cirolanidae",
+    "https://en.wikipedia.org/wiki/Antrolana_lira"
+  ],
+  "generated_at": "2026-01-04T10:06:44.771090"
+}

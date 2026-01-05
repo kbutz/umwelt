@@ -1,0 +1,39 @@
+{
+  "family_name": "Criconematidae",
+  "order_name": "Tylenchida",
+  "gbif_id": 2552,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes rely heavily on chemoreception to locate hosts and navigate their environment. This is likely the primary sensory modality for Criconematidae, although specific receptors are unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception to sense touch, pressure, and movement. This sense is essential for interacting with their environment and hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is not a typical sensory modality for nematodes. Absent in most species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Criconematidae"
+  ],
+  "generated_at": "2026-01-04T09:47:07.981964"
+}

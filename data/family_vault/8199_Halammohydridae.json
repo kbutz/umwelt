@@ -1,0 +1,39 @@
+{
+  "family_name": "Halammohydridae",
+  "order_name": "Actinulida",
+  "gbif_id": 8199,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, as it is common in Cnidaria for detecting water movement and prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, as it is a common sensory modality in Cnidaria for food detection and environmental sensing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and functionality within Halammohydridae is unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halammohydridae"
+  ],
+  "generated_at": "2026-01-04T11:46:20.984846"
+}

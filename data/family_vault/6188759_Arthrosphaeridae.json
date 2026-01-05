@@ -1,0 +1,40 @@
+{
+  "family_name": "Arthrosphaeridae",
+  "order_name": "Sphaerotheriida",
+  "gbif_id": 6188759,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, they likely possess mechanoreceptors for detecting vibrations and touch, important for navigating their environment and detecting predators. This is inferred due to the lack of specific information and assuming general millipede characteristics.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes generally rely on chemoreception for finding food and mates. They likely have antennae with chemoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and quality of vision are unknown from the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arthrosphaeridae",
+    "https://en.wikipedia.org/wiki/Arthrosphaera_dentigera"
+  ],
+  "generated_at": "2026-01-04T11:35:28.416671"
+}

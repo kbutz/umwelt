@@ -1,0 +1,41 @@
+{
+  "family_name": "Albulidae",
+  "order_name": "Albuliformes",
+  "gbif_id": 7163,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely possess vision, as they are ray-finned fish and no specific information suggests loss of sight. Further, they are popular game fish implying they can likely see lures/bait.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system for detecting water movement, common in ray-finned fishes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreception for detecting chemical cues in the water, which is important for finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Albulidae",
+    "https://en.wikipedia.org/wiki/Pterothrissus_gissu",
+    "https://en.wikipedia.org/wiki/Coriops_amnicolus"
+  ],
+  "generated_at": "2026-01-04T11:17:28.603093"
+}

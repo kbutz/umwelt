@@ -1,0 +1,60 @@
+{
+  "family_name": "Balistidae",
+  "order_name": "Tetraodontiformes",
+  "gbif_id": 5899,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Brightly colored; inhabit shallow, coastal habitats and coral reefs suggesting well-developed vision for species recognition, foraging, and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred based on inhabiting marine environments and foraging behaviors. Likely used for prey detection and intraspecific communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present, enabling detection of water movement and vibrations for prey detection, predator avoidance, and spatial awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 200.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is not explicitly mentioned and not typically found in similar families, but no specific information to exclude it.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely present for detecting predators, prey, and communication. Most fish can hear, and it would be odd if triggerfish couldn't.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balistidae",
+    "https://en.wikipedia.org/wiki/Xanthichthys_auromarginatus",
+    "https://en.wikipedia.org/wiki/Xanthichthys_lineopunctatus",
+    "https://en.wikipedia.org/wiki/Xanthichthys_ringens"
+  ],
+  "generated_at": "2026-01-04T10:26:15.654088"
+}

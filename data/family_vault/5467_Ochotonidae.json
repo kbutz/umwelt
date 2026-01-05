@@ -1,0 +1,64 @@
+{
+  "family_name": "Ochotonidae",
+  "order_name": "Lagomorpha",
+  "gbif_id": 5467,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Pikas possess functional vision, which is important for detecting predators and navigating their environment. Given their diurnal habits (Ochotona curzoniae), vision likely plays a significant role in foraging and social interactions.",
+      "inferred_from_species": [
+        "Ochotona curzoniae"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Pikas are known as 'whistling hares' due to their high-pitched alarm calls. This suggests well-developed auditory capabilities for communication and predator detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1000,
+        "max": 80000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely used in foraging, social interactions, and predator avoidance, as is typical for small mammals. While no specific details are provided in the context, it is inferred that olfaction is functional.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Tactile senses are likely important for navigating rocky terrain and social interactions within the family. The description of their 'even coat of fur' implies sensitivity to touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "As generalist herbivores, pikas likely possess a functional sense of taste to differentiate between palatable and unpalatable plants.",
+      "inferred_from_species": [
+        "Ochotona thibetana"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ochotonidae",
+    "https://en.wikipedia.org/wiki/Ochotona_roylii",
+    "https://en.wikipedia.org/wiki/Ochotona_thibetana",
+    "https://en.wikipedia.org/wiki/Ochotona_curzoniae"
+  ],
+  "generated_at": "2026-01-04T10:31:47.837581"
+}

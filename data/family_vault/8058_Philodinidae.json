@@ -1,0 +1,39 @@
+{
+  "family_name": "Philodinidae",
+  "order_name": "Bdelloidea",
+  "gbif_id": 8058,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Philodinidae rotifers are poorly documented in the provided context. Vision presence/absence is therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Philodinidae rotifers are poorly documented in the provided context. Chemoreception presence/absence is therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Philodinidae rotifers are poorly documented in the provided context. Mechanoreception presence/absence is therefore unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philodinidae"
+  ],
+  "generated_at": "2026-01-04T11:31:24.701759"
+}

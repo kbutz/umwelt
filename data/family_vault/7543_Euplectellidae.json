@@ -1,0 +1,39 @@
+{
+  "family_name": "Euplectellidae",
+  "order_name": "Lyssacinosa",
+  "gbif_id": 7543,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, as sponges in general respond to physical stimuli, but specific mechanisms in Euplectellidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for basic physiological functions such as filter feeding, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "No evidence suggests photoreception in this family of deep-sea sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euplectellidae"
+  ],
+  "generated_at": "2026-01-04T11:20:09.657014"
+}

@@ -1,0 +1,64 @@
+{
+  "family_name": "Hynobiidae",
+  "order_name": "Urodela",
+  "gbif_id": 3103,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely used for general awareness and prey detection. Some species inhabit montane forests and rivers, suggesting functional vision.",
+      "inferred_from_species": [
+        "Pachyhynobius shangchengensis",
+        "Paradactylodon persicus",
+        "Batrachuperus londongensis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for prey detection, mate recognition, and navigation in aquatic environments. Salamanders in general rely heavily on chemical cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system present in larvae and some adults for detecting water currents and vibrations. Likely important for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 200.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No data available regarding electroreception in Hynobiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely sensitive to substrate vibrations. While they lack a tympanic membrane, they can likely detect vibrations through their limbs and body.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hynobiidae",
+    "https://en.wikipedia.org/wiki/Pachyhynobius_shangchengensis",
+    "https://en.wikipedia.org/wiki/Paradactylodon_persicus",
+    "https://en.wikipedia.org/wiki/Batrachuperus_londongensis"
+  ],
+  "generated_at": "2026-01-04T11:00:21.779909"
+}

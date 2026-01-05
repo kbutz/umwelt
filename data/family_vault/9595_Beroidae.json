@@ -1,0 +1,41 @@
+{
+  "family_name": "Beroidae",
+  "order_name": "Beroida",
+  "gbif_id": 9595,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As planktonic free-swimmers, they likely possess mechanoreceptors for sensing water currents and disturbances, aiding in prey detection and navigation. This is inferred from their lifestyle and presence in related species of Ctenophora.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreceptors for detecting prey and mates in the water column. This is inferred from their predatory lifestyle as comb jellies and present in related species of Ctenophora.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors is not explicitly mentioned in the provided text, nor can it be reliably inferred, even though the mesoglea has pigments that give many nudan species a slightly pink color; Neis cordigera may be yellowish or a deep orange-red.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beroidae",
+    "https://en.wikipedia.org/wiki/Neis_cordigera",
+    "https://en.wikipedia.org/wiki/Beroe_cucumis"
+  ],
+  "generated_at": "2026-01-04T10:44:31.206758"
+}

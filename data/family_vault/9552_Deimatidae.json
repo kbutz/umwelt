@@ -1,0 +1,44 @@
+{
+  "family_name": "Deimatidae",
+  "order_name": "Synallactida",
+  "gbif_id": 9552,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sea cucumbers, Deimatidae likely possess mechanoreceptors for detecting tactile stimuli and water currents. These are important for navigation, feeding, and predator avoidance in the deep sea environment.",
+      "inferred_from_species": [
+        "Oneirophanta mutabilis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers typically use chemoreceptors to locate food sources on the seabed. This is likely a crucial sense for Deimatidae in the abyssal depths where visual cues are limited.",
+      "inferred_from_species": [
+        "Oneirophanta mutabilis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Deimatidae is currently unknown based on the provided context. Given their deep-sea habitat, it is possible that vision is reduced or absent in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deimatidae",
+    "https://en.wikipedia.org/wiki/Oneirophanta_mutabilis"
+  ],
+  "generated_at": "2026-01-04T12:39:47.639312"
+}

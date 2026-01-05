@@ -1,0 +1,41 @@
+{
+  "family_name": "Echinasteridae",
+  "order_name": "Spinulosida",
+  "gbif_id": 5541,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Starfish in general possess mechanoreceptors for detecting touch and pressure, likely used for navigation, prey detection, and interaction with the substrate. Inferred to be present in Echinasteridae, given the general body plan of starfish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Starfish utilize chemoreceptors to detect chemical cues in the water, important for locating food sources and potentially for communication. Likely present in Echinasteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.001
+      }
+    },
+    "photoreception": {
+      "presence": "common",
+      "notes": "Simple eyespots are present at the tip of each arm in many starfish, allowing for basic light detection and orientation. Inferred to be present in Echinasteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinasteridae",
+    "https://en.wikipedia.org/wiki/Metrodira_subulata",
+    "https://en.wikipedia.org/wiki/Plectaster_decanus"
+  ],
+  "generated_at": "2026-01-04T11:55:19.876137"
+}

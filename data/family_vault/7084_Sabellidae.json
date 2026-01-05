@@ -1,0 +1,39 @@
+{
+  "family_name": "Sabellidae",
+  "order_name": "Unknown",
+  "gbif_id": 7084,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Sabellidae is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As tube-dwelling worms, they likely have mechanoreceptors to detect vibrations or water currents, useful for detecting predators or food.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Marine polychaetes typically rely on chemoreception for food detection and potentially mate recognition. This is inferred based on the general biology of marine worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sabellidae"
+  ],
+  "generated_at": "2026-01-04T11:16:43.059654"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Ptychogastriidae",
+  "order_name": "Trachymedusae",
+  "gbif_id": 5169,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, Ptychogastriidae likely possess mechanoreceptors for detecting water movement and pressure changes, crucial for prey detection and orientation. Inferred based on the general sensory biology of jellyfish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Cnidarians, including Ptychogastriidae, are likely to have chemoreceptors for detecting chemical cues in the water. This plays a role in prey detection, and potentially in sensing environmental conditions. Inferred based on the general sensory biology of jellyfish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 0.0001
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and type of photoreceptors in Ptychogastriidae are unknown. While some Trachymedusae possess ocelli, it is not clear if this family does.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ptychogastriidae"
+  ],
+  "generated_at": "2026-01-04T10:13:43.583170"
+}

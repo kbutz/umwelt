@@ -1,0 +1,40 @@
+{
+  "family_name": "Reduviidae",
+  "order_name": "Hemiptera",
+  "gbif_id": 4324,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as they are terrestrial ambush predators, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for detecting prey and navigating terrestrial environments. They are ambush predators, so detecting prey movement is vital.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for locating prey and potentially mates. Some species are blood-sucking ectoparasites (Triatominae), suggesting a strong sense of smell for detecting hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reduviidae",
+    "https://en.wikipedia.org/wiki/Castolus_ferox"
+  ],
+  "generated_at": "2026-01-04T10:40:50.295670"
+}

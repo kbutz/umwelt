@@ -1,0 +1,43 @@
+{
+  "family_name": "Solemyidae",
+  "order_name": "Solemyida",
+  "gbif_id": 6861,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to symbiotic relationship with chemosynthetic bacteria and habitat in areas with high organic matter and low oxygen. Likely used to detect sulfide and other chemical cues in their environment.",
+      "inferred_from_species": [
+        "Solemya velum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence as a typical sensory modality for bivalves, allowing them to detect changes in water pressure or sediment composition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information provided about vision in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solemyidae",
+    "https://en.wikipedia.org/wiki/Solemya_occidentalis",
+    "https://en.wikipedia.org/wiki/Solemya_velum"
+  ],
+  "generated_at": "2026-01-04T12:35:15.554556"
+}

@@ -1,0 +1,43 @@
+{
+  "family_name": "Abacionidae",
+  "order_name": "Callipodida",
+  "gbif_id": 7228,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Abacionidae likely possess mechanoreceptors for sensing touch and substrate vibrations. Important for navigation and predator detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes generally rely on chemoreception for foraging and communication. Abacion magnum produces p-Cresol, which is likely detected via chemoreception by conspecifics, and they feed on dead insects, suggesting chemoreception is involved in food detection.",
+      "inferred_from_species": [
+        "Abacion magnum"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and quality of vision in Abacionidae is unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abacionidae",
+    "https://en.wikipedia.org/wiki/Abacion_tesselatum",
+    "https://en.wikipedia.org/wiki/Abacion_magnum"
+  ],
+  "generated_at": "2026-01-04T09:54:32.092628"
+}

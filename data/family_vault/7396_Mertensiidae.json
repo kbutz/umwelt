@@ -1,0 +1,58 @@
+{
+  "family_name": "Mertensiidae",
+  "order_name": "Cydippida",
+  "gbif_id": 7396,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Comb rows of cilia are used for locomotion and likely also function in mechanoreception, detecting water currents and vibrations. Tentacles are contractile and used for prey capture.",
+      "inferred_from_species": [
+        "Mertensia ovum",
+        "Callianira bialata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Comb rows function as chemical sense organs, similar to insect antennae. Tentacles are sticky.",
+      "inferred_from_species": [
+        "Mertensia ovum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "common",
+      "notes": "Weak bioluminescence in blues and greens is produced.",
+      "inferred_from_species": [
+        "Mertensia ovum"
+      ],
+      "frequency_range_hz": {
+        "min": 450000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific visual organs are mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mertensiidae",
+    "https://en.wikipedia.org/wiki/Charistephane_fugiens",
+    "https://en.wikipedia.org/wiki/Mertensia_ovum",
+    "https://en.wikipedia.org/wiki/Callianira_bialata"
+  ],
+  "generated_at": "2026-01-04T12:00:06.111911"
+}

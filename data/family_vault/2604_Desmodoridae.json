@@ -1,0 +1,39 @@
+{
+  "family_name": "Desmodoridae",
+  "order_name": "Desmodorida",
+  "gbif_id": 2604,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely on chemoreception for navigation and feeding. This is likely true for Desmodoridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes typically use mechanoreception to detect touch, pressure, and movement in their environment. This is likely true for Desmodoridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence or absence of vision in Desmodoridae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Desmodoridae"
+  ],
+  "generated_at": "2026-01-04T09:47:58.367619"
+}

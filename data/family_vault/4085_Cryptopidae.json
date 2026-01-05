@@ -1,0 +1,39 @@
+{
+  "family_name": "Cryptopidae",
+  "order_name": "Scolopendromorpha",
+  "gbif_id": 4085,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "absent",
+      "notes": "Cryptopids are blind, lacking ocelli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely rely on tactile senses and substrate vibrations to navigate and detect prey, given the absence of vision and presence of numerous legs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use antennae and other sensory structures to detect chemical cues for prey and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cryptopidae"
+  ],
+  "generated_at": "2026-01-04T11:36:29.466776"
+}

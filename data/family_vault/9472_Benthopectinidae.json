@@ -1,0 +1,39 @@
+{
+  "family_name": "Benthopectinidae",
+  "order_name": "Notomyotida",
+  "gbif_id": 9472,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea stars, in general, possess mechanoreceptors to detect touch and water currents. Given their deep-sea environment and flexible arms, mechanoreception is likely crucial for navigation, prey detection, and avoiding obstacles.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea stars typically rely on chemoreception to locate food and potential mates. This is likely a primary sense for Benthopectinidae in the deep sea where light is absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1e-10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "While some sea stars have eyespots, the prevalence and functionality of photoreception in deep-sea dwelling Benthopectinidae is unknown. Further research is needed to determine if they retain any light sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000,
+        "max": 790000000000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benthopectinidae"
+  ],
+  "generated_at": "2026-01-04T10:40:19.542828"
+}

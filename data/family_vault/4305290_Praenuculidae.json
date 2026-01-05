@@ -1,0 +1,39 @@
+{
+  "family_name": "Praenuculidae",
+  "order_name": "Unknown",
+  "gbif_id": 4305290,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sessile, shallow infaunal bivalves, they likely possessed mechanoreceptors for detecting water currents, substrate vibrations, and potential predators or disturbances.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used chemoreceptors to detect food particles in the water column and assess water quality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyespots or more complex visual structures is unknown in this extinct family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Praenuculidae"
+  ],
+  "generated_at": "2026-01-04T12:24:36.867486"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Thecidellinidae",
+  "order_name": "Thecideida",
+  "gbif_id": 9300,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to sight in Thecidellinidae are currently unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities, such as taste and smell, are unknown for Thecidellinidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception, including touch and sensing vibrations, is unknown in Thecidellinidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thecidellinidae"
+  ],
+  "generated_at": "2026-01-04T10:48:41.558525"
+}

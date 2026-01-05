@@ -1,0 +1,39 @@
+{
+  "family_name": "Cephalotrichidae",
+  "order_name": "Palaeonemertea",
+  "gbif_id": 7424221,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a family of worms, mechanoreception is likely crucial for navigation and prey detection in their environment. General to most worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for locating food sources and mates. General to most worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 10000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in this family is not mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cephalotrichidae"
+  ],
+  "generated_at": "2026-01-04T13:00:02.712660"
+}

@@ -1,0 +1,45 @@
+{
+  "family_name": "Aplysiidae",
+  "order_name": "Anaspidea",
+  "gbif_id": 6814,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Aplysiidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred from the presence of rhinophores, which are sensory organs likely used for chemoreception to locate food or mates. Rhinophores are mentioned as being long and prominent.",
+      "inferred_from_species": [
+        "Aplysia vaccaria",
+        "Phyllaplysia taylori"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present, as it's fundamental for gastropods to sense their environment and navigate. The parapodia are also relevant for environmental interaction.",
+      "inferred_from_species": [
+        "Aplysia vaccaria"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aplysiidae",
+    "https://en.wikipedia.org/wiki/Phyllaplysia_taylori"
+  ],
+  "generated_at": "2026-01-04T12:47:38.883599"
+}

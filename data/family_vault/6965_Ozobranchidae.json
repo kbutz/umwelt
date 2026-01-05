@@ -1,0 +1,40 @@
+{
+  "family_name": "Ozobranchidae",
+  "order_name": "Hirudinea",
+  "gbif_id": 6965,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As blood-feeding parasites, they likely use chemoreception to locate hosts. Inferred to be similar to other leeches.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-34,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting water currents and host movement. Inferred to be similar to other leeches.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-32,
+        "max": 10000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities unknown. No mention of eyes or light sensitivity in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ozobranchidae",
+    "https://en.wikipedia.org/wiki/Ozobranchus_branchiatus"
+  ],
+  "generated_at": "2026-01-04T11:16:01.023479"
+}

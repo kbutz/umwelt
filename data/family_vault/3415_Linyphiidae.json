@@ -1,0 +1,39 @@
+{
+  "family_name": "Linyphiidae",
+  "order_name": "Araneae",
+  "gbif_id": 3415,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, although specific visual capabilities are not detailed in the provided context. Given they are spiders, some level of vision is expected for web building and prey detection. Further research is required to determine the extent of their visual acuity and spectral sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vibratory_sense": {
+      "presence": "common",
+      "notes": "Spiders are known to rely on vibrations for detecting prey and navigating their environment, particularly through their webs. This is likely a key sense for Linyphiidae, given their web-building behavior. Further research is needed for specific substrate or air-borne frequency ranges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is generally present in spiders, playing a role in mate recognition and prey detection. Its prevalence within Linyphiidae is inferred based on general spider biology. Specifics require further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Linyphiidae"
+  ],
+  "generated_at": "2026-01-04T12:01:41.692030"
+}

@@ -1,0 +1,42 @@
+{
+  "family_name": "Calliotropidae",
+  "order_name": "Unknown",
+  "gbif_id": 6514051,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information on vision is provided in the context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, they likely use chemoreception to detect food and mates, but this is inferred as a general gastropod trait since the context provides no specific information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, they likely use mechanoreception for balance, orientation, and detecting water currents, but this is inferred as a general gastropod trait since the context provides no specific information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calliotropidae",
+    "https://en.wikipedia.org/wiki/Bathybembix_bairdii",
+    "https://en.wikipedia.org/wiki/Cidarina_cidaris",
+    "https://en.wikipedia.org/wiki/Bathybembix_delicatula"
+  ],
+  "generated_at": "2026-01-04T12:50:14.335567"
+}

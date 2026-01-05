@@ -1,0 +1,42 @@
+{
+  "family_name": "Trochidae",
+  "order_name": "Vetigastropoda",
+  "gbif_id": 2856,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Trochidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of chemoreception in Trochidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of mechanoreception in Trochidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trochidae",
+    "https://en.wikipedia.org/wiki/Clanculus_atypicus",
+    "https://en.wikipedia.org/wiki/Clanculus_peccatus",
+    "https://en.wikipedia.org/wiki/Jujubinus_montagui"
+  ],
+  "generated_at": "2026-01-04T12:49:04.186354"
+}

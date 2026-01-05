@@ -1,0 +1,40 @@
+{
+  "family_name": "Chaudhuriidae",
+  "order_name": "Synbranchiformes (inferred, based on relation to swamp eels)",
+  "gbif_id": 5904,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes are small and covered in thick skin, suggesting limited visual acuity. Presence is inferred, as they possess eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating in their environment, given their eel-like body plan and benthic lifestyle. No scales suggests a high sensitivity to touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely plays a role in finding food in their freshwater habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chaudhuriidae",
+    "https://en.wikipedia.org/wiki/Garo_khajuriai"
+  ],
+  "generated_at": "2026-01-04T10:56:19.890746"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Craticulariidae",
+  "order_name": "Sceptrulophora",
+  "gbif_id": 7545,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Craticulariidae likely possess basic mechanoreception for detecting water currents and physical disturbances. This is inferred based on the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect food particles and other chemical cues in the water. This is inferred based on the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception in this family is unknown. Sponges are generally considered to lack specialized photoreceptors, but some species may have light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Craticulariidae"
+  ],
+  "generated_at": "2026-01-04T12:35:46.775634"
+}

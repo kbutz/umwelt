@@ -1,0 +1,41 @@
+{
+  "family_name": "Limnadiidae",
+  "order_name": "Spinicaudata",
+  "gbif_id": 7639,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Limnadiidae is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans living in aquatic environments, it is inferred that Limnadiidae possess mechanoreceptors for detecting water movement and vibrations. Specific details are not available in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Limnadiidae likely use chemoreception to detect food and other chemicals in their environment. Specific details are not available in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Limnadiidae",
+    "https://en.wikipedia.org/wiki/Eulimnadia_antlei",
+    "https://en.wikipedia.org/wiki/Eulimnadia_texana"
+  ],
+  "generated_at": "2026-01-04T09:59:59.063231"
+}

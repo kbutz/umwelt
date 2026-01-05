@@ -1,0 +1,53 @@
+{
+  "family_name": "Torpedinidae",
+  "order_name": "N/A",
+  "gbif_id": 5871,
+  "sensory_modalities": {
+    "electroreception": {
+      "presence": "common",
+      "notes": "Electric rays possess electric organs composed of electroplaques to generate electric fields for defense and prey capture. The electricity can be stored and discharged in pulses. These organs are a defining characteristic of the family.",
+      "inferred_from_species": [
+        "Tetronarce nobiliana",
+        "Tetronarce puelcha"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "Torpedo rays possess eyes, suggesting the presence of vision. However, details of visual acuity and spectral sensitivity are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bottom-dwelling fish, it's inferred that they use mechanoreception to sense their environment and detect prey. Details are unknown, but they likely possess lateral line systems and other mechanosensory receptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Mouths and gill slits are located on their undersides, implying they use chemoreception to locate food.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Torpedinidae",
+    "https://en.wikipedia.org/wiki/Tetronarce_puelcha",
+    "https://en.wikipedia.org/wiki/Tetronarce_nobiliana"
+  ],
+  "generated_at": "2026-01-04T10:52:44.756445"
+}

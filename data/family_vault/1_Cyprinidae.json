@@ -1,0 +1,48 @@
+{
+  "family_name": "Cyprinidae",
+  "order_name": "Unknown",
+  "gbif_id": 1,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as they are freshwater fish, but details are unknown from the provided context. Further research is needed to determine visual acuity and spectral sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Hearing capabilities are unknown based on the provided context. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception (taste and smell) is likely present in freshwater fish, but no details are available in the provided text. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "rare",
+      "notes": "Electroreception is generally rare in freshwater fish, and there is no evidence in the text that Cyprinidae possess this sense. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyprinidae"
+  ],
+  "generated_at": "2026-01-04T11:21:13.131248"
+}

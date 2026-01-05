@@ -1,0 +1,39 @@
+{
+  "family_name": "Lumbrineridae",
+  "order_name": "Eunicida",
+  "gbif_id": 2051,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision in Lumbrineridae is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bottom-dwelling polychaetes, Lumbrineridae likely rely on mechanoreception to detect vibrations and pressure changes in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Polychaetes generally rely on chemoreception for food detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lumbrineridae"
+  ],
+  "generated_at": "2026-01-04T10:49:44.144579"
+}

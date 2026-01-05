@@ -1,0 +1,42 @@
+{
+  "family_name": "Atherinopsidae",
+  "order_name": "Atheriniformes",
+  "gbif_id": 2957,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As fishes, Atherinopsidae likely rely on vision for detecting prey (zooplankton, fish larvae, fish eggs) and navigating their environment. They occupy both marine and freshwater habitats and occur in estuaries as deep as 10 meters, suggesting adaptation to varying light conditions.",
+      "inferred_from_species": [
+        "Atherinella crystallina"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system common in fishes for detecting water movement and pressure changes, important for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are likely used for detecting food and assessing water quality. Location of food items would likely rely on smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 1e-7
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atherinopsidae",
+    "https://en.wikipedia.org/wiki/Atherinella_crystallina"
+  ],
+  "generated_at": "2026-01-04T09:52:41.191782"
+}

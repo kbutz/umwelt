@@ -1,0 +1,42 @@
+{
+  "family_name": "Schizasteridae",
+  "order_name": "Spatangoida",
+  "gbif_id": 9533,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, Schizasteridae likely possess mechanoreceptors for detecting touch and pressure. Their spines are likely involved in this sensory modality.",
+      "inferred_from_species": [
+        "Aceste bellidifera"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Echinoderms generally rely on chemoreception for food detection and navigation. Schizasteridae, as burrowing heart urchins, likely use this to find organic matter in the sediment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is currently unknown for this family based on the provided context. Given that they are burrowing sea urchins, dedicated photoreceptors may be absent or reduced.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Schizasteridae",
+    "https://en.wikipedia.org/wiki/Aceste_bellidifera"
+  ],
+  "generated_at": "2026-01-04T11:57:38.261963"
+}

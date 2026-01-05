@@ -1,0 +1,39 @@
+{
+  "family_name": "Pheronematidae",
+  "order_name": "Amphidiscosida",
+  "gbif_id": 7548,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Pheronematidae likely possess a basic capacity for mechanoreception to detect water currents and physical stimuli. This is inferred from the general sensory capabilities of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect dissolved organic matter and other chemical cues in the water column for feeding and other biological processes. This is inferred from the general sensory capabilities of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Pheronematidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pheronematidae"
+  ],
+  "generated_at": "2026-01-04T09:55:54.632730"
+}

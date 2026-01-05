@@ -1,0 +1,44 @@
+{
+  "family_name": "Gigantorhynchidae",
+  "order_name": "Gigantorhynchida",
+  "gbif_id": 3243082,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is crucial for host location, attachment, and orientation within the host's intestine. The proboscis, equipped with hooks, likely has mechanosensory receptors to aid in anchoring and detecting the intestinal wall. This is inferred from the description of Intraproboscis sanghae's proboscis and general acanthocephalan biology.",
+      "inferred_from_species": [
+        "Intraproboscis sanghae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception likely plays a role in host recognition and selection. Parasitic worms often rely on chemical cues to navigate their environment and locate suitable hosts. While specific receptors are unknown, the need to find the correct location in the intestines of its host organism suggests that it exists.",
+      "inferred_from_species": [
+        "Intraproboscis sanghae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is likely absent in this family, as they are endoparasites living in a dark environment within the host's intestine. No structures associated with vision have been reported, so the rare tag is based on other related families that have lost vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gigantorhynchida",
+    "https://en.wikipedia.org/wiki/Intraproboscis_sanghae"
+  ],
+  "generated_at": "2026-01-04T11:13:29.742958"
+}

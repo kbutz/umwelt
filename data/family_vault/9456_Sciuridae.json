@@ -1,0 +1,69 @@
+{
+  "family_name": "Sciuridae",
+  "order_name": "Rodentia",
+  "gbif_id": 9456,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Squirrels generally have good vision for detecting predators and food sources. Diurnal species likely rely heavily on visual cues. A pale eye-ring is noted in Sciurotamias davidianus.",
+      "inferred_from_species": [
+        "Sciurotamias davidianus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely important for food detection, social communication, and predator avoidance. Ground squirrels, in particular, likely use scent to locate buried food and detect predators. Rheithrosciurus macrotis forages on the forest floor which likely involves olfaction.",
+      "inferred_from_species": [
+        "Rheithrosciurus macrotis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is essential for detecting predators and conspecifics. Squirrels communicate through vocalizations, suggesting well-developed auditory capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 20000.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Tactile senses are used for navigating their environment, grooming, and social interactions. The presence of whiskers (vibrissae) is common among rodents and contributes to tactile sensing. Foot sizes are given for Pteromyscus pulverulentus.",
+      "inferred_from_species": [
+        "Pteromyscus pulverulentus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste is important for food selection. Confirmed elements of diet include nuts, seeds, fruits and fungi.",
+      "inferred_from_species": [
+        "Rheithrosciurus macrotis",
+        "Pteromyscus pulverulentus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sciuridae",
+    "https://en.wikipedia.org/wiki/Rheithrosciurus_macrotis",
+    "https://en.wikipedia.org/wiki/Pteromyscus_pulverulentus",
+    "https://en.wikipedia.org/wiki/Sciurotamias_davidianus"
+  ],
+  "generated_at": "2026-01-04T11:54:19.226028"
+}

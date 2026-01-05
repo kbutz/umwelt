@@ -1,0 +1,40 @@
+{
+  "family_name": "Coelacanthidae",
+  "order_name": "Unknown",
+  "gbif_id": 3238003,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are unknown for this extinct family. However, given that they lived in both freshwater and marine environments, it is plausible they possessed vision, but further data is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception, including the lateral line system for detecting vibrations and pressure changes in the water, is likely present but unknown. Further data is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities are unknown. No specific data is provided to support this. However, their sister family, Latimeriidae, do have electroreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coelacanthidae",
+    "https://en.wikipedia.org/wiki/Megalocoelacanthus_dobiei"
+  ],
+  "generated_at": "2026-01-04T10:23:39.504227"
+}

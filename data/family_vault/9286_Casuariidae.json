@@ -1,0 +1,60 @@
+{
+  "family_name": "Casuariidae",
+  "order_name": "Unknown",
+  "gbif_id": 9286,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Casuariidae are birds, and thus possess vision. Given their diurnal activity, vision is likely important for foraging and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As birds, Casuariidae possess hearing. Likely used for communication and predator detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities in ratites are not well-documented in the provided context. Further research is needed to determine the prevalence and importance of olfaction in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Birds have tactile receptors for sensing touch, pressure, and temperature. Important for interacting with the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "magnetoreception": {
+      "presence": "unknown",
+      "notes": "Some birds are known to have magnetoreception abilities for navigation. It is unknown if Casuariidae possess this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Casuariidae",
+    "https://en.wikipedia.org/wiki/Casuarius_casuarius",
+    "https://en.wikipedia.org/wiki/Casuarius_bennetti",
+    "https://en.wikipedia.org/wiki/Casuarius_unappendiculatus"
+  ],
+  "generated_at": "2026-01-04T12:33:09.375078"
+}

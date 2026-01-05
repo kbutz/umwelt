@@ -1,0 +1,41 @@
+{
+  "family_name": "Eremiaphilidae",
+  "order_name": "Mantodea",
+  "gbif_id": 9382,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Praying mantids are generally known to have good vision, crucial for prey detection and hunting. Likely present and important in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mantids use mechanoreceptors to sense vibrations and air currents, aiding in predator avoidance and prey capture. Likely present in Eremiaphilidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Antennae are present and used for detecting chemical cues. Likely used in mate location and possibly prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eremiaphilidae",
+    "https://en.wikipedia.org/wiki/Eremiaphila_anubis",
+    "https://en.wikipedia.org/wiki/Eremiaphila_rufula"
+  ],
+  "generated_at": "2026-01-04T10:33:19.008545"
+}

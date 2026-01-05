@@ -1,0 +1,39 @@
+{
+  "family_name": "Geophilidae",
+  "order_name": "Geophilomorpha",
+  "gbif_id": 4080,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As soil centipedes, Geophilidae likely rely heavily on mechanoreception to navigate and detect prey in their environment. Given their fossorial lifestyle, tactile senses are probably well-developed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for locating prey and mates in the soil environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of eyes in Geophilidae is unclear from the given context. Many soil-dwelling organisms have reduced or absent vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000,
+        "max": 790000000000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Geophilidae"
+  ],
+  "generated_at": "2026-01-04T11:35:55.081746"
+}

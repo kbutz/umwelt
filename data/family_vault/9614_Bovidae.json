@@ -1,0 +1,62 @@
+{
+  "family_name": "Bovidae",
+  "order_name": "Artiodactyla",
+  "gbif_id": 9614,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Most bovids are diurnal, suggesting good vision. Coloration of fur aids in camouflaging themselves in savannah habitats, suggesting color vision is present.",
+      "inferred_from_species": [
+        "Madoqua kirkii"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely important for social communication and predator detection, though specific frequency ranges are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Bovids use olfactory communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Bovids use tangible communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vocalization": {
+      "presence": "common",
+      "notes": "Bovids use different forms of vocal communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 85.0,
+        "max": 1100.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bovidae",
+    "https://en.wikipedia.org/wiki/Madoqua_piacentinii",
+    "https://en.wikipedia.org/wiki/Madoqua_kirkii",
+    "https://en.wikipedia.org/wiki/Madoqua_saltiana"
+  ],
+  "generated_at": "2026-01-04T10:19:29.136990"
+}

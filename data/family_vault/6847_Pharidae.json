@@ -1,0 +1,47 @@
+{
+  "family_name": "Pharidae",
+  "order_name": "Adapedonta",
+  "gbif_id": 6847,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves living buried in the sand, they likely possess mechanoreceptors to detect vibrations and pressure changes in their environment for predator avoidance and prey detection. Inferred from habitat.",
+      "inferred_from_species": [
+        "Phaxas pellucidus",
+        "Ensis ensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves use chemoreceptors to detect chemical cues in the water for feeding and reproduction. Inferred from general bivalve biology.",
+      "inferred_from_species": [
+        "Phaxas pellucidus",
+        "Ensis ensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyes and visual capabilities in Pharidae is not specified in the provided text. It is unknown whether they have eyespots or more complex visual organs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pharidae",
+    "https://en.wikipedia.org/wiki/Phaxas_pellucidus",
+    "https://en.wikipedia.org/wiki/Ensis_ensis"
+  ],
+  "generated_at": "2026-01-04T12:45:32.024458"
+}

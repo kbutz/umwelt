@@ -1,0 +1,60 @@
+{
+  "family_name": "Phalacrocoracidae",
+  "order_name": "Unknown",
+  "gbif_id": 5268,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for hunting fish underwater and navigating coastal environments. Plumage coloration varies across species, suggesting a role in visual communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely used for communication within nesting colonies and for detecting predators. Further data needed to detail frequency range and sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for underwater navigation and prey detection via hydrodynamic cues; also for balance and spatial orientation in flight and on land.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "taste/chemoreception": {
+      "presence": "common",
+      "notes": "Necessary for assessing food quality. Specific details on taste preferences or receptor types are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in cormorants is not mentioned in the provided text, so it is unknown if they rely on it.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phalacrocoracidae",
+    "https://en.wikipedia.org/wiki/Phalacrocorax_magellanicus",
+    "https://en.wikipedia.org/wiki/Phalacrocorax_punctatus",
+    "https://en.wikipedia.org/wiki/Phalacrocorax_varius"
+  ],
+  "generated_at": "2026-01-04T12:11:05.391051"
+}

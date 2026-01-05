@@ -1,0 +1,39 @@
+{
+  "family_name": "Leptophlebiidae",
+  "order_name": "Ephemeroptera",
+  "gbif_id": 7868,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as it is common in Ephemeroptera, but specific data is unavailable in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presence inferred due to aquatic larval stage and likely use of water currents for feeding/navigation. Forked gills also suggest a mechanosensory role.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for food detection and mate recognition, common in aquatic insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leptophlebiidae"
+  ],
+  "generated_at": "2026-01-04T11:28:54.051165"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Pelagonemertidae",
+  "order_name": "Polystilifera",
+  "gbif_id": 2087,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in pelagic nemerteans are not well-documented in the provided context. Vision may be present, but further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As nemerteans, chemoreception is likely used for prey detection and navigation. However, specific details for Pelagonemertidae are unavailable in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting water currents and prey movement in a pelagic environment. Details specific to Pelagonemertidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pelagonemertidae"
+  ],
+  "generated_at": "2026-01-04T12:05:31.417267"
+}

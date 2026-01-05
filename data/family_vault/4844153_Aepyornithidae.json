@@ -1,0 +1,78 @@
+{
+  "family_name": "Aepyornithidae",
+  "order_name": "Aepyornithiformes",
+  "gbif_id": 4844153,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely possessed functional vision, as they are related to kiwi and other birds which use vision. Further research may show adaptations for their specific environment.",
+      "inferred_from_species": [
+        "Aepyornis hildebrandti",
+        "Aepyornis maximus",
+        "Mullerornis agilis",
+        "Apteryx (kiwi)"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely possessed hearing, as birds generally rely on auditory cues. Frequency range is unknown but assumed to be within the typical avian range.",
+      "inferred_from_species": [
+        "Aepyornis hildebrandti",
+        "Aepyornis maximus",
+        "Mullerornis agilis"
+      ],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 10000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely possessed a sense of smell, as their close relatives, the kiwi, use this sense to locate food. However, the extent of olfactory capabilities is unknown and requires further study.",
+      "inferred_from_species": [
+        "Aepyornis hildebrandti",
+        "Aepyornis maximus",
+        "Mullerornis agilis",
+        "Apteryx (kiwi)"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Presumed to have a sense of touch and pressure across their body surface, which is typical for birds. This would be used for preening, navigation, and social interactions.",
+      "inferred_from_species": [
+        "Aepyornis hildebrandti",
+        "Aepyornis maximus",
+        "Mullerornis agilis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The extent of taste perception in Aepyornithidae is currently unknown, but assumed to have some capacity for taste.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aepyornithidae",
+    "https://en.wikipedia.org/wiki/Aepyornis_hildebrandti",
+    "https://en.wikipedia.org/wiki/Aepyornis_maximus",
+    "https://en.wikipedia.org/wiki/Mullerornis_agilis"
+  ],
+  "generated_at": "2026-01-04T10:18:30.374042"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Ectobiidae",
+  "order_name": "Blattodea",
+  "gbif_id": 4802341,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely functional vision, given the surface-dwelling habits of most species. Further research is needed to determine spectral sensitivity and visual acuity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Antennae are prominent in cockroaches and used for detecting pheromones and other chemical cues, important for social interactions and finding food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely sensitive to vibrations and touch via sensilla on the body and legs, aiding in predator detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ectobiidae"
+  ],
+  "generated_at": "2026-01-04T10:37:49.515818"
+}

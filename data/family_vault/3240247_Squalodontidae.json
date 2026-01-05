@@ -1,0 +1,60 @@
+{
+  "family_name": "Squalodontidae",
+  "order_name": "Cetacea",
+  "gbif_id": 3240247,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Inferred to be important for echolocation, as the periotic bone (inner ear) is a synapomorphic trait.",
+      "inferred_from_species": [
+        "Squalodon"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "echolocation": {
+      "presence": "common",
+      "notes": "The premaxillae on their elongated rostrum have large and slightly convex fossae for the air sacs associated with the presence of a melon, indicating the ability for echolocation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste/smell": {
+      "presence": "unknown",
+      "notes": "No specific information is available on taste or smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "unknown",
+      "notes": "No specific information is available on touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Squalodontidae",
+    "https://en.wikipedia.org/wiki/Mammalodon_colliveri"
+  ],
+  "generated_at": "2026-01-04T09:44:52.302957"
+}

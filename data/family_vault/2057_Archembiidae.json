@@ -1,0 +1,39 @@
+{
+  "family_name": "Archembiidae",
+  "order_name": "Embioptera",
+  "gbif_id": 2057,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Archembiidae are unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As webspinners, mechanoreception is likely important for detecting vibrations in the silk webs they produce. This is inferred from other Embioptera families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception likely plays a role in mate finding and food detection, but specific information for Archembiidae is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Archembiidae"
+  ],
+  "generated_at": "2026-01-04T10:03:16.943183"
+}

@@ -1,0 +1,47 @@
+{
+  "family_name": "Hemipneustidae",
+  "order_name": "Unknown",
+  "gbif_id": 4876080,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As semi-infaunal detritivores living in marine sediments, it is inferred that they would have mechanoreceptors for detecting vibrations or pressure changes in the sediment to locate food or avoid predators. This is typical for echinoids.",
+      "inferred_from_species": [
+        "Hemipneustes striatoradiatus",
+        "Hemipneustes zuffardii"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As detritivores, they likely possess chemoreceptors to detect organic matter in the sediment. This is a widespread sense in sea urchins.",
+      "inferred_from_species": [
+        "Hemipneustes striatoradiatus",
+        "Hemipneustes zuffardii"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception is unknown. Some sea urchins have rudimentary light sensing abilities, but this has not been established for Hemipneustidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hemipneustidae",
+    "https://en.wikipedia.org/wiki/Hemipneustes_striatoradiatus",
+    "https://en.wikipedia.org/wiki/Hemipneustes_zuffardii"
+  ],
+  "generated_at": "2026-01-04T12:03:40.125298"
+}

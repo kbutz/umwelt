@@ -1,0 +1,39 @@
+{
+  "family_name": "Anisembiidae",
+  "order_name": "Embioptera",
+  "gbif_id": 5776,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information provided. Visual capabilities of web-spinners are not specified in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As web-spinners, they likely rely on mechanoreception to detect vibrations in their webs and surroundings.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present for foraging and mate recognition, but not explicitly stated in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anisembiidae"
+  ],
+  "generated_at": "2026-01-04T10:03:00.824900"
+}

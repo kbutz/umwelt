@@ -1,0 +1,39 @@
+{
+  "family_name": "Diphyidae",
+  "order_name": "Siphonophorae",
+  "gbif_id": 8188,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for balance and orientation in the water column, and potentially for detecting prey or predators. The nectophores facilitate movement and could be sensitive to water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Diphyidae is unknown based on the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely plays a role in feeding behavior, but this is not explicitly mentioned in the provided text. Siphonophores may use chemoreception to detect prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diphyidae"
+  ],
+  "generated_at": "2026-01-04T12:06:38.457312"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Haplognathiidae",
+  "order_name": "Filospermoidea",
+  "gbif_id": 3422,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in worms are not specified, so this is unknown but likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present in worms for navigation and feeding, but unknown in this family specifically.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1e-6
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Unknown if they possess photoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haplognathiidae"
+  ],
+  "generated_at": "2026-01-04T10:48:17.155445"
+}

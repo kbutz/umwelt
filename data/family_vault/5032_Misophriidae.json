@@ -1,0 +1,39 @@
+{
+  "family_name": "Misophriidae",
+  "order_name": "Misophrioida",
+  "gbif_id": 5032,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As copepods, Misophriidae likely rely on mechanoreception for detecting water currents, vibrations, and the presence of prey or predators. This is inferred, as specific sensory structures for this family are not detailed in the provided text, but is a common sensory modality in copepods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Copepods generally use chemoreception to detect chemical cues in the water, which helps them find food, mates, and avoid unfavorable conditions. Likely present, but precise mechanisms within Misophriidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of photoreception within Misophriidae is unknown from the provided text. Some copepods possess photoreceptors, but it is uncertain if this capability extends to all members of this family or if it has been lost in some genera, especially those in deep-sea or cave environments (e.g. Stygomisophria).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Misophriidae"
+  ],
+  "generated_at": "2026-01-04T10:10:19.528428"
+}

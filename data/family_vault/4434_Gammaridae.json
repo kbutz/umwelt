@@ -1,0 +1,39 @@
+{
+  "family_name": "Gammaridae",
+  "order_name": "Amphipoda",
+  "gbif_id": 4434,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in some species given their wide distribution and habitation of both fresh and marine waters, but specific capabilities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be common, as it is crucial for finding food and mates in aquatic environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for detecting water currents and vibrations, crucial for orientation and predator avoidance in aquatic environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gammaridae"
+  ],
+  "generated_at": "2026-01-04T11:30:35.024273"
+}

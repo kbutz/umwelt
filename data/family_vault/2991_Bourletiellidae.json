@@ -1,0 +1,43 @@
+{
+  "family_name": "Bourletiellidae",
+  "order_name": "Symphypleona",
+  "gbif_id": 2991,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Bourletiellidae are currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As herbivorous springtails, Bourletiellidae likely use chemoreception to locate food sources such as moss and fungi, as suggested by the diet of Bourletiella hortensis. Also potentially used in the complex mating rituals described.",
+      "inferred_from_species": [
+        "Bourletiella hortensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Springtails generally possess mechanoreceptors for sensing their environment and detecting threats. Given they engage in complex mating rituals, mechanoreception is likely important.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bourletiellidae",
+    "https://en.wikipedia.org/wiki/Bourletiella_rustica",
+    "https://en.wikipedia.org/wiki/Bourletiella_hortensis"
+  ],
+  "generated_at": "2026-01-04T12:54:45.768415"
+}

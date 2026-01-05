@@ -1,0 +1,39 @@
+{
+  "family_name": "Gordiidae",
+  "order_name": "Gordioidea",
+  "gbif_id": 6462,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Gordiidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Gordiidae are not detailed in the provided context. Chemoreception is likely used for host seeking but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Gordiidae are not detailed in the provided context. Mechanoreception is likely involved in movement and host interaction but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gordiidae"
+  ],
+  "generated_at": "2026-01-04T10:48:33.471372"
+}

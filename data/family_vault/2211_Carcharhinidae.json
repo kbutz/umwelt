@@ -1,0 +1,51 @@
+{
+  "family_name": "Carcharhinidae",
+  "order_name": "Carcharhiniformes",
+  "gbif_id": 2211,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Round eyes are a characteristic of the family. Likely used for prey detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Females release chemical signals to attract males for mating, indicating a well-developed sense of smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Sharks possess ampullae of Lorenzini, allowing them to detect electrical fields in the water. This is a common trait in sharks and likely present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "The lateral line system is used to detect vibrations and pressure changes in the water, aiding in prey detection and spatial awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 200.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carcharhinidae",
+    "https://en.wikipedia.org/wiki/Rhizoprionodon_lalandii",
+    "https://en.wikipedia.org/wiki/Rhizoprionodon_taylori",
+    "https://en.wikipedia.org/wiki/Rhizoprionodon_oligolinx"
+  ],
+  "generated_at": "2026-01-04T10:55:13.124506"
+}

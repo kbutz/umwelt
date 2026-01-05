@@ -1,0 +1,39 @@
+{
+  "family_name": "Glomeridellidae",
+  "order_name": "Glomerida",
+  "gbif_id": 8565,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Glomeridellidae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes generally rely on chemoreception for navigation and food detection. This is inferred to be present in Glomeridellidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a terrestrial arthropod, Glomeridellidae likely uses mechanoreception for sensing the environment and detecting vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glomeridellidae"
+  ],
+  "generated_at": "2026-01-04T11:09:10.954673"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Fimbriidae",
+  "order_name": "Unknown",
+  "gbif_id": 52,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalve molluscs, Fimbriidae likely possess mechanoreceptors for detecting substrate vibrations and water currents, crucial for burrowing and detecting predators/prey. Inferred from general bivalve biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves typically have chemoreceptors for detecting chemical cues in the water, aiding in feeding and avoiding harmful substances. Inferred from general bivalve biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "While some bivalves possess eyes or simple light-sensing organs, the presence and function of vision in Fimbriidae are unknown. Likely limited or absent, given their burrowing lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fimbriidae"
+  ],
+  "generated_at": "2026-01-04T12:37:57.381775"
+}

@@ -1,0 +1,51 @@
+{
+  "family_name": "Polypteridae",
+  "order_name": "Polypteriformes",
+  "gbif_id": 5087,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Ray-finned fishes possess vision, and given their presence in shallow, swampy habitats, vision is likely important. Specific details of visual acuity or spectral sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ray-finned fish, Polypteridae possess a lateral line system for detecting vibrations and pressure changes in the water. This is crucial in turbid environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish rely on olfaction (smell) and taste for finding food, navigating, and social interactions. Given their habitat, chemoreception is likely important.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception has not been explicitly documented in Polypteridae, but some archaic ray-finned fishes possess this sense. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polypteridae",
+    "https://en.wikipedia.org/wiki/Erpetoichthys_calabaricus",
+    "https://en.wikipedia.org/wiki/Polypterus_delhezi",
+    "https://en.wikipedia.org/wiki/Polypterus_mokelembembe"
+  ],
+  "generated_at": "2026-01-04T11:39:06.742051"
+}

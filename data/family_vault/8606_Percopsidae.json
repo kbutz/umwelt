@@ -1,0 +1,50 @@
+{
+  "family_name": "Percopsidae",
+  "order_name": "Percopsiformes",
+  "gbif_id": 8606,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely functional for prey detection and navigation in freshwater habitats. They migrate to shallower waters at night (P. omiscomaycus), suggesting light sensitivity is important.",
+      "inferred_from_species": [
+        "Percopsis omiscomaycus",
+        "Percopsis transmontana"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Used for detecting water currents and vibrations, crucial for detecting insects and small crustaceans (their diet) and avoiding predators.",
+      "inferred_from_species": [
+        "Percopsis omiscomaycus",
+        "Percopsis transmontana"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Important for locating food sources (insects and crustaceans) in aquatic environments.",
+      "inferred_from_species": [
+        "Percopsis omiscomaycus",
+        "Percopsis transmontana"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Percopsidae",
+    "https://en.wikipedia.org/wiki/Percopsis_transmontana",
+    "https://en.wikipedia.org/wiki/Percopsis_omiscomaycus"
+  ],
+  "generated_at": "2026-01-04T11:38:57.022917"
+}

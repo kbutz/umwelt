@@ -1,0 +1,48 @@
+{
+  "family_name": "Eurypholidae",
+  "order_name": "Aulopiformes",
+  "gbif_id": 3238183,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As extinct marine fish, vision was likely important for predation, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possessed a lateral line system for detecting vibrations and pressure changes in the water, common in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possessed olfactory senses for detecting chemical cues in the water, aiding in prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No evidence suggests electroreception. Unlikely given their phylogenetic position and predatory lifestyle described.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eurypholidae"
+  ],
+  "generated_at": "2026-01-04T11:40:06.040715"
+}

@@ -1,0 +1,32 @@
+{
+  "family_name": "Eosentomidae",
+  "order_name": "Protura",
+  "gbif_id": 6976,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Protura in general live in soil and leaf litter, suggesting mechanoreception is likely important for navigation and prey detection, but specific sensory structures or capabilities are not detailed in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for food and mate detection in soil environments, but no specific information available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eosentomidae",
+    "https://en.wikipedia.org/wiki/Madagascarentomon_condei",
+    "https://en.wikipedia.org/wiki/Neanisentomon_yuenicum"
+  ],
+  "generated_at": "2026-01-04T11:27:09.629334"
+}

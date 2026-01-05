@@ -1,0 +1,40 @@
+{
+  "family_name": "Sphaeriidae",
+  "order_name": "Sphaeriida",
+  "gbif_id": 3247675,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Sphaeriidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact with their environment. This is crucial for feeding, burrowing, and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves generally rely on chemoreception to detect food particles and assess water quality. This is important for filter feeding and identifying suitable habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Sphaeriidae is not explicitly mentioned, but many bivalves possess simple light-sensing capabilities. This needs further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sphaeriidae",
+    "https://en.wikipedia.org/wiki/Pisidium_subtruncatum"
+  ],
+  "generated_at": "2026-01-04T12:53:11.693385"
+}

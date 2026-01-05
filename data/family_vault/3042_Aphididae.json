@@ -1,0 +1,39 @@
+{
+  "family_name": "Aphididae",
+  "order_name": "Hemiptera",
+  "gbif_id": 3042,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly mentioned in the provided context. Further research is needed to determine the prevalence and characteristics of vision within this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Aphids are known to feed on plant sap, indicating a likely reliance on chemoreception to locate suitable host plants. This is crucial for their survival and reproduction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As insects, aphids likely possess mechanoreceptors for sensing touch, vibrations, and other physical stimuli from their environment. This is important for navigation, feeding, and avoiding predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aphididae"
+  ],
+  "generated_at": "2026-01-04T10:40:58.477032"
+}

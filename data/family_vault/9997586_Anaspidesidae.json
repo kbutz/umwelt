@@ -1,0 +1,41 @@
+{
+  "family_name": "Anaspidesidae",
+  "order_name": "Unknown",
+  "gbif_id": 9997586,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess stalked eyes, suggesting visual capability. Likely important for navigation and prey detection in freshwater environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Long antennae and antennules are present, likely used for detecting water currents and vibrations. Important for prey detection, predator avoidance, and social communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Antennae and antennules likely have chemosensory function for detecting dissolved chemicals in the water, important for food location and mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anaspidesidae",
+    "https://en.wikipedia.org/wiki/Anaspides_swaini",
+    "https://en.wikipedia.org/wiki/Anaspides_tasmaniae"
+  ],
+  "generated_at": "2026-01-04T10:58:26.175298"
+}

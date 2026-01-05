@@ -1,0 +1,39 @@
+{
+  "family_name": "Crassatellidae",
+  "order_name": "Carditida",
+  "gbif_id": 6855,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, Crassatellidae likely possess mechanoreceptors to detect water currents, substrate vibrations, and potential threats or food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Marine bivalves rely on chemoreception to locate food and assess water quality. This likely includes sensors for salinity, pH, and dissolved organic matter.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Crassatellidae is currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crassatellidae"
+  ],
+  "generated_at": "2026-01-04T12:36:20.586093"
+}

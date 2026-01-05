@@ -1,0 +1,39 @@
+{
+  "family_name": "Amphilinidae",
+  "order_name": "Amphilinidea",
+  "gbif_id": 7243,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their parasitic lifestyle within host body cavities and crustaceans, mechanoreception for sensing the environment and host movements is likely important. The presence of a muscular proboscis also suggests tactile sensing capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for host location and recognition, as well as for navigating the host's body cavity. Parasitic worms are known to rely on chemical cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No mention of eyes or visual structures is provided in the context. Given their endoparasitic lifestyle, vision may be absent or reduced.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphilinidae"
+  ],
+  "generated_at": "2026-01-04T09:54:43.996373"
+}

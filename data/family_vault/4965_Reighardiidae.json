@@ -1,0 +1,44 @@
+{
+  "family_name": "Reighardiidae",
+  "order_name": "Reighardiida",
+  "gbif_id": 4965,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available from the provided context. Given its parasitic lifestyle within the body cavity and air sacs of birds, vision may be reduced or absent, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be important for host-seeking and navigation within the host. Likely used to detect host-specific chemical cues.",
+      "inferred_from_species": [
+        "Reighardia sternae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for sensing the host environment, including air currents in the air sacs and physical contact.",
+      "inferred_from_species": [
+        "Reighardia sternae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reighardiidae",
+    "https://en.wikipedia.org/wiki/Reighardia_sternae"
+  ],
+  "generated_at": "2026-01-04T11:42:10.663055"
+}

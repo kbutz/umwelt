@@ -1,0 +1,40 @@
+{
+  "family_name": "Dalyelliidae",
+  "order_name": "Rhabdocoela",
+  "gbif_id": 3149,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in free-living species, but information is limited in the provided context. Further research needed to determine the prevalence and characteristics of vision within the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As free-living flatworms in aquatic environments, chemoreception is likely crucial for food detection, mate finding, and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting water currents, substrate vibrations, and contact with other organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dalyelliidae",
+    "https://en.wikipedia.org/wiki/Dalyellia_viridis"
+  ],
+  "generated_at": "2026-01-04T12:06:30.237054"
+}

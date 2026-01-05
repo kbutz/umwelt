@@ -1,0 +1,45 @@
+{
+  "family_name": "Congridae",
+  "order_name": "Anguilliformes",
+  "gbif_id": 2951,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Congridae inhabit diverse marine environments from shallow to deep waters. Vision is likely used for prey detection and predator avoidance. Garden eels such as Gorgasia spp. visually monitor their surroundings.",
+      "inferred_from_species": [
+        "Gorgasia galzini",
+        "Gorgasia naeocepaea"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, congrids possess a lateral line system for detecting vibrations and pressure changes in the water. This is crucial for detecting predators and prey in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Congrids, like most fish, use chemoreception (smell and taste) to find food. They feed on crustaceans and small fish, which they likely locate via chemical cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Congridae",
+    "https://en.wikipedia.org/wiki/Castleichthys_auritus",
+    "https://en.wikipedia.org/wiki/Gorgasia_galzini",
+    "https://en.wikipedia.org/wiki/Gorgasia_naeocepaea"
+  ],
+  "generated_at": "2026-01-04T09:51:52.878210"
+}

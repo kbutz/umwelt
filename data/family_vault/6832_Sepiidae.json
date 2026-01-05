@@ -1,0 +1,42 @@
+{
+  "family_name": "Sepiidae",
+  "order_name": "Sepiida",
+  "gbif_id": 6832,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Cuttlefish have large, W-shaped pupils. Vision is likely important for hunting and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and predators in the marine environment. Cuttlefish use tentacles with denticulated suckers, suggesting tactile sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is probably used for hunting prey. This is inferred due to the presence of chemoreception in many marine molluscs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 0.1
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sepiidae",
+    "https://en.wikipedia.org/wiki/Sepia_acuminata",
+    "https://en.wikipedia.org/wiki/Sepia_bertheloti",
+    "https://en.wikipedia.org/wiki/Sepia_burnupi"
+  ],
+  "generated_at": "2026-01-04T11:04:22.729128"
+}

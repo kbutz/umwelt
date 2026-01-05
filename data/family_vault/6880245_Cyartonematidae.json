@@ -1,0 +1,39 @@
+{
+  "family_name": "Cyartonematidae",
+  "order_name": "Desmoscolecida",
+  "gbif_id": 6880245,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally possess mechanoreceptors for sensing touch and pressure. Given their benthic lifestyle, this is likely important for navigation and feeding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes rely heavily on chemoreception for locating food and mates. This is likely a primary sense for Cyartonematidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally absent or very reduced in nematodes. It is unlikely to be a significant sense for Cyartonematidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyartonematidae"
+  ],
+  "generated_at": "2026-01-04T11:02:03.573456"
+}

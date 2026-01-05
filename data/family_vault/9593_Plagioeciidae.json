@@ -1,0 +1,39 @@
+{
+  "family_name": "Plagioeciidae",
+  "order_name": "Cyclostomatida",
+  "gbif_id": 9593,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities for detecting mechanical stimuli are unknown in Plagioeciidae. Given their sessile lifestyle, it's plausible they can detect water currents or substrate vibrations, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of chemoreception are unknown in this family. As aquatic organisms, it is likely they can detect chemical cues in the water, but further data are needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception is unknown in Plagioeciidae. The ability to detect light may be present in some life stages (e.g., larvae), but this is not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plagioeciidae"
+  ],
+  "generated_at": "2026-01-04T12:01:59.486559"
+}

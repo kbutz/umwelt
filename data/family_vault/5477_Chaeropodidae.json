@@ -1,0 +1,51 @@
+{
+  "family_name": "Chaeropodidae",
+  "order_name": "Peramelemorphia",
+  "gbif_id": 5477,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information is available regarding vision in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "No information is available regarding hearing in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No information is available regarding olfaction in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "They were able to move rapidly and inhabited dense vegetation, which suggests reliance on somatosensation. They also have thin legs.",
+      "inferred_from_species": [
+        "Chaeropus ecaudatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chaeropodidae",
+    "https://en.wikipedia.org/wiki/Chaeropus_ecaudatus"
+  ],
+  "generated_at": "2026-01-04T10:35:20.296508"
+}

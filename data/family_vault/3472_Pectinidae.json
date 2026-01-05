@@ -1,0 +1,42 @@
+{
+  "family_name": "Pectinidae",
+  "order_name": "Ostreida",
+  "gbif_id": 3472,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "All scallops have a ring of numerous simple eyes situated around the edge of their mantles.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Scallops sense the presence of predators and escape by swimming.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Implied via spawning and potential self-fertilization",
+      "inferred_from_species": [
+        "Nodipecten subnodosus"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scallop",
+    "https://en.wikipedia.org/wiki/Nodipecten_subnodosus"
+  ],
+  "generated_at": "2026-01-04T12:34:48.417952"
+}

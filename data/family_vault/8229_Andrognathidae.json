@@ -1,0 +1,41 @@
+{
+  "family_name": "Andrognathidae",
+  "order_name": "Platydesmida",
+  "gbif_id": 8229,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Andrognathidae is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present, as it is a common sensory modality for millipedes for navigation, finding food, and mating.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present through tactile hairs and other sensory structures for detecting vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrognathidae",
+    "https://en.wikipedia.org/wiki/Brachycybe_petasata",
+    "https://en.wikipedia.org/wiki/Brachycybe_producta"
+  ],
+  "generated_at": "2026-01-04T11:09:52.613870"
+}

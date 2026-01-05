@@ -1,0 +1,59 @@
+{
+  "family_name": "Engraulidae",
+  "order_name": "Unknown",
+  "gbif_id": 7334,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Anchovies are fish, and vision is likely their primary sense for foraging and predator avoidance in the water column. Further research is needed to determine specific visual adaptations (e.g., color vision, UV vision).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fish possess a lateral line system for detecting water movement and pressure changes. This is likely crucial for schooling behavior, predator detection, and prey localization.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction (smell) and taste are important for finding food and potentially for social communication. Likely used to detect plankton and other small organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is not common among teleost fishes. Its presence in Engraulidae is unknown and would be unexpected.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As teleost fish, anchovies likely have hearing capabilities. The extent and sensitivity of their hearing remain largely unknown, but is used for general awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 3000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Engraulidae",
+    "https://en.wikipedia.org/wiki/Pterengraulis_atherinoides",
+    "https://en.wikipedia.org/wiki/Coilia_ramcarati"
+  ],
+  "generated_at": "2026-01-04T09:57:15.111732"
+}

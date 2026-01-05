@@ -1,0 +1,40 @@
+{
+  "family_name": "Cliidae",
+  "order_name": "Opisthobranchia",
+  "gbif_id": 6520710,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as they are gastropods, but specific visual capabilities are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present for spatial awareness and balance in a pelagic environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present for detecting food and mates in the water column.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cliidae",
+    "https://en.wikipedia.org/wiki/Clio_cuspidata"
+  ],
+  "generated_at": "2026-01-04T12:48:54.319582"
+}

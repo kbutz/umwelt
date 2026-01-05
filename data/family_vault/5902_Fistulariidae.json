@@ -1,0 +1,46 @@
+{
+  "family_name": "Fistulariidae",
+  "order_name": "Syngnathiformes",
+  "gbif_id": 5902,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Cornetfishes possess eyes, suggesting vision plays a role in their behavior, potentially for prey detection or navigation.",
+      "inferred_from_species": [
+        "Fistularia corneta",
+        "Fistularia petimba",
+        "Fistularia commersonii"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "The presence of a well-developed lateral line extending onto the caudal filament suggests a significant reliance on mechanoreception for detecting water movements and pressure changes. Likely used for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No specific information on chemoreception is available, but given they are active predators, it is likely they have some level of taste and smell to detect prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fistulariidae",
+    "https://en.wikipedia.org/wiki/Fistularia_corneta",
+    "https://en.wikipedia.org/wiki/Fistularia_petimba",
+    "https://en.wikipedia.org/wiki/Fistularia_commersonii"
+  ],
+  "generated_at": "2026-01-04T10:26:49.260112"
+}

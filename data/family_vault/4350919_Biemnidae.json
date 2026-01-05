@@ -1,0 +1,39 @@
+{
+  "family_name": "Biemnidae",
+  "order_name": "Biemnida",
+  "gbif_id": 4350919,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As sponges, Biemnidae likely rely heavily on chemoreception to detect food particles and other chemical cues in the water. This is inferred as a fundamental sensory modality for sponges in general.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Biemnidae, possess a basic form of mechanoreception, enabling them to detect water currents and physical disturbances. This sense is crucial for regulating water flow and potentially for detecting predators or changes in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception is unknown within Biemnidae. Sponges do not have true eyes or a central nervous system, so specialized light sensing capabilities, if present, are likely very basic.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Biemnidae"
+  ],
+  "generated_at": "2026-01-04T12:28:20.519792"
+}

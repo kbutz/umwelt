@@ -1,0 +1,40 @@
+{
+  "family_name": "Heptageniidae",
+  "order_name": "Ephemeroptera",
+  "gbif_id": 7873,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Mayflies in general have good vision, used for mate detection and predator avoidance. Given the wide distribution of Heptageniidae, vision is likely a key sense. Further research is needed to characterize specific adaptations in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As aquatic insects, Heptageniidae likely rely on mechanoreception to detect water currents and vibrations for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is important for aquatic insects to locate food sources and suitable oviposition sites. Likely present in Heptageniidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heptageniidae",
+    "https://en.wikipedia.org/wiki/Arthroplea_bipunctata"
+  ],
+  "generated_at": "2026-01-04T11:29:03.605197"
+}

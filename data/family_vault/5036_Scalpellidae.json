@@ -1,0 +1,39 @@
+{
+  "family_name": "Scalpellidae",
+  "order_name": "Scalpellomorpha",
+  "gbif_id": 5036,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Scalpellidae are largely unknown based on the provided context. Vision presence or absence cannot be determined.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence based on the necessity for barnacles to locate food and suitable substrates. Specific mechanisms unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence based on the necessity to respond to water currents and substrate vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scalpellidae"
+  ],
+  "generated_at": "2026-01-04T10:11:02.410505"
+}

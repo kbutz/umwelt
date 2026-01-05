@@ -1,0 +1,60 @@
+{
+  "family_name": "Apterygidae",
+  "order_name": "Apterygiformes",
+  "gbif_id": 7258,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, though likely not the primary sense. Kiwi are nocturnal.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Kiwi use their nostrils at the end of their long beak to detect prey before they see it, indicating a well-developed sense of smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.00001,
+        "max": 1000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition is likely important for nocturnal activity and predator avoidance. Further research is needed to determine specific hearing ranges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "General sense of touch and pressure. Kiwi have bristly, hair-like feathers, suggesting tactile sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.00001,
+        "max": 1000
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The extent to which kiwi rely on taste is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.00001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apterygidae",
+    "https://en.wikipedia.org/wiki/Apteryx_haastii",
+    "https://en.wikipedia.org/wiki/Apteryx_rowi",
+    "https://en.wikipedia.org/wiki/Apteryx_owenii"
+  ],
+  "generated_at": "2026-01-04T12:31:43.891621"
+}

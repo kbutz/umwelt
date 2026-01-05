@@ -1,0 +1,38 @@
+{
+  "family_name": "Bonelliidae",
+  "order_name": "Echiura",
+  "gbif_id": 6200,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine worms living in burrows, they likely rely heavily on chemoreception to detect food, conspecifics, and environmental cues. This is inferred, as specific sensory organs are not described in the provided context, but typical for benthic marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for burrowing and detecting water currents or substrate vibrations. Inferred from habitat and general invertebrate sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is unknown based on the provided information. Given the deep-sea habitat of many species, vision may be reduced or absent in some lineages.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bonelliidae"
+  ],
+  "generated_at": "2026-01-04T12:29:52.283438"
+}

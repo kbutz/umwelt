@@ -1,0 +1,43 @@
+{
+  "family_name": "Anatonchidae",
+  "order_name": "Dorylaimida",
+  "gbif_id": 6509,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely on chemoreception for navigation, prey detection, and mate finding. Inferred to be present in Anatonchidae.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes possess mechanoreceptors for sensing touch, pressure, and movement in their environment. Likely used for navigating soil and interacting with prey.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally absent in nematodes. If present in any species of Anatonchidae, it would be a rare and specialized adaptation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anatonchidae"
+  ],
+  "generated_at": "2026-01-04T10:57:38.746726"
+}

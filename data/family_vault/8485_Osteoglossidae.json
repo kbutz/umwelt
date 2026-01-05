@@ -1,0 +1,54 @@
+{
+  "family_name": "Osteoglossidae",
+  "order_name": "Unknown",
+  "gbif_id": 8485,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Arowanas possess vision, which is likely used for prey detection and navigation in their freshwater habitats. Some species inhabit blackwater rivers and turbid waters, suggesting adaptations for low-light conditions.",
+      "inferred_from_species": [
+        "Scleropages formosus",
+        "Scleropages jardinii",
+        "Scleropages leichardti"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, Osteoglossidae likely possess a lateral line system for detecting vibrations and pressure changes in the water. This is crucial for prey detection, predator avoidance, and spatial awareness.",
+      "inferred_from_species": [
+        "Scleropages formosus",
+        "Scleropages jardinii",
+        "Scleropages leichardti"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Freshwater fish rely on chemoreception (taste and smell) for various purposes, including food detection, social communication, and navigation. It is reasonable to assume this is present in Osteoglossidae.",
+      "inferred_from_species": [
+        "Scleropages formosus",
+        "Scleropages jardinii",
+        "Scleropages leichardti"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Osteoglossidae",
+    "https://en.wikipedia.org/wiki/Scleropages_formosus",
+    "https://en.wikipedia.org/wiki/Scleropages_jardinii",
+    "https://en.wikipedia.org/wiki/Scleropages_leichardti"
+  ],
+  "generated_at": "2026-01-04T11:12:34.559882"
+}

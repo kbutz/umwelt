@@ -1,0 +1,39 @@
+{
+  "family_name": "Vetulinidae",
+  "order_name": "Sphaerocladina",
+  "gbif_id": 3922,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, as filter feeders, rely heavily on chemoreception to detect and respond to chemical cues in the water for feeding and potentially for identifying suitable settlement locations for larvae. This is inferred from the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-30,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges likely possess mechanoreceptors to detect water flow and structural integrity. This is inferred from the general biology of sponges, as they need to regulate their aquiferous system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-30,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Vetulinidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vetulinidae"
+  ],
+  "generated_at": "2026-01-04T12:19:26.059835"
+}

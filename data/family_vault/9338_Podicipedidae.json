@@ -1,0 +1,64 @@
+{
+  "family_name": "Podicipedidae",
+  "order_name": "Podicipediformes",
+  "gbif_id": 9338,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Grebes are aquatic diving birds, suggesting vision is important for hunting prey underwater and for courtship displays. They are known to perform synchronized dances, which likely relies on visual cues.",
+      "inferred_from_species": [
+        "Aechmophorus clarkii",
+        "Aechmophorus occidentalis",
+        "Poliocephalus rufopectus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As birds, grebes likely possess a functional sense of hearing, important for communication and predator detection. No specific details on frequency range are provided, but it's reasonable to assume it falls within the typical avian range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 80.0,
+        "max": 12000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile senses are important for general awareness and interacting with the environment, especially during nesting and foraging. Grebes build floating vegetative nests, which implies some level of tactile sensitivity to assess and manipulate materials.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The extent of taste perception in grebes is unknown from the provided text. As diving birds that consume a variety of prey, they likely possess some gustatory ability to assess food quality, but details are lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities in grebes are unknown based on the provided text. Most birds have a relatively limited sense of smell, but it is impossible to say definitively without further evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Podicipedidae",
+    "https://en.wikipedia.org/wiki/Aechmophorus_clarkii",
+    "https://en.wikipedia.org/wiki/Aechmophorus_occidentalis",
+    "https://en.wikipedia.org/wiki/Poliocephalus_rufopectus"
+  ],
+  "generated_at": "2026-01-04T12:09:26.387806"
+}

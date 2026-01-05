@@ -1,0 +1,39 @@
+{
+  "family_name": "Paguridae",
+  "order_name": "Decapoda",
+  "gbif_id": 4531,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is likely present but data is currently unavailable to describe it for the whole family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is common in Decapoda and likely plays a role in foraging and social behavior in Paguridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is crucial for hermit crabs to detect substrate vibrations, water currents, and potential threats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paguridae"
+  ],
+  "generated_at": "2026-01-04T10:06:02.891267"
+}

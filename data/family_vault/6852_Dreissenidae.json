@@ -1,0 +1,50 @@
+{
+  "family_name": "Dreissenidae",
+  "order_name": "Not Applicable",
+  "gbif_id": 6852,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Dreissenidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact. This is inferred due to their sessile lifestyle and reliance on water currents for feeding and dispersal.",
+      "inferred_from_species": [
+        "Dreissena polymorpha",
+        "Dreissena bugensis",
+        "Mytilopsis leucophaeata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for detecting food particles, potential mates, and unfavorable environmental conditions. This is inferred due to their feeding ecology.",
+      "inferred_from_species": [
+        "Dreissena polymorpha",
+        "Dreissena bugensis",
+        "Mytilopsis leucophaeata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Dreissenidae is not explicitly stated in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dreissenidae",
+    "https://en.wikipedia.org/wiki/Dreissena_polymorpha",
+    "https://en.wikipedia.org/wiki/Dreissena_bugensis",
+    "https://en.wikipedia.org/wiki/Mytilopsis_leucophaeata"
+  ],
+  "generated_at": "2026-01-04T12:34:28.173323"
+}

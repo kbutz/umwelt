@@ -1,0 +1,46 @@
+{
+  "family_name": "Leptopsyllidae",
+  "order_name": "Siphonaptera",
+  "gbif_id": 5326,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fleas in general rely on mechanoreception to detect vibrations and air currents, important for host detection and navigation. This is inferred to be a primary sense for Leptopsyllidae given their flea lineage.",
+      "inferred_from_species": [
+        "Leptopsylla segnis",
+        "General Flea Biology"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is used by fleas to detect host odors and pheromones. This is inferred to be important for host finding.",
+      "inferred_from_species": [
+        "Leptopsylla segnis",
+        "General Flea Biology"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The role of vision in Leptopsyllidae is unknown from the provided context. While many fleas have eyes, their importance can vary.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leptopsyllidae",
+    "https://en.wikipedia.org/wiki/Leptopsylla_segnis"
+  ],
+  "generated_at": "2026-01-04T11:40:39.872436"
+}

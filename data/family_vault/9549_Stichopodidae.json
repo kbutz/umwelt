@@ -1,0 +1,47 @@
+{
+  "family_name": "Stichopodidae",
+  "order_name": "Synallactida",
+  "gbif_id": 9549,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers, including Stichopodidae, possess mechanoreceptors for detecting touch and pressure in their environment. This is inferred due to their benthic lifestyle and reliance on substrate interaction. These help detect physical contact.",
+      "inferred_from_species": [
+        "Astichopus multifidus",
+        "Apostichopus japonicus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers use chemoreceptors to detect chemical cues in the water, which helps them find food and avoid predators. This is inferred based on their scavenging feeding strategies.",
+      "inferred_from_species": [
+        "Astichopus multifidus",
+        "Apostichopus japonicus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Stichopodidae is not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stichopodidae",
+    "https://en.wikipedia.org/wiki/Astichopus_multifidus",
+    "https://en.wikipedia.org/wiki/Apostichopus_japonicus"
+  ],
+  "generated_at": "2026-01-04T12:39:39.052708"
+}

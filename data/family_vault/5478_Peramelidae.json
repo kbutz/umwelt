@@ -1,0 +1,57 @@
+{
+  "family_name": "Peramelidae",
+  "order_name": "Not specified in context",
+  "gbif_id": 5478,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Bandicoots are found in a variety of habitats, suggesting functional vision. The golden bandicoot is distinguished by its golden coloring, implying visual discrimination.",
+      "inferred_from_species": [
+        "Isoodon auratus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No information about olfaction is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No information about hearing is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Bandicoots occupy various habitats, implying a reliance on tactile senses for navigation and foraging.",
+      "inferred_from_species": [
+        "Isoodon macrourus",
+        "Isoodon auratus",
+        "Isoodon obesulus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peramelidae",
+    "https://en.wikipedia.org/wiki/Isoodon_macrourus",
+    "https://en.wikipedia.org/wiki/Isoodon_auratus",
+    "https://en.wikipedia.org/wiki/Isoodon_obesulus"
+  ],
+  "generated_at": "2026-01-04T10:35:01.182014"
+}

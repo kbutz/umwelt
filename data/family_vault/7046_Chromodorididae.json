@@ -1,0 +1,41 @@
+{
+  "family_name": "Chromodorididae",
+  "order_name": "Nudibranchia",
+  "gbif_id": 7046,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The extent and nature of vision in this family is not described in the provided context. Further research would be needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As sponge feeders, Chromodorididae likely use chemoreception to locate prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for general awareness of surroundings and movement, typical for gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chromodorididae",
+    "https://en.wikipedia.org/wiki/Chromodoris_aila",
+    "https://en.wikipedia.org/wiki/Felimare_bayeri"
+  ],
+  "generated_at": "2026-01-04T11:02:53.717678"
+}

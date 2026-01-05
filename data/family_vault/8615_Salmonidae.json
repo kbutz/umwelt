@@ -1,0 +1,59 @@
+{
+  "family_name": "Salmonidae",
+  "order_name": "Salmoniformes",
+  "gbif_id": 8615,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Salmonids possess vision, which is likely important for prey detection and navigation. They inhabit clear, cold waters where vision is useful. Coloration also indicates use of visual signals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Salmonids have a lateral line system for detecting vibrations and pressure changes in the water. This is vital for predator avoidance, schooling, and potentially prey detection in murky conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Salmonids rely heavily on olfaction for homing during spawning migrations and for locating food sources. This is especially important in freshwater environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities have not been described for the Salmonidae family in the provided context. Further research is needed to determine if any species within this family possess this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "thermoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown whether Salmonidae have specialized thermoreceptors, but they are coldwater fish and likely sensitive to temperature gradients in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salmonidae",
+    "https://en.wikipedia.org/wiki/Coregonus_zenithicus",
+    "https://en.wikipedia.org/wiki/Coregonus_alpenae"
+  ],
+  "generated_at": "2026-01-04T11:39:57.623157"
+}

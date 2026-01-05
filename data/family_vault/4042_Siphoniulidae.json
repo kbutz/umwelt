@@ -1,0 +1,46 @@
+{
+  "family_name": "Siphoniulidae",
+  "order_name": "Siphoniulida",
+  "gbif_id": 4042,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is available in the provided context. Given they are 'worm-like millipedes' and often found in soil, it's possible vision is reduced or absent, but this cannot be confirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, they likely rely on chemoreception for navigation, food detection, and possibly communication. This is inferred from their lifestyle as 'worm-like millipedes'.",
+      "inferred_from_species": [
+        "Siphoniulus neotropicus",
+        "Siphoniulus alba"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes are known to sense vibrations and tactile stimuli through sensilla on their body segments. This is crucial for navigating their environment and detecting predators.",
+      "inferred_from_species": [
+        "Siphoniulus neotropicus",
+        "Siphoniulus alba"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphoniulidae",
+    "https://en.wikipedia.org/wiki/Siphoniulus_neotropicus"
+  ],
+  "generated_at": "2026-01-04T11:10:59.783791"
+}

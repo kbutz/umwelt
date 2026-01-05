@@ -1,0 +1,57 @@
+{
+  "family_name": "Gibberichthyidae",
+  "order_name": "Beryciformes",
+  "gbif_id": 2229,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As deep-sea fish, vision is likely present and important for detecting bioluminescence or silhouettes, but may be adapted for low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400,
+        "max": 790
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely uses the lateral line system to detect vibrations and pressure changes in the water, crucial for sensing prey and predators in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to detect chemical cues for finding food or mates in the deep sea environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-14,
+        "max": 10000000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of electroreception is unknown in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely possess inner ear structures for detecting sound, although the sensitivity and range may be adapted to the deep-sea environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gibberichthyidae"
+  ],
+  "generated_at": "2026-01-04T10:56:49.965964"
+}

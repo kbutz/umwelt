@@ -1,0 +1,39 @@
+{
+  "family_name": "Orthophlebiidae",
+  "order_name": "Mecoptera",
+  "gbif_id": 4682768,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as adults are flying insects. Detailed information on visual capabilities is not available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for finding food and mates, as is common in insects. Details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for balance and detecting surroundings. Details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Orthophlebiidae"
+  ],
+  "generated_at": "2026-01-04T11:05:33.999310"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Lytocestidae",
+  "order_name": "Caryophyllidea",
+  "gbif_id": 3268522,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of flatworms in this family are not detailed in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, they likely rely on chemoreception to locate hosts and nutrients. However, specific details for Lytocestidae are unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting changes in their environment within the host. However, specific details are unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lytocestidae"
+  ],
+  "generated_at": "2026-01-04T12:22:06.128212"
+}

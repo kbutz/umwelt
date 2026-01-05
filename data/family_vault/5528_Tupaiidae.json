@@ -1,0 +1,64 @@
+{
+  "family_name": "Tupaiidae",
+  "order_name": "Scandentia",
+  "gbif_id": 5528,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess fairly large brains, implying reasonably developed visual processing. Superficially resemble squirrels.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for foraging invertebrates and navigating forest environments. Treeshrews are named after their resemblance to squirrels, and squirrels are known to use olfactory cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for arboreal locomotion and detecting prey in dense undergrowth like bamboo thickets (Dendrogale murina).",
+      "inferred_from_species": [
+        "Dendrogale murina"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 2000
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Diet includes invertebrates, fruits, and plants (Dendrogale murina), implying functional taste perception.",
+      "inferred_from_species": [
+        "Dendrogale murina"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Communication within dense forest habitats and predator detection likely rely on auditory cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 50000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tupaiidae",
+    "https://en.wikipedia.org/wiki/Dendrogale_murina",
+    "https://en.wikipedia.org/wiki/Dendrogale_melanura",
+    "https://en.wikipedia.org/wiki/Anathana_ellioti"
+  ],
+  "generated_at": "2026-01-04T10:38:18.289113"
+}

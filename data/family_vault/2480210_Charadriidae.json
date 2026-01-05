@@ -1,0 +1,52 @@
+{
+  "family_name": "Charadriidae",
+  "order_name": "Charadriiformes",
+  "gbif_id": 2480210,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Plovers, dotterels, and lapwings are highly visual birds, relying on sight for foraging, predator detection, and social interactions.",
+      "inferred_from_species": [
+        "Erythrogonys cinctus",
+        "Phegornis mitchellii",
+        "Vanellus vanellus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Auditory perception is likely important for communication and predator detection. The northern lapwing (Vanellus vanellus) is known by many onomatopoeic common names that reflect their calls.",
+      "inferred_from_species": [
+        "Vanellus vanellus"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile senses are important for foraging and navigating their environment, particularly through ground substrates. They are also likely sensitive to changes in air pressure, as they use wind conditions for flight.",
+      "inferred_from_species": [
+        "Erythrogonys cinctus",
+        "Phegornis mitchellii",
+        "Vanellus vanellus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charadriidae",
+    "https://en.wikipedia.org/wiki/Erythrogonys_cinctus",
+    "https://en.wikipedia.org/wiki/Phegornis_mitchellii",
+    "https://en.wikipedia.org/wiki/Vanellus_vanellus"
+  ],
+  "generated_at": "2026-01-04T12:09:56.892622"
+}

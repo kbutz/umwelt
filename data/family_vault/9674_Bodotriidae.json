@@ -1,0 +1,39 @@
+{
+  "family_name": "Bodotriidae",
+  "order_name": "Cumacea",
+  "gbif_id": 9674,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Bodotriidae likely possess mechanoreceptors for detecting water movement and touch. Given their shallow and deep water distribution, mechanoreception is probably important.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans commonly use chemoreception for finding food and mates. Likely present in Bodotriidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bodotriidae"
+  ],
+  "generated_at": "2026-01-04T12:02:41.186655"
+}

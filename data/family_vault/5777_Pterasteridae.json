@@ -1,0 +1,40 @@
+{
+  "family_name": "Pterasteridae",
+  "order_name": "Velatida",
+  "gbif_id": 5777,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on the provided context. General starfish have eyespots, so this is likely present, but no explicit details are given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present as a general characteristic of starfish for detecting food and other chemical cues in the environment. No specific details given for Pterasteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present as a general characteristic of starfish for detecting physical touch and movement. No specific details given for Pterasteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pterasteridae",
+    "https://en.wikipedia.org/wiki/Euretaster_insignis"
+  ],
+  "generated_at": "2026-01-04T10:49:53.329652"
+}
