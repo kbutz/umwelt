@@ -1,0 +1,39 @@
+{
+  "family_name": "Dioecotaeniidae",
+  "order_name": "Tetraphyllidea",
+  "gbif_id": 2545,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As tapeworms residing in the intestines of sharks and rays, Dioecotaeniidae likely possess mechanoreceptors to detect movement, pressure, and substrate characteristics within their environment. This is crucial for maintaining their position and avoiding expulsion.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for locating and identifying nutrients within the host's digestive tract, as well as for detecting potential threats or changes in the surrounding environment. This is inferred from the general lifestyle of parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Photoreception is unlikely, given their endoparasitic lifestyle in the intestines of sharks and rays. Light is absent in this environment, so any visual structures would be non-functional.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetraphyllidea"
+  ],
+  "generated_at": "2026-01-04T10:28:17.769142"
+}

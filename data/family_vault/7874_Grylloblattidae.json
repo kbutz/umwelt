@@ -1,0 +1,42 @@
+{
+  "family_name": "Grylloblattidae",
+  "order_name": "Notoptera (or Grylloblattodea)",
+  "gbif_id": 7874,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information provided about vision in the family. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presence of long antennae and elongated cerci suggests a reliance on mechanoreception for sensing the environment. This is inferred given the cockroach-like head, also suggesting mechanoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Insects typically rely on chemoreception for finding food and mates. Given the cockroach-like head, chemoreception is likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grylloblattidae",
+    "https://en.wikipedia.org/wiki/Namkungia_biryongensis",
+    "https://en.wikipedia.org/wiki/Galloisiana_sinensis",
+    "https://en.wikipedia.org/wiki/Galloisiana_ussuriensis"
+  ],
+  "generated_at": "2026-01-04T10:03:42.193568"
+}

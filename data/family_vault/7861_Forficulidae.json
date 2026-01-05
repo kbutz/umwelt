@@ -1,0 +1,39 @@
+{
+  "family_name": "Forficulidae",
+  "order_name": "Dermaptera",
+  "gbif_id": 7861,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities within the Forficulidae family are not specified in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Olfactory and gustatory senses are expected to be present in earwigs, but the context provides no specific details about these senses within the Forficulidae family. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Tactile senses are expected in earwigs for sensing their environment, but no specific information is given in the context. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Forficulidae"
+  ],
+  "generated_at": "2026-01-04T11:28:20.738147"
+}

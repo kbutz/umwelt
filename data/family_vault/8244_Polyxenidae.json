@@ -1,0 +1,39 @@
+{
+  "family_name": "Polyxenidae",
+  "order_name": "Polyxenida",
+  "gbif_id": 8244,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Polyxenidae are not specified in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes generally rely on chemoreception for navigation, food detection, and communication. While not explicitly stated for Polyxenidae, it is a common trait in millipedes and likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes use mechanoreceptors for detecting vibrations and tactile information. Bristles or sensilla on the body are used to perceive the surrounding environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polyxenidae"
+  ],
+  "generated_at": "2026-01-04T11:10:09.120714"
+}

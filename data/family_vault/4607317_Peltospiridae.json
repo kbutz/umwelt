@@ -1,0 +1,42 @@
+{
+  "family_name": "Peltospiridae",
+  "order_name": "Neomphalina",
+  "gbif_id": 4607317,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Peltospiridae are currently unknown. Given their deep-sea vent habitat, vision may be reduced or absent in some species. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for detecting chemical cues in the deep-sea vent environment, aiding in locating food sources and potential mates. Inferred as a common trait for gastropods in vent ecosystems.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely used for sensing the surrounding environment, including water currents and substrate vibrations. Common to most gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peltospiridae",
+    "https://en.wikipedia.org/wiki/Hirtopelta_tufari",
+    "https://en.wikipedia.org/wiki/Peltospira_smaragdina",
+    "https://en.wikipedia.org/wiki/Lirapex_costellatus"
+  ],
+  "generated_at": "2026-01-04T12:59:09.619810"
+}

@@ -1,0 +1,40 @@
+{
+  "family_name": "Nebaliopsididae",
+  "order_name": "Leptostraca",
+  "gbif_id": 8906,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, they likely possess mechanoreceptors for detecting water currents and vibrations. Inferred presence based on general crustacean biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, they likely possess chemoreceptors for detecting chemical cues in the water. Inferred presence based on general crustacean biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nebaliopsididae",
+    "https://en.wikipedia.org/wiki/Nebaliopsis_typica"
+  ],
+  "generated_at": "2026-01-04T12:18:23.780635"
+}

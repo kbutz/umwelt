@@ -1,0 +1,39 @@
+{
+  "family_name": "Gosseletinidae",
+  "order_name": "Vetigastropoda",
+  "gbif_id": 3245122,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Vetigastropoda is variable, and specific data for Gosseletinidae is unavailable. Given their marine gastropod status, some form of light sensitivity is possible, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Gosseletinidae likely relied on chemoreception for food detection and navigation. The specifics of the receptors are unknown, but chemoreception is a common sensory modality in gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Gosseletinidae, like other gastropods, likely possessed mechanoreceptors for detecting touch, substrate vibrations, and water currents. These would be important for navigation, predator avoidance, and prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gosseletinidae"
+  ],
+  "generated_at": "2026-01-04T12:48:15.821090"
+}

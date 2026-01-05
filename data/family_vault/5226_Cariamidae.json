@@ -1,0 +1,62 @@
+{
+  "family_name": "Cariamidae",
+  "order_name": "Cariamiformes",
+  "gbif_id": 5226,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Seriemas are large, terrestrial birds inhabiting open environments, suggesting a reliance on vision for prey detection, predator avoidance, and territorial defense. They have good eyesight for spotting prey and potential danger.",
+      "inferred_from_species": [
+        "Cariama cristata",
+        "Chunga burmeisteri"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Seriemas are known for their loud calls, which are often given in duet. These calls are used for communication, likely including territorial defense and mate attraction. Their calls are described as sounding like kookaburras, turkeys, or yelping dogs.",
+      "inferred_from_species": [
+        "Chunga burmeisteri"
+      ],
+      "frequency_range_hz": {
+        "min": 50,
+        "max": 10000
+      }
+    },
+    "tactile_perception": {
+      "presence": "common",
+      "notes": "As terrestrial birds that forage on the ground, seriemas likely use tactile senses in their feet and beaks to explore their environment and locate prey.",
+      "inferred_from_species": [
+        "Cariama cristata",
+        "Chunga burmeisteri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are likely important for food discrimination, though specific details are unknown. Birds have fewer taste receptors than other tetrapods.",
+      "inferred_from_species": [
+        "Cariama cristata",
+        "Chunga burmeisteri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cariamidae",
+    "https://en.wikipedia.org/wiki/Chunga_burmeisteri",
+    "https://en.wikipedia.org/wiki/Cariama_cristata",
+    "https://en.wikipedia.org/wiki/Cariama_santacrucensis"
+  ],
+  "generated_at": "2026-01-04T12:33:58.511963"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Neocentrophyidae",
+  "order_name": "Unknown",
+  "gbif_id": 5147,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Kinorhyncha, including Neocentrophyidae, are poorly understood. Mechanoreception is likely important for sediment dwelling, but data is lacking for this specific family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely used for food detection and mate recognition, but specific details for Neocentrophyidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreception is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neocentrophyidae"
+  ],
+  "generated_at": "2026-01-04T13:00:49.320754"
+}

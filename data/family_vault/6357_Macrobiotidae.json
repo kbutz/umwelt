@@ -1,0 +1,39 @@
+{
+  "family_name": "Macrobiotidae",
+  "order_name": "Unknown",
+  "gbif_id": 6357,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Macrobiotidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception in Macrobiotidae is unknown from the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception in Macrobiotidae is unknown from the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macrobiotidae"
+  ],
+  "generated_at": "2026-01-04T09:45:19.708504"
+}

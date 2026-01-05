@@ -1,0 +1,64 @@
+{
+  "family_name": "Dromaiidae",
+  "order_name": "Not specified in context",
+  "gbif_id": 5239,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Emu have well-developed vision for detecting food and predators in their open habitat. The context mentions they forage on plants and insects, implying good visual acuity.",
+      "inferred_from_species": [
+        "Dromaius novaehollandiae"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely important for predator detection and communication. Ratites are generally known to have good hearing.",
+      "inferred_from_species": [
+        "Dromaius novaehollandiae"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Touch and other somatosensory modalities are important for general awareness of the environment and interactions with other individuals.",
+      "inferred_from_species": [
+        "Dromaius novaehollandiae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfaction in ratites is not well-described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste in ratites is not well-described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dromaiidae",
+    "https://en.wikipedia.org/wiki/Dromaius_novaehollandiae"
+  ],
+  "generated_at": "2026-01-04T12:32:59.597058"
+}

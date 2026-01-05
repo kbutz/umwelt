@@ -1,0 +1,39 @@
+{
+  "family_name": "Otoplanidae",
+  "order_name": "Proseriata",
+  "gbif_id": 7244,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Otoplanidae flatworms are not specified in the provided context. Further research is needed to determine the presence and characteristics of vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Otoplanidae flatworms are not specified in the provided context. Further research is needed to determine the presence and characteristics of chemoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Otoplanidae flatworms are not specified in the provided context. Further research is needed to determine the presence and characteristics of mechanoreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Otoplanidae"
+  ],
+  "generated_at": "2026-01-04T11:19:45.213460"
+}

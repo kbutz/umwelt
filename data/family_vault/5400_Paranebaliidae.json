@@ -1,0 +1,39 @@
+{
+  "family_name": "Paranebaliidae",
+  "order_name": "Leptostraca",
+  "gbif_id": 5400,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Crustaceans generally possess mechanoreceptors for detecting water movement and touch. This is inferred due to their phylogenetic position as crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans typically use chemoreception to detect chemical cues in the water. This is inferred due to their phylogenetic position as crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paranebaliidae"
+  ],
+  "generated_at": "2026-01-04T12:18:15.187126"
+}

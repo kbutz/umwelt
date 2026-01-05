@@ -1,0 +1,50 @@
+{
+  "family_name": "Polyacanthorhynchidae",
+  "order_name": "Unknown",
+  "gbif_id": 6942,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms, they likely rely on chemoreception to locate and identify hosts. This is inferred given their parasitic lifestyle, a common trait in Acanthocephala.",
+      "inferred_from_species": [
+        "Polyacanthorhynchus macrorhynchus",
+        "Polyacanthorhynchus rhopalorhynchus",
+        "Polyacanthorhynchus kenyensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for detecting physical stimuli within the host environment. This is inferred based on their parasitic lifestyle and the need to navigate within the host.",
+      "inferred_from_species": [
+        "Polyacanthorhynchus macrorhynchus",
+        "Polyacanthorhynchus rhopalorhynchus",
+        "Polyacanthorhynchus kenyensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is unlikely in this parasitic family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polyacanthorhynchidae",
+    "https://en.wikipedia.org/wiki/Polyacanthorhynchus_macrorhynchus",
+    "https://en.wikipedia.org/wiki/Polyacanthorhynchus_rhopalorhynchus",
+    "https://en.wikipedia.org/wiki/Polyacanthorhynchus_kenyensis"
+  ],
+  "generated_at": "2026-01-04T12:24:19.985083"
+}

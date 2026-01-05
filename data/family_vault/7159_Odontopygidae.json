@@ -1,0 +1,39 @@
+{
+  "family_name": "Odontopygidae",
+  "order_name": "Spirostreptida",
+  "gbif_id": 7159,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Odontopygidae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Odontopygidae likely rely on chemoreception for navigation, food detection, and communication, although the specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes generally possess mechanoreceptors for detecting vibrations and tactile stimuli. Likely present in Odontopygidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odontopygidae"
+  ],
+  "generated_at": "2026-01-04T10:43:47.942232"
+}

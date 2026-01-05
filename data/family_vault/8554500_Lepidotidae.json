@@ -1,0 +1,41 @@
+{
+  "family_name": "Lepidotidae",
+  "order_name": "Lepisosteiformes",
+  "gbif_id": 8554500,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision is provided in the context. Presuming that, as fish, they likely possessed vision but without further info, it is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, they would have possessed a lateral line system for detecting vibrations and pressure changes in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possessed chemoreception for detecting chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepidotidae",
+    "https://en.wikipedia.org/wiki/Lepidotes_gigas",
+    "https://en.wikipedia.org/wiki/Lepidotes_elvensis"
+  ],
+  "generated_at": "2026-01-04T11:25:55.565077"
+}

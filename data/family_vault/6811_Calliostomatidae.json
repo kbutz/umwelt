@@ -1,0 +1,42 @@
+{
+  "family_name": "Calliostomatidae",
+  "order_name": "Not Applicable (Information not provided)",
+  "gbif_id": 6811,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in this family are largely undocumented in the provided context. Vision may be present but cannot be confirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present in this marine gastropod family, but further research is required to confirm.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception, including tactile and balance senses, are likely present in this marine gastropod family, but further research is required to confirm.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calliostomatidae",
+    "https://en.wikipedia.org/wiki/Selastele_limatulum",
+    "https://en.wikipedia.org/wiki/Selastele_onustum",
+    "https://en.wikipedia.org/wiki/Selastele_kopua"
+  ],
+  "generated_at": "2026-01-04T12:49:14.427704"
+}

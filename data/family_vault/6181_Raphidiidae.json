@@ -1,0 +1,39 @@
+{
+  "family_name": "Raphidiidae",
+  "order_name": "Raphidioptera",
+  "gbif_id": 6181,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but details unknown. Further research needed to determine visual acuity, spectral sensitivity, and other aspects of vision in Raphidiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for basic environmental awareness, but details regarding specialized mechanosensory organs are unknown. Requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely plays a role in finding food and mates, but specifics of receptors and targeted compounds are not known. Further research required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Raphidiidae"
+  ],
+  "generated_at": "2026-01-04T10:32:06.921496"
+}

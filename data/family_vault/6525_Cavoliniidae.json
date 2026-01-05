@@ -1,0 +1,40 @@
+{
+  "family_name": "Cavoliniidae",
+  "order_name": "Opisthobranchia",
+  "gbif_id": 6525,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly mentioned in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, they likely use chemoreception to detect food and other chemicals in the water. This is inferred but is a basic sensory capability for marine organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors to sense water movement and pressure changes, aiding in orientation and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cavoliniidae",
+    "https://en.wikipedia.org/wiki/Diacria_trispinosa"
+  ],
+  "generated_at": "2026-01-04T12:48:33.364909"
+}

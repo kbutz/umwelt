@@ -1,0 +1,40 @@
+{
+  "family_name": "Nymphonidae",
+  "order_name": "Pycnogonida",
+  "gbif_id": 2013,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information about vision in Nymphonidae is not present in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As predators of hydroids, Nymphonidae likely use chemoreception to locate prey. However, details are not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea spiders possess legs and other appendages that likely function in mechanoreception to detect changes in their environment, including water currents and substrate vibrations. However, details are not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nymphonidae",
+    "https://en.wikipedia.org/wiki/Pentanymphon_antarcticum"
+  ],
+  "generated_at": "2026-01-04T12:42:00.624917"
+}

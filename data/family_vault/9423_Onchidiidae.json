@@ -1,0 +1,41 @@
+{
+  "family_name": "Onchidiidae",
+  "order_name": "Pulmonata",
+  "gbif_id": 9423,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in this family are not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As gastropods, Onchidiidae likely rely heavily on chemoreception for locating food and mates, as is typical for the order. However, specific details for the family are unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile senses are likely important for navigation and interaction with the substrate. No specific data is available, but mechanoreception is generally important for gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onchidiidae",
+    "https://en.wikipedia.org/wiki/Onchidina_australis",
+    "https://en.wikipedia.org/wiki/Onchidella_brattstroemi"
+  ],
+  "generated_at": "2026-01-04T11:52:16.239520"
+}

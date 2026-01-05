@@ -1,0 +1,39 @@
+{
+  "family_name": "Eunicidae",
+  "order_name": "Polychaeta",
+  "gbif_id": 2049,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is not explicitly mentioned in the provided text. Further research is needed to determine the presence and capabilities of vision in Eunicidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine annelids inhabiting diverse benthic habitats, Eunicidae likely rely on chemoreception for foraging and environmental awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Living in benthic habitats and possessing a muscular body implies a reliance on mechanoreception for sensing the environment, detecting prey, and avoiding predators. Bristle worms are known to use bristles and other structures for mechanosensation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eunicidae"
+  ],
+  "generated_at": "2026-01-04T10:49:28.030253"
+}

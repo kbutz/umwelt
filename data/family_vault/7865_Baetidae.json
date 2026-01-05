@@ -1,0 +1,39 @@
+{
+  "family_name": "Baetidae",
+  "order_name": "Ephemeroptera",
+  "gbif_id": 7865,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Adult males often have very large, turret-shaped eyes (turbinate condition). Nymphs likely use vision for algae foraging and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nymphs are strong swimmers, suggesting a reliance on mechanoreception for detecting water currents and possibly prey or predators. The two long slender tails may also function as sensory appendages.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for food detection and mate recognition, but no specific details are provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baetidae"
+  ],
+  "generated_at": "2026-01-04T11:28:45.931538"
+}

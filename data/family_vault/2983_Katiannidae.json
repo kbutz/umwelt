@@ -1,0 +1,39 @@
+{
+  "family_name": "Katiannidae",
+  "order_name": "Collembola",
+  "gbif_id": 2983,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as it is common in Collembola, but specific data for Katiannidae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be common due to the prevalence of chemoreception in Collembola for finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present via sensilla for detecting vibrations and touch, crucial for avoiding predators and navigating the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Katiannidae"
+  ],
+  "generated_at": "2026-01-04T12:54:53.645417"
+}

@@ -1,0 +1,49 @@
+{
+  "family_name": "Platytroctidae",
+  "order_name": "Alepocephaliformes",
+  "gbif_id": 8481,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present as they are ray-finned fish. Further specialization unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "common",
+      "notes": "Some members have light-producing organs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Present in ray-finned fish; likely used for detecting water currents and pressure changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Present as they are ray-finned fish; likely used for detecting chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Platytroctidae",
+    "https://en.wikipedia.org/wiki/Maulisia_mauli"
+  ],
+  "generated_at": "2026-01-04T11:12:17.590116"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Kamptosomatidae",
+  "order_name": "Echinothurioida",
+  "gbif_id": 5965466,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, Kamptosomatidae likely possess mechanoreceptors for detecting touch and water currents. This is inferred due to the general body plan and lifestyle of echinoderms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Echinoderms typically use chemoreception to locate food and potential mates. This is inferred due to the general feeding strategies and behaviors observed in other echinoderms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of photoreceptors is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kamptosomatidae"
+  ],
+  "generated_at": "2026-01-04T10:43:12.055125"
+}

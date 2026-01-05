@@ -1,0 +1,51 @@
+{
+  "family_name": "Atherinidae",
+  "order_name": "Atheriniformes",
+  "gbif_id": 7172,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Silversides possess vision, as they are active, surface-dwelling fish that feed on zooplankton. The presence of a broad, silvery band on their flanks suggests a role in reflecting light, possibly for camouflage or communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "While the context states 'there is no lateral line', fish still detect water movement and vibrations via other mechanoreceptors distributed across their body surface. The lack of a lateral line does not indicate a complete absence of mechanosensation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Silversides, like most fish, likely use chemoreception (taste and smell) to detect food and navigate their environment. Although not explicitly mentioned, this sense is fundamental for finding zooplankton and avoiding unfavorable conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "There is no mention of electroreception in the provided text. Its presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atherinidae",
+    "https://en.wikipedia.org/wiki/Atherinason_hepsetoides",
+    "https://en.wikipedia.org/wiki/Atherion_africanum",
+    "https://en.wikipedia.org/wiki/Atherion_maccullochi"
+  ],
+  "generated_at": "2026-01-04T09:52:23.520599"
+}

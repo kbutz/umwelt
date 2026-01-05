@@ -1,0 +1,39 @@
+{
+  "family_name": "Branchiobdellidae",
+  "order_name": "Branchiobdellida",
+  "gbif_id": 7296,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and substrate vibrations, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for locating hosts and food sources, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and functionality of photoreceptors are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Branchiobdellidae"
+  ],
+  "generated_at": "2026-01-04T09:50:42.715542"
+}

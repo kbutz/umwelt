@@ -1,0 +1,39 @@
+{
+  "family_name": "Nannosquillidae",
+  "order_name": "Stomatopoda",
+  "gbif_id": 8910,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The visual capabilities of Nannosquillidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present, but the details are not included in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely present, but the details are not included in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nannosquillidae"
+  ],
+  "generated_at": "2026-01-04T11:41:03.698955"
+}

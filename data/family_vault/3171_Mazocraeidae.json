@@ -1,0 +1,39 @@
+{
+  "family_name": "Mazocraeidae",
+  "order_name": "Mazocraeidea",
+  "gbif_id": 3171,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Mazocraeidae flatworms are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Mazocraeidae flatworms are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Mazocraeidae flatworms are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mazocraeidae"
+  ],
+  "generated_at": "2026-01-04T12:28:11.600786"
+}

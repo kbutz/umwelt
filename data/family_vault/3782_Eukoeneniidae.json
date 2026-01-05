@@ -1,0 +1,39 @@
+{
+  "family_name": "Eukoeneniidae",
+  "order_name": "Palpigradi",
+  "gbif_id": 3782,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arachnids and microwhip scorpions, they likely possess mechanoreceptors for detecting vibrations and touch. The 'microwhip' likely contributes to this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Arachnids typically have chemoreceptors for detecting chemical cues in their environment, used for prey detection and mate finding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyes is not mentioned in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palpigradi"
+  ],
+  "generated_at": "2026-01-04T10:02:43.414851"
+}

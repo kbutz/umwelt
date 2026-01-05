@@ -1,0 +1,51 @@
+{
+  "family_name": "Caeciliidae",
+  "order_name": "Gymnophiona",
+  "gbif_id": 2237,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As a subterranean family, vision may be reduced or absent in some species, but this needs more investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for locating prey and navigating in their subterranean environment, as inferred from other caecilians.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for detecting vibrations in the soil. Given their fossorial lifestyle, they likely rely on substrate vibrations to sense their environment. The solid skull structure suggests a potential for bone conduction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of electroreception is unknown for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caeciliidae",
+    "https://en.wikipedia.org/wiki/Oscaecilia_osae",
+    "https://en.wikipedia.org/wiki/Oscaecilia_hypereumeces",
+    "https://en.wikipedia.org/wiki/Oscaecilia_bassleri"
+  ],
+  "generated_at": "2026-01-04T10:27:42.865644"
+}

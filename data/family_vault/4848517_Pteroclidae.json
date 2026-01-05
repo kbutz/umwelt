@@ -1,0 +1,42 @@
+{
+  "family_name": "Pteroclidae",
+  "order_name": "Pterocliformes",
+  "gbif_id": 4848517,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Sandgrouse are ground-dwelling birds inhabiting open country, suggesting a reliance on vision for foraging, predator detection, and navigation. The presence of Linxiavis inaquosus indicates visual capabilities were present in the Late Miocene.",
+      "inferred_from_species": [
+        "Linxiavis inaquosus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As birds, sandgrouse are expected to possess functional hearing for communication and environmental awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Somatosensation (touch, pressure, temperature, pain) is crucial for interacting with the environment, particularly for ground-dwelling birds. They need it for balance, perching and nesting.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pteroclidae",
+    "https://en.wikipedia.org/wiki/Linxiavis_inaquosus"
+  ],
+  "generated_at": "2026-01-04T10:47:35.972020"
+}

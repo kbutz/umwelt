@@ -1,0 +1,60 @@
+{
+  "family_name": "Bucerotidae",
+  "order_name": "Unknown",
+  "gbif_id": 9720,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Hornbills are birds, and therefore vision is likely a primary sense. They inhabit forest canopies and need to navigate complex environments and identify food sources visually.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As birds, hornbills likely possess good hearing for communication and predator detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities in birds vary. It is unknown based on the provided context how well hornbills can smell, although, some avian species do rely on olfaction to find food. Further research is required to determine if this family utilizes smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Hornbills are omnivorous, feeding on fruit and small animals. Therefore, they must have a sense of taste to distinguish between different food items.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Birds have tactile receptors, especially in their bills and feet, used for manipulating objects and perching.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bucerotidae",
+    "https://en.wikipedia.org/wiki/Rhyticeros_everetti",
+    "https://en.wikipedia.org/wiki/Rhyticeros_subruficollis",
+    "https://en.wikipedia.org/wiki/Rhyticeros_plicatus"
+  ],
+  "generated_at": "2026-01-04T10:15:48.516599"
+}

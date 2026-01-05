@@ -1,0 +1,42 @@
+{
+  "family_name": "Neritidae",
+  "order_name": "Unknown",
+  "gbif_id": 2658,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presence of tentacles suggests visual or tactile sensory organs. Further research is needed to determine the visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Snails in general use chemoreception to locate food and mates. Likely present in Neritidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for sensing the environment and detecting currents in aquatic habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neritidae",
+    "https://en.wikipedia.org/wiki/Neritina_pulligera",
+    "https://en.wikipedia.org/wiki/Puperita_pupa",
+    "https://en.wikipedia.org/wiki/Smaragdia_viridis"
+  ],
+  "generated_at": "2026-01-04T12:47:12.254493"
+}

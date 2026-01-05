@@ -1,0 +1,39 @@
+{
+  "family_name": "Sinuolineidae",
+  "order_name": "Bivalvulida",
+  "gbif_id": 2729,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "As parasites, Sinuolineidae likely rely on chemoreception to locate hosts, but the specific mechanisms and sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Myxosporeans likely use mechanoreception for sensing their environment and host cues, but details are not available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is unlikely, given their parasitic lifestyle and the lack of mention of any visual structures in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bivalvulida"
+  ],
+  "generated_at": "2026-01-04T10:30:33.917757"
+}

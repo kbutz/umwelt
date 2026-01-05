@@ -1,0 +1,43 @@
+{
+  "family_name": "Hiatellidae",
+  "order_name": "Adapedonta",
+  "gbif_id": 6882,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, Hiatellidae likely possess mechanoreceptors to detect water movement and substrate vibrations. This is inferred, as specific studies on Hiatellidae mechanoreception are unavailable.",
+      "inferred_from_species": [
+        "Other Bivalves"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Hiatellidae likely use chemoreceptors to detect food and other chemical cues in the marine environment. This is inferred, as specific studies on Hiatellidae chemoreception are unavailable.",
+      "inferred_from_species": [
+        "Other Bivalves"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1e-9
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally absent in bivalves. Some species may have light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hiatellidae"
+  ],
+  "generated_at": "2026-01-04T12:45:13.500292"
+}

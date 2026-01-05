@@ -1,0 +1,54 @@
+{
+  "family_name": "Lepidosirenidae",
+  "order_name": "Not Available",
+  "gbif_id": 5868,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown from the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreception, including lateral line system, for detecting water movement, common in aquatic vertebrates.",
+      "inferred_from_species": [
+        "Lepidosiren paradoxa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreception for detecting chemical cues in the water, aiding in prey detection and navigation.",
+      "inferred_from_species": [
+        "Lepidosiren paradoxa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities are not mentioned in the provided context and require further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepidosirenidae",
+    "https://en.wikipedia.org/wiki/Lepidosiren_paradoxa",
+    "https://en.wikipedia.org/wiki/Gnathorhiza_serrata"
+  ],
+  "generated_at": "2026-01-04T10:51:54.602220"
+}

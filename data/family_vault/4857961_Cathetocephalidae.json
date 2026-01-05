@@ -1,0 +1,39 @@
+{
+  "family_name": "Cathetocephalidae",
+  "order_name": "Tetraphyllidea",
+  "gbif_id": 4857961,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this flatworm family are largely unknown from the provided context. Further research is needed to determine if they possess eyespots or other light-sensing organs.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic flatworms, Cathetocephalidae likely rely on chemoreception to locate and identify hosts. This is inferred from the general lifestyle of parasitic flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present, allowing the flatworms to sense touch and water currents, important for attachment and movement within the host environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cathetocephalidae"
+  ],
+  "generated_at": "2026-01-04T12:22:27.852728"
+}

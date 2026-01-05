@@ -1,0 +1,57 @@
+{
+  "family_name": "Amphilemuridae",
+  "order_name": "Eulipotyphla",
+  "gbif_id": 3240471,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown for Amphilemuridae based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown for Amphilemuridae based on available information, but given their placement in Eulipotyphla, it is likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are unknown for Amphilemuridae based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "unknown",
+      "notes": "Tactile capabilities are unknown for Amphilemuridae based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Gustatory capabilities are unknown for Amphilemuridae based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphilemuridae"
+  ],
+  "generated_at": "2026-01-04T10:45:14.263214"
+}

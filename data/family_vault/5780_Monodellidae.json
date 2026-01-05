@@ -1,0 +1,39 @@
+{
+  "family_name": "Monodellidae",
+  "order_name": "Thermosbaenacea",
+  "gbif_id": 5780,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Monodellidae are not specified in the provided context. Vision could be present, reduced, or absent depending on their specific ecology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is a common sense in crustaceans but its specific characteristics in Monodellidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception (touch, vibration sensing) is likely present, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monodellidae"
+  ],
+  "generated_at": "2026-01-04T10:07:19.383110"
+}

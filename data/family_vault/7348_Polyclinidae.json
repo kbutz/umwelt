@@ -1,0 +1,40 @@
+{
+  "family_name": "Polyclinidae",
+  "order_name": "Aplousobranchia",
+  "gbif_id": 7348,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Polyclinidae are currently unknown based on the provided context. Further research is needed to determine if they possess photoreceptors or visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As tunicates, Polyclinidae likely use chemoreception to detect chemical cues in the water for feeding, larval settlement, and possibly predator avoidance. Inferred as a common trait for tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely use mechanoreceptors to detect water currents and physical disturbances. Important for filter feeding and orientation. Inferred as a common trait for tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polyclinidae",
+    "https://en.wikipedia.org/wiki/Polyclinella_azemai"
+  ],
+  "generated_at": "2026-01-04T12:45:57.490698"
+}

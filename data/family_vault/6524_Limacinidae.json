@@ -1,0 +1,50 @@
+{
+  "family_name": "Limacinidae",
+  "order_name": "Thecosomata",
+  "gbif_id": 6524,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Limacinidae are not described in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As gastropods, it is inferred that they possess chemoreception for detecting chemicals in their environment. This is important for food finding and potentially mate recognition.",
+      "inferred_from_species": [
+        "Limacina trochiformis",
+        "Limacina helicina",
+        "Limacina retroversa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As pelagic snails, they likely possess mechanoreceptors for sensing water currents and pressure changes, useful for navigation and predator/prey detection.",
+      "inferred_from_species": [
+        "Limacina trochiformis",
+        "Limacina helicina",
+        "Limacina retroversa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Limacinidae",
+    "https://en.wikipedia.org/wiki/Limacina_trochiformis",
+    "https://en.wikipedia.org/wiki/Limacina_helicina",
+    "https://en.wikipedia.org/wiki/Limacina_retroversa"
+  ],
+  "generated_at": "2026-01-04T12:48:45.272512"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Nemouridae",
+  "order_name": "Plecoptera",
+  "gbif_id": 2997,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in adults for mate recognition and flight, but information is not explicitly provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nymphs are described as bristly, suggesting sensitivity to water currents and substrate vibrations. This would be crucial for finding food and avoiding predators in flowing-water habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely used by nymphs to detect food sources in the water and by adults for mate location, but no explicit data provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nemouridae"
+  ],
+  "generated_at": "2026-01-04T10:32:40.975339"
+}

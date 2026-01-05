@@ -1,0 +1,39 @@
+{
+  "family_name": "Lophoproctidae",
+  "order_name": "Polyxenida",
+  "gbif_id": 4038,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Lophoproctidae are currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely a common sensory modality for millipedes to locate food and mates. However, the specific mechanisms and sensitivity ranges within Lophoproctidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present for detecting substrate vibrations and physical contact, common in millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lophoproctidae"
+  ],
+  "generated_at": "2026-01-04T11:10:17.260545"
+}

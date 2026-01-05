@@ -1,0 +1,39 @@
+{
+  "family_name": "Schizopathidae",
+  "order_name": "Antipatharia",
+  "gbif_id": 3370,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in corals are not well-documented in this context. Vision is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for food detection and other biological processes, as in other coral families. Inferred for chemoreception due to needing to find food and partners.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and other disturbances.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Schizopathidae"
+  ],
+  "generated_at": "2026-01-04T10:45:39.410372"
+}

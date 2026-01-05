@@ -1,0 +1,39 @@
+{
+  "family_name": "Batillipedidae",
+  "order_name": "Unknown",
+  "gbif_id": 3124,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and characteristics of vision are unknown for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present in tardigrades for sensing the environment, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present in tardigrades for detecting chemical cues in the environment, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Batillipedidae"
+  ],
+  "generated_at": "2026-01-04T11:00:55.778826"
+}

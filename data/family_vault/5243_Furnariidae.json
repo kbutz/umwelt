@@ -1,0 +1,51 @@
+{
+  "family_name": "Furnariidae",
+  "order_name": "Passeriformes",
+  "gbif_id": 5243,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presumed to be a primary sense for foraging and navigation, given their diurnal habits and diverse habitat use. However, specific visual capabilities like color vision or UV sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Important for vocal communication, mate attraction, and predator detection. As suboscine passerines, their song learning mechanisms differ from oscines. Frequency range data is unknown, but likely within typical avian hearing ranges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.08,
+        "max": 20000.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Important for nest building, foraging, and social interactions. They are small to medium-sized birds.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in furnariids is not well-documented. Given their foraging habits as insectivores, some level of olfactory capability might be present for locating prey or navigating.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Furnariidae",
+    "https://en.wikipedia.org/wiki/Dendrexetastes_rufigula",
+    "https://en.wikipedia.org/wiki/Synallaxis_cinerascens",
+    "https://en.wikipedia.org/wiki/Synallaxis_unirufa"
+  ],
+  "generated_at": "2026-01-04T10:19:05.344397"
+}

@@ -1,0 +1,44 @@
+{
+  "family_name": "Hyriidae",
+  "order_name": "Unionida",
+  "gbif_id": 6001,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As aquatic bivalves, Hyriidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact. This is essential for filter feeding, burrowing, and detecting potential threats.",
+      "inferred_from_species": [
+        "Velesunio wilsonii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for detecting food particles and potential pollutants in the water. They need to filter feed.",
+      "inferred_from_species": [
+        "Velesunio wilsonii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities in Hyriidae are not explicitly mentioned. While some bivalves have simple light-sensing organs, the presence and functionality in this family are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hyriidae",
+    "https://en.wikipedia.org/wiki/Velesunio_wilsonii"
+  ],
+  "generated_at": "2026-01-04T12:37:06.435483"
+}

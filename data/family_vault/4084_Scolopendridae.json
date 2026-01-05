@@ -1,0 +1,40 @@
+{
+  "family_name": "Scolopendridae",
+  "order_name": "Chilopoda",
+  "gbif_id": 4084,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The family name origin suggests a possible association with earthworms, which rely on chemoreception, but there's no direct evidence in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As centipedes, they are likely to have mechanoreceptors for detecting touch and vibrations, but this is inferred due to them being centipedes in general.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scolopendridae",
+    "https://en.wikipedia.org/wiki/Hemiscolopendra_marginata"
+  ],
+  "generated_at": "2026-01-04T11:36:21.500700"
+}

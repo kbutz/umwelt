@@ -1,0 +1,39 @@
+{
+  "family_name": "Tetraonchoididae",
+  "order_name": "Gyrodactylidea",
+  "gbif_id": 4282209,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present as a general sensory modality in flatworms, used for detecting water currents or substrate vibrations, but no specific research found for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for host detection and orientation, but no specific research found for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence not determinable from the provided text. Many flatworms have simple eyespots, but this may have been lost in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetraonchoididae"
+  ],
+  "generated_at": "2026-01-04T12:23:17.133716"
+}

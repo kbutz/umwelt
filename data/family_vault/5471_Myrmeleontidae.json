@@ -1,0 +1,39 @@
+{
+  "family_name": "Myrmeleontidae",
+  "order_name": "Neuroptera",
+  "gbif_id": 5471,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Adults are known to fly at dusk or after dark, suggesting visual capabilities for navigation and prey/mate detection. Larvae likely have some visual sensitivity, though primarily rely on mechanosensation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "Larvae are highly sensitive to vibrations in the sand to detect prey falling into their pits. Adults may also use mechanosensation for flight and detecting prey/mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The role of chemoreception in prey detection or mate location is unknown, but plausible.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Myrmeleontidae"
+  ],
+  "generated_at": "2026-01-04T12:02:58.216085"
+}

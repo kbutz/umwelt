@@ -1,0 +1,39 @@
+{
+  "family_name": "Monocotylidae",
+  "order_name": "Monogenea",
+  "gbif_id": 3206,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for sensing water currents and host proximity, but specific sensory structures are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for host recognition and settlement, but specific receptors are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Potentially present in larval stages for host finding, but unknown in adults.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monocotylidae"
+  ],
+  "generated_at": "2026-01-04T12:27:41.242206"
+}

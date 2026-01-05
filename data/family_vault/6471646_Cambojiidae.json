@@ -1,0 +1,39 @@
+{
+  "family_name": "Cambojiidae",
+  "order_name": "Cambojiida",
+  "gbif_id": 6471646,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Cambojiidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a member of Ctenophora (class Tentaculata), Cambojiidae likely possesses mechanoreceptors for detecting water movement and prey. This is inferred from other ctenophores.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Information on chemoreception in Cambojiidae is not available in the provided context, but it is likely present to some degree for prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cambojiidae"
+  ],
+  "generated_at": "2026-01-04T12:45:40.339295"
+}

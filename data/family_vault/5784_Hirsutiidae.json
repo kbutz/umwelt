@@ -1,0 +1,39 @@
+{
+  "family_name": "Hirsutiidae",
+  "order_name": "Bochusacea/Mictacea",
+  "gbif_id": 5784,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Hirsutiidae are not detailed in the provided context. Vision may be present or absent depending on their habitat (e.g., deep sea or caves).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present in crustaceans for food detection and communication, but specific data for Hirsutiidae is unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception, including touch and detection of water currents, is likely present for navigation and interaction with the environment, but specific data for Hirsutiidae is unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hirsutiidae"
+  ],
+  "generated_at": "2026-01-04T10:51:01.625219"
+}

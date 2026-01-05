@@ -1,0 +1,39 @@
+{
+  "family_name": "Vesiculariidae",
+  "order_name": "Ctenostomatida",
+  "gbif_id": 6904,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bryozoans, Vesiculariidae likely possess mechanoreceptors to detect water currents and substrate vibrations. This is crucial for filter feeding and detecting potential threats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for detecting food particles and conspecifics in the water column. Larval settlement cues are also likely detected chemically.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is currently unknown in Vesiculariidae. Further research is needed to determine if they are present, particularly in larval stages.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vesiculariidae"
+  ],
+  "generated_at": "2026-01-04T11:04:57.089899"
+}

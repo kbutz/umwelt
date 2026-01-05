@@ -1,0 +1,55 @@
+{
+  "family_name": "Rivulidae",
+  "order_name": "Cyprinodontiformes",
+  "gbif_id": 3696,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As killifish, Rivulidae likely rely on vision for prey detection, navigation, and social interactions. This is inferred from their surface-dwelling habitat and general teleost biology.",
+      "inferred_from_species": [
+        "Austrolebias bellottii"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fish possess lateral line systems for detecting water movement and pressure changes, essential for predator avoidance and prey detection. This is a common trait in fish.",
+      "inferred_from_species": [
+        "Austrolebias bellottii"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish use chemoreception (smell and taste) for various purposes, including food localization, mate recognition, and predator avoidance. This is a general trait of fish.",
+      "inferred_from_species": [
+        "Austrolebias bellottii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is not a common trait in all fish. Its presence in Rivulidae is uncertain and requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 2000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rivulidae",
+    "https://en.wikipedia.org/wiki/Austrolebias_bellottii"
+  ],
+  "generated_at": "2026-01-04T10:00:09.200900"
+}

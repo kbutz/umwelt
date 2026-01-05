@@ -1,0 +1,39 @@
+{
+  "family_name": "Chalinidae",
+  "order_name": "Unknown",
+  "gbif_id": 3909,
+  "sensory_modalities": {
+    "Mechanosensation": {
+      "presence": "common",
+      "notes": "As sponges, Chalinidae likely possess mechanosensory capabilities to detect water currents and particle movement for filter feeding and basic environmental awareness. This is inferred from the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 10
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Chalinidae, rely on chemoreception to detect chemical cues in the water for feeding, avoiding toxins, and potentially coordinating with other individuals. This is a fundamental aspect of sponge biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "Photosensitivity": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photosensitivity in Chalinidae is currently unknown based on the provided context. Some sponges may have light-sensitive cells, but this requires further investigation for this specific family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000,
+        "max": 790000000000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chalinidae"
+  ],
+  "generated_at": "2026-01-04T11:32:30.561206"
+}

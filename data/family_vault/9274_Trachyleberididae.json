@@ -1,0 +1,39 @@
+{
+  "family_name": "Trachyleberididae",
+  "order_name": "Podocopida",
+  "gbif_id": 9274,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of ostracods in the family Trachyleberididae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of ostracods in the family Trachyleberididae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of ostracods in the family Trachyleberididae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trachyleberididae"
+  ],
+  "generated_at": "2026-01-04T11:47:21.936745"
+}

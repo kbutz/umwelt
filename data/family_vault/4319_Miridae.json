@@ -1,0 +1,41 @@
+{
+  "family_name": "Miridae",
+  "order_name": "Heteroptera",
+  "gbif_id": 4319,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As true bugs, Miridae likely possess compound eyes for vision. Further specifics regarding visual acuity or color perception are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Insects generally rely on chemoreception (taste and smell) for finding food sources and mates. Given that Miridae feed on plant sap (phytophagous) or are predatory, chemoreception is likely vital for host plant or prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Insects use mechanoreceptors for detecting vibrations and touch. Miridae likely use these for navigating their environment, avoiding predators, and potentially for mating.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miridae",
+    "https://en.wikipedia.org/wiki/Stittocapsus_franseriae",
+    "https://en.wikipedia.org/wiki/Stenotus_binotatus"
+  ],
+  "generated_at": "2026-01-04T10:40:40.606342"
+}

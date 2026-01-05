@@ -1,0 +1,50 @@
+{
+  "family_name": "Diadematidae",
+  "order_name": "Unknown",
+  "gbif_id": 9631,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Diadematids possess eyes (eye spots), enabling them to follow threats with their spines. This is in contrast to other sea urchins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Diadematids are sensitive to touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Diadematids are sensitive to chemicals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "common",
+      "notes": "Diadematids are sensitive to light.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diadematidae",
+    "https://en.wikipedia.org/wiki/Centrostephanus_coronatus",
+    "https://en.wikipedia.org/wiki/Centrostephanus_longispinus"
+  ],
+  "generated_at": "2026-01-04T11:56:44.472815"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Onchobothriidae",
+  "order_name": "Onchoproteocephalidea",
+  "gbif_id": 2241,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Onchobothriidae likely rely on chemoreception to locate hosts and nutrients. This is inferred from other flatworm groups.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-11,
+        "max": 100000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Onchobothriidae likely possess mechanoreceptors for detecting physical stimuli in their environment. This is inferred from other flatworm groups.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-11,
+        "max": 100000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Onchobothriidae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onchobothriidae"
+  ],
+  "generated_at": "2026-01-04T12:38:42.713226"
+}

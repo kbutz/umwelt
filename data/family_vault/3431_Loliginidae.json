@@ -1,0 +1,48 @@
+{
+  "family_name": "Loliginidae",
+  "order_name": "Myopsida",
+  "gbif_id": 3431,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Loliginidae have large lens eyes on each side of their head, indicating a reliance on vision.",
+      "inferred_from_species": [
+        "Uroteuthis edulis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Some species, like Uroteuthis edulis (formerly Photololigo), possess photophores under their ink sacs.",
+      "inferred_from_species": [
+        "Uroteuthis edulis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "statocysts": {
+      "presence": "common",
+      "notes": "Statoliths are present and used for determining age and migration patterns, indicating the presence of statocysts for balance and orientation.",
+      "inferred_from_species": [
+        "Uroteuthis edulis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Loliginidae",
+    "https://en.wikipedia.org/wiki/Uroteuthis_edulis",
+    "https://en.wikipedia.org/wiki/Uroteuthis_sibogae",
+    "https://en.wikipedia.org/wiki/Uroteuthis_chinensis"
+  ],
+  "generated_at": "2026-01-04T12:24:02.566529"
+}

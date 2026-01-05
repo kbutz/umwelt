@@ -1,0 +1,47 @@
+{
+  "family_name": "Scutigeridae",
+  "order_name": "Not specified in context",
+  "gbif_id": 8268,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "House centipedes are found in dimly lit areas, suggesting functional vision, though its capabilities are unknown. Inferred from behavior of Scutigera coleoptrata and Allothereua maculata.",
+      "inferred_from_species": [
+        "Scutigera coleoptrata",
+        "Allothereua maculata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Centipedes generally rely on mechanoreception for detecting vibrations and touch. Likely used for navigation and prey detection. Inferred from general centipede biology and behavior of Allothereua bidenticulata.",
+      "inferred_from_species": [
+        "Allothereua bidenticulata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to locate prey and navigate. Inferred from general centipede biology and habitat preferences of Scutigera coleoptrata.",
+      "inferred_from_species": [
+        "Scutigera coleoptrata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scutigeridae",
+    "https://en.wikipedia.org/wiki/Allothereua_bidenticulata"
+  ],
+  "generated_at": "2026-01-04T11:11:17.654795"
+}

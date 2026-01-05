@@ -1,0 +1,39 @@
+{
+  "family_name": "Hydrobiidae",
+  "order_name": "Littorinimorpha",
+  "gbif_id": 2671,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision in Hydrobiidae is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As freshwater and brackish water snails, chemoreception is likely important for food detection and navigation. Inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As snails, mechanoreception is likely used to sense the environment and substrate. Inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hydrobiidae"
+  ],
+  "generated_at": "2026-01-04T12:12:23.747580"
+}

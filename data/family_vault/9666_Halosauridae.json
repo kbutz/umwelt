@@ -1,0 +1,50 @@
+{
+  "family_name": "Halosauridae",
+  "order_name": "Notacanthiformes",
+  "gbif_id": 9666,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Highly developed lateral line system for detecting vibrations in the water. Elongated pectorals may provide further means of detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information about chemoreception is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No information about electroreception is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halosauridae",
+    "https://en.wikipedia.org/wiki/Halosaurus_radiatus",
+    "https://en.wikipedia.org/wiki/Halosaurus_johnsonianus"
+  ],
+  "generated_at": "2026-01-04T11:37:41.655066"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Molpadiodemidae",
+  "order_name": "Unknown",
+  "gbif_id": 9570491,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers possess sensory cells for touch and detecting water currents. Inferred to be present for navigation and substrate interaction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers utilize chemoreceptors for detecting food and other chemical cues in the environment. Inferred to be present for feeding and mate detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-11,
+        "max": 0.1
+      }
+    },
+    " photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception is not specified in the given data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Molpadiodemidae"
+  ],
+  "generated_at": "2026-01-04T12:43:14.198486"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Solmarisidae",
+  "order_name": "Narcomedusae",
+  "gbif_id": 3368,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory abilities of hydrozoans in this family are poorly documented in the provided context. Mechanoreception is likely present, as it is common in jellyfish, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of photoreceptors in Solmarisidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is expected in hydrozoans for food detection and other environmental cues, but there is no supporting data in the provided context for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solmarisidae"
+  ],
+  "generated_at": "2026-01-04T10:46:39.853409"
+}

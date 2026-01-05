@@ -1,0 +1,58 @@
+{
+  "family_name": "Hylidae",
+  "order_name": "Anura",
+  "gbif_id": 6735,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely well-developed, as they are often arboreal or semi-aquatic and need to locate prey and navigate their environment. Juvenile color patterns and adult color changes (as seen in Xenohyla truncata) suggest visual communication may be important. Observation of hunting behavior suggests visual acuity for locating fruit.",
+      "inferred_from_species": [
+        "Xenohyla truncata",
+        "Xenohyla eugenioi"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Crucial for communication, especially during breeding. Species like Aplastodiscus sibilatus have characteristic calls, implying sensitive auditory systems for species recognition and mate attraction.",
+      "inferred_from_species": [
+        "Aplastodiscus sibilatus"
+      ],
+      "frequency_range_hz": {
+        "min": 50,
+        "max": 10000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for food detection and potentially for sensing environmental cues. Frugivorous behavior in Xenohyla truncata relies on detecting fruit.",
+      "inferred_from_species": [
+        "Xenohyla truncata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Important for interacting with the environment, sensing substrate vibrations, and physical interactions with conspecifics.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hylidae",
+    "https://en.wikipedia.org/wiki/Xenohyla_truncata",
+    "https://en.wikipedia.org/wiki/Xenohyla_eugenioi",
+    "https://en.wikipedia.org/wiki/Aplastodiscus_sibilatus"
+  ],
+  "generated_at": "2026-01-04T10:59:26.394028"
+}

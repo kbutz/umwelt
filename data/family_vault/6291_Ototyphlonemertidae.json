@@ -1,0 +1,39 @@
+{
+  "family_name": "Ototyphlonemertidae",
+  "order_name": "Monostilifera",
+  "gbif_id": 6291,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are largely unstudied based on available information. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As worms, chemoreception is likely the primary sense for detecting food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile senses and sensitivity to water currents are presumed given their body plan and habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ototyphlonemertidae"
+  ],
+  "generated_at": "2026-01-04T12:06:04.922000"
+}

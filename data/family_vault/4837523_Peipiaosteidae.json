@@ -1,0 +1,48 @@
+{
+  "family_name": "Peipiaosteidae",
+  "order_name": "Acipenseriformes",
+  "gbif_id": 4837523,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present given relation to extant Acipenseriformes, but no direct evidence provided. Vision is common in fish, but specific adaptations for the environment are unknown for Peipiaosteidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presumed to be present, similar to related Acipenseriformes. Likely used for detecting water currents and prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is present in some Acipenseriformes. Unknown if Peipiaosteidae possessed this sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting food and chemical cues in the freshwater environment. Common in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peipiaosteidae"
+  ],
+  "generated_at": "2026-01-04T11:17:19.538854"
+}

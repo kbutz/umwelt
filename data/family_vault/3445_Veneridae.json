@@ -1,0 +1,39 @@
+{
+  "family_name": "Veneridae",
+  "order_name": "Unknown",
+  "gbif_id": 3445,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Veneridae likely possess mechanoreceptors to detect vibrations and pressure changes in their environment. These would be important for detecting predators and changes in water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used to detect food and potential mates. Bivalves commonly use chemoreceptors associated with their gills and siphons to sample the surrounding water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and extent of photoreception in Veneridae is currently unknown based on the provided context. Some bivalves have simple eyes or photosensitive cells, but it's unclear if this is common in Veneridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Veneridae"
+  ],
+  "generated_at": "2026-01-04T12:38:07.217209"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Onychognathiidae",
+  "order_name": "Bursovaginoidea",
+  "gbif_id": 3420,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are largely unstudied in this family. Given their worm-like morphology and marine habitat, chemoreception is likely to be important for food detection and mate finding, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As marine worms, mechanoreception is likely present for detecting water currents, substrate vibrations, and physical contact. However, this is speculative as specific studies are lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreception is unknown. Their habitat and worm-like form suggest that vision might be absent or limited, but without further data, this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onychognathiidae"
+  ],
+  "generated_at": "2026-01-04T10:22:53.281506"
+}

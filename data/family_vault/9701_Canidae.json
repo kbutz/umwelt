@@ -1,0 +1,60 @@
+{
+  "family_name": "Canidae",
+  "order_name": "Carnivora",
+  "gbif_id": 9701,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Canids generally have good vision, although specific adaptations may vary between species. Diurnal and nocturnal species exist within the family, suggesting a range of visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Upright ears are a common feature, suggesting well-developed hearing. Canids use vocalizations for communication, further supporting the importance of auditory perception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 45000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Long muzzles indicate a strong sense of smell. Canids use scent signals for communication, highlighting the significance of olfaction in their behavior.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Canids possess teeth adapted for slicing flesh, indicating a role for taste in food selection, though specifics are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Tactile sense is likely important for social interactions and environmental awareness. Bushy tails could serve a tactile function in communication or balance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canidae",
+    "https://en.wikipedia.org/wiki/Cuon_alpinus",
+    "https://en.wikipedia.org/wiki/Lycalopex_sechurae",
+    "https://en.wikipedia.org/wiki/Lycalopex_fulvipes"
+  ],
+  "generated_at": "2026-01-04T10:20:10.221232"
+}

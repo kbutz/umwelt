@@ -1,0 +1,48 @@
+{
+  "family_name": "Pteroclididae",
+  "order_name": "Pterocliformes",
+  "gbif_id": 5274,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Diurnal birds inhabiting open country, suggesting well-developed visual acuity for foraging and predator detection. This is inferred from their lifestyle and the lack of any mention of sensory deprivations.",
+      "inferred_from_species": [
+        "Pterocles orientalis",
+        "Pterocles senegallus",
+        "Pterocles bicinctus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely important for communication and predator detection, as with most birds. No specific details are available, but the presence of vocalizations is inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile_perception": {
+      "presence": "common",
+      "notes": "Essential for ground-dwelling birds, especially for nesting and chick rearing. Males saturate their belly feathers with water, implying a tactile sensitivity for water absorption.",
+      "inferred_from_species": [
+        "Pterocles senegallus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pteroclidae",
+    "https://en.wikipedia.org/wiki/Pterocles_orientalis",
+    "https://en.wikipedia.org/wiki/Pterocles_senegallus",
+    "https://en.wikipedia.org/wiki/Pterocles_bicinctus"
+  ],
+  "generated_at": "2026-01-04T12:10:06.334673"
+}

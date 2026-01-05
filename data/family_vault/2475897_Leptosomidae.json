@@ -1,0 +1,35 @@
+{
+  "family_name": "Leptosomidae",
+  "order_name": "Leptosomiformes",
+  "gbif_id": 2475897,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Birds in this family inhabit forests and woodlands, suggesting vision is important for navigation, foraging, and predator avoidance. Further research would be needed to characterize visual acuity and spectral sensitivity.",
+      "inferred_from_species": [
+        "Leptosomus discolor"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "The context mentions differences in voice among subspecies/possible species (L. gracilis), indicating that audition plays a role in communication and possibly species recognition. Further research needed to characterize auditory range.",
+      "inferred_from_species": [
+        "Leptosomus discolor"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leptosomidae",
+    "https://en.wikipedia.org/wiki/Leptosomus_discolor"
+  ],
+  "generated_at": "2026-01-04T12:31:51.773240"
+}

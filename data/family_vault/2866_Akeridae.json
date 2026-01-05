@@ -1,0 +1,42 @@
+{
+  "family_name": "Akeridae",
+  "order_name": "Opisthobranchia",
+  "gbif_id": 2866,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, given the general body plan of related sea hares, but specific details and sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Common in marine gastropods for food detection, mate recognition, and navigation. Inferred to be important for this family's ecological niche.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for balance and detecting water currents and substrate vibrations. Useful for detecting predators or prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Akeridae",
+    "https://en.wikipedia.org/wiki/Akera_bayeri",
+    "https://en.wikipedia.org/wiki/Akera_bullata",
+    "https://en.wikipedia.org/wiki/Akera_julieae"
+  ],
+  "generated_at": "2026-01-04T12:47:48.383442"
+}

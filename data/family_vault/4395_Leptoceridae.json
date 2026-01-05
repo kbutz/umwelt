@@ -1,0 +1,39 @@
+{
+  "family_name": "Leptoceridae",
+  "order_name": "Trichoptera",
+  "gbif_id": 4395,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely used for general navigation and mate recognition, as is common in many insect families. This is inferred as a baseline sensory modality for flying insects, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Long antennae are a defining characteristic, suggesting a heightened sensitivity to air currents and vibrations, potentially used for detecting mates, predators, or prey. This is inferred because long antennae generally correlate with increased mechanosensory abilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for locating food sources and mates. Antennae play a role in chemoreception in most insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leptoceridae"
+  ],
+  "generated_at": "2026-01-04T11:05:50.809116"
+}

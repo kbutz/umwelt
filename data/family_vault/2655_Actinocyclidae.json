@@ -1,0 +1,44 @@
+{
+  "family_name": "Actinocyclidae",
+  "order_name": "Nudibranchia",
+  "gbif_id": 2655,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea slugs use chemoreception to locate food and mates. This is inferred to be present in Actinocyclidae as they are dorid nudibranchs.",
+      "inferred_from_species": [
+        "Hallaxa chani"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of photoreceptors in Actinocyclidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea slugs possess mechanoreceptors for sensing their environment. This is inferred to be present in Actinocyclidae as they are dorid nudibranchs.",
+      "inferred_from_species": [
+        "Hallaxa chani"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Actinocyclidae",
+    "https://en.wikipedia.org/wiki/Hallaxa_chani"
+  ],
+  "generated_at": "2026-01-04T11:03:13.653819"
+}

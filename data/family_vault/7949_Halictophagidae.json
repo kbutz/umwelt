@@ -1,0 +1,39 @@
+{
+  "family_name": "Halictophagidae",
+  "order_name": "Strepsiptera",
+  "gbif_id": 7949,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Halictophagidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception (smell and taste) is likely present for host detection and mate finding, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception (touch, vibration) is likely present for interacting with the environment and host, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halictophagidae"
+  ],
+  "generated_at": "2026-01-04T11:29:43.822530"
+}

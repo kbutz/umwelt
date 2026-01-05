@@ -1,0 +1,41 @@
+{
+  "family_name": "Diclybothriidae",
+  "order_name": "Diclybothriidea",
+  "gbif_id": 3177,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown based on the provided context. Mechanoreception is a plausible sensory modality for monogeneans, but no specific information is provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown based on the provided context. Chemoreception is a plausible sensory modality for monogeneans, but no specific information is provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown based on the provided context. Photoreception is a plausible sensory modality, though not guaranteed, but no specific information is provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diclybothriidae",
+    "https://en.wikipedia.org/wiki/Paradiclybothrium_pacificum",
+    "https://en.wikipedia.org/wiki/Diclybothrium_armatum"
+  ],
+  "generated_at": "2026-01-04T12:14:30.620299"
+}

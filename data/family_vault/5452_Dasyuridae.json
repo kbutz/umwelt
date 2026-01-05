@@ -1,0 +1,80 @@
+{
+  "family_name": "Dasyuridae",
+  "order_name": "Not specified in context",
+  "gbif_id": 5452,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely a primary sense given their ecological niche across diverse habitats. Further research is needed to determine specific visual capabilities (e.g., color vision, acuity).",
+      "inferred_from_species": [
+        "Dasyurus viverrinus",
+        "Dasyurus hallucatus",
+        "Dasyurus albopunctatus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is assumed to be present for communication and predator/prey detection, based on their active foraging behavior.",
+      "inferred_from_species": [
+        "Dasyurus viverrinus",
+        "Dasyurus hallucatus",
+        "Dasyurus albopunctatus"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction likely plays a significant role in foraging, social interactions, and navigation, typical for carnivorous marsupials.",
+      "inferred_from_species": [
+        "Dasyurus viverrinus",
+        "Dasyurus hallucatus",
+        "Dasyurus albopunctatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile senses are likely important for navigating varied habitats and interacting with prey. Whisker-like tactile hairs (vibrissae) may be present for fine-scale touch.",
+      "inferred_from_species": [
+        "Dasyurus viverrinus",
+        "Dasyurus hallucatus",
+        "Dasyurus albopunctatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste is likely present for assessing food quality, as they are insectivores/carnivores.",
+      "inferred_from_species": [
+        "Dasyurus viverrinus",
+        "Dasyurus hallucatus",
+        "Dasyurus albopunctatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dasyuridae",
+    "https://en.wikipedia.org/wiki/Dasyurus_viverrinus",
+    "https://en.wikipedia.org/wiki/Dasyurus_hallucatus",
+    "https://en.wikipedia.org/wiki/Dasyurus_albopunctatus"
+  ],
+  "generated_at": "2026-01-04T10:21:40.212325"
+}

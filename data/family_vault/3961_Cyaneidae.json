@@ -1,0 +1,42 @@
+{
+  "family_name": "Cyaneidae",
+  "order_name": "Unknown",
+  "gbif_id": 3961,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Jellyfish generally possess mechanoreceptors for sensing touch and changes in water pressure. This is inferred for Cyaneidae due to their classification as true jellyfish and the necessity for detecting prey and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Jellyfish use chemoreceptors to detect chemical cues in the water, aiding in prey detection and possibly intraspecific communication. This is inferred for Cyaneidae based on the general biology of jellyfish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    " photoreception": {
+      "presence": "common",
+      "notes": "Jellyfish typically possess simple light-sensitive organs (ocelli) for detecting light and shadow, crucial for vertical migration and predator avoidance. This is inferred for Cyaneidae as they are true jellyfish and inhabit various depths.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyaneidae",
+    "https://en.wikipedia.org/wiki/Cyanea_capillata",
+    "https://en.wikipedia.org/wiki/Cyanea_annaskala",
+    "https://en.wikipedia.org/wiki/Cyanea_purpurea"
+  ],
+  "generated_at": "2026-01-04T10:14:13.873836"
+}

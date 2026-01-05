@@ -1,0 +1,39 @@
+{
+  "family_name": "Histiostomatidae",
+  "order_name": "Astigmata",
+  "gbif_id": 2843,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mites are known to have mechanoreceptors for detecting vibrations and touch, but specific information for Histiostomatidae is unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Mites generally rely on chemoreception for finding food and mates, but specific data for Histiostomatidae is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "hygroreception": {
+      "presence": "unknown",
+      "notes": "Mites are sensitive to humidity levels, which affects their survival and behavior. No specific data available for Histiostomatidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Histiostomatidae"
+  ],
+  "generated_at": "2026-01-04T09:58:35.989249"
+}

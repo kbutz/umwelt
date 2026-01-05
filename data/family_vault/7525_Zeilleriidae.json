@@ -1,0 +1,39 @@
+{
+  "family_name": "Zeilleriidae",
+  "order_name": "Terebratulida",
+  "gbif_id": 7525,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to touch, pressure, or vibration are unknown for this family based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities (taste, smell) are unknown for this family based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown for this family based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zeilleriidae"
+  ],
+  "generated_at": "2026-01-04T09:55:19.302899"
+}

@@ -1,0 +1,41 @@
+{
+  "family_name": "Piscicolidae",
+  "order_name": "Rhynchobdellida",
+  "gbif_id": 3576,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred, as parasitic blood feeders must be able to locate hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting host presence and attachment. The bell-shaped sucker suggests the presence of sensitive mechanoreceptors for attachment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Piscicolidae",
+    "https://en.wikipedia.org/wiki/Branchellion_torpedinis",
+    "https://en.wikipedia.org/wiki/Branchellion_ravenelii"
+  ],
+  "generated_at": "2026-01-04T11:15:51.368357"
+}

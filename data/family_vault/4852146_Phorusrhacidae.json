@@ -1,0 +1,68 @@
+{
+  "family_name": "Phorusrhacidae",
+  "order_name": "Unknown",
+  "gbif_id": 4852146,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Large skull size and predatory lifestyle suggest well-developed vision for spotting prey. Given their size and likely diurnal activity, color vision is possible but not confirmed.",
+      "inferred_from_species": [
+        "Kelenken guillermoi",
+        "Mesembriornis milneedwardsi"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey or potential threats. No specific data on frequency range.",
+      "inferred_from_species": [
+        "Kelenken guillermoi",
+        "Mesembriornis milneedwardsi"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown, but scavenging behavior suggests at least some capacity to detect carrion.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "General touch, pressure, and pain sensitivity are expected, important for locomotion and interaction with the environment.",
+      "inferred_from_species": [
+        "Kelenken guillermoi",
+        "Mesembriornis milneedwardsi"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste capabilities are unknown, but present in modern avian relatives. Likely used to assess food quality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phorusrhacidae",
+    "https://en.wikipedia.org/wiki/Mesembriornis_milneedwardsi",
+    "https://en.wikipedia.org/wiki/Kelenken_guillermoi"
+  ],
+  "generated_at": "2026-01-04T12:00:54.585556"
+}

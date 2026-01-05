@@ -1,0 +1,43 @@
+{
+  "family_name": "Lepismatidae",
+  "order_name": "Zygentoma",
+  "gbif_id": 6993,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Compound eyes are small and well separated. They avoid light.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Elongated, flattened insects with three 'tails' of roughly equal length, suggesting tactile and balance sensory capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Scavengers, implying a sense of smell and taste to locate food sources.",
+      "inferred_from_species": [
+        "Lepisma saccharinum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepismatidae",
+    "https://en.wikipedia.org/wiki/Lepisma_saccharinum",
+    "https://en.wikipedia.org/wiki/Ctenolepisma_hummelincki"
+  ],
+  "generated_at": "2026-01-04T11:06:08.646667"
+}

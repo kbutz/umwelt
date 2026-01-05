@@ -1,0 +1,50 @@
+{
+  "family_name": "Neomphalidae",
+  "order_name": "Neomphalina",
+  "gbif_id": 4616442,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Deep-sea hydrothermal vent limpets likely rely heavily on chemoreception to locate vents and suitable substrates. Inferred due to their habitat.",
+      "inferred_from_species": [
+        "Neomphalus fretterae",
+        "Cyathermia naticoides",
+        "Symmetromphalus regularis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Limpets generally use mechanoreceptors to sense their environment and maintain attachment to surfaces. Likely important for navigation and stability in vent environments.",
+      "inferred_from_species": [
+        "Neomphalus fretterae",
+        "Cyathermia naticoides",
+        "Symmetromphalus regularis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of functional vision in Neomphalidae is unknown. Given the deep-sea hydrothermal vent environment, it may be reduced or absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neomphalidae",
+    "https://en.wikipedia.org/wiki/Neomphalus_fretterae",
+    "https://en.wikipedia.org/wiki/Cyathermia_naticoides",
+    "https://en.wikipedia.org/wiki/Symmetromphalus_regularis"
+  ],
+  "generated_at": "2026-01-04T12:59:29.861657"
+}

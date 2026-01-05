@@ -1,0 +1,40 @@
+{
+  "family_name": "Gnathophausiidae",
+  "order_name": "Lophogastrida",
+  "gbif_id": 4314063,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Crustaceans generally possess compound eyes. Given the deep-sea habitat of some species (e.g., *Neognathophausia ingens*), adaptations for low-light vision are likely, although specific details are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Gnathophausiids likely possess mechanoreceptors for detecting water currents, vibrations, and touch. This is vital for prey detection, predator avoidance, and navigation in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 2000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is crucial for crustaceans for food detection and mate recognition. Given that they are predators, they likely use chemoreception to detect prey at a distance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 10000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gnathophausia",
+    "https://en.wikipedia.org/wiki/Neognathophausia_ingens"
+  ],
+  "generated_at": "2026-01-04T10:07:03.203747"
+}

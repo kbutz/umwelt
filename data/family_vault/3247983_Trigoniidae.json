@@ -1,0 +1,39 @@
+{
+  "family_name": "Trigoniidae",
+  "order_name": "Unknown",
+  "gbif_id": 3247983,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Trigoniidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact. This is inferred from other bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves generally possess chemoreceptors for detecting chemical cues in the water, aiding in feeding and avoiding unfavorable conditions. This is inferred from other bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of eyes or other photoreceptive structures is unknown for Trigoniidae. Many bivalves possess simple eyespots, but this needs to be confirmed for this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trigoniidae"
+  ],
+  "generated_at": "2026-01-04T12:39:56.124078"
+}

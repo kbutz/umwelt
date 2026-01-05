@@ -1,0 +1,39 @@
+{
+  "family_name": "Dioctophymatidae",
+  "order_name": "Ascaridida",
+  "gbif_id": 4281853,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes rely heavily on chemoreception for navigation, host detection, and mate finding. Inferred to be present based on the general biology of nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 10000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes typically possess mechanoreceptors for detecting touch, pressure, and movement in their environment and within their host. Inferred to be present based on the general biology of nematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 10000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Dioctophymatidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dioctophymidae"
+  ],
+  "generated_at": "2026-01-04T12:59:49.013457"
+}

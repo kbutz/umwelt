@@ -1,0 +1,39 @@
+{
+  "family_name": "Dactylogyridae",
+  "order_name": "Monogenea",
+  "gbif_id": 6438,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for host detection, but data lacking in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for orientation and attachment, but data lacking in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence of eyespots or other visual structures unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dactylogyridae"
+  ],
+  "generated_at": "2026-01-04T12:22:52.578346"
+}

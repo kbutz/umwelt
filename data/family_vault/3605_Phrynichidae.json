@@ -1,0 +1,40 @@
+{
+  "family_name": "Phrynichidae",
+  "order_name": "Unknown",
+  "gbif_id": 3605,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Phrynichidae are not specified in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arachnids, Phrynichidae likely possess mechanoreceptors for sensing touch and vibration. Further specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception in Phrynichidae is not explicitly mentioned in the text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phrynichidae",
+    "https://en.wikipedia.org/wiki/Damon_medius"
+  ],
+  "generated_at": "2026-01-04T11:22:51.454944"
+}

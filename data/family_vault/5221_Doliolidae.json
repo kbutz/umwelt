@@ -1,0 +1,39 @@
+{
+  "family_name": "Doliolidae",
+  "order_name": "Doliolida",
+  "gbif_id": 5221,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision is not provided in the text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "The text mentions cilia moving water, and circular muscles for movement, suggesting a capability to detect water movement and pressure changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception would likely be present for feeding and other purposes, but the text doesn't explicitly state this.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Doliolidae"
+  ],
+  "generated_at": "2026-01-04T10:16:17.265757"
+}

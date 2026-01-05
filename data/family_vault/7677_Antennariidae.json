@@ -1,0 +1,54 @@
+{
+  "family_name": "Antennariidae",
+  "order_name": "Lophiiformes",
+  "gbif_id": 7677,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Frogfishes possess eyes and rely on vision for detecting prey and navigating their environment. Camouflage suggests visual acuity is important for both predator avoidance and prey capture.",
+      "inferred_from_species": [
+        "Phyllophryne scortea",
+        "Antennatus strigatus",
+        "Antennatus flagellatus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, they likely possess a lateral line system or similar mechanoreceptors to detect vibrations and pressure changes in the water, aiding in prey detection and predator avoidance.",
+      "inferred_from_species": [
+        "Phyllophryne scortea",
+        "Antennatus strigatus",
+        "Antennatus flagellatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreception for detecting prey and assessing water quality.",
+      "inferred_from_species": [
+        "Phyllophryne scortea",
+        "Antennatus strigatus",
+        "Antennatus flagellatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antennariidae",
+    "https://en.wikipedia.org/wiki/Phyllophryne_scortea",
+    "https://en.wikipedia.org/wiki/Antennatus_strigatus",
+    "https://en.wikipedia.org/wiki/Antennatus_flagellatus"
+  ],
+  "generated_at": "2026-01-04T11:36:57.958167"
+}

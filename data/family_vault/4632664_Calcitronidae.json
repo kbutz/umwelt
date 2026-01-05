@@ -1,0 +1,39 @@
+{
+  "family_name": "Calcitronidae",
+  "order_name": "Unknown (Possibly Schizomida)",
+  "gbif_id": 4632664,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this extinct family are unknown due to limited fossil data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this extinct family are unknown due to limited fossil data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this extinct family are unknown due to limited fossil data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calcitronidae"
+  ],
+  "generated_at": "2026-01-04T11:27:38.440324"
+}

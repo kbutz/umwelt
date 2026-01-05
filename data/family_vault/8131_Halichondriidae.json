@@ -1,0 +1,39 @@
+{
+  "family_name": "Halichondriidae",
+  "order_name": "Suberitida",
+  "gbif_id": 8131,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges lack a nervous system, but they can detect and respond to chemical cues in the water for feeding, reproduction, and defense. This is inferred because it's a basic necessity for sessile filter feeders. Details on specific chemicals and sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges are able to sense water flow and physical contact, which is important for filter feeding and avoiding predators/debris. Lacking neurons, they rely on cellular and structural mechanisms. Details on the sensitivity thresholds are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown whether Halichondriidae sponges have photoreceptors or can sense light directly. Research would be needed to ascertain whether they have photosensitive cells or structures.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halichondriidae"
+  ],
+  "generated_at": "2026-01-04T12:17:32.166622"
+}

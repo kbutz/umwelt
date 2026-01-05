@@ -1,0 +1,42 @@
+{
+  "family_name": "Chirodropidae",
+  "order_name": "Chirodropida",
+  "gbif_id": 3952,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Like other box jellyfish, Chirodropidae likely possess ocelli, simple eyes, but details are not specified in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Box jellyfish are sensitive to touch and water currents via statocysts for balance. Nematocysts on tentacles also act as mechanoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for prey detection. No specifics available in the provided context, but presumed due to predatory lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chirodropidae",
+    "https://en.wikipedia.org/wiki/Chirodropus_palmatus",
+    "https://en.wikipedia.org/wiki/Chirodropus_gorilla",
+    "https://en.wikipedia.org/wiki/Chironex_fleckeri"
+  ],
+  "generated_at": "2026-01-04T11:08:10.260573"
+}

@@ -1,0 +1,42 @@
+{
+  "family_name": "Trochilidae",
+  "order_name": "Unknown",
+  "gbif_id": 5289,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Hummingbirds have sensitive visual abilities. Males have a wide diversity of plumage color, particularly in blues, greens, and purples.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hummingbirds are named for the humming sound created by their beating wings, which flap at high frequencies audible to other birds and humans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Hummingbirds feed on flower nectar.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trochilidae",
+    "https://en.wikipedia.org/wiki/Hylonympha_macrocerca",
+    "https://en.wikipedia.org/wiki/Eulidia_yarrellii",
+    "https://en.wikipedia.org/wiki/Stephanoxis_lalandi"
+  ],
+  "generated_at": "2026-01-04T11:49:37.434166"
+}

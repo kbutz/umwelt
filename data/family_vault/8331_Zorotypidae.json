@@ -1,0 +1,39 @@
+{
+  "family_name": "Zorotypidae",
+  "order_name": "Zoraptera",
+  "gbif_id": 8331,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Winged forms possess compound eyes and ocelli (simple eyes). Wingless forms lack eyes and ocelli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presence of nine-segmented moniliform (beaded) antennae suggests mechanoreceptive capabilities for detecting vibrations or physical contact. Mouthparts adapted for chewing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present, as it is common in insects for finding food and mates, but not explicitly mentioned.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zoraptera"
+  ],
+  "generated_at": "2026-01-04T11:30:18.669748"
+}

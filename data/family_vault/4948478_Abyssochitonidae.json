@@ -1,0 +1,39 @@
+{
+  "family_name": "Abyssochitonidae",
+  "order_name": "Lepidopleurida",
+  "gbif_id": 4948478,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Chitons generally possess mechanoreceptors for sensing touch and pressure. Likely present in Abyssochitonidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chitons typically use chemoreceptors to detect chemical cues in their environment. Likely present in Abyssochitonidae for food detection and other purposes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyespots or other visual structures is unknown for this family. Other chitons have eyespots, but it is unknown if this family does.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abyssochitonidae"
+  ],
+  "generated_at": "2026-01-04T12:16:06.939242"
+}

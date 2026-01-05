@@ -1,0 +1,39 @@
+{
+  "family_name": "Pauropodidae",
+  "order_name": "Tetramerocerata",
+  "gbif_id": 2936,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As soil-dwelling arthropods, Pauropodidae likely rely on mechanoreception to navigate their environment and detect prey or predators. The presence of antennae suggests a role in tactile sensing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Living in soil, they likely use chemoreception to find food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 100000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information is available about vision in Pauropodidae. Given their soil-dwelling habitat, vision may be reduced or absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pauropodidae"
+  ],
+  "generated_at": "2026-01-04T09:50:50.190357"
+}

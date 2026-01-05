@@ -1,0 +1,51 @@
+{
+  "family_name": "Salamandridae",
+  "order_name": "Urodela",
+  "gbif_id": 6750,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Most species have moveable eyelids but lack lacrimal glands. Many species display bright and contrasting colors for aposematism.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Many species-specific courtship rituals employ pheromones to induce mating behavior in females. Pheromones have been discovered to be the driving force behind female mating responses in Alpine newts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Possess four well-developed limbs with toes. They lack rib or costal grooves along the sides of their bodies.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "nociception": {
+      "presence": "common",
+      "notes": "Nearly all salamandrids produce a potent toxin in their skin, with some species being deadly to many other animal species, indicating a sensitivity to harmful stimuli. Their skin is very granular because of the number of poison glands.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salamandridae",
+    "https://en.wikipedia.org/wiki/Salamandra_salamandra",
+    "https://en.wikipedia.org/wiki/Salamandra_infraimmaculata",
+    "https://en.wikipedia.org/wiki/Salamandra_algira"
+  ],
+  "generated_at": "2026-01-04T11:00:10.943995"
+}

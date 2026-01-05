@@ -1,0 +1,54 @@
+{
+  "family_name": "Esocidae",
+  "order_name": "Salmoniformes",
+  "gbif_id": 7662,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Pike, pickerel, and mudminnows are ray-finned fish, and vision is crucial for their predatory lifestyle. They are generally found in well-lit freshwater environments, suggesting functional vision.",
+      "inferred_from_species": [
+        "Esox niger",
+        "Esox reichertii",
+        "Esox lucius"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ray-finned fish, Esocidae possess a lateral line system for detecting vibrations and pressure changes in the water. This is vital for detecting prey and avoiding predators.",
+      "inferred_from_species": [
+        "Esox niger",
+        "Esox reichertii",
+        "Esox lucius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are important for prey detection and assessing water quality. Likely used in foraging.",
+      "inferred_from_species": [
+        "Esox niger",
+        "Esox reichertii",
+        "Esox lucius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Esocidae",
+    "https://en.wikipedia.org/wiki/Esox_niger",
+    "https://en.wikipedia.org/wiki/Esox_reichertii",
+    "https://en.wikipedia.org/wiki/Esox_lucius"
+  ],
+  "generated_at": "2026-01-04T10:00:37.435868"
+}

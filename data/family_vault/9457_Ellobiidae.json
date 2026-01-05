@@ -1,0 +1,44 @@
+{
+  "family_name": "Ellobiidae",
+  "order_name": "Eupulmonata",
+  "gbif_id": 9457,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As pulmonate gastropods, they likely rely on chemoreception for finding food and mates. Inferred for terrestrial snails.",
+      "inferred_from_species": [
+        "Carychium tridentatum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Snails use mechanoreceptors for balance, proprioception, and detecting vibrations.",
+      "inferred_from_species": [
+        "Carychium tridentatum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ellobiidae",
+    "https://en.wikipedia.org/wiki/Carychium_tridentatum"
+  ],
+  "generated_at": "2026-01-04T12:49:31.834969"
+}

@@ -1,0 +1,50 @@
+{
+  "family_name": "Neoscopelidae",
+  "order_name": "Unknown",
+  "gbif_id": 4218,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Deep-sea fish, so vision is likely important for detecting bioluminescence and movement in low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "common",
+      "notes": "Some species possess photophores, suggesting the capability to detect light emitted by other organisms (bioluminescence). The arrangement varies, with some having them along the tongue and ventral surface.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system for detecting vibrations and pressure changes in the water, common in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Presumed to have olfactory capabilities for detecting chemical cues in the deep sea environment, aiding in prey detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neoscopelidae",
+    "https://en.wikipedia.org/wiki/Scopelengys_tristis",
+    "https://en.wikipedia.org/wiki/Solivomer_arenidens"
+  ],
+  "generated_at": "2026-01-04T11:37:27.421514"
+}

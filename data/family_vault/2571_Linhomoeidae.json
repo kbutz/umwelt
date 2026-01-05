@@ -1,0 +1,39 @@
+{
+  "family_name": "Linhomoeidae",
+  "order_name": "Monhysterida",
+  "gbif_id": 2571,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Nematodes generally possess mechanoreceptors for sensing touch and pressure. Prevalence within Linhomoeidae is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Nematodes are known to use chemoreception for food and mate detection. Prevalence within Linhomoeidae is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 10000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreception in Linhomoeidae is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Linhomoeidae"
+  ],
+  "generated_at": "2026-01-04T09:47:29.692193"
+}

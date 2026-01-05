@@ -1,0 +1,39 @@
+{
+  "family_name": "Antipathidae",
+  "order_name": "Antipatharia",
+  "gbif_id": 8160,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Antipathidae regarding vision are not mentioned in the provided context. As corals, they may possess photosensitivity, but details are lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As corals, Antipathidae likely rely on chemoreception for detecting food and other chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and physical contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antipathidae"
+  ],
+  "generated_at": "2026-01-04T10:45:30.600849"
+}

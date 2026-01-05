@@ -1,0 +1,41 @@
+{
+  "family_name": "Camaenidae",
+  "order_name": "Stylommatophora",
+  "gbif_id": 5495,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Basic visual capabilities are assumed for terrestrial snails, but specific details (resolution, color vision) are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Terrestrial snails rely heavily on chemoreception for navigation, food detection, and mate finding. Likely present in Camaenidae, though specifics are unstated in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Snails are likely sensitive to vibrations and touch through their foot and other body parts. This sense is important for detecting predators and navigating the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Camaenidae",
+    "https://en.wikipedia.org/wiki/Mouldingia_occidentalis",
+    "https://en.wikipedia.org/wiki/Offachloritis_dryanderensis"
+  ],
+  "generated_at": "2026-01-04T11:52:43.968207"
+}

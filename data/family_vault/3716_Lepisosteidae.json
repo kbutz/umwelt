@@ -1,0 +1,44 @@
+{
+  "family_name": "Lepisosteidae",
+  "order_name": "Unknown",
+  "gbif_id": 3716,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Gars possess vision, likely used for prey detection and navigation in aquatic environments. Spotted gars have spots on their head, suggesting visual camouflage or signaling.",
+      "inferred_from_species": [
+        "Lepisosteus oculatus"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ray-finned fish, gars likely possess a lateral line system for detecting vibrations and pressure changes in the water. This is crucial for detecting prey and avoiding predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Gars likely use chemoreception (taste and smell) to locate prey and assess water quality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepisosteidae",
+    "https://en.wikipedia.org/wiki/Lepisosteus_oculatus",
+    "https://en.wikipedia.org/wiki/Lepisosteus_platyrhincus",
+    "https://en.wikipedia.org/wiki/Lepisosteus_osseus"
+  ],
+  "generated_at": "2026-01-04T11:25:46.239081"
+}

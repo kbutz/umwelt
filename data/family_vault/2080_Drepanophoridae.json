@@ -1,0 +1,39 @@
+{
+  "family_name": "Drepanophoridae",
+  "order_name": "Hoplonemertea",
+  "gbif_id": 2080,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information provided to infer visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred as common for worms in general for navigation and prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred as common for worms to detect physical stimuli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Drepanophoridae"
+  ],
+  "generated_at": "2026-01-04T12:05:23.303349"
+}

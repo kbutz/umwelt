@@ -1,0 +1,43 @@
+{
+  "family_name": "Epsilonematidae",
+  "order_name": "Desmodorida",
+  "gbif_id": 2602,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally possess mechanoreceptors for sensing touch, pressure, and movement in their environment. This is inferred to be present in Epsilonematidae.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes use chemoreception to locate food sources and detect chemical signals in their environment. This is inferred to be present in Epsilonematidae.",
+      "inferred_from_species": [
+        "Caenorhabditis elegans"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Epsilonematidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epsilonematidae"
+  ],
+  "generated_at": "2026-01-04T09:48:05.428449"
+}

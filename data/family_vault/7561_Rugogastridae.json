@@ -1,0 +1,39 @@
+{
+  "family_name": "Rugogastridae",
+  "order_name": "Aspidogastrida",
+  "gbif_id": 7561,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are poorly studied in this family. Chemoreception is likely used for host detection, as with many parasitic flatworms, but this is not explicitly stated in the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception may be used for orientation and attachment to hosts. Without more information, it is hard to assess the function of the sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 2000
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors in Rugogastridae is unknown. Given the parasitic lifestyle, it is likely absent, but data is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rugogastridae"
+  ],
+  "generated_at": "2026-01-04T12:12:15.733069"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Basterotiidae",
+  "order_name": "Galeommatida",
+  "gbif_id": 6528090,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Basterotiidae likely possess mechanoreceptors to detect physical stimuli and vibrations in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves typically use chemoreception to detect chemical cues in the water, aiding in feeding and potentially mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-17,
+        "max": 1000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of visual capabilities in Basterotiidae is unknown based on the provided context. Many bivalves lack complex eyes, but some may have simple light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basterotiidae"
+  ],
+  "generated_at": "2026-01-04T12:51:42.296465"
+}

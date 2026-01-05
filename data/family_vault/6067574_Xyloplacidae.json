@@ -1,0 +1,50 @@
+{
+  "family_name": "Xyloplacidae",
+  "order_name": "Peripodida",
+  "gbif_id": 6067574,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "inferred",
+      "notes": "Likely used for locating decaying wood in the deep sea environment, given their habitat on sunken timber. Necessary for food source location since they lack an anus/intestine.",
+      "inferred_from_species": [
+        "Xyloplax medusiformis",
+        "Xyloplax turnerae",
+        "Xyloplax janetae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "inferred",
+      "notes": "Echinoderms generally possess mechanoreceptors for sensing their environment. Sea daisies would likely use this to detect water currents or physical contact with wood surfaces.",
+      "inferred_from_species": [
+        "Xyloplax medusiformis",
+        "Xyloplax turnerae",
+        "Xyloplax janetae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available on vision in Xyloplacidae. Given their deep sea habitat, vision is less likely, but cannot be ruled out without further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xyloplacidae",
+    "https://en.wikipedia.org/wiki/Xyloplax_medusiformis",
+    "https://en.wikipedia.org/wiki/Xyloplax_turnerae",
+    "https://en.wikipedia.org/wiki/Xyloplax_janetae"
+  ],
+  "generated_at": "2026-01-04T12:07:32.132052"
+}

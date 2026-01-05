@@ -1,0 +1,40 @@
+{
+  "family_name": "Sclerosomatidae",
+  "order_name": "Opiliones",
+  "gbif_id": 3253390,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Harvestmen in general rely on mechanoreceptors in their legs to detect vibrations and air currents, which is likely present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Harvestmen use chemoreceptors to locate food and mates, likely present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sclerosomatidae",
+    "https://en.wikipedia.org/wiki/Nelima_doriae"
+  ],
+  "generated_at": "2026-01-04T10:58:51.800319"
+}

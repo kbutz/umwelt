@@ -1,0 +1,48 @@
+{
+  "family_name": "Brontotheriidae",
+  "order_name": "Perissodactyla",
+  "gbif_id": 3239449,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision available in the provided context. Presumed present as they are not described as subterranean or lacking eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "No specific auditory information in the provided text. Assumed present, but specific capabilities unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No specific information about olfaction is provided. Presumed present, as with other mammals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "unknown",
+      "notes": "No specific information about touch, temperature, or pain sensation is provided. Presumed present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brontotheriidae"
+  ],
+  "generated_at": "2026-01-04T10:35:50.771163"
+}

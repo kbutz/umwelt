@@ -1,0 +1,39 @@
+{
+  "family_name": "Notommatidae",
+  "order_name": "Ploima",
+  "gbif_id": 8067,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Rotifers are likely to possess mechanoreceptors for detecting water currents and substrate vibrations, but specific details for Notommatidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Rotifers likely use chemoreception to detect food sources and potential mates, but specific details for Notommatidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Many rotifers possess eyespots for light detection; presence and structure in Notommatidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Notommatidae"
+  ],
+  "generated_at": "2026-01-04T11:31:57.113882"
+}

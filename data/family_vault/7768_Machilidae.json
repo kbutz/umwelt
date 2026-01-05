@@ -1,0 +1,52 @@
+{
+  "family_name": "Machilidae",
+  "order_name": "Archaeognatha",
+  "gbif_id": 7768,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess large compound eyes, often meeting at a central point.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Three 'tails' (two cerci and a long central epiproct) at the rear of the abdomen likely function in mechanoreception. They can move very fast and jump considerable distances, implying acute mechanosensory abilities for balance and escape.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred; as herbivores and scavengers, they likely possess chemoreceptors to locate food sources. Some species spin silken threads that lead the female to the spermatophore suggesting pheromone detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 10000.0
+      }
+    },
+    "hydroreception": {
+      "presence": "rare",
+      "notes": "Inferred; some littoral forms, such as Parapetrobius and Petrobius, can swim, potentially using hydroreceptors to detect water currents, but this is not universally present across the family.",
+      "inferred_from_species": [
+        "Parapetrobius",
+        "Petrobius"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 100.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Machilidae",
+    "https://en.wikipedia.org/wiki/Petridiobius_arcticus"
+  ],
+  "generated_at": "2026-01-04T11:27:53.872619"
+}

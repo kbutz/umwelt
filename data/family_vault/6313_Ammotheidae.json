@@ -1,0 +1,39 @@
+{
+  "family_name": "Ammotheidae",
+  "order_name": "Unknown",
+  "gbif_id": 6313,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Ammotheidae are currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sea spiders, Ammotheidae likely rely on mechanoreception to detect water currents, substrate vibrations, and potential prey or predators. This is inferred from the general biology of marine arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used by Ammotheidae to locate food sources and possibly detect mates. This is inferred from the general biology of marine arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ammotheidae"
+  ],
+  "generated_at": "2026-01-04T12:41:52.213210"
+}

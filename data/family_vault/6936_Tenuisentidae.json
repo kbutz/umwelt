@@ -1,0 +1,41 @@
+{
+  "family_name": "Tenuisentidae",
+  "order_name": "Unknown",
+  "gbif_id": 6936,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "As parasitic worms, they likely rely on chemoreception to locate hosts, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely important for orientation within the host, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is likely absent, as they are parasitic worms living within hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tenuisentidae",
+    "https://en.wikipedia.org/wiki/Paratenuisentis_ambiguus",
+    "https://en.wikipedia.org/wiki/Tenuisentis_niloticus"
+  ],
+  "generated_at": "2026-01-04T11:13:56.000527"
+}

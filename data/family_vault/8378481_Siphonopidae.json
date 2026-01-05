@@ -1,0 +1,51 @@
+{
+  "family_name": "Siphonopidae",
+  "order_name": "Gymnophiona",
+  "gbif_id": 8378481,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are unknown based on the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely relies on chemoreception for navigation and prey detection, common in burrowing amphibians. Further research is needed to identify which modalities are used.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely relies on mechanoreception/touch for navigation and prey detection, common in burrowing amphibians. Further research is needed to identify which modalities are used.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Stapes are imperforated suggesting reduced airborne sound detection but potential for substrate vibration detection exists.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphonopidae",
+    "https://en.wikipedia.org/wiki/Mimosiphonops_reinhardti",
+    "https://en.wikipedia.org/wiki/Mimosiphonops_vermiculatus",
+    "https://en.wikipedia.org/wiki/Brasilotyphlus_braziliensis"
+  ],
+  "generated_at": "2026-01-04T10:27:52.700603"
+}

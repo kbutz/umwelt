@@ -1,0 +1,39 @@
+{
+  "family_name": "Mesothuriidae",
+  "order_name": "Holothuriida",
+  "gbif_id": 7968176,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting substrate vibrations or water currents, common in Holothuriida, but specific data for Mesothuriidae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting food sources, common in Holothuriida, but specific data for Mesothuriidae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Possibly present; some sea cucumbers have rudimentary light-sensing capabilities. Specific data for Mesothuriidae is missing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mesothuriidae"
+  ],
+  "generated_at": "2026-01-04T12:43:06.088985"
+}

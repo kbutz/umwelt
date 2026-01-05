@@ -1,0 +1,41 @@
+{
+  "family_name": "Polymixiidae",
+  "order_name": "Polymixiiformes",
+  "gbif_id": 5086,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely functional in deep-sea environments, although specific adaptations are unknown. They are ray-finned fish living in tropical and subtropical waters, implying functional vision for prey detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Fish possess a lateral line system for detecting vibrations and pressure changes in the water. As bottom-dwelling fish, this would be vital for detecting predators and prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish use chemoreception (smell and taste) for locating food and mates. The presence of barbels suggests an enhanced role for taste/touch in the benthic zone.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1e-13
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polymixiidae",
+    "https://en.wikipedia.org/wiki/Polymixia_berndti",
+    "https://en.wikipedia.org/wiki/Polymixia_nobilis"
+  ],
+  "generated_at": "2026-01-04T10:04:54.179086"
+}

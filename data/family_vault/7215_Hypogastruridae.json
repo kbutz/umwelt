@@ -1,0 +1,39 @@
+{
+  "family_name": "Hypogastruridae",
+  "order_name": "Entomobryomorpha",
+  "gbif_id": 7215,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Hypogastruridae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As springtails, Hypogastruridae likely use chemoreception for finding food and mates, as is typical for soil-dwelling arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As springtails, Hypogastruridae likely use mechanoreception to perceive their environment and detect predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hypogastruridae"
+  ],
+  "generated_at": "2026-01-04T12:55:17.464637"
+}

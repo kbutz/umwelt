@@ -1,0 +1,39 @@
+{
+  "family_name": "Monocelididae",
+  "order_name": "Proseriata",
+  "gbif_id": 3030,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in marine turbellarian flatworms is variable. Without specific information for Monocelididae, presence cannot be determined.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine flatworms, Monocelididae likely use chemoreception to locate food and mates. This is a common sensory modality in aquatic invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for balance, orientation, and detecting water currents or substrate vibrations. Common in free-living flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monocelididae"
+  ],
+  "generated_at": "2026-01-04T11:19:36.343772"
+}

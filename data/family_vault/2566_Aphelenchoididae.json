@@ -1,0 +1,39 @@
+{
+  "family_name": "Aphelenchoididae",
+  "order_name": "Aphelenchida",
+  "gbif_id": 2566,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for locating food sources and mates. This is likely true for Aphelenchoididae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-21,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception for orientation and sensing their environment. This is likely true for Aphelenchoididae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-21,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Aphelenchoididae is currently unknown based on the given data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-21,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aphelenchoididae"
+  ],
+  "generated_at": "2026-01-04T09:47:00.814120"
+}

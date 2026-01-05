@@ -1,0 +1,39 @@
+{
+  "family_name": "Aulocystidae",
+  "order_name": "Lychniscosida",
+  "gbif_id": 3225,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Aulocystidae likely possess mechanoreceptors to detect water flow and particle movement for filter feeding and other basic functions. This is inferred due to its presence and importance in other sponge families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for detecting chemical cues in the water column, essential for coordinating physiological processes and responding to environmental stimuli. This is inferred due to its presence and importance in other sponge families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors is unknown in this family. Sponges generally lack complex nervous systems and specialized sensory organs, making photoreception less likely but not impossible.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aulocystidae"
+  ],
+  "generated_at": "2026-01-04T11:20:27.055857"
+}

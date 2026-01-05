@@ -1,0 +1,31 @@
+{
+  "family_name": "Sternopygidae",
+  "order_name": "Gymnotiformes",
+  "gbif_id": 7672,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes are relatively large, with a diameter equal to or greater than the distance between nares.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Possess an electric organ discharge (EOD) that occurs monophasically. They are tone-type.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sternopygidae",
+    "https://en.wikipedia.org/wiki/Archolaemus_blax"
+  ],
+  "generated_at": "2026-01-04T11:24:53.145074"
+}

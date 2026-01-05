@@ -1,0 +1,39 @@
+{
+  "family_name": "Julidae",
+  "order_name": "Julida",
+  "gbif_id": 4012,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Julidae are not mentioned in the provided context. Therefore, it is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes in general rely heavily on chemoreception for navigation, finding food, and mating. Given their characteristic mouthparts, Julidae likely possess specialized chemoreceptors, but specifics are not provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a terrestrial arthropod, Julidae almost certainly possess mechanoreceptors for detecting vibrations, touch, and proprioception. Specific adaptations within Julidae are not mentioned.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julidae"
+  ],
+  "generated_at": "2026-01-04T11:09:24.814174"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Pedicellasteridae",
+  "order_name": "Forcipulatida",
+  "gbif_id": 5536,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown in this family based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Common in starfish for food detection and possibly intraspecific communication. Inferred based on general understanding of echinoderm sensory biology, although not specifically mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Common in starfish for detecting water currents, substrate vibrations, and contact with other organisms. Inferred based on general understanding of echinoderm sensory biology, although not specifically mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pedicellasteridae"
+  ],
+  "generated_at": "2026-01-04T11:55:01.424206"
+}

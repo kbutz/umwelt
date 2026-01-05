@@ -1,0 +1,63 @@
+{
+  "family_name": "Cercopithecidae",
+  "order_name": "Primates",
+  "gbif_id": 9622,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Old World monkeys possess well-developed vision, likely including color vision given their diurnal activity and reliance on identifying food sources like fruits and leaves. Many exhibit coloration.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is likely well-developed for communication and predator detection in arboreal and terrestrial environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "While reduced compared to some other mammals, olfaction still plays a role, potentially in social signaling and food detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Tactile sense is important for social interactions, object manipulation, and navigation in complex environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste is likely used for food selection, especially given their omnivorous and folivorous diets.",
+      "inferred_from_species": [
+        "Pygathrix nemaeus",
+        "Trachypithecus obscurus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cercopithecidae",
+    "https://en.wikipedia.org/wiki/Nasalis_larvatus",
+    "https://en.wikipedia.org/wiki/Pygathrix_nemaeus",
+    "https://en.wikipedia.org/wiki/Trachypithecus_obscurus"
+  ],
+  "generated_at": "2026-01-04T10:37:00.995881"
+}

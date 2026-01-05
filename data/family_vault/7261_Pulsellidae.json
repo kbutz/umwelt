@@ -1,0 +1,39 @@
+{
+  "family_name": "Pulsellidae",
+  "order_name": "Gadilida",
+  "gbif_id": 7261,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Pulsellidae are largely unstudied. Given that they are burrowing molluscs, vision may be reduced or absent, but further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As molluscs, Pulsellidae likely rely on chemoreception to detect prey and navigate their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Burrowing molluscs often possess mechanoreceptors to detect vibrations and pressure changes in the sediment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pulsellidae"
+  ],
+  "generated_at": "2026-01-04T09:56:24.185793"
+}

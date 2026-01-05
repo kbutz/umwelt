@@ -1,0 +1,44 @@
+{
+  "family_name": "Lophotidae",
+  "order_name": "Lampriformes",
+  "gbif_id": 3713,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Large eyes suggest reliance on vision, potentially adapted for low-light conditions in deep waters. Found at depths ranging from 0-1000m.",
+      "inferred_from_species": [
+        "Lophotus guentheri"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely plays a role in prey detection and mate recognition, as in most fishes. Presence of ink sac suggests a role in predator avoidance, which would involve detection of released ink and potentially conspecific alarm signals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present, enabling detection of water movement and pressure changes for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lophotidae",
+    "https://en.wikipedia.org/wiki/Eumecichthys_fiski",
+    "https://en.wikipedia.org/wiki/Lophotus_capellei",
+    "https://en.wikipedia.org/wiki/Lophotus_guentheri"
+  ],
+  "generated_at": "2026-01-04T11:25:16.430059"
+}

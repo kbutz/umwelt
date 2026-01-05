@@ -1,0 +1,51 @@
+{
+  "family_name": "Anatidae",
+  "order_name": "Anseriformes",
+  "gbif_id": 2986,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Water birds generally possess good vision for navigation, foraging, and predator avoidance. Their cosmopolitan distribution suggests reliance on visual cues across diverse habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Auditory senses are important for communication, especially during breeding and migration. Likely used for detecting predators and conspecifics across distances.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "taste/smell": {
+      "presence": "unknown",
+      "notes": "Olfactory and gustatory capabilities are not well-documented within the provided texts. It's unknown to what extent these senses influence foraging or social behavior in Anatidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sensation is important for preening, social interactions, and sensing the environment, particularly when swimming or diving. They are adapted for swimming, floating, and diving.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anatidae",
+    "https://en.wikipedia.org/wiki/Heteronetta_atricapilla",
+    "https://en.wikipedia.org/wiki/Sarkidiornis_melanotos",
+    "https://en.wikipedia.org/wiki/Sarkidiornis_sylvicola"
+  ],
+  "generated_at": "2026-01-04T11:18:39.802802"
+}

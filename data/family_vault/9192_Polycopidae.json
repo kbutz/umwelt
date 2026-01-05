@@ -1,0 +1,39 @@
+{
+  "family_name": "Polycopidae",
+  "order_name": "Unknown",
+  "gbif_id": 9192,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available on vision in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information available on chemoreception in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "No information available on mechanoreception in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycopidae"
+  ],
+  "generated_at": "2026-01-04T10:11:39.125690"
+}

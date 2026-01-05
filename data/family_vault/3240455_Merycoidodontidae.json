@@ -1,0 +1,57 @@
+{
+  "family_name": "Merycoidodontidae",
+  "order_name": "Artiodactyla",
+  "gbif_id": 3240455,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely possessed functional vision as they inhabited woodland and grassland environments. Given their likely relation to camelids (inferred from dental features), they likely had dichromatic color vision. However, specific details on their visual acuity or color perception are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Presumed to have had functional hearing, necessary for predator detection and social communication. No specific information on frequency range is available, but it likely fell within the typical mammalian range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely relied on olfaction for foraging, social interaction, and predator avoidance. Given their lifestyle as woodland and grassland browsers, a functional sense of smell would have been crucial.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Presumed to have a typical mammalian tactile sense, important for navigation and social interaction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Likely possessed a sense of taste to evaluate food quality. As cud-chewing artiodactyls, taste would have been important in selecting appropriate vegetation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Merycoidodontidae"
+  ],
+  "generated_at": "2026-01-04T10:19:48.456388"
+}

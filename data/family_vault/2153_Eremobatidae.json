@@ -1,0 +1,39 @@
+{
+  "family_name": "Eremobatidae",
+  "order_name": "Solifugae",
+  "gbif_id": 2153,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Eremobatidae are currently unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanosensation": {
+      "presence": "unknown",
+      "notes": "Mechanosensory abilities are unknown from the provided context, but likely important for solifuges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is unknown from the provided context, but likely plays a role in prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eremobatidae"
+  ],
+  "generated_at": "2026-01-04T10:23:01.879115"
+}

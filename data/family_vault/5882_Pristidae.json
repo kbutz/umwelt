@@ -1,0 +1,49 @@
+{
+  "family_name": "Pristidae",
+  "order_name": "Rajiformes",
+  "gbif_id": 5882,
+  "sensory_modalities": {
+    "Electroreception": {
+      "presence": "common",
+      "notes": "As rays, sawfish likely possess electroreceptors for detecting prey and navigating. This is inferred based on the presence of electroreception in other rays.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "Mechanoreception": {
+      "presence": "common",
+      "notes": "Sawfish use their rostrum (saw) to detect and capture prey, suggesting a well-developed sense of touch and vibration detection in the saw. The saw is used to detect prey and for defense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 2000.0
+      }
+    },
+    "Vision": {
+      "presence": "common",
+      "notes": "Vision is likely present, though its relative importance compared to other senses is unknown. Found in coastal and estuarine waters, where vision could be useful.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "As fish, sawfish likely possess a sense of smell and taste for detecting prey and navigating. ",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sawfish",
+    "https://en.wikipedia.org/wiki/Anoxypristis_cuspidata"
+  ],
+  "generated_at": "2026-01-04T12:40:52.867393"
+}

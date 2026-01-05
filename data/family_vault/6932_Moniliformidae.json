@@ -1,0 +1,42 @@
+{
+  "family_name": "Moniliformidae",
+  "order_name": "Moniliformida",
+  "gbif_id": 6932,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As endoparasites, they likely rely on chemoreception to locate hosts and navigate within the host's intestinal environment. This is inferred as a general trait for parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors to detect changes in pressure or movement within the host's gut, aiding in maintaining their position and avoiding expulsion. This is inferred as a general trait for parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is highly unlikely in this endoparasitic family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moniliformidae",
+    "https://en.wikipedia.org/wiki/Moniliformis_acomyi",
+    "https://en.wikipedia.org/wiki/Moniliformis_gracilis",
+    "https://en.wikipedia.org/wiki/Moniliformis_monechinus"
+  ],
+  "generated_at": "2026-01-04T11:13:38.969131"
+}

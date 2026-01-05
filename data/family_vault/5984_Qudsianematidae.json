@@ -1,0 +1,48 @@
+{
+  "family_name": "Qudsianematidae",
+  "order_name": "Dorylaimida",
+  "gbif_id": 5984,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes rely heavily on chemoreception for finding food, mates, and avoiding harmful substances. This is likely a primary sensory modality for Qudsianematidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes possess mechanoreceptors for detecting touch, pressure, and movement in their environment. This is crucial for navigation and interacting with the substrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "hygroreception": {
+      "presence": "common",
+      "notes": "Nematodes are sensitive to changes in humidity, which helps them find suitable habitats and avoid desiccation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally absent in nematodes. Some species may have simple light-sensitive structures, but complex image-forming eyes are not present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Qudsianematidae"
+  ],
+  "generated_at": "2026-01-04T09:47:44.641645"
+}

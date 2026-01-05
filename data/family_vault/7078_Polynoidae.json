@@ -1,0 +1,39 @@
+{
+  "family_name": "Polynoidae",
+  "order_name": "Polychaeta",
+  "gbif_id": 7078,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision is provided in the context. Given they are active hunters, some visual capability is plausible, but cannot be asserted.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine worms, they likely possess mechanoreceptors for detecting water currents and substrate vibrations, crucial for hunting and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreceptors to detect prey and navigate their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polynoidae"
+  ],
+  "generated_at": "2026-01-04T11:16:17.415984"
+}

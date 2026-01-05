@@ -1,0 +1,39 @@
+{
+  "family_name": "Comesomatidae",
+  "order_name": "Araeolaimida",
+  "gbif_id": 6513,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally possess mechanoreceptors for sensing touch and movement in their environment. This is inferred due to their lifestyle in marine sediments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes are known to use chemoreception to locate food sources and mates. This is inferred due to their lifestyle in marine sediments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Comesomatidae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Comesomatidae"
+  ],
+  "generated_at": "2026-01-04T11:02:27.581656"
+}

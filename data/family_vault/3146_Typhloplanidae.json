@@ -1,0 +1,39 @@
+{
+  "family_name": "Typhloplanidae",
+  "order_name": "Rhabdocoela",
+  "gbif_id": 3146,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of vision are not specified in the provided text. Further research is needed to determine visual capabilities in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As predatory flatworms, Typhloplanidae likely use chemoreception to locate prey in freshwater, estuarine, marine and terrestrial habitats. However, this is inferred as the provided context does not specify this",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given that they are benthic or pelagic and actively move, it is likely that members of Typhloplanidae utilize mechanoreception to sense their environment. However, this is inferred as the provided context does not specify this",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Typhloplanidae"
+  ],
+  "generated_at": "2026-01-04T12:06:13.158670"
+}

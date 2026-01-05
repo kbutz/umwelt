@@ -1,0 +1,39 @@
+{
+  "family_name": "Philopteridae",
+  "order_name": "Psocodea",
+  "gbif_id": 2782,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information provided regarding vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred; Likely important for host finding and mate recognition in parasitic insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred; Important for maintaining position on the host and detecting feather movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philopteridae"
+  ],
+  "generated_at": "2026-01-04T12:16:14.692224"
+}

@@ -1,0 +1,63 @@
+{
+  "family_name": "Falconidae",
+  "order_name": "Falconiformes",
+  "gbif_id": 5240,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Diurnal birds of prey, implying well-developed vision for hunting. Likely includes good acuity and color vision.",
+      "inferred_from_species": [
+        "Caracara plancus",
+        "Ibycter americanus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Birds in general rely on hearing for communication and predator/prey detection. Likely a generalist hearing range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100.0,
+        "max": 12000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfaction in birds of prey is generally considered to be less developed than in other avian groups, but more data is needed for Falconidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste perception in birds is not well understood, though it is believed to be present to some degree. The diet of Falconidae members varies, but further data is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "General sense of touch, temperature, and pain. Important for interacting with the environment and manipulating prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Falconidae",
+    "https://en.wikipedia.org/wiki/Caracara_plancus",
+    "https://en.wikipedia.org/wiki/Caracara_lutosa",
+    "https://en.wikipedia.org/wiki/Ibycter_americanus"
+  ],
+  "generated_at": "2026-01-04T12:09:03.116338"
+}

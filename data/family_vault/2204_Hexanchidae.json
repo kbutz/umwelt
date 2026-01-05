@@ -1,0 +1,67 @@
+{
+  "family_name": "Hexanchidae",
+  "order_name": "Unknown",
+  "gbif_id": 2204,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes are present. The bigeye sixgill shark (Hexanchus nakamurai) has fluorescent green eyes while alive. Eye morphology likely varies among species.",
+      "inferred_from_species": [
+        "Hexanchus griseus",
+        "Hexanchus nakamurai",
+        "Heptranchias perlo"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000000.0,
+        "max": 790000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present in the form of lateral lines, common to most sharks. Used for detecting vibrations and pressure changes in the water.",
+      "inferred_from_species": [
+        "Hexanchus griseus",
+        "Hexanchus nakamurai",
+        "Heptranchias perlo"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Ampullae of Lorenzini are likely present, enabling electroreception. Common in sharks for detecting electrical fields produced by other organisms.",
+      "inferred_from_species": [
+        "Hexanchus griseus",
+        "Hexanchus nakamurai",
+        "Heptranchias perlo"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfactory senses are likely well-developed, as is typical for sharks, used for detecting prey and navigating. ",
+      "inferred_from_species": [
+        "Hexanchus griseus",
+        "Hexanchus nakamurai",
+        "Heptranchias perlo"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hexanchidae",
+    "https://en.wikipedia.org/wiki/Hexanchus_griseus",
+    "https://en.wikipedia.org/wiki/Hexanchus_nakamurai",
+    "https://en.wikipedia.org/wiki/Heptranchias_perlo"
+  ],
+  "generated_at": "2026-01-04T10:24:54.866592"
+}

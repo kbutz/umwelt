@@ -1,0 +1,41 @@
+{
+  "family_name": "Spirobolidae",
+  "order_name": "Spirobolida",
+  "gbif_id": 8259,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Spirobolidae are currently undocumented based on the provided context. Further research is needed to determine the presence and nature of vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Spirobolidae likely rely on chemoreception for navigation, food detection, and communication. Specific organs and ranges are unknown but common among terrestrial arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes in general possess mechanoreceptors for detecting touch, vibration, and substrate-borne signals. This allows them to sense their environment and potential threats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spirobolidae",
+    "https://en.wikipedia.org/wiki/Floridobolus_penneri",
+    "https://en.wikipedia.org/wiki/Chicobolus_spinigerus"
+  ],
+  "generated_at": "2026-01-04T11:56:06.074802"
+}

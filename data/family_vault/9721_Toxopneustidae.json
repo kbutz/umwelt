@@ -1,0 +1,42 @@
+{
+  "family_name": "Toxopneustidae",
+  "order_name": "Unknown",
+  "gbif_id": 9721,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Toxopneustidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea urchins generally possess chemoreceptors for detecting chemical cues in their environment. Inferred for Toxopneustidae, given their marine habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea urchins use mechanoreceptors to sense touch and vibrations. Inferred for Toxopneustidae, given their body structure and benthic lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Toxopneustidae",
+    "https://en.wikipedia.org/wiki/Tripneustes_esculentus",
+    "https://en.wikipedia.org/wiki/Tripneustes_ventricosus",
+    "https://en.wikipedia.org/wiki/Lytechinus_variegatus"
+  ],
+  "generated_at": "2026-01-04T12:04:17.513431"
+}

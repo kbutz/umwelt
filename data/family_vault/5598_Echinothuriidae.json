@@ -1,0 +1,39 @@
+{
+  "family_name": "Echinothuriidae",
+  "order_name": "Echinothurioida",
+  "gbif_id": 5598,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but detailed information is lacking. Sea urchins generally possess photoreceptors, but the specifics for this family are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presumed to be present for sensing the environment and potential threats, as is common in sea urchins. This would likely involve sensing water currents and substrate vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting food and other chemical cues in the environment, as is common in sea urchins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinothuriidae"
+  ],
+  "generated_at": "2026-01-04T10:42:53.314140"
+}

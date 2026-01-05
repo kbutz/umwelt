@@ -1,0 +1,39 @@
+{
+  "family_name": "Philomedidae",
+  "order_name": "Myodocopida",
+  "gbif_id": 9195,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Philomedidae are not explicitly mentioned in the provided context. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present in ostracods, but the context lacks specific details for Philomedidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely present in ostracods, but the context lacks specific details for Philomedidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philomedidae"
+  ],
+  "generated_at": "2026-01-04T11:45:47.954184"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Brisingidae",
+  "order_name": "Not Available",
+  "gbif_id": 6007,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information about vision in Brisingidae is not available from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As starfish living in the deep sea, chemoreception is likely crucial for finding food and navigating in the absence of light.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting water currents and vibrations, aiding in prey detection and orientation in the deep-sea environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brisingidae"
+  ],
+  "generated_at": "2026-01-04T10:57:52.390676"
+}

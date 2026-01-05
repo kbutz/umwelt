@@ -1,0 +1,44 @@
+{
+  "family_name": "Anoplocephalidae",
+  "order_name": "Cestoda",
+  "gbif_id": 5964,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Tapeworms rely heavily on chemoreception for locating nutrients and suitable attachment sites within the host intestine. This is inferred as a primary means of sensory input for this endoparasitic family.",
+      "inferred_from_species": [
+        "Moniezia expansa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present to detect peristalsis and physical changes within the host intestine. This is important for maintaining position and avoiding expulsion.",
+      "inferred_from_species": [
+        "Moniezia expansa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Given their endoparasitic lifestyle within the intestines of ruminants, photoreception is highly unlikely. If present, it would be vestigial and not a significant sensory modality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anoplocephalidae",
+    "https://en.wikipedia.org/wiki/Moniezia_expansa"
+  ],
+  "generated_at": "2026-01-04T10:29:44.830183"
+}

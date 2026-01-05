@@ -1,0 +1,39 @@
+{
+  "family_name": "Desmacellidae",
+  "order_name": "Desmacellida",
+  "gbif_id": 4905,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As demosponges, they likely possess some form of mechanoreception to detect water currents and particle movement, but specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting chemical cues in the water, aiding in feeding and other biological processes. Details of the specific receptors are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "No evidence suggests photoreception in this family. Demosponges in general lack specialized photoreceptor cells, although some indirect light sensitivity might be present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Desmacellidae"
+  ],
+  "generated_at": "2026-01-04T12:26:06.764048"
+}

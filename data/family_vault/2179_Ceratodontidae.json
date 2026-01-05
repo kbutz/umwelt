@@ -1,0 +1,57 @@
+{
+  "family_name": "Ceratodontidae",
+  "order_name": "Unknown",
+  "gbif_id": 2179,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Ceratodontidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities of Ceratodontidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities of Ceratodontidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities of Ceratodontidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "Gustatory capabilities of Ceratodontidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ceratodontidae"
+  ],
+  "generated_at": "2026-01-04T10:51:37.177928"
+}

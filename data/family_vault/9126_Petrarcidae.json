@@ -1,0 +1,39 @@
+{
+  "family_name": "Petrarcidae",
+  "order_name": "Laurida",
+  "gbif_id": 9126,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Petrarcidae are largely unknown from the provided data. Vision presence cannot be determined.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception presence is unknown. Crustaceans often rely on chemoreception but no data in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception presence is unknown, but likely present given they are crustaceans that must interact with their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Petrarcidae"
+  ],
+  "generated_at": "2026-01-04T11:43:01.331731"
+}

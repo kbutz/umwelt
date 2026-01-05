@@ -1,0 +1,39 @@
+{
+  "family_name": "Microcotylidae",
+  "order_name": "Polyopisthocotylea",
+  "gbif_id": 6400,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to parasitic lifestyle on fish, likely used for host detection and selection. General to parasitic flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence for orientation and attachment to the fish host. General to parasitic flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreceptors is unknown in this family. Many flatworms have simple eyespots, but it's unclear if Microcotylidae retain them.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Microcotylidae"
+  ],
+  "generated_at": "2026-01-04T12:27:55.795628"
+}

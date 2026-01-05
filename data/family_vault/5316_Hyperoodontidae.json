@@ -1,0 +1,66 @@
+{
+  "family_name": "Hyperoodontidae",
+  "order_name": "Cetacea",
+  "gbif_id": 5316,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely functional, although potentially adapted for low-light conditions given their deep-sea habitat. Observation closer to shore for some species (Ziphius cavirostris) suggests a reliance on sight for navigation or prey detection, but reduced dependence is possible at extreme depths.",
+      "inferred_from_species": [
+        "Ziphius cavirostris"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is crucial for echolocation and communication in aquatic environments. Likely sensitive to a wide range of underwater sounds.",
+      "inferred_from_species": [
+        "Ziphius cavirostris"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 200000
+      }
+    },
+    "echolocation": {
+      "presence": "common",
+      "notes": "Used for navigation and prey detection in deep-sea environments. Assumed due to their classification as toothed whales and deep diving behavior.",
+      "inferred_from_species": [
+        "Ziphius cavirostris"
+      ],
+      "frequency_range_hz": {
+        "min": 20000,
+        "max": 200000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Likely plays a role in social interactions and environmental awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The role of taste and olfaction in beaked whales is not well-understood. Given their aquatic lifestyle, olfaction may be reduced, while taste might play a role in prey selection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hyperoodontidae",
+    "https://en.wikipedia.org/wiki/Ziphius_cavirostris",
+    "https://en.wikipedia.org/wiki/Tasmacetus_shepherdi",
+    "https://en.wikipedia.org/wiki/Berardius_arnuxii"
+  ],
+  "generated_at": "2026-01-04T09:44:24.046522"
+}

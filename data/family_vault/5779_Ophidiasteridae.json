@@ -1,0 +1,39 @@
+{
+  "family_name": "Ophidiasteridae",
+  "order_name": "Unknown",
+  "gbif_id": 5779,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Ophidiasteridae are not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The use of chemoreception for sensing the environment, prey, or predators is unknown from this context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception through tube feet or other structures is likely, but not directly mentioned in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ophidiasteridae"
+  ],
+  "generated_at": "2026-01-04T10:41:24.967815"
+}

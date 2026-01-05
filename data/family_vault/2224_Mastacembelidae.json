@@ -1,0 +1,39 @@
+{
+  "family_name": "Mastacembelidae",
+  "order_name": "Synbranchiformes",
+  "gbif_id": 2224,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision presence and capabilities are not specified in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "They have a long nose appendage with two tubulated nostrils, indicating a likely reliance on olfaction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ray-finned fishes inhabiting soft-bottomed habitats, they likely utilize mechanoreception to detect vibrations and pressure changes in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mastacembelidae"
+  ],
+  "generated_at": "2026-01-04T10:56:01.696475"
+}

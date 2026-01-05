@@ -1,0 +1,39 @@
+{
+  "family_name": "Molpadiidae",
+  "order_name": "Unknown",
+  "gbif_id": 5621,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers, being burrowing marine invertebrates, likely rely on mechanoreception to detect vibrations and pressure changes in their environment. This is inferred given their lifestyle and the common presence of mechanoreceptors in other burrowing marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers possess tentacles that are used for feeding. Chemoreception is likely a crucial sense for detecting food sources in the sediment. This is inferred given their feeding strategy and the common presence of chemoreceptors in other marine invertebrates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    " photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Molpadiidae is currently unknown based on the provided context. Further research is needed to determine if they possess light-sensing capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Molpadiidae"
+  ],
+  "generated_at": "2026-01-04T12:16:40.669498"
+}

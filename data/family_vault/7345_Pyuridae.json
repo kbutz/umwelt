@@ -1,0 +1,39 @@
+{
+  "family_name": "Pyuridae",
+  "order_name": "Unknown",
+  "gbif_id": 7345,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Pyuridae are largely unstudied in the provided context. Vision presence or absence is not stated.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As tunicates, Pyuridae likely possess chemoreception for filter feeding and other basic functions. This is inferred based on general tunicate biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As tunicates, Pyuridae likely possess mechanoreception for basic environmental awareness. This is inferred based on general tunicate biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pyuridae"
+  ],
+  "generated_at": "2026-01-04T12:41:35.715504"
+}

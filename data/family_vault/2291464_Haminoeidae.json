@@ -1,0 +1,40 @@
+{
+  "family_name": "Haminoeidae",
+  "order_name": "Not available in context",
+  "gbif_id": 2291464,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but details are not specified in the context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as they are marine gastropods, but the specifics are unknown. Likely used for food detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present for balance and detecting water currents/substrate vibrations, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haminoeidae",
+    "https://en.wikipedia.org/wiki/Haminoea_hydatis"
+  ],
+  "generated_at": "2026-01-04T09:48:29.306561"
+}

@@ -1,0 +1,54 @@
+{
+  "family_name": "Oreosomatidae",
+  "order_name": "Unknown",
+  "gbif_id": 2216,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Oreosomatidae possess large eyes, indicating the importance of vision in their deep-sea habitat. This is further supported by the common name 'ox-eyed oreo'.",
+      "inferred_from_species": [
+        "Oreosoma atlanticum",
+        "Allocyttus folletti"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, oreos likely possess a lateral line system for detecting water movement and pressure changes, aiding in prey detection and predator avoidance. Living at depths of 400-1500m (Pseudocyttus maculatus) implies sensitivity to pressure.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreception for locating food in the deep sea. This includes both taste (contact chemoreception) and smell (distance chemoreception).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of electroreception is unknown in this family. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oreosomatidae",
+    "https://en.wikipedia.org/wiki/Oreosoma_atlanticum",
+    "https://en.wikipedia.org/wiki/Pseudocyttus_maculatus",
+    "https://en.wikipedia.org/wiki/Allocyttus_folletti"
+  ],
+  "generated_at": "2026-01-04T10:55:45.168056"
+}

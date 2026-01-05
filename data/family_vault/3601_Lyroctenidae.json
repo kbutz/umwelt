@@ -1,0 +1,39 @@
+{
+  "family_name": "Lyroctenidae",
+  "order_name": "Ctenophora",
+  "gbif_id": 3601,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As comb jellies, Lyroctenidae likely possess statocysts for balance and orientation, and sensory cilia for detecting water currents and prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting prey and environmental cues, although specific organs are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence or absence of photoreception is not mentioned in the available context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lyroctenidae"
+  ],
+  "generated_at": "2026-01-04T11:59:21.674114"
+}

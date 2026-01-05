@@ -1,5 +1,6 @@
 from pydantic import BaseModel, Field, field_validator, ValidationInfo
 from typing import List, Optional, Literal
+from datetime import datetime
 
 # --- Sub-Models ---
 
@@ -56,9 +57,27 @@ class SensoryModality(BaseModel):
 class DataQualityMeta(BaseModel):
     data_quality_flag: Literal['High_Evidence', 'Inferred_Only', 'Contested', 'Low_Data']
 
-# --- The Root Model ---
+# --- The Root Models ---
 
 class AnimalSensoryData(BaseModel):
     identity: Identity
     sensory_modalities: List[SensoryModality]
     meta: DataQualityMeta
+
+class TaxonFamily(BaseModel):
+    family_name: str            # e.g. "Delphinidae"
+    order_name: Optional[str] = None
+    class_name: Optional[str] = None
+    gbif_id: Optional[int] = None
+    representative_species: List[str] = Field(default_factory=list)
+
+class FamilySensoryProfile(BaseModel):
+    family_name: str
+    order_name: Optional[str] = None
+    gbif_id: Optional[int] = None
+    # sensory_modalities maps a modality name to its aggregated data
+    # Example: "hearing": {"presence": "common", "notes": "...", ...}
+    sensory_modalities: dict[str, dict]
+    confidence: Literal['LOW', 'MEDIUM', 'HIGH']
+    sources: List[str]
+    generated_at: datetime = Field(default_factory=datetime.now)

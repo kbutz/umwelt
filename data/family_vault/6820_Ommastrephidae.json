@@ -1,0 +1,42 @@
+{
+  "family_name": "Ommastrephidae",
+  "order_name": "Teuthida",
+  "gbif_id": 6820,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Squid in this family possess vision, though specific details like visual acuity or color perception are not available in the provided context. They inhabit depths up to 200m, suggesting adaptation to low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As jet-propelled animals that exhibit flight, Ommastrephidae likely rely on mechanoreception to sense water currents and maintain balance. The specifics of their sensory structures are not detailed, but the need for hydrodynamic awareness can be inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and role of chemoreception in Ommastrephidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ommastrephidae",
+    "https://en.wikipedia.org/wiki/Sthenoteuthis_pteropus",
+    "https://en.wikipedia.org/wiki/Sthenoteuthis_oualaniensis",
+    "https://en.wikipedia.org/wiki/Ornithoteuthis_antillarum"
+  ],
+  "generated_at": "2026-01-04T12:31:15.525618"
+}

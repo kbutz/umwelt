@@ -1,0 +1,66 @@
+{
+  "family_name": "Gomphotheriidae",
+  "order_name": "Proboscidea",
+  "gbif_id": 3240494,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes were positioned further back on the skull, similar to modern elephants.",
+      "inferred_from_species": [
+        "Palaeomastodon beadnelli"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Nasal cavity was retracted and surrounded by strong muscle attachment sites, indicating the presence of a trunk, suggesting a developed sense of smell.",
+      "inferred_from_species": [
+        "Palaeomastodon beadnelli"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile": {
+      "presence": "common",
+      "notes": "Likely used trunk and tongue extensively for tactile sensing.",
+      "inferred_from_species": [
+        "Palaeomastodon beadnelli"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Mandible symphysis morphology suggests a long tongue was present, indicating developed taste capabilities.",
+      "inferred_from_species": [
+        "Palaeomastodon beadnelli"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is likely present, similar to related proboscideans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gomphotheriidae",
+    "https://en.wikipedia.org/wiki/Palaeomastodon_beadnelli"
+  ],
+  "generated_at": "2026-01-04T10:37:19.820725"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Bellinuridae",
+  "order_name": "Xiphosura",
+  "gbif_id": 4666686,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision presence/absence is not specified in the provided context. As Xiphosura (horseshoe crabs) generally possess compound eyes, it is possible that Bellinuridae did too. However, the degree of development and function is unknown, especially considering their adaptation to freshwater environments during the Carboniferous period, where turbidity might have influenced visual reliance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arthropods, Belinuridae likely possessed mechanoreceptors for detecting touch, pressure, and vibration in their environment. These would have been crucial for navigation, prey detection, and predator avoidance, especially in potentially turbid freshwater habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception (taste and smell) is a common sensory modality in aquatic arthropods, and Belinuridae likely relied on it for detecting food sources and potentially for social communication within their freshwater environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bellinuridae"
+  ],
+  "generated_at": "2026-01-04T12:23:43.934097"
+}

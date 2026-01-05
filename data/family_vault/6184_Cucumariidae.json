@@ -1,0 +1,44 @@
+{
+  "family_name": "Cucumariidae",
+  "order_name": "Unknown",
+  "gbif_id": 6184,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers in this family are benthic and burrowing, suggesting a sensitivity to touch and vibration for navigation, burrowing, and predator avoidance. They likely detect mechanical stimuli in their environment using sensory receptors distributed across their body surface.",
+      "inferred_from_species": [
+        "Thyonella gemmata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As deposit and filter feeders, Cucumariidae likely rely on chemoreception to locate food sources and assess water quality. They have tentacles that are used to capture food particles, and these tentacles likely have chemosensory receptors.",
+      "inferred_from_species": [
+        "Thyonella gemmata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "The context does not provide information about photoreception. It is unknown if they possess eyespots or other light-sensitive structures. Given the shallow burrowing habits of some species, some light sensitivity is possible.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cucumariidae",
+    "https://en.wikipedia.org/wiki/Thyonella_gemmata"
+  ],
+  "generated_at": "2026-01-04T11:58:30.957905"
+}

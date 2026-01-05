@@ -1,0 +1,39 @@
+{
+  "family_name": "Lernaeopodidae",
+  "order_name": "Siphonostomatoida",
+  "gbif_id": 5669,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for host detection and mate finding. Males use antennae to cling to females, suggesting mechanosensory receptors on the antennae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for host detection, as they are parasitic copepods. May also play a role in mate finding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and importance of vision in this family are unknown based on the provided context. Given their parasitic lifestyle, vision may be reduced or absent in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000.0,
+        "max": 790000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lernaeopodidae"
+  ],
+  "generated_at": "2026-01-04T11:45:14.986627"
+}

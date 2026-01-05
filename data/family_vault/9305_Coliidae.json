@@ -1,0 +1,59 @@
+{
+  "family_name": "Coliidae",
+  "order_name": "Coliiformes",
+  "gbif_id": 9305,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Mousebirds have well-developed vision for foraging and social interactions. They have a red eye mask as exemplified by Urocolius indicus.",
+      "inferred_from_species": [
+        "Urocolius indicus"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Mousebirds communicate using calls, such as the 'tree-ree-ree' whistle of the Red-faced Mousebird. The call is regularly repeated.",
+      "inferred_from_species": [
+        "Urocolius indicus"
+      ],
+      "frequency_range_hz": {
+        "min": 1000,
+        "max": 8000
+      }
+    },
+    "taste/smell": {
+      "presence": "common",
+      "notes": "Mousebirds are frugivores, feeding on fruits, berries, and nectar, suggesting a reliance on taste to identify food sources.",
+      "inferred_from_species": [
+        "Urocolius indicus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "They engage in mutual preening and roost in groups, indicating a tactile sense used for social bonding and physical comfort.",
+      "inferred_from_species": [
+        "Urocolius indicus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coliidae",
+    "https://en.wikipedia.org/wiki/Urocolius_indicus",
+    "https://en.wikipedia.org/wiki/Urocolius_macrourus",
+    "https://en.wikipedia.org/wiki/Oligocolius_brevitarsus"
+  ],
+  "generated_at": "2026-01-04T10:16:55.326409"
+}

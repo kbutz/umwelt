@@ -1,0 +1,51 @@
+{
+  "family_name": "Mylodontidae",
+  "order_name": "Pilosa",
+  "gbif_id": 3239378,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision is provided in the context. As extinct ground sloths, their reliance on vision is uncertain.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No specific information about olfaction is provided in the context. As extinct animals, their olfactory capabilities are uncertain.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No specific information about hearing is provided in the context. As extinct animals, their hearing capabilities are uncertain.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Likely present as a basic sensory modality, inferred from extant relatives. The presence of osteoderms in some genera may have affected tactile sensitivity in localized areas.",
+      "inferred_from_species": [
+        "Choloepodidae",
+        "Bradypodidae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mylodontidae"
+  ],
+  "generated_at": "2026-01-04T12:01:25.125572"
+}

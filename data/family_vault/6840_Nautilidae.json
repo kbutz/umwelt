@@ -1,0 +1,49 @@
+{
+  "family_name": "Nautilidae",
+  "order_name": "Nautilida",
+  "gbif_id": 6840,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes are primitive, lacking a lens and functioning like a pinhole camera. Provides basic visual information.",
+      "inferred_from_species": [
+        "Nautilus pompilius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Possess rhinophores near the eyes that detect chemicals in the water. Used for olfaction and chemotaxis to find food.",
+      "inferred_from_species": [
+        "Nautilus pompilius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Cirri (tentacles) are used for grasping and likely provide tactile information. Ridges on tentacles provide grip.",
+      "inferred_from_species": [
+        "Nautilus macromphalus",
+        "Nautilus pompilius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nautilidae",
+    "https://en.wikipedia.org/wiki/Nautilus_belauensis",
+    "https://en.wikipedia.org/wiki/Nautilus_pompilius",
+    "https://en.wikipedia.org/wiki/Nautilus_macromphalus"
+  ],
+  "generated_at": "2026-01-04T09:49:34.415278"
+}

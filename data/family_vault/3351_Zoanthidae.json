@@ -1,0 +1,37 @@
+{
+  "family_name": "Zoanthidae",
+  "order_name": "Unknown",
+  "gbif_id": 3351,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, Zoanthidae likely possess basic mechanoreception for detecting water movement and physical contact. This is inferred from other cnidarians.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreceptors for detecting chemical cues in the water, crucial for feeding and potentially sensing the presence of other organisms. This is inferred from other cnidarians.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 100000
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Zoanthidae is unknown based on the provided context. Further research is needed to determine if they possess light-sensitive cells or structures.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [],
+  "generated_at": "2026-01-04T11:46:04.314306"
+}

@@ -1,0 +1,48 @@
+{
+  "family_name": "Isolaimiidae",
+  "order_name": "Isolaimida",
+  "gbif_id": 2609,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As nematodes, Isolaimiidae likely possess mechanoreceptors for sensing touch, pressure, and movement in their environment. This is a common feature in nematodes for navigation and feeding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes rely heavily on chemoreception to locate food sources, detect mates, and avoid unfavorable conditions. This is a fundamental sensory modality for their survival.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "thermoreception": {
+      "presence": "unknown",
+      "notes": "The presence and importance of thermoreception in Isolaimiidae is currently unknown, although it is present in some nematode species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.01
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Photoreception is uncommon in nematodes, particularly soil-dwelling species. It is unlikely to be a significant sensory modality in Isolaimiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isolaimiidae"
+  ],
+  "generated_at": "2026-01-04T13:00:17.281510"
+}

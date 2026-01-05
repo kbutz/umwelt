@@ -1,0 +1,48 @@
+{
+  "family_name": "Pampatheriidae",
+  "order_name": "Cingulata",
+  "gbif_id": 4832785,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision is provided. Given their relationship to armadillos, some visual capability is plausible, but the degree is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No specific information on olfaction is provided. As xenarthrans, they likely possessed a sense of smell, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No specific information on hearing is provided. Likely possessed some auditory capabilities, but no details are given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sensation": {
+      "presence": "unknown",
+      "notes": "No specific information on tactile sensation is available. Given their armadillo relatives, tactile sensation would likely be important, but it is not explicitly mentioned.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pampatheriidae"
+  ],
+  "generated_at": "2026-01-04T10:21:27.535382"
+}

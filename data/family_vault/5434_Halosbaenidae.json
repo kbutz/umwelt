@@ -1,0 +1,39 @@
+{
+  "family_name": "Halosbaenidae",
+  "order_name": "Thermosbaenacea",
+  "gbif_id": 5434,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Halosbaenidae are currently unknown, given the limited information available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, Halosbaenidae likely possess mechanoreceptors for detecting water currents, vibrations, and tactile stimuli. Inferred based on general crustacean biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for detecting food sources and mates in their aquatic environment. Inferred based on general crustacean biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Halosbaenidae"
+  ],
+  "generated_at": "2026-01-04T10:07:27.644995"
+}

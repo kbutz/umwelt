@@ -1,0 +1,43 @@
+{
+  "family_name": "Chaetostephanidae",
+  "order_name": "Priapulida",
+  "gbif_id": 6312,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As tube-dwelling worms, mechanoreception is likely important for detecting vibrations and disturbances in their environment. Inferred due to their lifestyle.",
+      "inferred_from_species": [
+        "Maccabeus"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for locating food sources and assessing water quality. Inferred based on general worm biology and niche.",
+      "inferred_from_species": [
+        "Maccabeus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence or absence of eyespots or more complex visual structures is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chaetostephanidae"
+  ],
+  "generated_at": "2026-01-04T12:52:36.536371"
+}

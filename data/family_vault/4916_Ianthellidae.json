@@ -1,0 +1,39 @@
+{
+  "family_name": "Ianthellidae",
+  "order_name": "Verongiida",
+  "gbif_id": 4916,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges are known to respond to chemical cues in their environment, likely used for feeding and possibly defense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges are sessile filter feeders, and are generally considered to have a limited capacity for mechanoreception to detect changes in water flow.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "It is unknown if Ianthellidae have light sensitivity. Some sponges do have light sensitive cells, but this is not a general trait for all sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ianthellidae"
+  ],
+  "generated_at": "2026-01-04T12:25:08.679752"
+}

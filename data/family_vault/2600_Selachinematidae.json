@@ -1,0 +1,39 @@
+{
+  "family_name": "Selachinematidae",
+  "order_name": "Desmodorida",
+  "gbif_id": 2600,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for finding food, mates, and avoiding harmful environments. As a family of nematodes, this is likely a primary sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception to sense touch, pressure, and vibrations in their environment. This is likely a crucial sense for navigating marine sediments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "It is unknown if this family possesses photoreceptors, but given that they live in marine sediments, it is possible they do not rely on vision",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Selachinematidae"
+  ],
+  "generated_at": "2026-01-04T12:57:06.306087"
+}

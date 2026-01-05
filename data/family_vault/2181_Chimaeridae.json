@@ -1,0 +1,51 @@
+{
+  "family_name": "Chimaeridae",
+  "order_name": "Unknown",
+  "gbif_id": 2181,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present, but likely adapted to deep-sea environments. No specific details on spectral sensitivity are provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present and important for detecting prey and navigating the environment. No details provided, inferred to be similar to other cartilaginous fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The presence of electroreception in Chimaeridae is unknown from the provided text, but plausible given they are related to sharks and rays. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for prey detection, as they are benthic predators. No details are given, but assumed to be present as in related species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chimaeridae",
+    "https://en.wikipedia.org/wiki/Chimaera_macrospina",
+    "https://en.wikipedia.org/wiki/Chimaera_phantasma",
+    "https://en.wikipedia.org/wiki/Chimaera_cubana"
+  ],
+  "generated_at": "2026-01-04T10:52:05.660418"
+}

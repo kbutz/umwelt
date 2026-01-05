@@ -1,0 +1,60 @@
+{
+  "family_name": "Momotidae",
+  "order_name": "Coraciiformes",
+  "gbif_id": 5255,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Momotids have colourful plumage, suggesting a reliance on visual communication and mate selection. They are woodland/forest birds in the Neotropics, implying visual adaptation for these environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As birds, motmots are expected to possess functional hearing for communication and detecting predators/prey. Further research is needed to determine the range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Birds possess a sense of taste, likely used in food selection, although the range of tastes they can perceive may be limited compared to other vertebrates. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "The extent to which motmots rely on smell is unknown. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Birds generally have tactile senses important for preening, feeding, and other behaviors. They have a relatively heavy bill, implying the bill is used for tactile investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Momotidae",
+    "https://en.wikipedia.org/wiki/Baryphthengus_ruficapillus",
+    "https://en.wikipedia.org/wiki/Baryphthengus_martii",
+    "https://en.wikipedia.org/wiki/Aspatha_gularis"
+  ],
+  "generated_at": "2026-01-04T11:49:28.518463"
+}

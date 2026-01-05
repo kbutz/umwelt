@@ -1,0 +1,39 @@
+{
+  "family_name": "Olindiidae",
+  "order_name": "Limnomedusae",
+  "gbif_id": 3251275,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Olindiidae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Hydrozoans in general possess mechanoreceptors. The presence of tentacles suggests a capability for tactile sensing and response to water movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is inferred due to the presence of polyps and medusae that must locate and capture prey. This requires the ability to detect chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olindiidae"
+  ],
+  "generated_at": "2026-01-04T11:46:37.116271"
+}

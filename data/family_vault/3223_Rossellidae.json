@@ -1,0 +1,39 @@
+{
+  "family_name": "Rossellidae",
+  "order_name": "Lyssacinosa",
+  "gbif_id": 3223,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for sensing water currents and vibrations, but specific mechanisms are unstudied in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting dissolved organic matter and other chemical cues in the deep-sea environment, essential for filter feeding. Specific mechanisms and sensitivity are unstudied.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Photoreception is unlikely in this deep-sea family. However, some deep sea sponges exhibit light sensitivity through unknown mechanisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rossellidae"
+  ],
+  "generated_at": "2026-01-04T11:20:01.660874"
+}

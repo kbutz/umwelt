@@ -1,0 +1,39 @@
+{
+  "family_name": "Hyocrinidae",
+  "order_name": "Hyocrinida",
+  "gbif_id": 3250080,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, as it is common in echinoderms for detecting water currents and disturbances, but specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting chemical cues in the water, important for feeding and potentially other behaviors, but specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Possible, but not confirmed. Many deep-sea organisms retain some light sensitivity. Data is currently unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hyocrinidae"
+  ],
+  "generated_at": "2026-01-04T12:58:10.522507"
+}

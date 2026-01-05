@@ -1,0 +1,39 @@
+{
+  "family_name": "Ogcocephalidae",
+  "order_name": "Lophiiformes",
+  "gbif_id": 4215,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Anglerfish family, found at varying depths. Vision likely plays a role, though potentially adapted for low-light conditions in deep-sea species. Needs further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their benthic lifestyle, mechanoreception is likely important for detecting prey and navigating the seafloor. Further research needed to determine the specific mechanisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception likely plays a role in locating prey in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ogcocephalidae"
+  ],
+  "generated_at": "2026-01-04T11:36:47.996471"
+}

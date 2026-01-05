@@ -1,0 +1,67 @@
+{
+  "family_name": "Mordaciidae",
+  "order_name": "Not specified in context",
+  "gbif_id": 6759550,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Eyes are small and located on top of the head. At least one species (M. praecox) appears to have the potential for dichromatic vision, despite adaptation to low-light environments.",
+      "inferred_from_species": [
+        "Mordacia mordax",
+        "Mordacia praecox"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lampreys have eel-like bodies which are sensitive to mechanical stimuli in the water. No lateral line is mentioned.",
+      "inferred_from_species": [
+        "Mordacia lapicida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "A single nostril is present on the top of their heads, suggesting a reliance on olfaction for sensing their environment and potentially for locating hosts (in parasitic species).",
+      "inferred_from_species": [
+        "Mordacia lapicida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No mention of electroreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "No specific information about taste/gustation is provided, but given their feeding habits, it's likely present to some degree.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mordaciidae",
+    "https://en.wikipedia.org/wiki/Mordacia_mordax",
+    "https://en.wikipedia.org/wiki/Mordacia_praecox",
+    "https://en.wikipedia.org/wiki/Mordacia_lapicida"
+  ],
+  "generated_at": "2026-01-04T10:25:41.646543"
+}

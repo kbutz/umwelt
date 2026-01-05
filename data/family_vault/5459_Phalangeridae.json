@@ -1,0 +1,61 @@
+{
+  "family_name": "Phalangeridae",
+  "order_name": "Diprotodontia",
+  "gbif_id": 5459,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for arboreal navigation and foraging, though primarily nocturnal. General coloration patterns described, such as light grey in Wyulda squamicaudata and black/white patterns in Spilocuscus species, suggest visual signaling potential.",
+      "inferred_from_species": [
+        "Wyulda squamicaudata",
+        "Spilocuscus papuensis",
+        "Spilocuscus kraemeri"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Important for nocturnal foraging and social interactions. General traits include a well-developed snout.",
+      "inferred_from_species": [
+        "Wyulda squamicaudata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Prehensile tail, as seen in Wyulda squamicaudata, with rasp-like scales for grasping branches suggests a significant tactile component for arboreal locomotion and feeding. Also inferred from descriptions of general traits.",
+      "inferred_from_species": [
+        "Wyulda squamicaudata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely important, as indicated by the presence of relatively short ears in Wyulda squamicaudata. Implies auditory processing for environment monitoring and communication.",
+      "inferred_from_species": [
+        "Wyulda squamicaudata"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phalangeridae",
+    "https://en.wikipedia.org/wiki/Wyulda_squamicaudata",
+    "https://en.wikipedia.org/wiki/Spilocuscus_papuensis",
+    "https://en.wikipedia.org/wiki/Spilocuscus_kraemeri"
+  ],
+  "generated_at": "2026-01-04T11:51:25.079303"
+}

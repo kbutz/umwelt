@@ -1,0 +1,39 @@
+{
+  "family_name": "Chromadoridae",
+  "order_name": "Chromadorida",
+  "gbif_id": 6514,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Nematodes are generally known to have mechanoreceptors, but specific details for Chromadoridae are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Nematodes are generally known to have chemoreceptors, but specific details for Chromadoridae are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Chromadoridae is unknown from the provided context. Many nematodes lack photoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chromadoridae"
+  ],
+  "generated_at": "2026-01-04T12:56:49.502244"
+}

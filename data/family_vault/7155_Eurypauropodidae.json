@@ -1,0 +1,39 @@
+{
+  "family_name": "Eurypauropodidae",
+  "order_name": "Tetramerocerata",
+  "gbif_id": 7155,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Eurypauropodidae are currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As pauropods, Eurypauropodidae likely rely on chemoreception for navigation, food detection, and communication, typical for soil-dwelling arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their arthropod nature and soil-dwelling habitat, mechanoreception is likely crucial for detecting substrate vibrations and physical contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eurypauropodidae"
+  ],
+  "generated_at": "2026-01-04T09:50:57.107109"
+}

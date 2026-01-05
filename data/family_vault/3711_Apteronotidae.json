@@ -1,0 +1,49 @@
+{
+  "family_name": "Apteronotidae",
+  "order_name": "Gymnotiformes",
+  "gbif_id": 3711,
+  "sensory_modalities": {
+    "electroreception": {
+      "presence": "common",
+      "notes": "Apteronotids are electric fish, using a high frequency tone-type (also called wave-type) electric organ discharge (EOD) to communicate and likely for electrolocation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "These nocturnal fish have small eyes. Given habitat in deep rivers, some species may have reduced reliance on vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating the environment, especially in benthic foraging species. Inferred based on general fish sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used in foraging and social interactions, as in most fish. Assumed based on general fish biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apteronotidae",
+    "https://en.wikipedia.org/wiki/Compsaraia_samueli"
+  ],
+  "generated_at": "2026-01-04T11:24:45.421947"
+}

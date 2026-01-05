@@ -1,0 +1,51 @@
+{
+  "family_name": "Stephanoberycidae",
+  "order_name": "Beryciformes",
+  "gbif_id": 2228,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Given the deep-sea habitat (1000-5000m), vision may be reduced or specialized for low-light conditions, but there is no direct information on this within the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey (crabs) and mates in the deep sea. Inferred as being crucial for prey detection in deep-sea environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present and important for detecting water currents and vibrations to locate prey and avoid predators in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No information available regarding electroreception in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephanoberycidae",
+    "https://en.wikipedia.org/wiki/Acanthochaenus_luetkenii",
+    "https://en.wikipedia.org/wiki/Malacosarcus_macrostoma",
+    "https://en.wikipedia.org/wiki/Stephanoberyx_monae"
+  ],
+  "generated_at": "2026-01-04T10:56:41.002727"
+}

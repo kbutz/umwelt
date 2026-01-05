@@ -1,0 +1,40 @@
+{
+  "family_name": "Suberitidae",
+  "order_name": "Suberitida",
+  "gbif_id": 8126,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Suberitidae likely possess a basic ability to detect water currents and physical disturbances via mechanoreceptors at the cellular level. This is crucial for filter feeding and other basic functions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect food particles and other chemical cues in the water. This is essential for triggering filter-feeding and other physiological responses.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown whether Suberitidae possess photoreceptors. While sponges generally lack complex nervous systems and eyes, some species may have light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suberitidae",
+    "https://en.wikipedia.org/wiki/Pseudospongosorites_suberitoides"
+  ],
+  "generated_at": "2026-01-04T12:17:41.436036"
+}

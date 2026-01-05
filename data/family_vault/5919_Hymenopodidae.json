@@ -1,0 +1,41 @@
+{
+  "family_name": "Hymenopodidae",
+  "order_name": "Mantodea",
+  "gbif_id": 5919,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for prey detection and camouflage, especially in flower mantises. Color vision may be present, facilitating flower mimicry.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Used for detecting prey movement and environmental awareness. Likely important for ambush predation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Role of chemoreception in prey detection or mate location is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hymenopodidae",
+    "https://en.wikipedia.org/wiki/Nemotha_metallica",
+    "https://en.wikipedia.org/wiki/Ceratocrania_macra"
+  ],
+  "generated_at": "2026-01-04T10:33:09.061993"
+}

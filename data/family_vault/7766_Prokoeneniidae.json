@@ -1,0 +1,40 @@
+{
+  "family_name": "Prokoeneniidae",
+  "order_name": "Palpigradi",
+  "gbif_id": 7766,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As microscorpions, they likely rely on tactile senses and substrate vibrations for navigation and prey detection. This is inferred from other small arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreceptors to locate prey and mates, as seen in many arthropods. This is inferred, based on the typical sensory ecology of small soil arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyes and visual capability is unknown from the context. Given their small size and habitat it is likely reduced or absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prokoeneniidae",
+    "https://en.wikipedia.org/wiki/Triadokoenenia_millotorum"
+  ],
+  "generated_at": "2026-01-04T10:02:52.717261"
+}

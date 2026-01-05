@@ -1,0 +1,39 @@
+{
+  "family_name": "Echiuridae",
+  "order_name": "Echiurida",
+  "gbif_id": 6199,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As burrowing worms in soft sediment, they likely have a well-developed sense of touch and substrate vibration detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Living in sediment implies a reliance on chemical cues for finding food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is unlikely in burrowing worms, but the presence of photoreceptors cannot be ruled out without further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echiuridae"
+  ],
+  "generated_at": "2026-01-04T12:30:00.258789"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Cytheruridae",
+  "order_name": "Podocopida",
+  "gbif_id": 5198,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not specified in the provided context. Further research is needed to determine if vision is present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As ostracods living in oceanic and euryhaline environments, chemoreception is likely important for food detection, mate recognition, and navigation. This is inferred, but common for aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their aquatic habitat, mechanoreception is likely used to detect water currents, vibrations, and substrate characteristics.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cytheruridae"
+  ],
+  "generated_at": "2026-01-04T11:47:29.980649"
+}

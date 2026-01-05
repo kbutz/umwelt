@@ -1,0 +1,40 @@
+{
+  "family_name": "Opecoelidae",
+  "order_name": "Trematoda",
+  "gbif_id": 6412,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As endoparasites of fish, Opecoelidae likely rely heavily on chemoreception to locate and identify hosts and navigate within the host's body. They likely use chemical cues to find specific locations within the fish gut.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for orientation and attachment within the host. They would likely need to be sensitive to the physical environment of the gut.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Opecoelidae is not mentioned in the provided context. Given their endoparasitic lifestyle, functional eyes are unlikely but cannot be ruled out without further evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opecoelidae",
+    "https://en.wikipedia.org/wiki/Pycnadena_lata"
+  ],
+  "generated_at": "2026-01-04T09:46:29.581941"
+}

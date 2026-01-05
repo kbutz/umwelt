@@ -1,0 +1,40 @@
+{
+  "family_name": "Scopalinidae",
+  "order_name": "Scopalinida",
+  "gbif_id": 6786740,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As demosponges, Scopalinidae likely possess mechanoreceptors for detecting water currents and physical stimuli. This is crucial for filter feeding and coordinating cellular activities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is essential for sponges to detect food particles and chemical cues in the water. This guides their filter-feeding behavior and potentially larval settlement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Scopalinidae is currently unknown. Sponges generally lack complex nervous systems, but some species may possess light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scopalinidae",
+    "https://en.wikipedia.org/wiki/Svenzea_zeai"
+  ],
+  "generated_at": "2026-01-04T12:24:51.513209"
+}

@@ -1,0 +1,51 @@
+{
+  "family_name": "Hypopomidae",
+  "order_name": "Gymnotiformes",
+  "gbif_id": 7670,
+  "sensory_modalities": {
+    "Electroreception": {
+      "presence": "common",
+      "notes": "As electric fish, Hypopomidae possess electroreception. This is a defining characteristic of Gymnotiformes, used for navigation, communication, and prey detection in often murky waters.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "Vision": {
+      "presence": "unknown",
+      "notes": "The extent and importance of vision within Hypopomidae is unknown from the provided context. Further research is needed to determine the role of vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "Mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present, as with most fish. Used for detecting water movement and pressure changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Likely present, as with most fish. Used for detecting chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hypopomidae",
+    "https://en.wikipedia.org/wiki/Microsternarchus_bilineatus",
+    "https://en.wikipedia.org/wiki/Stegostenopos_cryptogenes",
+    "https://en.wikipedia.org/wiki/Hypopygus_lepturus"
+  ],
+  "generated_at": "2026-01-04T11:25:04.570571"
+}

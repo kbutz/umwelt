@@ -1,0 +1,42 @@
+{
+  "family_name": "Phytoseiidae",
+  "order_name": "Unknown",
+  "gbif_id": 3511,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mites generally rely on mechanoreception to detect prey and navigate their environment. This is inferred due to their predatory behavior and general mite biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Mites use chemoreception to locate prey and potential mates. This is inferred due to their predatory behavior and general mite biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Phytoseiidae are not mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phytoseiidae",
+    "https://en.wikipedia.org/wiki/Paraamblyseius_multicircularis",
+    "https://en.wikipedia.org/wiki/Paraamblyseius_lunatus",
+    "https://en.wikipedia.org/wiki/Paraamblyseius_formosanus"
+  ],
+  "generated_at": "2026-01-04T11:19:09.238439"
+}

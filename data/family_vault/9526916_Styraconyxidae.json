@@ -1,0 +1,41 @@
+{
+  "family_name": "Styraconyxidae",
+  "order_name": "Unknown",
+  "gbif_id": 9526916,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Styraconyxidae",
+    "https://en.wikipedia.org/wiki/Raiarctus_colurus",
+    "https://en.wikipedia.org/wiki/Raiarctus_aureolatus"
+  ],
+  "generated_at": "2026-01-04T11:00:47.821896"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Nothobranchiidae",
+  "order_name": "Unknown",
+  "gbif_id": 7658,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely relies on vision for identifying food and mates, given their bright coloration and presence in clear to muddy water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Uses chemoreception to locate food and assess water quality in their muddy or brackish water habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Uses mechanoreception to detect water movement and pressure changes, important for navigating and detecting predators/prey in muddy environments. Lateral line system likely present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nothobranchiidae"
+  ],
+  "generated_at": "2026-01-04T10:00:26.461881"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Calliobothriidae",
+  "order_name": "Tetraphyllidea",
+  "gbif_id": 9534786,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Calliobothriidae are largely unknown. Given their parasitic lifestyle as cestodes (tapeworms), complex sensory systems are unlikely, but simple light detection may be present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for locating and adhering to hosts. As tapeworms, Calliobothriidae would rely on detecting chemical cues in the host environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely important for detecting physical contact with the host and maintaining attachment. Tapeworms need to maintain their position within the host's digestive system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Calliobothriidae"
+  ],
+  "generated_at": "2026-01-04T10:28:00.812141"
+}

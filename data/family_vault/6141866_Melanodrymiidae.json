@@ -1,0 +1,41 @@
+{
+  "family_name": "Melanodrymiidae",
+  "order_name": "Unknown",
+  "gbif_id": 6141866,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Melanodrymiidae is currently unknown based on provided context. As marine gastropods, they may or may not possess visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is common in marine gastropods for detecting food and mates. Likely present in Melanodrymiidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception for sensing touch, pressure, and gravity is likely present for navigation and interaction with the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melanodrymiidae",
+    "https://en.wikipedia.org/wiki/Leptogyra_inconspicua",
+    "https://en.wikipedia.org/wiki/Leptogyra_verrilli"
+  ],
+  "generated_at": "2026-01-04T12:59:18.928151"
+}

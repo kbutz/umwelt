@@ -1,0 +1,48 @@
+{
+  "family_name": "Rhadinorhynchidae",
+  "order_name": "Echinorhynchida",
+  "gbif_id": 3546,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms, Rhadinorhynchidae likely rely on chemoreception to locate hosts within the Indian Ocean.",
+      "inferred_from_species": [
+        "Cleaveius prashadi",
+        "Cleaveius circumspinifer"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for orientation and attachment within the host intestine.",
+      "inferred_from_species": [
+        "Cleaveius prashadi",
+        "Cleaveius circumspinifer"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "No evidence suggests the presence of eyes or other visual structures in Rhadinorhynchidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhadinorhynchidae",
+    "https://en.wikipedia.org/wiki/Serrasentoides_fistulariae",
+    "https://en.wikipedia.org/wiki/Cleaveius_prashadi",
+    "https://en.wikipedia.org/wiki/Cleaveius_circumspinifer"
+  ],
+  "generated_at": "2026-01-04T11:14:14.116878"
+}

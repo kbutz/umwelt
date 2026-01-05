@@ -1,0 +1,46 @@
+{
+  "family_name": "Tetraodontidae",
+  "order_name": "Tetraodontiformes",
+  "gbif_id": 2219,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present in most members, as they are active marine and freshwater fish. Torquigener albomaculosus uses vision to create complex geometric designs, suggesting visual acuity.",
+      "inferred_from_species": [
+        "Torquigener albomaculosus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Present, as they locate food and potentially detect toxins. The presence of papillae around the mouth of Torquigener squamicauda suggests a role in taste or chemoreception.",
+      "inferred_from_species": [
+        "Torquigener squamicauda"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-15,
+        "max": 1000000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Present, used for sensing water movement and potentially for balance and hearing. As fish, they likely possess a lateral line system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetraodontidae",
+    "https://en.wikipedia.org/wiki/Pelagocephalus_marki",
+    "https://en.wikipedia.org/wiki/Torquigener_gloerfelti",
+    "https://en.wikipedia.org/wiki/Torquigener_squamicauda"
+  ],
+  "generated_at": "2026-01-04T10:25:52.996997"
+}

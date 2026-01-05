@@ -1,0 +1,72 @@
+{
+  "family_name": "Cuculidae",
+  "order_name": "Cuculiformes",
+  "gbif_id": 9309,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Generally medium-sized, slender birds that live in trees or on the ground, suggesting well-developed visual acuity for navigation, foraging, and social interactions. Observation and brood parasitism likely rely on visual cues.",
+      "inferred_from_species": [
+        "Scythrops novaehollandiae",
+        "Crotophaga ani",
+        "Crotophaga major"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Birds in this family communicate vocally. Hearing is essential for communication, predator avoidance, and potentially for brood parasites to locate host nests.",
+      "inferred_from_species": [
+        "Scythrops novaehollandiae",
+        "Crotophaga ani",
+        "Crotophaga major"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities in Cuculidae are not explicitly mentioned in the provided context. While birds generally rely more on vision and audition, some olfactory sensitivity might exist, especially for foraging or kin recognition, but this requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste perception in Cuculidae is not detailed in the provided context. As insectivores and frugivores, they likely have taste receptors for detecting palatable food sources, but the extent and specificity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation is essential for preening, navigating the environment, and detecting prey. Temperature sensitivity is also important for thermoregulation.",
+      "inferred_from_species": [
+        "Scythrops novaehollandiae",
+        "Crotophaga ani",
+        "Crotophaga major"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cuculidae",
+    "https://en.wikipedia.org/wiki/Scythrops_novaehollandiae",
+    "https://en.wikipedia.org/wiki/Crotophaga_ani",
+    "https://en.wikipedia.org/wiki/Crotophaga_major"
+  ],
+  "generated_at": "2026-01-04T12:00:25.628478"
+}

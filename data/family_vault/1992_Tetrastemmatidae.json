@@ -1,0 +1,39 @@
+{
+  "family_name": "Tetrastemmatidae",
+  "order_name": "Monostilifera",
+  "gbif_id": 1992,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Tetrastemmatidae are largely unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Tetrastemmatidae are largely unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Tetrastemmatidae are largely unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetrastemmatidae"
+  ],
+  "generated_at": "2026-01-04T12:05:48.802720"
+}

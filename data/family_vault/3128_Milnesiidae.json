@@ -1,0 +1,45 @@
+{
+  "family_name": "Milnesiidae",
+  "order_name": "Apochela",
+  "gbif_id": 3128,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Milnesiidae are not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tardigrades in general are known to respond to physical stimuli. Given the cosmopolitan nature of Milnesium tardigradum, mechanoreception is likely important for sensing the environment.",
+      "inferred_from_species": [
+        "Milnesium tardigradum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for finding food and suitable habitats. The presence of unidentified osmolytes in Milnesium tardigradum suggests a sensitivity to chemical gradients.",
+      "inferred_from_species": [
+        "Milnesium tardigradum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Milnesiidae",
+    "https://en.wikipedia.org/wiki/Milnesium_tardigradum",
+    "https://en.wikipedia.org/wiki/Limmenius_porcellus"
+  ],
+  "generated_at": "2026-01-04T11:01:05.371773"
+}

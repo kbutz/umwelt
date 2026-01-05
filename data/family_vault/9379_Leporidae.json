@@ -1,0 +1,62 @@
+{
+  "family_name": "Leporidae",
+  "order_name": "Lagomorpha",
+  "gbif_id": 9379,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Leporidae have well-developed vision, crucial for predator detection. Riverine rabbits have a white to grey ring around each eye.",
+      "inferred_from_species": [
+        "Bunolagus monticularis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Elongated ears are a characteristic feature, suggesting well-developed hearing capabilities for detecting predators and conspecific communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 64,
+        "max": 45000
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is likely important for foraging, predator detection, and social interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation is important for navigation, burrowing (in some species), and social interactions. Short, furry tails provide tactile feedback.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Herbivorous diet suggests a developed sense of taste for identifying palatable and nutritious food sources.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leporidae",
+    "https://en.wikipedia.org/wiki/Bunolagus_monticularis",
+    "https://en.wikipedia.org/wiki/Nesolagus_timminsi",
+    "https://en.wikipedia.org/wiki/Nesolagus_netscheri"
+  ],
+  "generated_at": "2026-01-04T10:31:34.824601"
+}

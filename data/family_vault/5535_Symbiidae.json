@@ -1,0 +1,38 @@
+{
+  "family_name": "Symbiidae",
+  "order_name": "Unknown",
+  "gbif_id": 5535,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "inferred",
+      "notes": "Likely used for host detection and settlement on lobster mouthparts. As ectocommensals, they must be able to sense chemical cues from the lobster or its environment.",
+      "inferred_from_species": [
+        "Symbion pandora",
+        "Symbion americanus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-32,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "inferred",
+      "notes": "Potentially used to detect water currents or physical contact with the lobster's setae. Given their small size and sessile lifestyle, mechanoreception could be important for orientation and stability.",
+      "inferred_from_species": [
+        "Symbion pandora",
+        "Symbion americanus"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-32,
+        "max": 100000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Symbiidae",
+    "https://en.wikipedia.org/wiki/Symbion_pandora",
+    "https://en.wikipedia.org/wiki/Symbion_americanus"
+  ],
+  "generated_at": "2026-01-04T10:39:45.616844"
+}

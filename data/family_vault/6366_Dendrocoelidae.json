@@ -1,0 +1,50 @@
+{
+  "family_name": "Dendrocoelidae",
+  "order_name": "Tricladida",
+  "gbif_id": 6366,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As freshwater planarians, they likely possess simple eyespots for light detection, although the resolution is expected to be low. This inference is based on the general characteristics of planarians.",
+      "inferred_from_species": [
+        "Bdellocephala punctata",
+        "Dendrocoelum lacteum"
+      ],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely crucial for prey detection and navigation in freshwater environments. Inferred based on general flatworm sensory biology.",
+      "inferred_from_species": [
+        "Bdellocephala punctata",
+        "Dendrocoelum lacteum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for detecting water currents, substrate vibrations, and physical contact. Inferred from related species.",
+      "inferred_from_species": [
+        "Bdellocephala punctata",
+        "Dendrocoelum lacteum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dendrocoelidae",
+    "https://en.wikipedia.org/wiki/Bdellocephala_punctata",
+    "https://en.wikipedia.org/wiki/Dendrocoelum_lacteum"
+  ],
+  "generated_at": "2026-01-04T09:45:50.365463"
+}

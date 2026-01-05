@@ -1,0 +1,40 @@
+{
+  "family_name": "Synxenidae",
+  "order_name": "Polyxenida",
+  "gbif_id": 8245,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information on vision is available from the provided context. It is unknown whether Synxenidae possess eyes or other visual structures.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bristle millipedes, it can be inferred that Synxenidae possess mechanoreceptors, likely including tactile bristles (based on the general understanding of Polyxenida).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No specific information on chemoreception is available from the provided context. The presence of chemoreceptors is unknown but plausible, given they are common in arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synxenidae",
+    "https://en.wikipedia.org/wiki/Phryssonotus_hystrix"
+  ],
+  "generated_at": "2026-01-04T11:10:25.781234"
+}

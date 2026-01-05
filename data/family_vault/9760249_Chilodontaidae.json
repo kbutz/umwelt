@@ -1,0 +1,42 @@
+{
+  "family_name": "Chilodontaidae",
+  "order_name": "Vetigastropoda",
+  "gbif_id": 9760249,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, Chilodontaidae likely rely on chemoreception for detecting food and potential mates in their deepwater environment. This is inferred from the general sensory ecology of marine snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Marine gastropods use mechanoreception to sense their environment, including substrate vibrations and water currents. This would aid in navigation and predator avoidance. This is inferred from the general sensory ecology of marine snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision presence and capability in Chilodontaidae is unknown based on available context. Deepwater habitats suggest potentially reduced visual reliance compared to shallow-water species, though some light penetration is possible.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chilodontaidae",
+    "https://en.wikipedia.org/wiki/Mirachelus_corbis",
+    "https://en.wikipedia.org/wiki/Mirachelus_clinocnemus",
+    "https://en.wikipedia.org/wiki/Dentistyla_asperrima"
+  ],
+  "generated_at": "2026-01-04T12:50:24.858246"
+}

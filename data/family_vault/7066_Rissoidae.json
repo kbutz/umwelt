@@ -1,0 +1,40 @@
+{
+  "family_name": "Rissoidae",
+  "order_name": "Unknown",
+  "gbif_id": 7066,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Rissoidae are generally unknown from the provided data. Further research is needed to assess vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present but not explicitly stated in the provided data. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception (e.g., sensing vibrations or pressure) is a probable sense, but not explicitly stated. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rissoidae",
+    "https://en.wikipedia.org/wiki/Benthonella_tenella"
+  ],
+  "generated_at": "2026-01-04T12:12:42.498702"
+}

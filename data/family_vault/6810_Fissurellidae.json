@@ -1,0 +1,42 @@
+{
+  "family_name": "Fissurellidae",
+  "order_name": "Vetigastropoda",
+  "gbif_id": 6810,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly mentioned in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, keyhole limpets likely rely on chemoreception for finding food, mates, and suitable habitat. This is inferred based on the general biology of marine gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Limpets need to sense touch and pressure to adhere to surfaces and detect predators. This is inferred based on the general biology of marine gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fissurellidae",
+    "https://en.wikipedia.org/wiki/Cornisepta_festiva",
+    "https://en.wikipedia.org/wiki/Lucapina_philippiana",
+    "https://en.wikipedia.org/wiki/Lucapina_aegis"
+  ],
+  "generated_at": "2026-01-04T12:50:43.619316"
+}

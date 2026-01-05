@@ -1,0 +1,44 @@
+{
+  "family_name": "Pleurobrachiidae",
+  "order_name": "Cydippida",
+  "gbif_id": 3600,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Ctenophores possess statocysts for balance and orientation. Tentacles and tentilla are likely sensitive to touch and water currents, enabling prey capture.",
+      "inferred_from_species": [
+        "Hormiphora hormiphora"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for prey detection. The tentilla are described as having slightly yellowish colour, which suggest the presence of chemosensory receptors.",
+      "inferred_from_species": [
+        "Hormiphora hormiphora"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The absence of eyes is typical for Cydippida, making photoreception unconfirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pleurobrachiidae",
+    "https://en.wikipedia.org/wiki/Hormiphora_hormiphora"
+  ],
+  "generated_at": "2026-01-04T11:59:56.426022"
+}

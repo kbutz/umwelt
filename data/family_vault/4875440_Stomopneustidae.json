@@ -1,0 +1,40 @@
+{
+  "family_name": "Stomopneustidae",
+  "order_name": "Stomopneustoida",
+  "gbif_id": 4875440,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sea urchins generally possess light-sensitive cells across their body surface, but specific visual capabilities in Stomopneustidae are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water movement and physical contact, as in other sea urchins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting chemical cues in the water, as in other sea urchins, aiding in food detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stomopneustidae",
+    "https://en.wikipedia.org/wiki/Stomopneustes_variolaris"
+  ],
+  "generated_at": "2026-01-04T12:04:34.107251"
+}

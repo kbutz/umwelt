@@ -1,0 +1,39 @@
+{
+  "family_name": "Pseudostomidae",
+  "order_name": "Prolecithophora",
+  "gbif_id": 3133,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess no to three (normally two) pairs of pigment-cup eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Well-developed tactile senses.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Well-developed chemoreceptor senses.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pseudostomidae"
+  ],
+  "generated_at": "2026-01-04T09:46:13.813869"
+}

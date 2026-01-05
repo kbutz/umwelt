@@ -1,0 +1,51 @@
+{
+  "family_name": "Spirulidae",
+  "order_name": "Spirulida",
+  "gbif_id": 6830,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The extent of vision capabilities is unknown for this family. Being a deep-sea dweller, vision may be limited or adapted for low-light conditions. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "common",
+      "notes": "Presence of a light-emitting organ, also known as tail-light squid, indicating bioluminescence capabilities.",
+      "inferred_from_species": [
+        "Spirula spirula"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water movement and pressure changes, but the specific sensory structures are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting chemical cues in the environment, but the specific sensory structures are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spirulidae",
+    "https://en.wikipedia.org/wiki/Spirula_spirula"
+  ],
+  "generated_at": "2026-01-04T11:04:07.093406"
+}

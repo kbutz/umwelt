@@ -1,0 +1,53 @@
+{
+  "family_name": "Hydrobatidae",
+  "order_name": "Procellariiformes",
+  "gbif_id": 5249,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is likely the primary sense for locating prey on the surface of the ocean and for navigation. They are active during the day and night, suggesting good vision in varying light conditions. Breeding colonies are attended nocturnally, suggesting adaptations for low-light vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Procellariiformes are known for their well-developed sense of smell, likely used for locating prey and possibly navigating. While the provided text doesn't explicitly state this for Hydrobatidae, it is inferred given their placement within the order.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely used for communication within breeding colonies, especially given nocturnal activity. Hearing capabilities are also likely important for predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "light_attraction": {
+      "presence": "rare",
+      "notes": "At least one species, Garrodia nereis, is highly attracted to bright lights, especially in low visibility conditions. This could indicate a specialized visual sensitivity or a navigational quirk.",
+      "inferred_from_species": [
+        "Garrodia nereis"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hydrobatidae",
+    "https://en.wikipedia.org/wiki/Fregetta_tropica",
+    "https://en.wikipedia.org/wiki/Fregetta_grallaria",
+    "https://en.wikipedia.org/wiki/Garrodia_nereis"
+  ],
+  "generated_at": "2026-01-04T12:10:40.126996"
+}

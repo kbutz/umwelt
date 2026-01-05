@@ -1,0 +1,57 @@
+{
+  "family_name": "Sinamiidae",
+  "order_name": "Unknown",
+  "gbif_id": 8609306,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As ray-finned fish inhabiting freshwater environments, vision is likely a primary sense. No specific visual adaptations are mentioned, so we infer a typical fish visual system.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ray-finned fish, they likely possess a lateral line system for detecting water movement and pressure changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As freshwater fish, chemoreception (taste and smell) would be important for finding food and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception presence is unknown within this family, and can only be confirmed with further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 2000
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As ray-finned fish, hearing is likely present, even without any detailed context provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sinamiidae"
+  ],
+  "generated_at": "2026-01-04T09:51:42.312865"
+}

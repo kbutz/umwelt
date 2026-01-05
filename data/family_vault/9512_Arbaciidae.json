@@ -1,0 +1,41 @@
+{
+  "family_name": "Arbaciidae",
+  "order_name": "Arbacioida",
+  "gbif_id": 9512,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Arbaciidae are not detailed in the provided context. Further research is needed to determine visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities are not detailed in the provided context. Further research is needed to determine their chemical sensing abilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities are not detailed in the provided context. Further research is needed to determine their sensitivity to touch, vibration, and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arbaciidae",
+    "https://en.wikipedia.org/wiki/Arbacia_punctulata",
+    "https://en.wikipedia.org/wiki/Arbacia_lixula"
+  ],
+  "generated_at": "2026-01-04T11:55:28.544132"
+}

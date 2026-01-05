@@ -1,0 +1,66 @@
+{
+  "family_name": "Gaviidae",
+  "order_name": "Gaviiformes",
+  "gbif_id": 9312,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Loons rely on vision for hunting fish underwater and navigating their environment. Breeding adults of Gavia adamsii have a black head, white underparts and a chequered black-and-white mantle, suggesting visual signaling.",
+      "inferred_from_species": [
+        "Gavia pacifica",
+        "Gavia adamsii",
+        "Gavia stellata"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Loons communicate using vocalizations. The call of Gavia adamsii is described as an eerie wailing, lower-pitched than the common loon. This suggests a reliance on auditory communication.",
+      "inferred_from_species": [
+        "Gavia adamsii"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "taste/chemoreception": {
+      "presence": "unknown",
+      "notes": "No information available from context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "smell/olfaction": {
+      "presence": "unknown",
+      "notes": "No information available from context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch/mechanoreception": {
+      "presence": "common",
+      "notes": "Essential for sensing prey and the environment while swimming and diving. Birds generally have tactile receptors throughout their body.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaviidae",
+    "https://en.wikipedia.org/wiki/Gavia_pacifica",
+    "https://en.wikipedia.org/wiki/Gavia_adamsii",
+    "https://en.wikipedia.org/wiki/Gavia_stellata"
+  ],
+  "generated_at": "2026-01-04T12:10:18.611967"
+}

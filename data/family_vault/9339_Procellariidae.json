@@ -1,0 +1,65 @@
+{
+  "family_name": "Procellariidae",
+  "order_name": "Procellariiformes",
+  "gbif_id": 9339,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Generally good vision for spotting prey like fish, squid, and crustacea on the water's surface. Plumage color is generally dull, with blacks, whites, browns and greys.",
+      "inferred_from_species": [
+        "Fulmarus glacialoides",
+        "Fulmarus glacialis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Inferred presence due to belonging to Procellariiformes (tubenoses) which have nasal passages attached to the upper bill. Olfaction likely plays a role in foraging and locating prey at sea.",
+      "inferred_from_species": [
+        "Fulmarus glacialis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "No specific information about taste capabilities within the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "No specific information about hearing capabilities within the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "General tactile sense for interacting with the environment, mates, and offspring. Involved in preening and nest building.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Procellariidae",
+    "https://en.wikipedia.org/wiki/Fulmarus_glacialoides",
+    "https://en.wikipedia.org/wiki/Fulmarus_glacialis",
+    "https://en.wikipedia.org/wiki/Aphrodroma_brevirostris"
+  ],
+  "generated_at": "2026-01-04T12:10:28.847241"
+}

@@ -1,0 +1,41 @@
+{
+  "family_name": "Thamnocephalidae",
+  "order_name": "Anostraca",
+  "gbif_id": 7510,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Thamnocephalidae are not explicitly described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Thamnocephalidae are not explicitly described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Thamnocephalidae are not explicitly described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thamnocephalidae",
+    "https://en.wikipedia.org/wiki/Branchinella_basispina",
+    "https://en.wikipedia.org/wiki/Branchinella_simplex"
+  ],
+  "generated_at": "2026-01-04T09:59:13.185964"
+}

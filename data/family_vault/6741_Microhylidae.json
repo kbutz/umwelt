@@ -1,0 +1,61 @@
+{
+  "family_name": "Microhylidae",
+  "order_name": "Anura",
+  "gbif_id": 6741,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as they are not described as exclusively subterranean. Some species, like Phrynomantis microps, have bright coloration, suggesting visual signaling.",
+      "inferred_from_species": [
+        "Phrynomantis microps"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As frogs, they likely use auditory signals for communication, particularly during breeding. Dermatonotus muelleri is mentioned as an explosive breeder, which likely involves vocalizations.",
+      "inferred_from_species": [
+        "Dermatonotus muelleri"
+      ],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 10000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for prey detection and possibly social communication. Phrynomantis microps has peptide secretions, hinting at chemical signaling. Dermatonotus muelleri feeds on termites underground, so they must be able to find the termites via chemical cues.",
+      "inferred_from_species": [
+        "Phrynomantis microps",
+        "Dermatonotus muelleri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Essential for interacting with the environment, especially for subterranean species like Dermatonotus muelleri. Phrynomantis microps live within ant nests and termite mounds, so touch is likely important to know their position in the mounds.",
+      "inferred_from_species": [
+        "Dermatonotus muelleri",
+        "Phrynomantis microps"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Microhylidae",
+    "https://en.wikipedia.org/wiki/Dermatonotus_muelleri",
+    "https://en.wikipedia.org/wiki/Phrynomantis_microps",
+    "https://en.wikipedia.org/wiki/Phrynomantis_affinis"
+  ],
+  "generated_at": "2026-01-04T10:59:50.543208"
+}

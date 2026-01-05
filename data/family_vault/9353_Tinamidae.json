@@ -1,0 +1,60 @@
+{
+  "family_name": "Tinamidae",
+  "order_name": "Tinamiformes",
+  "gbif_id": 9353,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Tinamous are active during the day and have cryptic plumage, suggesting a reliance on vision for activities such as foraging and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "They communicate with each other by a variety of frequently given, characteristic calls, especially during the breeding season. They are heard more often than seen.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "As ground-dwelling birds, they likely rely on somatosensation for navigation and detecting changes in their environment. They dust-bathe and wash themselves in rain, indicating sensitivity to touch and temperature.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not mentioned in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste capabilities are not mentioned in the provided context. They are omnivorous, consuming a variety of plant and animal food, implying functional taste, but it is unknown how sensitive it is.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tinamidae",
+    "https://en.wikipedia.org/wiki/Taoniscus_nanus",
+    "https://en.wikipedia.org/wiki/Tinamotis_pentlandii",
+    "https://en.wikipedia.org/wiki/Tinamotis_ingoufi"
+  ],
+  "generated_at": "2026-01-04T10:18:41.323579"
+}

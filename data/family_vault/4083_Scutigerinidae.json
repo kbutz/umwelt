@@ -1,0 +1,40 @@
+{
+  "family_name": "Scutigerinidae",
+  "order_name": "Unknown",
+  "gbif_id": 4083,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception abilities are unknown based on the provided context, but are generally important for centipedes for prey detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is likely present, as it's a fundamental sense for detecting vibrations and touch, which are crucial for centipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scutigerinidae",
+    "https://en.wikipedia.org/wiki/Scutigerina_weberi"
+  ],
+  "generated_at": "2026-01-04T11:11:36.300938"
+}

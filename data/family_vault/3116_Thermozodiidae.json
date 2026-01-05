@@ -1,0 +1,42 @@
+{
+  "family_name": "Thermozodiidae",
+  "order_name": "Mesotardigrada",
+  "gbif_id": 3116,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information on vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "The presence of six claws of equal length at each foot suggests a reliance on mechanoreception for interaction with the environment. While not explicitly stated, it is a reasonable inference based on the described morphology.",
+      "inferred_from_species": [
+        "Thermozodium esakii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information on chemoreception is provided in the context. However, given its hot spring habitat, it's plausible they have chemoreceptors to detect chemical gradients, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thermozodiidae",
+    "https://en.wikipedia.org/wiki/Thermozodium_esakii"
+  ],
+  "generated_at": "2026-01-04T11:00:29.998366"
+}

@@ -1,0 +1,42 @@
+{
+  "family_name": "Liparidae",
+  "order_name": "Scorpaeniformes",
+  "gbif_id": 8627,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present in most species, though potentially reduced or absent in deep-sea or trench-dwelling species. Further research needed to determine the range of visual capabilities across the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system and inner ear for detecting water movement and pressure changes. Important for prey detection, predator avoidance, and spatial orientation in a variety of depths and habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfactory and gustatory senses for detecting chemical cues in the water. Important for locating food, identifying mates, and avoiding harmful substances. Assumed based on general fish biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liparidae",
+    "https://en.wikipedia.org/wiki/Lopholiparis_flerxi",
+    "https://en.wikipedia.org/wiki/Prognatholiparis_ptychomandibularis",
+    "https://en.wikipedia.org/wiki/Eknomoliparis_chirichignoae"
+  ],
+  "generated_at": "2026-01-04T10:05:23.569891"
+}

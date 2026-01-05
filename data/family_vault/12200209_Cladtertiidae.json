@@ -1,0 +1,44 @@
+{
+  "family_name": "Cladtertiidae",
+  "order_name": "Hoilungea",
+  "gbif_id": 12200209,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a placozoan, Cladtertia likely possesses mechanoreceptors for detecting physical contact and movement in its environment. This is inferred due to its simple body plan and reliance on substrate crawling.",
+      "inferred_from_species": [
+        "Cladtertia collaboinventa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for detecting food sources and navigating its environment. This is inferred due to its simple body plan and the need to find food in tropical waters.",
+      "inferred_from_species": [
+        "Cladtertia collaboinventa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "The presence or absence of light sensitivity is currently unknown in Cladtertiidae. No data on photoreceptors is available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cladtertiidae",
+    "https://en.wikipedia.org/wiki/Cladtertia_collaboinventa"
+  ],
+  "generated_at": "2026-01-04T13:03:37.402204"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Spirostreptidae",
+  "order_name": "Spirostreptida",
+  "gbif_id": 7157,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information is available from the provided text about vision in Spirostreptidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence based on the general biology of millipedes for navigation, food detection, and mate recognition. Specific data lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence based on the general biology of millipedes for sensing the environment and detecting substrate vibrations. Specific data lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spirostreptidae"
+  ],
+  "generated_at": "2026-01-04T10:43:40.003956"
+}

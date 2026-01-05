@@ -1,0 +1,45 @@
+{
+  "family_name": "Cimolichthyidae",
+  "order_name": "Aulopiformes",
+  "gbif_id": 4838682,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As a predatory marine fish, vision was likely important for hunting. General visual capabilities are inferred, but specific adaptations are unknown.",
+      "inferred_from_species": [
+        "Cimolichthys"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possessed a lateral line system for detecting water movement, common in fish.",
+      "inferred_from_species": [
+        "Cimolichthys"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste likely used for prey detection.",
+      "inferred_from_species": [
+        "Cimolichthys"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cimolichthys"
+  ],
+  "generated_at": "2026-01-04T11:40:14.130102"
+}

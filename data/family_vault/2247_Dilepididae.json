@@ -1,0 +1,39 @@
+{
+  "family_name": "Dilepididae",
+  "order_name": "Cyclophyllidea",
+  "gbif_id": 2247,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in flatworms, specifically Dilepididae, are poorly documented in the provided context. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present, as is typical for flatworms to detect hosts or food sources, but specific mechanisms are not detailed in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for general awareness of the environment and host interaction, but specific details are lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dilepididae"
+  ],
+  "generated_at": "2026-01-04T10:29:35.256677"
+}

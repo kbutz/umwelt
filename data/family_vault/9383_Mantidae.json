@@ -1,0 +1,41 @@
+{
+  "family_name": "Mantidae",
+  "order_name": "Mantodea",
+  "gbif_id": 9383,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely relies on vision for prey detection and navigation, typical for predatory insects. Exact capabilities unknown from provided text, but inferred as present.",
+      "inferred_from_species": [
+        "Mantis religiosa"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "Likely present for detecting air currents and substrate vibrations related to prey or predators. Exact capabilities unknown from provided text, but inferred as present in most insect families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting chemical cues related to prey or mates. Exact capabilities unknown from provided text, but inferred as present in most insect families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mantidae"
+  ],
+  "generated_at": "2026-01-04T10:32:59.025384"
+}

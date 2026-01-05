@@ -1,0 +1,42 @@
+{
+  "family_name": "Cranchiidae",
+  "order_name": "Oegopsida",
+  "gbif_id": 6826,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely plays a crucial role in hunting and predator avoidance, especially in surface waters where transparency provides camouflage. Given the varied depths inhabited (surface to over 2 km), visual adaptations likely differ across species and life stages. The presence of very large eyes in the Colossal Squid suggests good vision is maintained even at great depth.",
+      "inferred_from_species": [
+        "Cranchia scabra",
+        "Mesonychoteuthis hamiltoni"
+      ],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Squid generally possess statocysts for balance and orientation. Given the bathypelagic habitat of many Cranchiidae, mechanoreception is likely important for detecting water currents and pressure changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for prey detection and potentially intraspecific communication. The specific mechanisms and sensitivity are unknown but inferred based on general squid sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cranchiidae"
+  ],
+  "generated_at": "2026-01-04T12:30:54.907213"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Libellulidae",
+  "order_name": "Odonata",
+  "gbif_id": 5936,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Dragonflies are highly visual predators. Many members of this family are brightly colored or have banded wings, suggesting a role for visual communication and mate recognition. Their compound eyes provide wide-field motion detection critical for intercepting prey.",
+      "inferred_from_species": [
+        "Libellula angelina",
+        "Plathemis lydia",
+        "Celithemis spp.",
+        "Sympetrum spp.",
+        "Trithemis spp.",
+        "Zenithoptera spp.",
+        "Tramea spp.",
+        "Pantala spp."
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Dragonfly nymphs possess stout bodies. Likely they can detect water movement using mechanoreceptors to detect prey and avoid predators. Adults can detect air currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Libellulidae"
+  ],
+  "generated_at": "2026-01-04T10:33:36.466228"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Protomonotresidae",
+  "order_name": "Prolecithophora",
+  "gbif_id": 3134,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess no to three (normally two) pairs of pigment-cup eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Well-developed tactile senses.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Well-developed chemoreceptor senses.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prolecithophora"
+  ],
+  "generated_at": "2026-01-04T09:46:20.565219"
+}

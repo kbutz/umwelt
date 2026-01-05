@@ -1,0 +1,39 @@
+{
+  "family_name": "Gadilinidae",
+  "order_name": "Dentaliida",
+  "gbif_id": 3321,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Gadilinidae are largely unstudied. Vision presence or absence is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As mollusks, Gadilinidae likely rely on chemoreception to detect food and other environmental cues. This is inferred from other molluscan classes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Scaphopods, including Gadilinidae, likely possess mechanoreceptors for sensing their environment, burrowing and detecting prey. This is inferred from the lifestyles of similar mollusks.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gadilinidae"
+  ],
+  "generated_at": "2026-01-04T11:20:56.667872"
+}

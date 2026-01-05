@@ -1,0 +1,54 @@
+{
+  "family_name": "Syngnathidae",
+  "order_name": "Unknown",
+  "gbif_id": 5901,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, given reef habitat and general fish morphology. Specific visual capabilities (color vision, acuity) are unknown, but presumed functional for prey detection and navigation.",
+      "inferred_from_species": [
+        "Bhanotia pauciradiata",
+        "Bhanotia nuda",
+        "Bhanotia fasciolata"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Essential for detecting water movement, prey, and predators. Likely includes lateral line system.",
+      "inferred_from_species": [
+        "Bhanotia pauciradiata",
+        "Bhanotia nuda",
+        "Bhanotia fasciolata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for detecting food and possibly conspecifics. General sense found in fish.",
+      "inferred_from_species": [
+        "Bhanotia pauciradiata",
+        "Bhanotia nuda",
+        "Bhanotia fasciolata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syngnathidae",
+    "https://en.wikipedia.org/wiki/Bhanotia_pauciradiata",
+    "https://en.wikipedia.org/wiki/Bhanotia_nuda",
+    "https://en.wikipedia.org/wiki/Bhanotia_fasciolata"
+  ],
+  "generated_at": "2026-01-04T10:26:27.378089"
+}

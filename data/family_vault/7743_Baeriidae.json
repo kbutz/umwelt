@@ -1,0 +1,41 @@
+{
+  "family_name": "Baeriidae",
+  "order_name": "Unknown",
+  "gbif_id": 7743,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Baeriidae likely possess mechanoreceptors to sense water currents and physical disturbances in their environment. This is inferred from the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Baeriidae, rely on chemoreception to detect food particles and other chemical cues in the water. This is a fundamental aspect of their filter-feeding lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Baeriidae is currently unknown based on the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baeriidae",
+    "https://en.wikipedia.org/wiki/Eilhardia_schulzei",
+    "https://en.wikipedia.org/wiki/Lamontia_zona"
+  ],
+  "generated_at": "2026-01-04T10:02:03.173228"
+}

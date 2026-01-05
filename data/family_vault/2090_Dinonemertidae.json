@@ -1,0 +1,40 @@
+{
+  "family_name": "Dinonemertidae",
+  "order_name": "Polystilifera",
+  "gbif_id": 2090,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present due to the general nature of marine worms interacting with their environment, although not explicitly stated. Polystilifera generally rely on chemoreception for prey detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present due to the general nature of marine worms interacting with their environment, although not explicitly stated. Polystilifera generally rely on mechanoreception for detecting water currents and substrate vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dinonemertidae",
+    "https://en.wikipedia.org/wiki/Dinonemertes_arctica"
+  ],
+  "generated_at": "2026-01-04T12:05:41.161815"
+}

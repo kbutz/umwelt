@@ -1,0 +1,42 @@
+{
+  "family_name": "Chiropsalmidae",
+  "order_name": "Cubozoa",
+  "gbif_id": 3953,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Box jellyfish possess eyes, but the specific visual capabilities of Chiropsalmidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present in jellyfish for prey detection and other environmental sensing, but there is no direct evidence in the provided context about Chiropsalmidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception is generally expected in jellyfish for balance and orientation, but there is no specific information in the text for Chiropsalmidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chiropsalmidae",
+    "https://en.wikipedia.org/wiki/Chiropsalmus_quadrumanus",
+    "https://en.wikipedia.org/wiki/Chiropsalmus_alipes",
+    "https://en.wikipedia.org/wiki/Chiropsoides_buitendijki"
+  ],
+  "generated_at": "2026-01-04T11:08:20.371560"
+}

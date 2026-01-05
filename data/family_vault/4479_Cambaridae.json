@@ -1,0 +1,42 @@
+{
+  "family_name": "Cambaridae",
+  "order_name": "Decapoda",
+  "gbif_id": 4479,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Most Cambaridae species possess vision. However, some cave-dwelling species, like Orconectes inermis, exhibit troglomorphic adaptations, suggesting reduced or absent vision in those specific species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crayfish rely heavily on chemoreception for finding food and mates. They likely use antennae and other sensory structures to detect chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Crayfish use mechanoreceptors to detect vibrations and pressure changes in the water. This is important for predator avoidance and prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cambaridae",
+    "https://en.wikipedia.org/wiki/Orconectes_sheltae",
+    "https://en.wikipedia.org/wiki/Orconectes_australis",
+    "https://en.wikipedia.org/wiki/Orconectes_inermis"
+  ],
+  "generated_at": "2026-01-04T10:05:53.571556"
+}

@@ -1,0 +1,41 @@
+{
+  "family_name": "Pleuronectidae",
+  "order_name": "Pleuronectiformes (inferred)",
+  "gbif_id": 8611,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Righteye flounders possess vision, with both eyes typically located on the right side of their body as adults. Some species can have eyes on the left side. This adaptation allows them to lie flat on the seabed and still see.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As demersal fish living on the sea bottom, Pleuronectidae likely rely on mechanoreception to detect vibrations and pressure changes in the water, aiding in prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for locating food items such as polychaetes, crustaceans, other fishes, and cephalopods on the sea floor.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pleuronectidae",
+    "https://en.wikipedia.org/wiki/Nematops_macrochirus",
+    "https://en.wikipedia.org/wiki/Nematops_microstoma"
+  ],
+  "generated_at": "2026-01-04T10:04:44.964294"
+}

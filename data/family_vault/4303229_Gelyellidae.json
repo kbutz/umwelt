@@ -1,0 +1,47 @@
+{
+  "family_name": "Gelyellidae",
+  "order_name": "Gelyelloida",
+  "gbif_id": 4303229,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As copepods inhabiting groundwater, Gelyellidae likely rely on mechanoreception to detect water currents, substrate vibrations, and potential mates or food sources. This is inferred based on the general sensory biology of copepods and their habitat.",
+      "inferred_from_species": [
+        "Gelyella monardi",
+        "Gelyella droguei"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for locating food and mates in the dark groundwater environment. Copepods in general possess chemosensory capabilities, and it is reasonable to infer this for Gelyellidae.",
+      "inferred_from_species": [
+        "Gelyella monardi",
+        "Gelyella droguei"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Given that Gelyellidae inhabit groundwater and are very small, the presence or absence of functional vision is unknown. It is possible that they lack eyes or possess rudimentary light-sensing capabilities, but there is no direct evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gelyella",
+    "https://en.wikipedia.org/wiki/Gelyella_monardi",
+    "https://en.wikipedia.org/wiki/Gelyella_droguei"
+  ],
+  "generated_at": "2026-01-04T12:41:19.443851"
+}

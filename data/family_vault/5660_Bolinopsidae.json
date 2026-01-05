@@ -1,0 +1,42 @@
+{
+  "family_name": "Bolinopsidae",
+  "order_name": "Ctenophora",
+  "gbif_id": 5660,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Ctenophores, including Bolinopsidae, possess statocysts for balance and orientation, indicating mechanoreception.",
+      "inferred_from_species": [
+        "Bolinopsis vitrea"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Bolinopsidae is not explicitly stated in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of chemoreception in Bolinopsidae is not explicitly stated in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bolinopsidae",
+    "https://en.wikipedia.org/wiki/Bolinopsis_vitrea"
+  ],
+  "generated_at": "2026-01-04T11:59:30.462683"
+}

@@ -1,0 +1,40 @@
+{
+  "family_name": "Diphyllobothriidae",
+  "order_name": "Cestoda",
+  "gbif_id": 6460,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely relies on chemoreception for locating hosts and nutrients within the gut environment of vertebrates. This is inferred because tapeworms in general rely on chemical cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting movement within the host's gut and for attachment. This is inferred based on the general needs of gut parasites.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Photoreception is unlikely, but cannot be ruled out for larval stages in crustaceans or fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diphyllobothriidae",
+    "https://en.wikipedia.org/wiki/Ligula_intestinalis"
+  ],
+  "generated_at": "2026-01-04T12:21:46.692663"
+}

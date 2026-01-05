@@ -1,0 +1,40 @@
+{
+  "family_name": "Hirudinidae",
+  "order_name": "Arhynchobdellida",
+  "gbif_id": 3560,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Hirudinidae are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for prey detection and host location in leeches, but specific details are absent from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tactile senses are likely present for sensing vibrations and physical contact, crucial for finding hosts and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hirudinidae",
+    "https://en.wikipedia.org/wiki/Macrobdella_diplotertia"
+  ],
+  "generated_at": "2026-01-04T11:15:32.144923"
+}

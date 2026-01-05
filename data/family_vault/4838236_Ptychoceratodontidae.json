@@ -1,0 +1,48 @@
+{
+  "family_name": "Ptychoceratodontidae",
+  "order_name": "Unknown",
+  "gbif_id": 4838236,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of vision are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of mechanoreception are unknown based on the provided context. Given they are fish, it is likely they had a lateral line or similar system, but this is not stated in the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of chemoreception are unknown based on the provided context. Given they are fish, it is likely they had chemoreception, but this is not stated in the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities of electroreception are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ptychoceratodontidae"
+  ],
+  "generated_at": "2026-01-04T10:51:45.741257"
+}

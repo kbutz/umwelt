@@ -1,0 +1,39 @@
+{
+  "family_name": "Triaenophoridae",
+  "order_name": "Bothriocephalidea",
+  "gbif_id": 5955,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Triaenophoridae flatworms are largely undocumented in available resources. Presence or absence of vision is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Triaenophoridae likely rely on chemoreception for navigation and finding hosts, a common trait in parasitic flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present for sensing the environment and host cues, typical for flatworms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Triaenophoridae"
+  ],
+  "generated_at": "2026-01-04T12:19:56.763029"
+}

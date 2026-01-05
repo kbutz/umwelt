@@ -1,0 +1,69 @@
+{
+  "family_name": "Hemiscylliidae",
+  "order_name": "Orectolobiformes",
+  "gbif_id": 5883,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present and likely important for hunting in shallow waters. No specific data on spectral sensitivity available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for locating prey, as with most sharks. No specific data available, but inferred to be functional.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Lateral line system likely present and functional for detecting water movement and vibrations. Important for detecting prey and avoiding predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Ampullae of Lorenzini are present in sharks and used for detecting electrical fields produced by prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste present, likely used to assess palatability of food items encountered on the sea floor.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Bamboo sharks make popping and sucking noises when feeding, and clicking noises when handled. This suggests that they can both produce and detect sounds.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hemiscylliidae",
+    "https://en.wikipedia.org/wiki/Chiloscyllium_indicum",
+    "https://en.wikipedia.org/wiki/Chiloscyllium_arabicum",
+    "https://en.wikipedia.org/wiki/Chiloscyllium_hasseltii"
+  ],
+  "generated_at": "2026-01-04T10:24:43.485488"
+}

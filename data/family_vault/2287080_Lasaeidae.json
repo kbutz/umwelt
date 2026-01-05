@@ -1,0 +1,39 @@
+{
+  "family_name": "Lasaeidae",
+  "order_name": "Galeommatida",
+  "gbif_id": 2287080,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Lasaeidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact. This is essential for filter feeding, burrowing (if applicable), and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for detecting food particles, identifying suitable substrates, and potentially sensing the presence of mates or predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Lasaeidae is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lasaeidae"
+  ],
+  "generated_at": "2026-01-04T12:51:25.808369"
+}

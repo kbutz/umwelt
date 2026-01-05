@@ -1,0 +1,39 @@
+{
+  "family_name": "Schizopetalidae",
+  "order_name": "Callipodida",
+  "gbif_id": 7230,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Schizopetalidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Schizopetalidae likely possess chemoreceptors for detecting chemicals in their environment, important for foraging and communication. This is inferred from other millipede families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes rely on mechanoreceptors for sensing touch and vibration. This is crucial for navigating their environment and detecting predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Schizopetalidae"
+  ],
+  "generated_at": "2026-01-04T09:54:14.689949"
+}

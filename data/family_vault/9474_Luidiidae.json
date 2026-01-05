@@ -1,0 +1,40 @@
+{
+  "family_name": "Luidiidae",
+  "order_name": "Unknown",
+  "gbif_id": 9474,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Luidiidae are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities are unknown, though likely present to some degree in a marine invertebrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities are unknown, though likely present to some degree in a marine invertebrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luidiidae",
+    "https://en.wikipedia.org/wiki/Luidia_magellanica"
+  ],
+  "generated_at": "2026-01-04T10:40:29.802000"
+}

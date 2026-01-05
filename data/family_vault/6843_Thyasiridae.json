@@ -1,0 +1,39 @@
+{
+  "family_name": "Thyasiridae",
+  "order_name": "Lucinida",
+  "gbif_id": 6843,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Thyasiridae likely possess mechanoreceptors for detecting physical stimuli in their environment, important for burrowing and detecting predators or prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves generally rely on chemoreception to detect chemical cues in the water for feeding and recognizing suitable habitats. Likely used for symbiotic relationships with bacteria.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of photoreceptors in Thyasiridae are currently unknown based on the provided context. Some bivalves have simple eyes or light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thyasiridae"
+  ],
+  "generated_at": "2026-01-04T12:37:48.851182"
+}

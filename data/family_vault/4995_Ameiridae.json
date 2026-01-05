@@ -1,0 +1,39 @@
+{
+  "family_name": "Ameiridae",
+  "order_name": "Harpacticoida",
+  "gbif_id": 4995,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Crustaceans rely heavily on mechanoreception for detecting water currents, vibrations, and tactile information. Given their aquatic lifestyle and small size, this is likely a primary sense for Ameiridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is vital for crustaceans to locate food, mates, and assess water quality. Ameiridae likely utilizes chemoreceptors for these purposes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and importance of vision in Ameiridae are not explicitly stated. Given that they are crustaceans it is likely they have some ability to detect changes in light",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ameiridae"
+  ],
+  "generated_at": "2026-01-04T11:42:36.104192"
+}

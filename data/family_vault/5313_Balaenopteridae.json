@@ -1,0 +1,73 @@
+{
+  "family_name": "Balaenopteridae",
+  "order_name": "Cetacea",
+  "gbif_id": 5313,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, likely used for navigation and social interaction. Body has a paler underside to appear less conspicuous from below (countershading).",
+      "inferred_from_species": [
+        "Balaenoptera physalus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is well-developed for underwater communication and navigation. Fin whales communicate utilizing frequency-modulated sounds.",
+      "inferred_from_species": [
+        "Balaenoptera physalus"
+      ],
+      "frequency_range_hz": {
+        "min": 16.0,
+        "max": 625.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Likely important for social interactions and sensing the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste/chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and role of taste or chemoreception are unknown but likely used for food discrimination.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "smell/olfaction": {
+      "presence": "unknown",
+      "notes": "The presence and role of smell is unknown. It is difficult to study.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "echolocation": {
+      "presence": "unknown",
+      "notes": "Echolocation abilities are not mentioned in the provided texts, though hearing is well-developed, it is unknown if this family uses echolocation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balaenopteridae",
+    "https://en.wikipedia.org/wiki/Balaenoptera_borealis",
+    "https://en.wikipedia.org/wiki/Balaenoptera_edeni",
+    "https://en.wikipedia.org/wiki/Balaenoptera_physalus"
+  ],
+  "generated_at": "2026-01-04T09:44:35.576159"
+}

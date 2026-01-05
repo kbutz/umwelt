@@ -1,0 +1,39 @@
+{
+  "family_name": "Longidoridae",
+  "order_name": "Nematoda",
+  "gbif_id": 2590,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for finding hosts and navigating their environment. This is inferred to be present in Longidoridae for locating plant roots.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes use mechanoreception to sense touch, pressure, and vibrations in the soil. This is likely crucial for Longidoridae to detect roots and navigate the soil matrix.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 10000
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is generally absent in nematodes, especially root parasites, due to their subterranean lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longidoridae"
+  ],
+  "generated_at": "2026-01-04T09:47:51.707581"
+}

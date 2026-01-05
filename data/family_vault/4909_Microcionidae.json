@@ -1,0 +1,40 @@
+{
+  "family_name": "Microcionidae",
+  "order_name": "Unknown",
+  "gbif_id": 4909,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As demosponges, Microcionidae likely possess mechanosensory capabilities to respond to water flow and physical stimuli. This is inferred, as sponges generally lack a nervous system but exhibit cellular responses to touch and water currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Microcionidae likely use chemoreception to detect dissolved substances in the water, aiding in feeding and other physiological processes. This is a common feature in sponges for filtering water and responding to chemical cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "photosensitivity": {
+      "presence": "unknown",
+      "notes": "Photosensitivity is not directly mentioned, and its presence is currently unknown within the Microcionidae family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Microcionidae",
+    "https://en.wikipedia.org/wiki/Ophlitaspongia_papilla"
+  ],
+  "generated_at": "2026-01-04T10:08:02.700848"
+}

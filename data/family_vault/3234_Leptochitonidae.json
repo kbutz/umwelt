@@ -1,0 +1,39 @@
+{
+  "family_name": "Leptochitonidae",
+  "order_name": "Polyplacophora",
+  "gbif_id": 3234,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Leptochitonidae are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is a common sensory modality in marine molluscs, likely used for food detection and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present for sensing the environment and substrate contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leptochitonidae"
+  ],
+  "generated_at": "2026-01-04T12:15:51.074613"
+}

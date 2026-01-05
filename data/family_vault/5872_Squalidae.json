@@ -1,0 +1,51 @@
+{
+  "family_name": "Squalidae",
+  "order_name": "Squaliformes",
+  "gbif_id": 5872,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Dogfish sharks possess vision, though specific details of their visual acuity and spectral sensitivity are not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence through mention of 'slender, streamlined bodies' and hunting smaller fish, suggesting reliance on detecting water displacement. Also, 'rough skin' implies sensory function.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Implied through their carnivorous feeding habits and the ability to hunt prey like herring and mackerel.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The presence and specific capabilities of electroreception are not specified in the provided text. Further research is needed to determine if this sense is present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Squalidae",
+    "https://en.wikipedia.org/wiki/Cirrhigaleus_asper",
+    "https://en.wikipedia.org/wiki/Cirrhigaleus_barbifer",
+    "https://en.wikipedia.org/wiki/Cirrhigaleus_australis"
+  ],
+  "generated_at": "2026-01-04T10:53:24.716907"
+}

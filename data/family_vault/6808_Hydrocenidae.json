@@ -1,0 +1,40 @@
+{
+  "family_name": "Hydrocenidae",
+  "order_name": "Cycloneritimorpha",
+  "gbif_id": 6808,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As minute land snails, some level of vision is likely present, but the extent and capabilities are unknown. Further research is needed to determine visual acuity and spectral sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As terrestrial gastropods, chemoreception is likely used for food detection, navigation, and possibly mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception, including tactile senses and balance, is essential for movement and orientation in their terrestrial environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hydrocenidae",
+    "https://en.wikipedia.org/wiki/Georissa_purchasi"
+  ],
+  "generated_at": "2026-01-04T12:47:29.812327"
+}

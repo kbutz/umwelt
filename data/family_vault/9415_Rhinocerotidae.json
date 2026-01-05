@@ -1,0 +1,65 @@
+{
+  "family_name": "Rhinocerotidae",
+  "order_name": "Perissodactyla",
+  "gbif_id": 9415,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly detailed in the provided context. Further research is needed to determine visual acuity, color vision, and other aspects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are not explicitly detailed in the provided context. Further research is needed to determine hearing range and sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Rhinoceroses likely rely on olfaction for various purposes, including social communication and foraging. The Sumatran rhino is known to communicate through marking soil.",
+      "inferred_from_species": [
+        "Dicerorhinus sumatrensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Tactile sensation is important, especially around the mouth and feet. They can twist saplings into patterns, indicating tactile sensitivity.",
+      "inferred_from_species": [
+        "Dicerorhinus sumatrensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vocalization": {
+      "presence": "common",
+      "notes": "The Sumatran rhino is the most vocal rhino species, suggesting the importance of auditory communication within the family.",
+      "inferred_from_species": [
+        "Dicerorhinus sumatrensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhinocerotidae",
+    "https://en.wikipedia.org/wiki/Dicerorhinus_sumatrensis",
+    "https://en.wikipedia.org/wiki/Ceratotherium_simum"
+  ],
+  "generated_at": "2026-01-04T10:35:41.607802"
+}

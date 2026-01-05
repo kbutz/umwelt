@@ -1,0 +1,41 @@
+{
+  "family_name": "Buthidae",
+  "order_name": "Scorpiones",
+  "gbif_id": 5848,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Buthidae are not explicitly mentioned in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Scorpions generally rely on mechanoreception through sensory hairs and slit sensilla to detect vibrations and air currents. This is inferred due to the general sensory biology of scorpions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Scorpions use chemoreception for detecting prey and mates, both through contact chemoreceptors on their pedipalps and through olfactory cues. This is inferred due to the general sensory biology of scorpions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Buthidae",
+    "https://en.wikipedia.org/wiki/Mesobuthus_eupeus",
+    "https://en.wikipedia.org/wiki/Isometrus_maculatus"
+  ],
+  "generated_at": "2026-01-04T10:51:11.534714"
+}

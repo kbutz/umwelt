@@ -1,0 +1,53 @@
+{
+  "family_name": "Anhingidae",
+  "order_name": "Unknown",
+  "gbif_id": 2989,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely crucial for hunting underwater and spotting prey. No specific details provided, but inferred to be important for a visual predator.",
+      "inferred_from_species": [
+        "Anhinga anhinga",
+        "Anhinga rufa",
+        "Anhinga melanogaster"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for detecting fish and navigating underwater currents, inferred through their underwater hunting behavior.",
+      "inferred_from_species": [
+        "Anhinga anhinga",
+        "Anhinga rufa",
+        "Anhinga melanogaster"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000.0
+      }
+    },
+    "taste/chemoreception": {
+      "presence": "common",
+      "notes": "Present for food discrimination, as in most birds. No specific adaptations mentioned.",
+      "inferred_from_species": [
+        "Anhinga anhinga",
+        "Anhinga rufa",
+        "Anhinga melanogaster"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anhingidae",
+    "https://en.wikipedia.org/wiki/Anhinga_rufa",
+    "https://en.wikipedia.org/wiki/Anhinga_melanogaster",
+    "https://en.wikipedia.org/wiki/Anhinga_anhinga"
+  ],
+  "generated_at": "2026-01-04T12:11:37.142388"
+}

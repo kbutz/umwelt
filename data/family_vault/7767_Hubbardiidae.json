@@ -1,0 +1,50 @@
+{
+  "family_name": "Hubbardiidae",
+  "order_name": "Schizomida",
+  "gbif_id": 7767,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in this family is not provided in the given context. Given that they live in leaf litter (Anepsiozomus sobrinus) and caves (Stewartpeckius troglobius), vision may be reduced in some species.",
+      "inferred_from_species": [
+        "Anepsiozomus sobrinus",
+        "Stewartpeckius troglobius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As arachnids superficially resembling spiders, it is inferred they possess mechanoreceptors for detecting vibrations and touch, important for navigating their environment and detecting prey. This is inferred from their lifestyle in leaf litter and caves.",
+      "inferred_from_species": [
+        "Anepsiozomus sobrinus",
+        "Stewartpeckius troglobius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for prey detection and mate recognition. This is inferred as a common sensory modality for terrestrial arthropods, especially those living in dark or concealed environments.",
+      "inferred_from_species": [
+        "Anepsiozomus sobrinus",
+        "Stewartpeckius troglobius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hubbardiidae",
+    "https://en.wikipedia.org/wiki/Anepsiozomus_sobrinus",
+    "https://en.wikipedia.org/wiki/Stewartpeckius_troglobius"
+  ],
+  "generated_at": "2026-01-04T11:27:30.491716"
+}

@@ -1,0 +1,46 @@
+{
+  "family_name": "Nuculidae",
+  "order_name": "Nuculida",
+  "gbif_id": 6876,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Nuculidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and potential threats. This is inferred, as specific research isn't provided, but it is a common trait in bivalves.",
+      "inferred_from_species": [
+        "Nucula proxima",
+        "General Bivalves"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves, including nut clams, use chemoreceptors to detect chemical cues in the water for locating food, avoiding predators, and potentially for communication. The systematics of the family have been based mainly on their feces, further implying chemoreception is important to the family.",
+      "inferred_from_species": [
+        "Nucula proxima",
+        "General Bivalves"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Nuculidae is not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nuculidae",
+    "https://en.wikipedia.org/wiki/Nucula_proxima"
+  ],
+  "generated_at": "2026-01-04T12:24:28.782391"
+}

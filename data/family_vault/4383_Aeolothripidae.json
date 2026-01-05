@@ -1,0 +1,40 @@
+{
+  "family_name": "Aeolothripidae",
+  "order_name": "Thysanoptera",
+  "gbif_id": 4383,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Adults and larvae are usually found in flowers, suggesting visual capability for locating flowers and prey. The ant-mimicking behavior of Franklinothrips may also rely on visual cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Associated with flower location and host/prey detection, as many species feed on flowers and/or are predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting prey and navigating their environment. Pupation on the ground suggests sensitivity to substrate vibrations.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aeolothripidae",
+    "https://en.wikipedia.org/wiki/Erythrothrips_keeni"
+  ],
+  "generated_at": "2026-01-04T11:30:10.238181"
+}

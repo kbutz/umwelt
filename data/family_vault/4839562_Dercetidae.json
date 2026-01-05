@@ -1,0 +1,39 @@
+{
+  "family_name": "Dercetidae",
+  "order_name": "Enchodontiformes",
+  "gbif_id": 4839562,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As ray-finned fish, Dercetidae likely possessed vision, though specific adaptations are unknown. Presumed to be functional for marine environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possessed a lateral line system for detecting water displacement, common in ray-finned fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Presumed to have olfactory capabilities for detecting chemical cues in the marine environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dercetidae"
+  ],
+  "generated_at": "2026-01-04T09:53:07.255958"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Menoponidae",
+  "order_name": "Phthiraptera",
+  "gbif_id": 2783,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ectoparasites, Menoponidae likely rely on mechanoreception to detect movement and vibrations on the host bird's body. This would aid in maintaining their position and finding suitable feeding sites.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for host finding and mate recognition in Menoponidae. They likely detect chemical cues on the bird's skin and feathers.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-10,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The extent and importance of vision in Menoponidae is not clear from the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menoponidae"
+  ],
+  "generated_at": "2026-01-04T12:16:32.334462"
+}

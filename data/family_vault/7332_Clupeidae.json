@@ -1,0 +1,42 @@
+{
+  "family_name": "Clupeidae",
+  "order_name": "Clupeiformes",
+  "gbif_id": 7332,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess vision, inferred due to their active pursuit of planktonic prey.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system for detecting water movement, typical of ray-finned fishes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely possess chemoreception for detecting chemical cues in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 1000000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clupeidae",
+    "https://en.wikipedia.org/wiki/Sardinella_fimbriata",
+    "https://en.wikipedia.org/wiki/Dayella_malabarica",
+    "https://en.wikipedia.org/wiki/Clupanodon_thrissa"
+  ],
+  "generated_at": "2026-01-04T09:57:03.132245"
+}

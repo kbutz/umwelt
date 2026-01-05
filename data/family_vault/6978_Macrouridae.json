@@ -1,0 +1,57 @@
+{
+  "family_name": "Macrouridae",
+  "order_name": "Gadiformes",
+  "gbif_id": 6978,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Large eyes suggest vision is important, although its specific role in deep-sea environments is unknown. Correlated with large eyes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "lateral_line": {
+      "presence": "common",
+      "notes": "Well-developed lateral line system, typical of deep-sea fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Numerous chemoreceptors located on the head and lips, and chemosensory barbels underneath the chin.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Benthic species possess swim bladders with muscles that are thought to produce sound via strumming. Possibly used in courtship and mate location.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 2000.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "rare",
+      "notes": "Light-producing organs (photophores) are present in some species. Located in the mid-ventral region.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430.0,
+        "max": 490.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macrouridae"
+  ],
+  "generated_at": "2026-01-04T10:01:01.551220"
+}

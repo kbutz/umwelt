@@ -1,0 +1,62 @@
+{
+  "family_name": "Cynocephalidae",
+  "order_name": "Dermoptera",
+  "gbif_id": 9370,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As arboreal and nocturnal animals, vision is likely important for navigation and foraging in low-light conditions. Further specifics of visual acuity and color vision are unknown from this data.",
+      "inferred_from_species": [
+        "Galeopterus variegatus",
+        "Cynocephalus volans"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely important for detecting predators and conspecifics in an arboreal environment. Specifics of frequency range are unknown.",
+      "inferred_from_species": [
+        "Galeopterus variegatus",
+        "Cynocephalus volans"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction likely plays a role in foraging and social interactions.",
+      "inferred_from_species": [
+        "Galeopterus variegatus",
+        "Cynocephalus volans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile senses are likely crucial for arboreal locomotion and manipulation of food items.",
+      "inferred_from_species": [
+        "Galeopterus variegatus",
+        "Cynocephalus volans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cynocephalidae",
+    "https://en.wikipedia.org/wiki/Galeopterus_variegatus",
+    "https://en.wikipedia.org/wiki/Cynocephalus_volans"
+  ],
+  "generated_at": "2026-01-04T10:22:19.988698"
+}

@@ -1,0 +1,48 @@
+{
+  "family_name": "Sagittidae",
+  "order_name": "Aphragmophora",
+  "gbif_id": 6207,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Sagittidae is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Information on chemoreception in Sagittidae is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Information on mechanoreception in Sagittidae is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Information on electroreception in Sagittidae is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sagittidae"
+  ],
+  "generated_at": "2026-01-04T12:25:42.139990"
+}

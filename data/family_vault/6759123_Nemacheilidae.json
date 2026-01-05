@@ -1,0 +1,53 @@
+{
+  "family_name": "Nemacheilidae",
+  "order_name": "Cypriniformes",
+  "gbif_id": 6759123,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, as they inhabit stream environments and are not noted to be blind. Inference based on habitat and lack of contradictory data.",
+      "inferred_from_species": [
+        "Oxynoemacheilus bureschi",
+        "Oxynoemacheilus pindus",
+        "Oxynoemacheilus theophilii"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 770000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Essential for detecting water currents, prey, and predators in stream environments. Stone loaches inhabit fast-flowing waters, suggesting a reliance on mechanosensory systems.",
+      "inferred_from_species": [
+        "Oxynoemacheilus bureschi",
+        "Oxynoemacheilus pindus",
+        "Oxynoemacheilus theophilii"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Used for finding food (benthic invertebrates) and potentially for social communication in their stream habitats.",
+      "inferred_from_species": [
+        "Oxynoemacheilus bureschi",
+        "Oxynoemacheilus theophilii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nemacheilidae",
+    "https://en.wikipedia.org/wiki/Oxynoemacheilus_bureschi",
+    "https://en.wikipedia.org/wiki/Oxynoemacheilus_pindus",
+    "https://en.wikipedia.org/wiki/Oxynoemacheilus_theophilii"
+  ],
+  "generated_at": "2026-01-04T11:21:24.968899"
+}

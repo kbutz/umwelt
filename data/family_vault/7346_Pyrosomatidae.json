@@ -1,0 +1,49 @@
+{
+  "family_name": "Pyrosomatidae",
+  "order_name": "Tunicata",
+  "gbif_id": 7346,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No data available on vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as colonial tunicates in the pelagic environment are likely to use chemoreception for feeding and orientation. This is inferred based on similar pelagic tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as colonial tunicates in the pelagic environment are likely to use mechanoreception for orientation and movement. This is inferred based on similar pelagic tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "common",
+      "notes": "Pyrosomes exhibit bioluminescence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pyrosomatidae",
+    "https://en.wikipedia.org/wiki/Pyrosomella_verticillata"
+  ],
+  "generated_at": "2026-01-04T09:57:50.644268"
+}

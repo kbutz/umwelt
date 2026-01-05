@@ -1,0 +1,39 @@
+{
+  "family_name": "Monstrillidae",
+  "order_name": "Monstrilloida",
+  "gbif_id": 9127,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information regarding vision in Monstrillidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Information regarding chemoreception in Monstrillidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Information regarding mechanoreception in Monstrillidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monstrillidae"
+  ],
+  "generated_at": "2026-01-04T10:10:36.400811"
+}

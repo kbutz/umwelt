@@ -1,0 +1,50 @@
+{
+  "family_name": "Potamotrygonidae",
+  "order_name": "Myliobatiformes",
+  "gbif_id": 2191,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as they are not described as lacking vision in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Cartilaginous fishes related to sharks, so inferred to have electroreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "General sense of touch and pressure, inferred as present due to inhabiting freshwater environments and needing to detect prey and navigate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "General sense of taste and smell, important for finding food in freshwater environments. Inferred to be present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Potamotrygonidae",
+    "https://en.wikipedia.org/wiki/Paratrygon_aiereba",
+    "https://en.wikipedia.org/wiki/Potamotrygon_henlei"
+  ],
+  "generated_at": "2026-01-04T12:27:32.637959"
+}

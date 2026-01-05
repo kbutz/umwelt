@@ -1,0 +1,39 @@
+{
+  "family_name": "Parajulidae",
+  "order_name": "Julida",
+  "gbif_id": 8570,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Parajulidae likely rely on mechanoreceptors for detecting vibrations and touch, important for navigation and predator avoidance. This is inferred from the general biology of millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Millipedes in general, including Parajulidae, use chemoreceptors to navigate their environment, find food (detritus), and locate mates. This is inferred from general millipede biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on the given context, but generally millipedes have simple eyes (ocelli) that are likely used for light/dark detection rather than detailed vision. Prevalence within Parajulidae is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Parajulidae"
+  ],
+  "generated_at": "2026-01-04T11:09:33.349176"
+}

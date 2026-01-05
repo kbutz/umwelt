@@ -1,0 +1,44 @@
+{
+  "family_name": "Bentheuphausiidae",
+  "order_name": "Unknown",
+  "gbif_id": 2074,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not described in the provided context. Given they are krill and live in the deep sea, it's possible vision is reduced or absent, but without more information, it remains unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As krill, they likely possess mechanoreceptors for detecting water currents and vibrations, important for prey detection, predator avoidance, and schooling behavior. Inferred from general krill biology, even though not explicitly stated for this family.",
+      "inferred_from_species": [
+        "Bentheuphausia amblyops"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for finding food and mates in the deep sea environment. Inferred from general crustacean and krill biology, even though not explicitly stated for this family.",
+      "inferred_from_species": [
+        "Bentheuphausia amblyops"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bentheuphausiidae",
+    "https://en.wikipedia.org/wiki/Bentheuphausia_amblyops"
+  ],
+  "generated_at": "2026-01-04T10:50:28.161487"
+}

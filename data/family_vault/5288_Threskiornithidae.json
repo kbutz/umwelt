@@ -1,0 +1,39 @@
+{
+  "family_name": "Threskiornithidae",
+  "order_name": "Unknown",
+  "gbif_id": 5288,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Large wading birds, suggesting good visual acuity for foraging and predator avoidance.",
+      "inferred_from_species": [
+        "Threskiornis aethiopicus",
+        "Threskiornis molucca",
+        "Threskiornis spinicollis"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Use of long, downcurved bill for probing in mud and water suggests well-developed tactile receptors in the bill.",
+      "inferred_from_species": [
+        "Threskiornis molucca"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Threskiornithidae",
+    "https://en.wikipedia.org/wiki/Threskiornis_aethiopicus",
+    "https://en.wikipedia.org/wiki/Threskiornis_molucca",
+    "https://en.wikipedia.org/wiki/Threskiornis_spinicollis"
+  ],
+  "generated_at": "2026-01-04T12:07:50.437566"
+}

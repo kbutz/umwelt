@@ -1,0 +1,43 @@
+{
+  "family_name": "Lingulidae",
+  "order_name": "Lingulata",
+  "gbif_id": 5230,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to burrowing behavior and detection of water flow. Likely used for sensing the environment and presence of detritus.",
+      "inferred_from_species": [
+        "Lingula"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence for detecting and filtering detritus from the water. Necessary for feeding.",
+      "inferred_from_species": [
+        "Lingula"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "No information available from the provided context. The presence or absence of photoreceptors is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lingulidae"
+  ],
+  "generated_at": "2026-01-04T11:47:53.860120"
+}

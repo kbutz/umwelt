@@ -1,0 +1,39 @@
+{
+  "family_name": "Ophiacanthidae",
+  "order_name": "Unknown",
+  "gbif_id": 3222,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Brittle stars, as Echinoderms, likely possess a distributed sensory system for detecting mechanical stimuli in their environment. This would be crucial for navigation, feeding, and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Brittle stars are thought to use chemoreception to locate food and detect predators. The exact mechanisms and receptors are not well-defined at the family level, but it's a common sensory modality in related brittle star families.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of photoreception in Ophiacanthidae is unknown. Some brittle stars have light-sensitive cells, but whether this is true for all members of this family requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000,
+        "max": 790000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ophiacanthidae"
+  ],
+  "generated_at": "2026-01-04T12:46:22.603179"
+}

@@ -1,0 +1,40 @@
+{
+  "family_name": "Geotriidae",
+  "order_name": "Not specified in context data",
+  "gbif_id": 4815461,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are not described in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not described in the provided context. Further research is needed, considering lampreys generally rely on olfaction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities are not described in the provided context. Further research is needed, considering lampreys are known to have electroreception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Geotriidae",
+    "https://en.wikipedia.org/wiki/Geotria_australis"
+  ],
+  "generated_at": "2026-01-04T10:25:30.476137"
+}

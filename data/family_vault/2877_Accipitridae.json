@@ -1,0 +1,62 @@
+{
+  "family_name": "Accipitridae",
+  "order_name": "Accipitriformes",
+  "gbif_id": 2877,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Accipitridae are birds of prey, relying heavily on vision for hunting. They have strongly hooked bills and variable morphology based on diet. Many well-known birds such as hawks, eagles, kites, harriers and Old World vultures are included in this group.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "rare",
+      "notes": "Most Accipitridae do not have a strong sense of smell, unlike New World vultures. The lappet-faced vulture (Torgos tracheliotos) does not share the good sense of smell of some members of that family of birds.",
+      "inferred_from_species": [
+        "Torgos tracheliotos"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely important for prey detection, though specifics are not detailed in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 20000.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities are not mentioned in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "magnetoreception": {
+      "presence": "unknown",
+      "notes": "Magnetoreception capabilities are not mentioned in the context, although some species are migratory.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Accipitridae",
+    "https://en.wikipedia.org/wiki/Torgos_tracheliotos",
+    "https://en.wikipedia.org/wiki/Chelictinia_riocourii",
+    "https://en.wikipedia.org/wiki/Elanus_leucurus"
+  ],
+  "generated_at": "2026-01-04T12:08:32.506079"
+}

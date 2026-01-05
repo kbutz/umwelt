@@ -1,0 +1,39 @@
+{
+  "family_name": "Plagiostomidae",
+  "order_name": "Prolecithophora",
+  "gbif_id": 3132,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as they are free-living flatworms, but specific data is unavailable from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present due to their free-living marine lifestyle. Flatworms rely on chemical cues for foraging and navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present, as free-living flatworms require tactile senses for interacting with their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plagiostomidae"
+  ],
+  "generated_at": "2026-01-04T09:46:07.356157"
+}

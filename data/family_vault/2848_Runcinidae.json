@@ -1,0 +1,40 @@
+{
+  "family_name": "Runcinidae",
+  "order_name": "Opisthobranchia",
+  "gbif_id": 2848,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sea slugs; presence and capabilities of vision in Runcinidae is not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, they likely use chemoreception to locate food and mates. This is inferred from general gastropod biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine gastropods, they likely use mechanoreception to sense their environment and navigate. This is inferred from general gastropod biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Runcinidae",
+    "https://en.wikipedia.org/wiki/Runcinella_zelandica"
+  ],
+  "generated_at": "2026-01-04T12:52:20.490863"
+}

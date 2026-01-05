@@ -1,0 +1,39 @@
+{
+  "family_name": "Chimaerocestidae",
+  "order_name": "Tetraphyllidea",
+  "gbif_id": 4344782,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Chimaerocestidae likely possess basic mechanoreception capabilities to detect touch and movement in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic flatworms, Chimaerocestidae likely rely on chemoreception to locate hosts and suitable attachment sites within the host. This is a common sensory modality in parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-18,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors in Chimaerocestidae is currently unknown. Many parasitic flatworms lack eyespots or other photoreceptive organs, especially those residing in dark environments within their hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chimaerocestidae"
+  ],
+  "generated_at": "2026-01-04T12:44:36.609851"
+}

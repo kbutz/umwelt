@@ -1,0 +1,39 @@
+{
+  "family_name": "Pristigasteridae",
+  "order_name": "Unknown",
+  "gbif_id": 3382,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As ray-finned fish, they likely possess vision for navigation and prey detection in coastal and schooling environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system for detecting vibrations and pressure changes in the water, aiding in schooling behavior and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreception for detecting food and potentially for social communication within schools.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pristigasteridae"
+  ],
+  "generated_at": "2026-01-04T09:57:22.077718"
+}

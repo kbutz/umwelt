@@ -1,0 +1,45 @@
+{
+  "family_name": "Scolopacidae",
+  "order_name": "Charadriiformes",
+  "gbif_id": 5282,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Generally good vision for detecting predators and prey, and for aerial displays during territorial defense and mating. Plumage color variation suggests visual signaling is relevant during breeding season.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Highly sensitive bill used for probing in mud and sand to detect invertebrates. The bill's sensitivity is crucial for foraging.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is important for communication, especially flight calls used to distinguish between similar species (e.g., Long-billed and Short-billed Dowitchers). Likely used for predator detection as well.",
+      "inferred_from_species": [
+        "Limnodromus scolopaceus",
+        "Limnodromus griseus"
+      ],
+      "frequency_range_hz": {
+        "min": 100.0,
+        "max": 10000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scolopacidae",
+    "https://en.wikipedia.org/wiki/Limnodromus_scolopaceus",
+    "https://en.wikipedia.org/wiki/Limnodromus_semipalmatus",
+    "https://en.wikipedia.org/wiki/Limnodromus_griseus"
+  ],
+  "generated_at": "2026-01-04T12:09:47.234672"
+}

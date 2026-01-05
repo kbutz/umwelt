@@ -1,0 +1,44 @@
+{
+  "family_name": "Chimaericolidae",
+  "order_name": "Monogenea",
+  "gbif_id": 3179,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As ectoparasites on gills, chemoreception is likely used to locate and identify hosts.",
+      "inferred_from_species": [
+        "Chimaericola leptogaster"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Monogeneans likely possess mechanoreceptors for orientation and attachment to the host's gills, detecting water currents or physical contact.",
+      "inferred_from_species": [
+        "Chimaericola leptogaster"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors is uncertain, but less likely given their parasitic lifestyle and the location on the gills.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chimaericolidae",
+    "https://en.wikipedia.org/wiki/Chimaericola_leptogaster"
+  ],
+  "generated_at": "2026-01-04T12:18:32.222448"
+}

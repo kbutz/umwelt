@@ -1,0 +1,39 @@
+{
+  "family_name": "Probathylepadidae",
+  "order_name": "Sessilia",
+  "gbif_id": 7393447,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Probathylepadidae are largely unstudied. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As acorn barnacles, Probathylepadidae likely possess mechanoreceptors for detecting water currents and substrate vibrations, essential for filter feeding and settlement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for detecting food particles and potential settlement cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Probathylepadidae"
+  ],
+  "generated_at": "2026-01-04T12:11:45.596517"
+}

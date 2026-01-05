@@ -1,0 +1,40 @@
+{
+  "family_name": "Echinolampadidae",
+  "order_name": "Cassiduloida",
+  "gbif_id": 5595,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Echinoids possess mechanoreceptors for sensing touch and substrate vibrations. This is inferred from related echinoderms and the general lifestyle of burrowing sea urchins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Echinoids use chemoreception to detect food and other chemical cues in the environment. This is a common sensory modality in echinoderms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    " photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Echinolampadidae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinolampadidae",
+    "https://en.wikipedia.org/wiki/Echinolampas_crassa"
+  ],
+  "generated_at": "2026-01-04T13:02:00.301945"
+}

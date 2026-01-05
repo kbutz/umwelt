@@ -1,0 +1,40 @@
+{
+  "family_name": "Guadalupiidae",
+  "order_name": "Unknown",
+  "gbif_id": 4583341,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Guadalupiidae likely possessed basic mechanoreception to detect water flow and physical disturbances. This is inferred from the general sensory capabilities of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to detect food particles and other chemical cues in the water. This is inferred from the general sensory capabilities of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Guadalupiidae is currently unknown. Sponges do not typically have complex eyes, but some species have light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guadalupiidae",
+    "https://en.wikipedia.org/wiki/Cystothalamia_ramosa"
+  ],
+  "generated_at": "2026-01-04T11:07:06.638945"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Trypetesidae",
+  "order_name": "Lithoglyptida",
+  "gbif_id": 8959,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Trypetesidae are largely unstudied based on available data. Vision may or may not be present.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, it is inferred they possess mechanoreceptors for detecting water movement and substrate vibrations. Likely important for feeding and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Crustaceans typically rely on chemoreception to locate food sources and assess water quality. Assumed present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trypetesidae"
+  ],
+  "generated_at": "2026-01-04T10:07:44.267603"
+}

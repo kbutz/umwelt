@@ -1,0 +1,39 @@
+{
+  "family_name": "Ellisellidae",
+  "order_name": "Scleralcyonacea",
+  "gbif_id": 3964,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and potential disturbances. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting food particles and chemical cues in the water. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Potentially present, but function and sensitivity levels are unknown. Further research is needed to ascertain the presence or absence of photoreceptors and their role, if any.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ellisellidae"
+  ],
+  "generated_at": "2026-01-04T13:02:50.136997"
+}

@@ -1,0 +1,42 @@
+{
+  "family_name": "Limidae",
+  "order_name": "Limida",
+  "gbif_id": 3480,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Limidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present given that they are capable of swimming and interacting with their environment (epifaunal or nestling). Waving mantle tentacles suggests a sensitivity to water movement and touch.",
+      "inferred_from_species": [
+        "Lima lima"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Information on chemoreception in Limidae is not available in the provided context, but is a common sensory modality in bivalves.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Limidae",
+    "https://en.wikipedia.org/wiki/Lima_lima"
+  ],
+  "generated_at": "2026-01-04T12:39:20.603539"
+}

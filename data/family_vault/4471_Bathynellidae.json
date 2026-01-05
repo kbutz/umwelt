@@ -1,0 +1,39 @@
+{
+  "family_name": "Bathynellidae",
+  "order_name": "Bathynellacea",
+  "gbif_id": 4471,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in this family is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, they likely possess mechanoreceptors for detecting water movement and substrate vibrations. General crustacean trait.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As crustaceans, they likely possess chemoreceptors for detecting chemical cues in their environment. General crustacean trait.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bathynellidae"
+  ],
+  "generated_at": "2026-01-04T11:31:07.735119"
+}

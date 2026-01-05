@@ -1,0 +1,52 @@
+{
+  "family_name": "Dimylidae",
+  "order_name": "Unknown",
+  "gbif_id": 3239391,
+  "sensory_modalities": {
+    "olfaction": {
+      "presence": "inferred",
+      "notes": "Likely used a proboscis for detecting prey items underwater, similar to modern desmans.",
+      "inferred_from_species": [
+        "Modern Desmans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "inferred",
+      "notes": "Likely used sensitive whiskers (vibrissae) to detect prey items underwater, similar to modern desmans.",
+      "inferred_from_species": [
+        "Modern Desmans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "Likely present given diet of crustaceans, but no specific information is available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available; cannot determine presence or importance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dimylus"
+  ],
+  "generated_at": "2026-01-04T10:45:22.678011"
+}

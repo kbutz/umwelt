@@ -1,0 +1,56 @@
+{
+  "family_name": "Phormosomatidae",
+  "order_name": "Echinothurioida",
+  "gbif_id": 4341487,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, Phormosomatidae likely possess a distributed sensory system for detecting mechanical stimuli such as touch and water currents. This is inferred from the presence of spines and tube feet, which are common mechanosensory structures in echinoderms.",
+      "inferred_from_species": [
+        "Phormosoma placenta",
+        "Phormosoma bursarium"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea urchins are known to use chemoreception for food detection and potentially for mate recognition. Given their deep-sea habitat, chemoreception is likely important for Phormosomatidae.",
+      "inferred_from_species": [
+        "Phormosoma placenta",
+        "Phormosoma bursarium"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Phormosomatidae is not explicitly stated in the provided context. However, given their deep-sea habitat, it is plausible that they have reduced or absent vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Light at the depths these species reside at is limited. It is unknown if they have photoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phormosomatidae",
+    "https://en.wikipedia.org/wiki/Phormosoma_placenta",
+    "https://en.wikipedia.org/wiki/Phormosoma_bursarium"
+  ],
+  "generated_at": "2026-01-04T10:43:03.967111"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Laevidentaliidae",
+  "order_name": "Dentaliida",
+  "gbif_id": 3320,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Laevidentaliidae are not detailed in provided context. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Laevidentaliidae are not detailed in provided context. Chemoreception presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Laevidentaliidae are not detailed in provided context. Mechanoreception presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laevidentaliidae"
+  ],
+  "generated_at": "2026-01-04T11:21:04.544116"
+}

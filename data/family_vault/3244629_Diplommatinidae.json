@@ -1,0 +1,39 @@
+{
+  "family_name": "Diplommatinidae",
+  "order_name": "Not provided in context",
+  "gbif_id": 3244629,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As small land snails, they likely possess some visual capability, but specifics are unknown. Further research is needed to determine the extent of their vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to find food and mates, as is common in terrestrial gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possesses mechanoreceptors for sensing vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diplommatinidae"
+  ],
+  "generated_at": "2026-01-04T09:48:51.406502"
+}

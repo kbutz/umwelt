@@ -1,0 +1,39 @@
+{
+  "family_name": "Myxasteridae",
+  "order_name": "Velatida",
+  "gbif_id": 2065,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Deep-sea sea stars; visual capability is unknown, but potentially reduced due to habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea stars are known to use chemoreception to find prey; likely present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea stars sense their environment through touch and water movement; likely present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Myxasteridae"
+  ],
+  "generated_at": "2026-01-04T10:50:09.976083"
+}

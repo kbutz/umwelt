@@ -1,0 +1,40 @@
+{
+  "family_name": "Discosomidae",
+  "order_name": "Unknown",
+  "gbif_id": 4283414,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as they are related to sea anemones and corals, many of which possess photosensitive cells. However, specific visual capabilities are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be important for prey detection and feeding, as in related cnidarians. Would allow the animal to sense changes in water chemistry.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and potential threats or prey. Cnidarians generally possess mechanoreceptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Discosomidae",
+    "https://en.wikipedia.org/wiki/Amplexidiscus_fenestrafer"
+  ],
+  "generated_at": "2026-01-04T11:32:55.744907"
+}

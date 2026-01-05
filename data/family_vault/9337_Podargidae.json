@@ -1,0 +1,53 @@
+{
+  "family_name": "Podargidae",
+  "order_name": "Podargiformes",
+  "gbif_id": 9337,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Nocturnal birds with large eyes, likely adapted for low-light conditions. Similar colouring to owls suggests an emphasis on visual camouflage.",
+      "inferred_from_species": [
+        "Podargus strigoides"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Nocturnal birds; audition likely important for prey detection and communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "General sense of touch; present but not particularly specialized based on the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities not mentioned in provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Podargidae",
+    "https://en.wikipedia.org/wiki/Podargus_strigoides",
+    "https://en.wikipedia.org/wiki/Podargus_papuensis",
+    "https://en.wikipedia.org/wiki/Batrachostomus_cornutus"
+  ],
+  "generated_at": "2026-01-04T12:32:41.436315"
+}

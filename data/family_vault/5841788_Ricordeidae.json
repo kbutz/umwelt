@@ -1,0 +1,58 @@
+{
+  "family_name": "Ricordeidae",
+  "order_name": "Corallimorpharia",
+  "gbif_id": 5841788,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Presence and characteristics of vision in Ricordeidae are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence of chemoreception as corals need to detect and respond to chemical cues in their environment for feeding, defense, and reproduction.",
+      "inferred_from_species": [
+        "Ricordea yuma",
+        "Ricordea florida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence of mechanoreception as corals need to sense water flow and physical contact with the substrate and other organisms.",
+      "inferred_from_species": [
+        "Ricordea yuma",
+        "Ricordea florida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "fluorescence detection": {
+      "presence": "common",
+      "notes": "Ricordea florida exhibits fluorescence under ultraviolet light, suggesting the presence of sensory mechanisms to detect light, potentially including UV. Whether this extends to the entire family is unclear but plausible.",
+      "inferred_from_species": [
+        "Ricordea florida"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ricordeidae",
+    "https://en.wikipedia.org/wiki/Ricordea_yuma",
+    "https://en.wikipedia.org/wiki/Ricordea_florida"
+  ],
+  "generated_at": "2026-01-04T11:33:14.375088"
+}

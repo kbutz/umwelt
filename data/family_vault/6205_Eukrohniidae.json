@@ -1,0 +1,33 @@
+{
+  "family_name": "Eukrohniidae",
+  "order_name": "Phragmophora",
+  "gbif_id": 6205,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in this family is not mentioned in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "rare",
+      "notes": "Eukrohnia fowleri is a bioluminescent member of the genus Eukrohnia. The bioluminescent organ is found along the center of its tail fin on both its dorsal and ventral side. It has a secreted bioluminescence that is thought to be coelenterazine based.",
+      "inferred_from_species": [
+        "Eukrohnia fowleri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eukrohniidae",
+    "https://en.wikipedia.org/wiki/Eukrohnia_fowleri"
+  ],
+  "generated_at": "2026-01-04T12:14:39.225795"
+}

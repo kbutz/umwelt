@@ -1,0 +1,44 @@
+{
+  "family_name": "Trichoplacidae",
+  "order_name": "N/A",
+  "gbif_id": 1889,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "Inferred based on the presence of ciliated cells used for locomotion and the overall body structure. These cells likely provide a basic sense of touch and environmental changes.",
+      "inferred_from_species": [
+        "Trichoplax adhaerens"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred due to their feeding behavior of absorbing food particles (mainly microbes). They must have some way to detect and differentiate these particles.",
+      "inferred_from_species": [
+        "Trichoplax adhaerens"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "No structures resembling photoreceptors are mentioned. Light sensitivity cannot be ruled out completely.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trichoplax_adhaerens",
+    "https://en.wikipedia.org/wiki/Trichoplacidae"
+  ],
+  "generated_at": "2026-01-04T13:03:20.755466"
+}

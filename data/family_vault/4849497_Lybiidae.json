@@ -1,0 +1,53 @@
+{
+  "family_name": "Lybiidae",
+  "order_name": "Unknown",
+  "gbif_id": 4849497,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Barbets are birds, suggesting a reliance on vision for activities such as foraging, predator avoidance, and social interactions. Further research is needed to understand the nuances of their visual capabilities, such as color vision and visual acuity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As birds, barbets likely rely on hearing for communication (vocalizations), predator detection, and potentially locating prey. The specific range of frequencies they can detect needs further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The extent of olfactory capabilities in barbets is unknown. While birds are generally thought to have a less developed sense of smell than mammals, some species do utilize olfaction for various purposes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Barbets possess tactile receptors, which are important for activities such as perching, preening, and interacting with their environment. The presence of 'bristle-nosed' barbet (Gymnobucco peli) indicates a possible tactile sensitivity around the bill region.",
+      "inferred_from_species": [
+        "Gymnobucco peli"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lybiidae",
+    "https://en.wikipedia.org/wiki/Gymnobucco_peli",
+    "https://en.wikipedia.org/wiki/Gymnobucco_bonapartei",
+    "https://en.wikipedia.org/wiki/Gymnobucco_calvus"
+  ],
+  "generated_at": "2026-01-04T10:17:48.293966"
+}

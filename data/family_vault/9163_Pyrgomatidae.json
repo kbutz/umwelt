@@ -1,0 +1,39 @@
+{
+  "family_name": "Pyrgomatidae",
+  "order_name": "Balanomorpha",
+  "gbif_id": 9163,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Pyrgomatidae barnacles is not available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Barnacles generally use chemoreception to detect food and suitable settlement locations. This is inferred to be present in Pyrgomatidae, though specifics are unknown from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Barnacles are likely to have mechanoreceptors to detect water currents and substrate vibrations. This is inferred to be present in Pyrgomatidae, though specifics are unknown from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pyrgomatidae"
+  ],
+  "generated_at": "2026-01-04T11:44:48.426647"
+}

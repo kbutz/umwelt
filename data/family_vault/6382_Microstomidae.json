@@ -1,0 +1,39 @@
+{
+  "family_name": "Microstomidae",
+  "order_name": "Macrostomida",
+  "gbif_id": 6382,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Microstomidae flatworms are largely unknown based on provided context. Vision presence/absence is not specified.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As free-living flatworms in meiobenthos and plankton, mechanoreception is inferred to be common for interacting with their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As free-living flatworms, chemoreception is inferred to be common for finding food and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Microstomidae"
+  ],
+  "generated_at": "2026-01-04T12:37:23.251065"
+}

@@ -1,0 +1,75 @@
+{
+  "family_name": "Didelphidae",
+  "order_name": "Didelphimorphia",
+  "gbif_id": 5455,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely possesses vision as they inhabit diverse habitats including forests. No specific details provided, so assuming typical mammalian vision.",
+      "inferred_from_species": [
+        "Gracilinanus dryas",
+        "Gracilinanus emiliae"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely possesses hearing given their terrestrial/arboreal lifestyle. Details unknown but inferred from related mammals.",
+      "inferred_from_species": [
+        "Gracilinanus dryas",
+        "Gracilinanus emiliae"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely possesses a sense of smell, which is common in mammals. No specific details provided.",
+      "inferred_from_species": [
+        "Gracilinanus dryas",
+        "Gracilinanus emiliae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Likely possesses a sense of touch, temperature, and pain, which are common in mammals. No specific details provided.",
+      "inferred_from_species": [
+        "Gracilinanus dryas",
+        "Gracilinanus emiliae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Likely possesses a sense of taste, which is common in mammals. No specific details provided.",
+      "inferred_from_species": [
+        "Gracilinanus dryas",
+        "Gracilinanus emiliae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Didelphidae",
+    "https://en.wikipedia.org/wiki/Gracilinanus_dryas",
+    "https://en.wikipedia.org/wiki/Gracilinanus_ignitus",
+    "https://en.wikipedia.org/wiki/Gracilinanus_emiliae"
+  ],
+  "generated_at": "2026-01-04T10:30:46.819015"
+}

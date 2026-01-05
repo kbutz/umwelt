@@ -1,0 +1,39 @@
+{
+  "family_name": "Testudinellidae",
+  "order_name": "Flosculariaceae",
+  "gbif_id": 7518,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As rotifers, Testudinellidae likely possess mechanoreceptors for detecting water currents and vibrations to locate food and avoid predators. This is inferred from the general biology of rotifers.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is crucial for rotifers to detect food sources and assess water quality. This is a common sensory modality in aquatic microorganisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-9,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of eyespots or other visual structures in Testudinellidae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Testudinellidae"
+  ],
+  "generated_at": "2026-01-04T11:06:41.512615"
+}

@@ -1,0 +1,44 @@
+{
+  "family_name": "Porocephalidae",
+  "order_name": "Porocephalida",
+  "gbif_id": 5061,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "inferred",
+      "notes": "As parasitic crustaceans, Porocephalidae likely rely on chemoreception to locate hosts. This is inferred from their parasitic lifestyle and is common in parasitic crustaceans.",
+      "inferred_from_species": [
+        "Porocephalus crotali"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "inferred",
+      "notes": "Likely present to detect host movement or physical contact. This is inferred from their parasitic lifestyle.",
+      "inferred_from_species": [
+        "Porocephalus crotali"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 2000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Porocephalidae is currently unknown based on provided information. Given their parasitic lifestyle, vision may be reduced or absent in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Porocephalidae",
+    "https://en.wikipedia.org/wiki/Porocephalus_crotali"
+  ],
+  "generated_at": "2026-01-04T11:43:17.634832"
+}

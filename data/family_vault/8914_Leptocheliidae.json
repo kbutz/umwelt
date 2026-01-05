@@ -1,0 +1,39 @@
+{
+  "family_name": "Leptocheliidae",
+  "order_name": "Tanaidacea",
+  "gbif_id": 8914,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Leptocheliidae are currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As malacostracans, Leptocheliidae likely possess mechanoreceptors for detecting touch and water currents, crucial for navigation, prey detection, and predator avoidance. Specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for food detection and mate recognition in Leptocheliidae, as it is in many marine crustaceans. Specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leptocheliidae"
+  ],
+  "generated_at": "2026-01-04T11:41:19.841389"
+}

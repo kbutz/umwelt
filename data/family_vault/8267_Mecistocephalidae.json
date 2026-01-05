@@ -1,0 +1,39 @@
+{
+  "family_name": "Mecistocephalidae",
+  "order_name": "Geophilomorpha",
+  "gbif_id": 8267,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision in Mecistocephalidae is not available in the provided context. Given they are soil-dwelling centipedes, vision may be reduced or absent in some species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As soil-dwelling centipedes, chemoreception is likely a primary sense for detecting prey and navigating the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely important for detecting vibrations and tactile stimuli in the soil.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mecistocephalidae"
+  ],
+  "generated_at": "2026-01-04T11:36:12.232223"
+}

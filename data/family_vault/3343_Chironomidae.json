@@ -1,0 +1,39 @@
+{
+  "family_name": "Chironomidae",
+  "order_name": "Diptera",
+  "gbif_id": 3343,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As Nematoceran flies, vision is likely a key sense, though details are not provided in the context. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As flies, mechanosensation through antennae and other structures is likely important for flight and detecting environmental changes. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present for locating food sources and mates, but details are not available from the context. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chironomidae"
+  ],
+  "generated_at": "2026-01-04T10:41:44.594168"
+}

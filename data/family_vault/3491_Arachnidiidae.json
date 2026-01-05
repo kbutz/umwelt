@@ -1,0 +1,39 @@
+{
+  "family_name": "Arachnidiidae",
+  "order_name": "Ctenostomatida",
+  "gbif_id": 3491,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and substrate vibrations, but specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting food particles and potential settlement cues, but specific receptors are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and functionality of photoreceptors are unknown in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arachnidiidae"
+  ],
+  "generated_at": "2026-01-04T11:05:05.042025"
+}

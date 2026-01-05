@@ -1,0 +1,41 @@
+{
+  "family_name": "Phasmatidae",
+  "order_name": "Phasmatodea",
+  "gbif_id": 5108,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present as it is a common trait in insects, but details are missing. Stick insects rely heavily on camouflage, suggesting visual input is used for habitat selection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "General mechanoreception is inferred, including tactile sensing via legs and antennae, which would be crucial for navigating their environment. Also likely to be important for balance and proprioception.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for food detection and mate recognition, but the specific mechanisms are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phasmatidae",
+    "https://en.wikipedia.org/wiki/Tectarchus_ovobessus",
+    "https://en.wikipedia.org/wiki/Tectarchus_huttoni"
+  ],
+  "generated_at": "2026-01-04T11:54:36.555232"
+}

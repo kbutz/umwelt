@@ -1,0 +1,39 @@
+{
+  "family_name": "Echinoderidae",
+  "order_name": "Cyclorhagida",
+  "gbif_id": 5146,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As mud dragons living in marine sediments, they likely rely on mechanoreception to detect substrate vibrations and water currents for navigation, prey detection, and predator avoidance. The exact sensory structures responsible are unknown but likely involve specialized setae or other cuticular sensilla.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Living in sediment-rich environments, they likely use chemoreception to locate food sources and potential mates. This likely involves specialized receptors on their head or trunk.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception is unknown. Given their benthic lifestyle and lack of mention of eyespots or similar structures, it may be absent or limited.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Echinoderidae"
+  ],
+  "generated_at": "2026-01-04T12:55:34.066381"
+}

@@ -1,0 +1,46 @@
+{
+  "family_name": "Pedinidae",
+  "order_name": "Unknown",
+  "gbif_id": 9526,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea urchins in this family have armor covered with spines, suggesting a sensitivity to touch and mechanical stimuli in their environment.",
+      "inferred_from_species": [
+        "Caenopedina cubensis",
+        "Caenopedina capensis",
+        "Caenopedina alanbakeri"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of chemoreception is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence of eyes or other visual organs is unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pedinidae",
+    "https://en.wikipedia.org/wiki/Caenopedina_cubensis",
+    "https://en.wikipedia.org/wiki/Caenopedina_capensis",
+    "https://en.wikipedia.org/wiki/Caenopedina_alanbakeri"
+  ],
+  "generated_at": "2026-01-04T11:57:02.652204"
+}

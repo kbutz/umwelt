@@ -1,0 +1,41 @@
+{
+  "family_name": "Streptocephalidae",
+  "order_name": "Unknown",
+  "gbif_id": 3679,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, as they are crustaceans living in temporary waters, but information is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting food and mates in the water, but information is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting water currents and vibrations, but information is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Streptocephalus",
+    "https://en.wikipedia.org/wiki/Streptocephalus_dendrophorus",
+    "https://en.wikipedia.org/wiki/Streptocephalus_proboscideus"
+  ],
+  "generated_at": "2026-01-04T09:59:33.464437"
+}

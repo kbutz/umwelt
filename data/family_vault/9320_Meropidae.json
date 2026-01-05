@@ -1,0 +1,64 @@
+{
+  "family_name": "Meropidae",
+  "order_name": "Unknown",
+  "gbif_id": 9320,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Bee-eaters are visually oriented, using sight to locate flying insects. They have richly coloured plumage, suggesting a role for visual communication. Diurnal lifestyle suggests well-developed color vision.",
+      "inferred_from_species": [
+        "Merops leschenaulti",
+        "Merops nubicus",
+        "Meropogon forsteni"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Auditory cues are likely important for communication within colonies and for detecting predators. Given their gregarious nature, vocalizations are expected.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 10000
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Taste is likely used to assess the palatability of insect prey after venom discharge. Further specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sense is important for manipulating prey, removing stingers, and building nests in burrows.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in bee-eaters is currently unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Meropidae",
+    "https://en.wikipedia.org/wiki/Meropogon_forsteni",
+    "https://en.wikipedia.org/wiki/Merops_leschenaulti",
+    "https://en.wikipedia.org/wiki/Merops_nubicus"
+  ],
+  "generated_at": "2026-01-04T11:49:17.362441"
+}

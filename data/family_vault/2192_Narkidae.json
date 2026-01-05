@@ -1,0 +1,49 @@
+{
+  "family_name": "Narkidae",
+  "order_name": "Unknown",
+  "gbif_id": 2192,
+  "sensory_modalities": {
+    "Electroreception": {
+      "presence": "common",
+      "notes": "As rays, Narkidae likely possess electroreception to detect prey in soft-bottomed habitats. This is inferred from their taxonomic classification as rays and their habitat preference.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "Mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used to detect vibrations in the water and substrate, important for detecting prey and predators in their soft-bottomed habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "Vision": {
+      "presence": "common",
+      "notes": "Present, but its importance is unknown given their benthic lifestyle and reliance on other senses. Likely functions in predator avoidance and general awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Used for detecting prey and potential mates. Important for navigation and environmental assessment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-11,
+        "max": 0.1
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Narkidae",
+    "https://en.wikipedia.org/wiki/Heteronarce_garmani"
+  ],
+  "generated_at": "2026-01-04T10:52:53.781327"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Ascidiidae",
+  "order_name": "Ascidiacea",
+  "gbif_id": 9280,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision is not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As tunicates, Ascidiidae likely use chemoreception for feeding and larval settlement, but specific data is not provided in the context. Inference based on related species of tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sessile organisms, Ascidiidae likely possess mechanoreceptors to detect water currents and other physical stimuli, but specific data is not provided in the context. Inference based on related species of tunicates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ascidiidae"
+  ],
+  "generated_at": "2026-01-04T12:43:38.346226"
+}

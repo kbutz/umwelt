@@ -1,0 +1,51 @@
+{
+  "family_name": "Gryllidae",
+  "order_name": "Orthoptera",
+  "gbif_id": 5925,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present in most members given their above-ground lifestyle. Further research needed to ascertain visual acuity and spectral sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    " Mechanoreception (antennae)": {
+      "presence": "common",
+      "notes": "Long, whip-like antennae are characteristic, suggesting a reliance on tactile and vibratory information from the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "Audition": {
+      "presence": "common",
+      "notes": "True crickets are known for their acoustic communication (stridulation). Hearing is likely important for mate recognition and predator avoidance.",
+      "inferred_from_species": [
+        "Gryllus bimaculatus"
+      ],
+      "frequency_range_hz": {
+        "min": 1000,
+        "max": 20000
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Insects generally use chemoreception for food detection and mate recognition. Likely present in Gryllidae, but detailed data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-30,
+        "max": 1000000000000000000000000000000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gryllidae",
+    "https://en.wikipedia.org/wiki/Gryllus_bimaculatus"
+  ],
+  "generated_at": "2026-01-04T11:53:46.372186"
+}

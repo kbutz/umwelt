@@ -1,0 +1,42 @@
+{
+  "family_name": "Pteriidae",
+  "order_name": "Pteriida",
+  "gbif_id": 3465,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Information on chemoreception is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Information on mechanoreception is not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pteriidae",
+    "https://en.wikipedia.org/wiki/Pteria_colymbus",
+    "https://en.wikipedia.org/wiki/Pteria_hirundo",
+    "https://en.wikipedia.org/wiki/Pteria_sterna"
+  ],
+  "generated_at": "2026-01-04T12:42:28.818117"
+}

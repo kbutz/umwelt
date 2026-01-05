@@ -1,0 +1,70 @@
+{
+  "family_name": "Equidae",
+  "order_name": "Perissodactyla",
+  "gbif_id": 5479,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Equids are adapted to run and escape predators, suggesting good visual acuity for detecting movement and threats. They possess a good sense of balance.",
+      "inferred_from_species": [
+        "Equus caballus"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely important for predator detection and social communication. Precise frequency range unknown, but presumably within mammalian norms.",
+      "inferred_from_species": [
+        "Equus caballus"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Important for social interactions, finding food, and predator avoidance.",
+      "inferred_from_species": [
+        "Equus caballus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Horses are sensitive to touch, especially around the mouth and flanks, important for social interactions and detecting threats.",
+      "inferred_from_species": [
+        "Equus caballus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Taste likely plays a role in food selection. All extant species are herbivores.",
+      "inferred_from_species": [
+        "Equus caballus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Equidae",
+    "https://en.wikipedia.org/wiki/Equus_caballus",
+    "https://en.wikipedia.org/wiki/Equus_kiang",
+    "https://en.wikipedia.org/wiki/Equus_zebra"
+  ],
+  "generated_at": "2026-01-04T10:35:30.803055"
+}

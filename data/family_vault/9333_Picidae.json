@@ -1,0 +1,60 @@
+{
+  "family_name": "Picidae",
+  "order_name": "Piciformes",
+  "gbif_id": 9333,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for foraging, navigation, and social interactions. Diurnal lifestyle suggests well-developed color vision, inferred from other diurnal birds.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Crucial for detecting insect prey within wood, conspecific communication (drumming).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "Used for detecting vibrations, especially when foraging for insects under bark. Drumming behavior relies on mechanosensory feedback.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Diet varies with fruits, birds' eggs, small animals, tree sap, human scraps, and carrion. Presence/importance of taste is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "Importance of olfaction is unknown. Not mentioned in the context data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Picidae",
+    "https://en.wikipedia.org/wiki/Picoides_arcticus",
+    "https://en.wikipedia.org/wiki/Picoides_tridactylus",
+    "https://en.wikipedia.org/wiki/Geocolaptes_olivaceus"
+  ],
+  "generated_at": "2026-01-04T10:17:35.947112"
+}

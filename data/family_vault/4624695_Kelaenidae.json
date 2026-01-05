@@ -1,0 +1,37 @@
+{
+  "family_name": "Kelaenidae",
+  "order_name": "Unknown",
+  "gbif_id": 4624695,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As an extinct cephalopod related to other cephalopods, it likely possessed vision, but the details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely possessed chemoreception, similar to extant cephalopods, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely possessed mechanoreception for detecting water movement and pressure, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [],
+  "generated_at": "2026-01-04T12:21:20.181079"
+}

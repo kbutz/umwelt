@@ -1,0 +1,39 @@
+{
+  "family_name": "Proteocephalidae",
+  "order_name": "Unknown",
+  "gbif_id": 3268419,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasites, Proteocephalidae likely rely on chemoreception to locate and identify hosts within the digestive tracts of freshwater fishes, reptiles, and amphibians. They must also be able to respond to chemical cues associated with intermediate crustacean and small fish hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-34,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Tapeworms possess tactile senses to maintain position within the host's gut and detect changes in the surrounding environment. This also allows them to detect crustacean and small fish hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-34,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreceptors is unknown in Proteocephalidae, as they inhabit the internal environment of hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Proteocephalidae"
+  ],
+  "generated_at": "2026-01-04T12:38:34.021398"
+}

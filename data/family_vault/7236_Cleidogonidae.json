@@ -1,0 +1,39 @@
+{
+  "family_name": "Cleidogonidae",
+  "order_name": "Chordeumatida",
+  "gbif_id": 7236,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available to determine if vision is present in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, they likely rely on chemoreception for navigation and food location. This is inferred from general millipede biology, although specifics for Cleidogonidae are unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for sensing touch and vibration, common in millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cleidogonidae"
+  ],
+  "generated_at": "2026-01-04T11:08:45.524147"
+}

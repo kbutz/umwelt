@@ -1,0 +1,41 @@
+{
+  "family_name": "Ulmaridae",
+  "order_name": "Unknown",
+  "gbif_id": 7311,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Data on vision in Ulmaridae is not provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Jellyfish generally possess mechanoreceptors for detecting water movement and orientation. Likely present in Ulmaridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Jellyfish generally possess chemoreceptors for detecting chemical cues in the water. Likely present in Ulmaridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ulmaridae",
+    "https://en.wikipedia.org/wiki/Deepstaria_reticulum",
+    "https://en.wikipedia.org/wiki/Deepstaria_enigmatica"
+  ],
+  "generated_at": "2026-01-04T10:13:52.600419"
+}

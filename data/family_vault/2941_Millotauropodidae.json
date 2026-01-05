@@ -1,0 +1,39 @@
+{
+  "family_name": "Millotauropodidae",
+  "order_name": "Hexamerocerata",
+  "gbif_id": 2941,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Vision presence or absence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Chemoreception presence or absence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of this family are not described in the provided context. Mechanoreception presence or absence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Millotauropodidae"
+  ],
+  "generated_at": "2026-01-04T09:51:12.617411"
+}

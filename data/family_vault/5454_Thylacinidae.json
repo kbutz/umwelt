@@ -1,0 +1,69 @@
+{
+  "family_name": "Thylacinidae",
+  "order_name": "Dasyuromorphia",
+  "gbif_id": 5454,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Based on the description of stripes on Thylacinus cynocephalus (Tasmanian tiger) and its ecological role as a predator, vision was likely an important sense for prey detection and navigation.",
+      "inferred_from_species": [
+        "Thylacinus cynocephalus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "As carnivorous marsupials related to other members of Dasyuromorphia, olfaction was likely important for hunting, social communication, and possibly navigation. The description of the thylacine as resembling a canid further suggests a reliance on smell.",
+      "inferred_from_species": [
+        "Thylacinus cynocephalus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Audition was likely important for detecting prey and conspecifics. While specific auditory ranges are unknown, a general mammalian hearing range is inferred.",
+      "inferred_from_species": [
+        "Thylacinus cynocephalus"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sensation via whiskers (vibrissae) and skin receptors would have been important for navigation, prey detection, and social interaction.",
+      "inferred_from_species": [
+        "Thylacinus cynocephalus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Taste is likely present for assessing food quality, although specific details are unknown. As a hypercarnivore this modality would have been functional.",
+      "inferred_from_species": [
+        "Thylacinus cynocephalus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thylacinidae",
+    "https://en.wikipedia.org/wiki/Thylacinus_cynocephalus",
+    "https://en.wikipedia.org/wiki/Thylacinus_breviceps"
+  ],
+  "generated_at": "2026-01-04T10:21:52.211877"
+}

@@ -1,0 +1,40 @@
+{
+  "family_name": "Amphoriscidae",
+  "order_name": "Leucosolenida",
+  "gbif_id": 3770,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "unknown",
+      "notes": "As sponges, they likely have some form of mechanosensation for detecting water flow and potentially responding to physical stimuli. Further research needed to confirm sensitivity and detail.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting chemical cues in the water, which is vital for feeding and other biological processes. Further study is needed to characterize the specific compounds they can detect.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 0.1
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "It is unknown whether they possess any light sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphoriscidae",
+    "https://en.wikipedia.org/wiki/Paraleucilla_magna"
+  ],
+  "generated_at": "2026-01-04T11:26:49.974942"
+}

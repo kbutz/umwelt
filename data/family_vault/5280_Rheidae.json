@@ -1,0 +1,69 @@
+{
+  "family_name": "Rheidae",
+  "order_name": "Unknown",
+  "gbif_id": 5280,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for foraging and predator detection in open areas.",
+      "inferred_from_species": [
+        "Rhea americana",
+        "Rhea pennata"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Important for communication and predator detection.",
+      "inferred_from_species": [
+        "Rhea americana",
+        "Rhea pennata"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "General sense of touch, important for interacting with the environment.",
+      "inferred_from_species": [
+        "Rhea americana",
+        "Rhea pennata"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 1000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The importance of olfaction is not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "The importance of taste is not described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rheidae",
+    "https://en.wikipedia.org/wiki/Rhea_pennata",
+    "https://en.wikipedia.org/wiki/Rhea_americana",
+    "https://en.wikipedia.org/wiki/Rhea_fossilis"
+  ],
+  "generated_at": "2026-01-04T12:33:19.638650"
+}

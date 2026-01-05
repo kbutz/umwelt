@@ -1,0 +1,44 @@
+{
+  "family_name": "Bothrioplanidae",
+  "order_name": "Bothrioplanida",
+  "gbif_id": 6369,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Bothrioplanidae is not specified in the provided context. Further research is required.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As freshwater flatworms, chemoreception is likely crucial for finding food and navigating their environment. This is inferred based on the general biology of flatworms.",
+      "inferred_from_species": [
+        "Bothrioplana semperi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present for detecting touch and water currents, allowing them to interact with their environment. This is inferred based on the general biology of flatworms.",
+      "inferred_from_species": [
+        "Bothrioplana semperi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bothrioplana",
+    "https://en.wikipedia.org/wiki/Bothrioplana_semperi"
+  ],
+  "generated_at": "2026-01-04T12:46:14.088393"
+}

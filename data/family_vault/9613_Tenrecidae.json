@@ -1,0 +1,62 @@
+{
+  "family_name": "Tenrecidae",
+  "order_name": "Afrosoricida",
+  "gbif_id": 9613,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Tenrecs occupy diverse niches, suggesting vision is generally present. Degree of reliance likely varies by species and habitat (e.g., fossorial vs. arboreal).",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Likely important for foraging and social interactions, given their diverse habitats and resemblance to shrews and other small mammals. Often vital in mammal species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Essential for navigating diverse environments, especially for fossorial species like Oryzorictes hova. Likely involves sensitive vibrissae (whiskers).",
+      "inferred_from_species": [
+        "Oryzorictes hova"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 1000
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Important for detecting predators and conspecifics. The specific hearing range is unknown but expected to be within the typical mammalian range.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "While some afrotherians (like African otter shrews, a close relative) possess electroreception, its presence in Tenrecidae is currently unknown and requires further investigation. This would be a specialized adaptation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tenrecidae",
+    "https://en.wikipedia.org/wiki/Oryzorictes_tetradactylus",
+    "https://en.wikipedia.org/wiki/Oryzorictes_hova",
+    "https://en.wikipedia.org/wiki/Microgale_thomasi"
+  ],
+  "generated_at": "2026-01-04T10:44:42.801597"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Triloculariidae",
+  "order_name": "Tetraphyllidea",
+  "gbif_id": 2240,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms living in the intestines of sharks, skates, and rays, they likely rely heavily on chemoreception to locate and remain within their host's digestive tract, sense nutrients, and find mates. Inferred from the general biology of parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used to sense the host's intestinal movements and maintain position within the gut. They need to be able to avoid being flushed out. Inferred from the general biology of parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "photoreception": {
+      "presence": "rare",
+      "notes": "Vision is unlikely as these are intestinal parasites living in dark environments; most tapeworms have lost the ability to see.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetraphyllidea"
+  ],
+  "generated_at": "2026-01-04T10:28:09.271701"
+}

@@ -1,0 +1,44 @@
+{
+  "family_name": "Haliclystidae",
+  "order_name": "Stauromedusae",
+  "gbif_id": 9025086,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in a basic form, as jellyfish typically possess light-sensitive ocelli. Further research is needed to determine the visual capabilities of Haliclystidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Presumed present due to the presence of tentacles and their sedentary lifestyle. Likely used to detect prey and changes in water currents. The 'tick tentacles' mentioned in Halimocyathus platypus context suggests a tactile function.",
+      "inferred_from_species": [
+        "Halimocyathus platypus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used to detect prey and other chemical cues in the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 10000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haliclystidae",
+    "https://en.wikipedia.org/wiki/Halimocyathus_platypus",
+    "https://en.wikipedia.org/wiki/Depastrum_cyathiforme",
+    "https://en.wikipedia.org/wiki/Manania_handi"
+  ],
+  "generated_at": "2026-01-04T11:33:25.896074"
+}

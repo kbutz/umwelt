@@ -1,0 +1,62 @@
+{
+  "family_name": "Struthionidae",
+  "order_name": "Struthioniformes",
+  "gbif_id": 9349,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Ostriches are diurnal birds relying on vision for foraging and predator detection. Given their open habitat, vision is likely well-developed for long-range detection.",
+      "inferred_from_species": [
+        "Struthio camelus",
+        "Struthio molybdophanes"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is important for environmental awareness and communication within groups. Likely sensitive to a broad range of sounds for predator detection and social interactions.",
+      "inferred_from_species": [
+        "Struthio camelus",
+        "Struthio molybdophanes"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Touch and pressure sensitivity are important, especially in the feet for locomotion and balance, and potentially in the beak for manipulating food items.",
+      "inferred_from_species": [
+        "Struthio camelus",
+        "Struthio molybdophanes"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction (smell) and taste play a role in food selection, although the relative importance is unknown. Birds generally have a less developed sense of smell compared to mammals, but it is still present.",
+      "inferred_from_species": [
+        "Struthio camelus",
+        "Struthio molybdophanes"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 10000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Struthionidae",
+    "https://en.wikipedia.org/wiki/Struthio_molybdophanes",
+    "https://en.wikipedia.org/wiki/Struthio_camelus"
+  ],
+  "generated_at": "2026-01-04T10:18:09.167842"
+}

@@ -1,0 +1,48 @@
+{
+  "family_name": "Nyctitheriidae",
+  "order_name": "Eulipotyphla",
+  "gbif_id": 4831191,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "As insectivores, vision may have played a role in prey detection. However, without specific data, its prevalence and importance are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Inferred to be important for insectivores in general for prey detection and social communication. Likely a key sense, but no specific details are available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely important for detecting insect prey. Some genera were initially described as bats, suggesting potential adaptations for hearing, although this might not be representative of the entire family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Important for navigating environments and potentially detecting prey, especially in low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nyctitheriidae"
+  ],
+  "generated_at": "2026-01-04T10:39:26.162220"
+}

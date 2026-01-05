@@ -1,0 +1,39 @@
+{
+  "family_name": "Phthiracaridae",
+  "order_name": "Oribatida",
+  "gbif_id": 3639,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Phthiracaridae mites are not specified in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As mites, Phthiracaridae likely possess mechanoreceptors for sensing touch, pressure, and vibrations, though this is not directly stated.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As mites, Phthiracaridae likely possess chemoreceptors for detecting chemical cues in their environment, though this is not directly stated.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phthiracaridae"
+  ],
+  "generated_at": "2026-01-04T09:58:19.419874"
+}

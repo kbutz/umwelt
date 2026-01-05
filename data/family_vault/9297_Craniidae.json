@@ -1,0 +1,40 @@
+{
+  "family_name": "Craniidae",
+  "order_name": "Craniida",
+  "gbif_id": 9297,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "As sessile organisms, mechanoreception is likely present for detecting water currents and potential disturbances, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely used for feeding and detecting suitable settlement locations for larvae, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Likely absent in adults. Larval stages may possess light-sensitive organs, but this is unknown for Craniidae specifically.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Craniidae",
+    "https://en.wikipedia.org/wiki/Neoancistrocrania_norfolki"
+  ],
+  "generated_at": "2026-01-04T10:16:43.343006"
+}

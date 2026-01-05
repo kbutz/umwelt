@@ -1,0 +1,39 @@
+{
+  "family_name": "Agelasidae",
+  "order_name": "Agelasida",
+  "gbif_id": 3891,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As sponges, Agelasidae likely possess mechanosensory abilities to detect water currents and particle movement for filter feeding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges rely on chemoreception to identify food particles and avoid harmful substances in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 0.1
+      }
+    },
+    "photosensitivity": {
+      "presence": "unknown",
+      "notes": "It is unknown if Agelasidae sponges have specific light-sensing capabilities beyond potential indirect responses to light-related environmental changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 380000000000000,
+        "max": 790000000000000
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agelasidae"
+  ],
+  "generated_at": "2026-01-04T11:06:58.223838"
+}

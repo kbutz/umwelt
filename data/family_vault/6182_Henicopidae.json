@@ -1,0 +1,39 @@
+{
+  "family_name": "Henicopidae",
+  "order_name": "Lithobiomorpha",
+  "gbif_id": 6182,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Henicopidae is currently unknown based on provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As stone centipedes, Henicopidae likely rely on chemoreception for navigation and prey detection, though specific data is unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a family of centipedes, Henicopidae likely use mechanoreception for detecting vibrations and touch.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henicopidae"
+  ],
+  "generated_at": "2026-01-04T10:40:01.999213"
+}

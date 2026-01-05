@@ -1,0 +1,39 @@
+{
+  "family_name": "Monhysteridae",
+  "order_name": "Monhysterida",
+  "gbif_id": 2570,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes generally rely heavily on chemoreception for orientation, prey detection, and mate finding. Likely present in Monhysteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes possess mechanoreceptors for detecting touch, pressure, and movement in their environment. Likely crucial for navigation and feeding in Monhysteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is rare in nematodes. Likely absent in most Monhysteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monhysteridae"
+  ],
+  "generated_at": "2026-01-04T09:47:22.421158"
+}

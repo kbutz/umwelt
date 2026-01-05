@@ -1,0 +1,42 @@
+{
+  "family_name": "Austrolimulidae",
+  "order_name": "Xiphosura",
+  "gbif_id": 4667249,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision are unknown for Austrolimulidae based on the provided text. Given their relation to Limulidae, it is plausible they had some visual capacity, but this cannot be confirmed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence of mechanoreception due to their aquatic lifestyle and relation to Limulidae. The large genal spines suggest a sensitivity to water currents. They likely used mechanoreceptors to navigate and detect prey/predators.",
+      "inferred_from_species": [
+        "Tasmaniolimulus patersoni"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of chemoreception are unknown for Austrolimulidae based on the provided text. As aquatic organisms, chemoreception is plausible, but there is no direct evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austrolimulidae",
+    "https://en.wikipedia.org/wiki/Tasmaniolimulus_patersoni"
+  ],
+  "generated_at": "2026-01-04T12:23:52.691319"
+}

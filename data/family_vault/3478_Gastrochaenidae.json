@@ -1,0 +1,39 @@
+{
+  "family_name": "Gastrochaenidae",
+  "order_name": "Gastrochaenida",
+  "gbif_id": 3478,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to sight are currently unknown for this family, based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Gastrochaenidae likely possess mechanoreceptors for detecting water currents, substrate vibrations, and physical contact.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves typically use chemoreception to detect food particles and assess water quality.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gastrochaenidae"
+  ],
+  "generated_at": "2026-01-04T12:52:04.070338"
+}

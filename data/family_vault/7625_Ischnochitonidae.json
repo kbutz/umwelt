@@ -1,0 +1,39 @@
+{
+  "family_name": "Ischnochitonidae",
+  "order_name": "Not Available",
+  "gbif_id": 7625,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As polyplacophoran molluscs, chemoreception is likely used for feeding and navigation, but specific details for Ischnochitonidae are not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As molluscs in a marine environment, they likely have mechanoreceptors for sensing water movement and substrate vibrations, but details for Ischnochitonidae are not provided in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ischnochitonidae"
+  ],
+  "generated_at": "2026-01-04T12:29:02.097114"
+}

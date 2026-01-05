@@ -1,0 +1,40 @@
+{
+  "family_name": "Diaptomidae",
+  "order_name": "Calanoida",
+  "gbif_id": 9038,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As pelagic copepods, Diaptomidae likely rely on mechanoreceptors to detect water currents and vibrations for prey detection, predator avoidance, and mate finding. This is inferred from their general lifestyle as free-swimming crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for food detection and mate recognition in Diaptomidae, as it is in many aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision in Diaptomidae are not explicitly stated in the provided context. Further research is needed to determine the extent to which they use visual cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diaptomidae",
+    "https://en.wikipedia.org/wiki/Skistodiaptomus_bogalusensis"
+  ],
+  "generated_at": "2026-01-04T10:08:30.304111"
+}

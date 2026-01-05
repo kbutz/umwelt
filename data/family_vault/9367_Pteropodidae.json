@@ -1,0 +1,51 @@
+{
+  "family_name": "Pteropodidae",
+  "order_name": "Chiroptera",
+  "gbif_id": 9367,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Megabats, also known as fruit bats, rely heavily on vision, particularly for navigation and foraging, distinguishing them from many other bats that primarily use echolocation. Their large eyes are adapted for low-light conditions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Olfaction is crucial for locating fruit and other food sources. Many megabats have a well-developed sense of smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "echolocation": {
+      "presence": "rare",
+      "notes": "While most bats rely on echolocation, megabats primarily use vision and olfaction. Some species, however, have been shown to possess a rudimentary form of echolocation or use tongue clicks for spatial orientation, this is rare.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20000.0,
+        "max": 120000.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sense is important for navigation in roosting areas and for interactions with other bats. The presence of clawed second digits suggests a tactile use for gripping and climbing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pteropodidae",
+    "https://en.wikipedia.org/wiki/Dyacopterus_spadiceus",
+    "https://en.wikipedia.org/wiki/Scotonycteris_zenkeri",
+    "https://en.wikipedia.org/wiki/Thoopterus_nigrescens"
+  ],
+  "generated_at": "2026-01-04T10:20:59.605764"
+}

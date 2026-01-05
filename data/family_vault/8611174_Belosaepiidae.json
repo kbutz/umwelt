@@ -1,0 +1,39 @@
+{
+  "family_name": "Belosaepiidae",
+  "order_name": "Unknown",
+  "gbif_id": 8611174,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely possessed vision, but details are unknown. Similar to Sepiidae cuttlefish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, but details are unknown. Common in cephalopods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, but details are unknown. Important for aquatic animals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belosaepiidae"
+  ],
+  "generated_at": "2026-01-04T11:04:40.311813"
+}

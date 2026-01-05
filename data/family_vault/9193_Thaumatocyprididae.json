@@ -1,0 +1,39 @@
+{
+  "family_name": "Thaumatocyprididae",
+  "order_name": "Halocyprida",
+  "gbif_id": 9193,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Thaumatocyprididae ostracods are not specified in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Thaumatocyprididae ostracods are not specified in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Thaumatocyprididae ostracods are not specified in the given context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thaumatocyprididae"
+  ],
+  "generated_at": "2026-01-04T10:11:47.159778"
+}

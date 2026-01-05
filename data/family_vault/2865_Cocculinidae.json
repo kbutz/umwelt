@@ -1,0 +1,40 @@
+{
+  "family_name": "Cocculinidae",
+  "order_name": "Gastropoda",
+  "gbif_id": 2865,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As deep-sea limpets, Cocculinidae likely rely on chemoreception to locate food sources in the absence of light. This is inferred from the general biology of deep-sea gastropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Limpets are known to have mechanoreceptors for sensing their environment and maintaining attachment. This is important for their lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision is not explicitly mentioned and may be reduced or absent in deep-sea limpets.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cocculinidae",
+    "https://en.wikipedia.org/wiki/Coccopigya_spinigera"
+  ],
+  "generated_at": "2026-01-04T12:55:53.797534"
+}

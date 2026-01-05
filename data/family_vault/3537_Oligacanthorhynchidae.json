@@ -1,0 +1,33 @@
+{
+  "family_name": "Oligacanthorhynchidae",
+  "order_name": "Oligacanthorhynchida",
+  "gbif_id": 3537,
+  "sensory_modalities": {
+    "Mechanoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms attaching to the intestinal wall, they likely possess mechanoreceptors to detect touch, pressure, and potentially movement within the host's gut.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "Chemoreception": {
+      "presence": "common",
+      "notes": "Likely rely on chemoreception to locate and identify suitable attachment sites within the host's intestines and to detect host-derived cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oligacanthorhynchida",
+    "https://en.wikipedia.org/wiki/Oncicola_michaelseni",
+    "https://en.wikipedia.org/wiki/Oncicola_chibigouzouensis",
+    "https://en.wikipedia.org/wiki/Oncicola_pomatostomi"
+  ],
+  "generated_at": "2026-01-04T09:50:27.357715"
+}

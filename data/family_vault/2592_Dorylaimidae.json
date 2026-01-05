@@ -1,0 +1,39 @@
+{
+  "family_name": "Dorylaimidae",
+  "order_name": "Dorylaimida",
+  "gbif_id": 2592,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes typically possess mechanoreceptors for sensing touch and movement in their environment. This is likely present in Dorylaimidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes use chemoreception to find food and mates. This is a common sensory modality in nematodes and likely present in Dorylaimidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Dorylaimidae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 390000000000000.0,
+        "max": 790000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dorylaimidae"
+  ],
+  "generated_at": "2026-01-04T09:47:36.858782"
+}

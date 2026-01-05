@@ -1,0 +1,47 @@
+{
+  "family_name": "Corallimorphidae",
+  "order_name": "Corallimorpharia",
+  "gbif_id": 8181,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As anthozoans similar to sea anemones, they likely possess mechanoreceptors to detect water movement and touch, which is common for prey capture and predator avoidance.",
+      "inferred_from_species": [
+        "Corynactis annulata",
+        "Corynactis californica"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As anthozoans, they likely possess chemoreceptors to detect chemical cues in the water for prey detection and other environmental sensing.",
+      "inferred_from_species": [
+        "Corynactis annulata",
+        "Corynactis californica"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corallimorphidae",
+    "https://en.wikipedia.org/wiki/Corynactis_annulata",
+    "https://en.wikipedia.org/wiki/Corynactis_californica"
+  ],
+  "generated_at": "2026-01-04T11:33:04.267814"
+}

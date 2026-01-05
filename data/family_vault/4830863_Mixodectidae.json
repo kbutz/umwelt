@@ -1,0 +1,49 @@
+{
+  "family_name": "Mixodectidae",
+  "order_name": "Dermoptera",
+  "gbif_id": 4830863,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but no specific information available. As insectivorous mammals, vision would be useful for foraging.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Likely present to some degree for prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Likely present for predator avoidance and potentially prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Present and important for interacting with the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mixodectidae",
+    "https://en.wikipedia.org/wiki/Dracontolestes_aphantus"
+  ],
+  "generated_at": "2026-01-04T10:22:28.520396"
+}

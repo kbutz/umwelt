@@ -1,0 +1,50 @@
+{
+  "family_name": "Kneriidae",
+  "order_name": "Gonorhynchiformes",
+  "gbif_id": 3710,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presence inferred due to being fish and occupying flowing streams. Specific visual capabilities unknown.",
+      "inferred_from_species": [
+        "Parakneria tanzaniae",
+        "Parakneria spekii"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence of lateral line system due to being fish and inhabiting flowing streams. Likely important for detecting water currents and prey.",
+      "inferred_from_species": [
+        "Parakneria tanzaniae",
+        "Parakneria spekii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence of taste and smell as a general characteristic of fish in freshwater environments.",
+      "inferred_from_species": [
+        "Parakneria tanzaniae",
+        "Parakneria spekii"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kneriidae",
+    "https://en.wikipedia.org/wiki/Parakneria_tanzaniae",
+    "https://en.wikipedia.org/wiki/Parakneria_spekii"
+  ],
+  "generated_at": "2026-01-04T11:24:16.315504"
+}

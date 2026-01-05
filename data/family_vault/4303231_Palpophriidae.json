@@ -1,0 +1,40 @@
+{
+  "family_name": "Palpophriidae",
+  "order_name": "Unknown",
+  "gbif_id": 4303231,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown for this family, as no specific information is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities are unknown, but likely present to some extent given their crustacean nature, although no specific data is available.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities are unknown but likely present given they are crustaceans, allowing them to sense water currents and physical contact. Specific data is lacking.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palpophriidae",
+    "https://en.wikipedia.org/wiki/Palpophria_aestheta"
+  ],
+  "generated_at": "2026-01-04T10:10:28.414267"
+}

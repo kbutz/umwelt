@@ -1,0 +1,39 @@
+{
+  "family_name": "Harpagophoridae",
+  "order_name": "Spirostreptida",
+  "gbif_id": 2946,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in millipedes is variable, and the presence and quality in Harpagophoridae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Harpagophoridae likely rely on chemoreception for navigation, food detection, and communication. Details specific to the family are unknown from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes generally use mechanoreceptors for detecting vibrations and tactile information. Harpagophoridae, as a family of millipedes, likely possess this capability. Details specific to the family are unknown from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Harpagophoridae"
+  ],
+  "generated_at": "2026-01-04T10:43:56.253357"
+}

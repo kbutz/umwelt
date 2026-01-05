@@ -1,0 +1,44 @@
+{
+  "family_name": "Capsalidae",
+  "order_name": "Monopisthocotylea",
+  "gbif_id": 3211,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of the free-living oncomiracidium larva are unknown from this context. Adult sensory capabilities are also unknown. Given they are parasitic flatworms, vision may be limited.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for host detection and orientation by the oncomiracidium larva and adults. Flatworms in general rely on chemical cues.",
+      "inferred_from_species": [
+        "Entobdella soleae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used for orientation and attachment to the host. The haptor's function implies sensitivity to touch and pressure.",
+      "inferred_from_species": [
+        "Entobdella soleae"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Capsalidae",
+    "https://en.wikipedia.org/wiki/Entobdella_soleae"
+  ],
+  "generated_at": "2026-01-04T12:18:41.391093"
+}

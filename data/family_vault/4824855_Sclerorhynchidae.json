@@ -1,0 +1,51 @@
+{
+  "family_name": "Sclerorhynchidae",
+  "order_name": "Sclerorhynchoidei",
+  "gbif_id": 4824855,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Possessed a large, toothed rostrum, similar to modern sawfish, suggesting the use of mechanoreception to detect prey or navigate.",
+      "inferred_from_species": [
+        "Ischyrhiza mira"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Cartilaginous fish often possess electroreception, but it is unknown if Sclerorhynchidae had this capability.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sclerorhynchidae",
+    "https://en.wikipedia.org/wiki/Ischyrhiza_mira"
+  ],
+  "generated_at": "2026-01-04T10:54:15.090671"
+}

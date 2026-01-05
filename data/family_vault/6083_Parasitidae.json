@@ -1,0 +1,57 @@
+{
+  "family_name": "Parasitidae",
+  "order_name": "Mesostigmata",
+  "gbif_id": 6083,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mites in this family are predatory and detect microarthropods and nematodes, implying a sense of touch or vibration to locate prey. Given their small size, substrate vibrations are likely key.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Predatory behavior implies the use of chemoreception to locate prey or hosts for phoresy. They are found in various habitats like soil, nests, and decaying organic matter, indicating a reliance on chemical cues.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "hygroreception": {
+      "presence": "common",
+      "notes": "Given their habitat in soil, nests, and decaying organic matter, humidity sensing is likely important for survival.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "thermoreception": {
+      "presence": "unknown",
+      "notes": "While possible, the context doesn't confirm thermoreception, but as they inhabit animal nests, it is plausible they can sense temperature differences.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Parasitidae is not specified in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Parasitidae"
+  ],
+  "generated_at": "2026-01-04T11:19:28.113518"
+}

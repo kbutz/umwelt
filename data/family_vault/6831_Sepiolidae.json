@@ -1,0 +1,41 @@
+{
+  "family_name": "Sepiolidae",
+  "order_name": "Unknown",
+  "gbif_id": 6831,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely present, given that Sepiolidae are cephalopods and most cephalopods have complex eyes. Further data needed to confirm visual acuity and spectral sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present; used for detecting water currents and vibrations. Important for prey detection and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present; used for detecting chemical cues in the water. Important for finding prey and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sepiolidae",
+    "https://en.wikipedia.org/wiki/Austrorossia_enigmatica",
+    "https://en.wikipedia.org/wiki/Austrorossia_australis"
+  ],
+  "generated_at": "2026-01-04T11:04:32.583420"
+}

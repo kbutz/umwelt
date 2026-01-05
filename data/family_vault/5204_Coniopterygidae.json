@@ -1,0 +1,39 @@
+{
+  "family_name": "Coniopterygidae",
+  "order_name": "Neuroptera",
+  "gbif_id": 5204,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Dustywings are winged insects, suggesting functional vision for navigation and possibly mate recognition. Further research is needed to understand visual acuity and spectral sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As winged insects, mechanoreception is likely important for flight control, detecting air currents, and potentially substrate vibrations. Wing venation is a key feature for genus identification, implying a role for mechanosensory structures on the wings.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and role of chemoreception in Coniopterygidae is currently unknown. Further research is needed to determine the presence of antennae and their function in detecting chemical cues related to food sources or mate recognition.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coniopterygidae"
+  ],
+  "generated_at": "2026-01-04T12:03:14.945101"
+}

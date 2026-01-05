@@ -1,0 +1,40 @@
+{
+  "family_name": "Streptaxidae",
+  "order_name": "Stylommatophora",
+  "gbif_id": 6533,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but no specific data available in provided context. Further research needed to determine visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception for prey detection and navigation, typical for terrestrial snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Uses mechanoreception for sensing vibrations and touch, important for interacting with the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Streptaxidae",
+    "https://en.wikipedia.org/wiki/Gulella_bicolor"
+  ],
+  "generated_at": "2026-01-04T11:53:02.436452"
+}

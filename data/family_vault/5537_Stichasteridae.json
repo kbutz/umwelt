@@ -1,0 +1,39 @@
+{
+  "family_name": "Stichasteridae",
+  "order_name": "Forcipulatida",
+  "gbif_id": 5537,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not detailed in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As Asteroidea, Stichasteridae likely use chemoreception for prey detection and navigation. Further research is needed for specific details.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As Asteroidea, Stichasteridae likely use mechanoreception to sense their environment. Further research is needed for specific details.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stichasteridae"
+  ],
+  "generated_at": "2026-01-04T11:55:09.392613"
+}

@@ -1,0 +1,47 @@
+{
+  "family_name": "Unionidae",
+  "order_name": "Unionida",
+  "gbif_id": 3461,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves inhabiting flowing freshwater environments (rivers, streams, creeks), Unionidae likely possess mechanoreceptors to detect water currents and substrate vibrations. This is inferred due to their need to maintain position and potentially detect nearby organisms or changes in water flow.",
+      "inferred_from_species": [
+        "Gonidea angulata",
+        "Alasmidonta heterodon"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Freshwater mussels likely utilize chemoreception to detect food sources, conspecifics, and potential threats in their aquatic environment. Inferred because all bivalves must find and filter feed.",
+      "inferred_from_species": [
+        "Gonidea angulata",
+        "Alasmidonta heterodon"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "The presence or absence of light sensitivity in Unionidae is currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Unionidae",
+    "https://en.wikipedia.org/wiki/Gonidea_angulata",
+    "https://en.wikipedia.org/wiki/Alasmidonta_heterodon"
+  ],
+  "generated_at": "2026-01-04T12:36:57.258918"
+}

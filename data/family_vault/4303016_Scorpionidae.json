@@ -1,0 +1,39 @@
+{
+  "family_name": "Scorpionidae",
+  "order_name": "Scorpiones",
+  "gbif_id": 4303016,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Scorpions generally possess highly sensitive mechanoreceptors for detecting vibrations in the substrate and air, crucial for prey detection and predator avoidance. This is inferred for Scorpionidae, given it is a family of scorpions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Scorpions use chemoreceptors on their pedipalps and other body parts to detect chemical cues in the environment, aiding in prey location, mate finding, and navigation. This is inferred for Scorpionidae, given it is a family of scorpions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "Scorpions typically have multiple pairs of eyes (median and lateral), but their vision is generally considered poor, primarily used for detecting changes in light intensity. This is inferred for Scorpionidae, given it is a family of scorpions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scorpionidae"
+  ],
+  "generated_at": "2026-01-04T10:51:28.659900"
+}

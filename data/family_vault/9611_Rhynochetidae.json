@@ -1,0 +1,67 @@
+{
+  "family_name": "Rhynochetidae",
+  "order_name": "Unknown",
+  "gbif_id": 9611,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Pale grey plumage suggests functional vision for habitat and prey detection. The Kagu's (Rhynochetos jubatus) habitat in dense mountain forests further suggests vision is used, though potentially in low light conditions.",
+      "inferred_from_species": [
+        "Rhynochetos jubatus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely used for communication and predator detection, as is typical for birds, and particularly relevant for a ground-dwelling species.",
+      "inferred_from_species": [
+        "Rhynochetos jubatus"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Important for foraging and nest building, as they are ground-dwelling and build nests of sticks.",
+      "inferred_from_species": [
+        "Rhynochetos jubatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The presence and extent of olfactory capabilities are not mentioned in the provided text. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Presumed to be present for food discrimination, given their invertebrate diet.",
+      "inferred_from_species": [
+        "Rhynochetos jubatus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhynochetidae",
+    "https://en.wikipedia.org/wiki/Rhynochetos_jubatus",
+    "https://en.wikipedia.org/wiki/Rhynochetos_orarius"
+  ],
+  "generated_at": "2026-01-04T12:32:11.461316"
+}

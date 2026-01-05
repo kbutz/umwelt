@@ -1,0 +1,44 @@
+{
+  "family_name": "Polyplacotomidae",
+  "order_name": "Unknown",
+  "gbif_id": 12239082,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to detect algae, its primary food source.",
+      "inferred_from_species": [
+        "Polyplacotoma mediterranea"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possesses mechanoreceptors for basic environmental awareness and navigation.",
+      "inferred_from_species": [
+        "Polyplacotoma mediterranea"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No evidence available to suggest the presence or absence of vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polyplacotomidae",
+    "https://en.wikipedia.org/wiki/Polyplacotoma_mediterranea"
+  ],
+  "generated_at": "2026-01-04T13:02:25.590585"
+}

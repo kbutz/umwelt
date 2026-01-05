@@ -1,0 +1,60 @@
+{
+  "family_name": "Procaviidae",
+  "order_name": "Hyracoidea",
+  "gbif_id": 9378,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Hyraxes possess vision, likely used for predator detection and navigation within their rocky or arboreal habitats. Further specifics on visual acuity and color perception are unknown based on provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hyraxes likely possess a functional sense of hearing, vital for communication and predator detection. Specific frequency ranges are not detailed in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Hyraxes are mammals and are inferred to use olfaction for social communication, foraging, and predator avoidance. Specific olfactory capabilities are not detailed in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile senses are vital for navigating rocky terrains and arboreal environments. The provided text mentions 'well-furred' animals suggesting somatosensory perception via hair follicles.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "As herbivores, hyraxes use their sense of taste to identify edible plants and assess their nutritional value. No further specifics are available from the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Procaviidae",
+    "https://en.wikipedia.org/wiki/Dendrohyrax_arboreus",
+    "https://en.wikipedia.org/wiki/Dendrohyrax_dorsalis",
+    "https://en.wikipedia.org/wiki/Heterohyrax_brucei"
+  ],
+  "generated_at": "2026-01-04T10:31:06.424936"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Siphonocryptidae",
+  "order_name": "Siphonocryptida",
+  "gbif_id": 8247,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Siphonocryptidae are not detailed in the provided text. Vision presence is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Siphonocryptidae likely rely on chemoreception for navigation and food detection, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Siphonocryptidae likely use mechanoreception for sensing their environment, but specific details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphonocryptida"
+  ],
+  "generated_at": "2026-01-04T11:11:07.903794"
+}

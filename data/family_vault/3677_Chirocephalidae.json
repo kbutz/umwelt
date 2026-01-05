@@ -1,0 +1,40 @@
+{
+  "family_name": "Chirocephalidae",
+  "order_name": "Anostraca (inferred)",
+  "gbif_id": 3677,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities within the Chirocephalidae family are currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and other physical stimuli. Common in aquatic crustaceans, but specific details within Chirocephalidae are unknown from context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting food and mates. Common in aquatic crustaceans, but specific details within Chirocephalidae are unknown from context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chirocephalidae",
+    "https://en.wikipedia.org/wiki/Eubranchipus_intricatus"
+  ],
+  "generated_at": "2026-01-04T09:59:22.337090"
+}

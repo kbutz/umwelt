@@ -1,0 +1,44 @@
+{
+  "family_name": "Spongiphoridae",
+  "order_name": "Dermaptera",
+  "gbif_id": 2795,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information is provided about vision in Spongiphoridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred from the general ecology of earwigs and insects, suggesting a reliance on chemical cues for finding food, mates, and suitable habitats.",
+      "inferred_from_species": [
+        "Labia minor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred due to the presence of cerci (pincers), which are used for defense and prey capture, suggesting tactile sensitivity. Also, general insect sensory biology suggests use of mechanoreceptors for balance and proprioception.",
+      "inferred_from_species": [
+        "Labia minor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spongiphoridae",
+    "https://en.wikipedia.org/wiki/Labia_minor"
+  ],
+  "generated_at": "2026-01-04T11:28:29.384288"
+}

@@ -1,0 +1,60 @@
+{
+  "family_name": "Columbidae",
+  "order_name": "Columbiformes",
+  "gbif_id": 5233,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Columbidae possess vision, which is crucial for foraging, predator detection, and navigation. Given the prevalence of visual foraging and social signaling in birds, it's inferred to be well-developed across the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is essential for avian communication and predator detection. It is inferred that Columbidae use auditory cues for social interactions and environmental awareness.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Taste is present but likely plays a less prominent role than vision or hearing, given their granivorous, frugivorous, and folivorous diet. They would need taste to detect toxins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in Columbidae is not clear from the context. More research is needed to determine the extent to which they rely on smell.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile senses would be important for feeding, preening, and social interactions. The presence of fleshy ceres on the bill in some species suggests a sensitivity to touch in that area.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columbidae",
+    "https://en.wikipedia.org/wiki/Metriopelia_ceciliae",
+    "https://en.wikipedia.org/wiki/Metriopelia_morenoi",
+    "https://en.wikipedia.org/wiki/Metriopelia_aymara"
+  ],
+  "generated_at": "2026-01-04T11:48:57.530213"
+}

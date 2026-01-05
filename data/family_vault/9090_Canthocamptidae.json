@@ -1,0 +1,39 @@
+{
+  "family_name": "Canthocamptidae",
+  "order_name": "Copepoda",
+  "gbif_id": 9090,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As copepods, Canthocamptidae likely rely on mechanoreception to detect water currents, vibrations, and hydrodynamic stimuli for prey detection, predator avoidance, and mate finding. This is inferred from other copepod species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Copepods are known to use chemoreception to detect chemical cues in the water, which they use to locate food, avoid predators, and find mates. This is inferred from other copepod species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The prevalence and functionality of vision within Canthocamptidae are currently unknown based on the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canthocamptidae"
+  ],
+  "generated_at": "2026-01-04T11:42:19.104309"
+}

@@ -1,0 +1,30 @@
+{
+  "family_name": "Plakinidae",
+  "order_name": "Homoscleromorpha",
+  "gbif_id": 8136,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As sponges, Plakinidae likely rely on chemoreception to detect and respond to chemical cues in their environment for feeding, settlement, and other essential functions. This is inferred from the general biology of sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Plakinidae likely possess mechanoreceptors to detect physical stimuli such as water currents and touch. This is inferred from the general biology of sponges and their sessile lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plakinidae"
+  ],
+  "generated_at": "2026-01-04T11:07:48.992548"
+}

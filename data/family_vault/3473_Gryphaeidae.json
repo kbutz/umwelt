@@ -1,0 +1,43 @@
+{
+  "family_name": "Gryphaeidae",
+  "order_name": "Unknown",
+  "gbif_id": 3473,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As marine bivalves, Gryphaeidae likely possess mechanoreceptors for detecting water currents and substrate vibrations. They are cemented to a substrate, implying an ability to sense suitable attachment points.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Filter feeders like Gryphaeidae depend on chemoreception to detect food particles and assess water quality. Likely used for feeding.",
+      "inferred_from_species": [
+        "Hyotissa hyotis"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Gryphaeidae is unknown from the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gryphaeidae",
+    "https://en.wikipedia.org/wiki/Neopycnodonte_cochlear",
+    "https://en.wikipedia.org/wiki/Hyotissa_hyotis"
+  ],
+  "generated_at": "2026-01-04T12:42:38.312634"
+}

@@ -1,0 +1,64 @@
+{
+  "family_name": "Pristiophoridae",
+  "order_name": "Pristiophoriformes",
+  "gbif_id": 2196,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sawsharks possess a saw-like rostrum edged with sharp teeth, which they use to slash and disable their prey. The rostrum and associated structures likely have mechanoreceptive capabilities for detecting prey movement and navigating the environment. Barbels are present, and in some species like Pliotrema warreni, they are closer to the mouth than in other species, potentially enhancing tactile sensing during feeding.",
+      "inferred_from_species": [
+        "Pliotrema warreni",
+        "Pristiophorus cirratus",
+        "Pristiophorus nudipinnis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "As sharks, sawsharks likely possess ampullae of Lorenzini, enabling them to detect weak electric fields produced by other organisms. This would be used for prey detection, especially in low-visibility environments.",
+      "inferred_from_species": [
+        "Pristiophorus cirratus",
+        "Pristiophorus nudipinnis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "Sawsharks possess eyes, indicating the presence of vision. They inhabit depths of 40-100m and deeper (up to 915m for Bahamas sawshark), suggesting that their vision is adapted to low-light conditions.",
+      "inferred_from_species": [
+        "Pristiophorus cirratus",
+        "Pristiophorus nudipinnis"
+      ],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As sharks, sawsharks likely possess a keen sense of smell (olfaction) and taste (gustation), used for detecting prey and navigating their environment.",
+      "inferred_from_species": [
+        "Pristiophorus cirratus",
+        "Pristiophorus nudipinnis"
+      ],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 10000.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pristiophoridae",
+    "https://en.wikipedia.org/wiki/Pliotrema_warreni",
+    "https://en.wikipedia.org/wiki/Pristiophorus_cirratus",
+    "https://en.wikipedia.org/wiki/Pristiophorus_nudipinnis"
+  ],
+  "generated_at": "2026-01-04T10:24:08.714388"
+}

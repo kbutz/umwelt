@@ -1,0 +1,44 @@
+{
+  "family_name": "Rhopalonematidae",
+  "order_name": "Unknown",
+  "gbif_id": 3375,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As jellyfish, they likely possess basic mechanoreceptors for detecting water movement and pressure. The rapid escape response observed in Aglantha digitale suggests a well-developed mechanosensory system.",
+      "inferred_from_species": [
+        "Aglantha digitale"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of visual capabilities within the Rhopalonematidae family is currently unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception is likely present for prey detection and other environmental cues, but this is not explicitly stated in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhopalonematidae",
+    "https://en.wikipedia.org/wiki/Aglantha_intermedia",
+    "https://en.wikipedia.org/wiki/Aglantha_elata",
+    "https://en.wikipedia.org/wiki/Aglantha_digitale"
+  ],
+  "generated_at": "2026-01-04T10:13:24.541622"
+}

@@ -1,0 +1,46 @@
+{
+  "family_name": "Berycidae",
+  "order_name": "Beryciformes",
+  "gbif_id": 7193,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Berycidae possess large eyes, which is a common trait. Given the deep-sea habitat, vision is likely adapted for low-light conditions.",
+      "inferred_from_species": [
+        "Beryx splendens"
+      ],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, Berycidae likely possess a lateral line system for detecting vibrations and pressure changes in the water. This is inferred due to their classification as fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish commonly use chemoreception for detecting chemicals in the water, which is used in finding food. Adults search for prey along the ocean floor, so chemoreception is a likely sense.",
+      "inferred_from_species": [
+        "Beryx decadactylus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berycidae",
+    "https://en.wikipedia.org/wiki/Beryx_splendens",
+    "https://en.wikipedia.org/wiki/Beryx_decadactylus",
+    "https://en.wikipedia.org/wiki/Beryx_mollis"
+  ],
+  "generated_at": "2026-01-04T09:54:07.948476"
+}

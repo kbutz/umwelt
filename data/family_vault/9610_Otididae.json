@@ -1,0 +1,60 @@
+{
+  "family_name": "Otididae",
+  "order_name": "Unknown",
+  "gbif_id": 9610,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Bustards are terrestrial birds inhabiting open grasslands and steppes, suggesting vision is important for predator detection, foraging, and navigation. Given the open habitat, visual acuity is likely well-developed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000.0,
+        "max": 790000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As terrestrial birds, bustards likely rely on auditory cues for predator detection and communication. Male bustards are known to use vocal displays during courtship.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile_reception": {
+      "presence": "common",
+      "notes": "Tactile senses are important for general interaction with the environment (ground, vegetation, prey) and for social interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in bustards is currently unknown. Further research is needed to determine the sensitivity and importance of smell for these birds.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The taste capabilities of bustards are currently unknown. They are omnivorous, suggesting they can likely distinguish between different food types, but the resolution of their taste is not mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Otididae",
+    "https://en.wikipedia.org/wiki/Lissotis_hartlaubii",
+    "https://en.wikipedia.org/wiki/Lissotis_melanogaster",
+    "https://en.wikipedia.org/wiki/Houbaropsis_bengalensis"
+  ],
+  "generated_at": "2026-01-04T12:34:08.616935"
+}

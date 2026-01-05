@@ -1,0 +1,42 @@
+{
+  "family_name": "Glomeridae",
+  "order_name": "Glomerida",
+  "gbif_id": 4008,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Glomeridae is currently unknown from the provided context. Further research is needed to determine visual capabilities across the family. Given the cave-dwelling nature of Rhyparomeris lineata, vision may be reduced or absent in some species.",
+      "inferred_from_species": [
+        "Rhyparomeris lineata"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As arthropods, pill millipedes likely rely heavily on chemoreception for navigation, food detection, and communication. This is inferred, as it's a common trait among terrestrial arthropods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely crucial for detecting vibrations and tactile stimuli, aiding in movement, orientation, and predator avoidance. Pill millipedes likely use tactile hairs and other sensory structures for this purpose.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glomeridae",
+    "https://en.wikipedia.org/wiki/Rhyparomeris_lineata"
+  ],
+  "generated_at": "2026-01-04T11:09:02.908469"
+}

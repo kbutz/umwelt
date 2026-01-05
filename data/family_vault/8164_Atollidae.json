@@ -1,0 +1,53 @@
+{
+  "family_name": "Atollidae",
+  "order_name": "Coronatae",
+  "gbif_id": 8164,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presence of rhopalia suggests the capacity for light detection and image formation, although resolution is unknown. Likely important for detecting bioluminescent signals and potential prey or predators. Inferred, based on presence of rhopalia.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Medusae possess tentacles and lappets at the bell margin. These structures likely serve as mechanoreceptors, detecting water movement and pressure changes to aid in prey capture and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception may be used for prey detection or intraspecific communication. Function and structures unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "bioluminescence": {
+      "presence": "common",
+      "notes": "At least one species, Atolla wyvillei, is known to be bioluminescent, using flashes as a defense mechanism.",
+      "inferred_from_species": [
+        "Atolla wyvillei"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atolla",
+    "https://en.wikipedia.org/wiki/Atolla_russelli",
+    "https://en.wikipedia.org/wiki/Atolla_gigantea",
+    "https://en.wikipedia.org/wiki/Atolla_wyvillei"
+  ],
+  "generated_at": "2026-01-04T10:15:00.082828"
+}

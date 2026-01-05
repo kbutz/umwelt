@@ -1,0 +1,39 @@
+{
+  "family_name": "Nebaliidae",
+  "order_name": "Leptostraca",
+  "gbif_id": 8905,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities of Nebaliidae are not described in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception capabilities of Nebaliidae are not described in provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception capabilities of Nebaliidae are not described in provided context. Antennae are mentioned but sensory function is not specified.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nebaliidae"
+  ],
+  "generated_at": "2026-01-04T12:18:07.202164"
+}

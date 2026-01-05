@@ -1,0 +1,40 @@
+{
+  "family_name": "Trichinellidae",
+  "order_name": "Unknown",
+  "gbif_id": 5981,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for locating hosts and navigating their environment. This is inferred for Trichinellidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes are known to have mechanoreceptors for sensing touch and movement. Inferred for Trichinellidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is rare in nematodes, particularly parasitic nematodes like Trichinella. Likely absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trichinellidae",
+    "https://en.wikipedia.org/wiki/Trichinella_nativa"
+  ],
+  "generated_at": "2026-01-04T12:58:02.106309"
+}

@@ -1,0 +1,46 @@
+{
+  "family_name": "Pyrirhynchidae",
+  "order_name": "Heteramorphida",
+  "gbif_id": 7815994,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As endoparasites living in the intestines of birds, they likely use mechanoreception to detect host peristalsis or other internal cues for positioning and avoiding expulsion. The proboscis with hooks and spines suggests a strong reliance on physical interaction with the host's tissues.",
+      "inferred_from_species": [
+        "Pyrirhynchus heterospinus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting host chemical signals, such as digestive enzymes, bile, or specific nutrients, to locate suitable attachment sites and initiate feeding. This is a common adaptation among parasitic worms.",
+      "inferred_from_species": [
+        "Pyrirhynchus heterospinus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Given their endoparasitic lifestyle, vision is highly unlikely and presumed absent.",
+      "inferred_from_species": [
+        "Pyrirhynchus heterospinus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pyrirhynchus",
+    "https://en.wikipedia.org/wiki/Pyrirhynchus_heterospinus"
+  ],
+  "generated_at": "2026-01-04T12:17:59.271172"
+}

@@ -1,0 +1,55 @@
+{
+  "family_name": "Dasyatidae",
+  "order_name": "Myliobatiformes",
+  "gbif_id": 2195,
+  "sensory_modalities": {
+    "electroreception": {
+      "presence": "common",
+      "notes": "Members of this family are highly electroreceptive, detecting weak electric fields from prey using ampullae of Lorenzini dispersed across their skin.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, inferred by the ability to hunt and detect prey. The pelagic stingray, *Pteroplatytrygon violacea* hunts free-swimming invertebrates and bony fishes.",
+      "inferred_from_species": [
+        "Pteroplatytrygon violacea"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is important for detecting water movements and prey. They use pectoral fins to trap and move food to the mouth, implying sensitivity to touch and pressure.",
+      "inferred_from_species": [
+        "Pteroplatytrygon violacea"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 2000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used in prey detection and potentially mate selection. While not explicitly stated, it is a common sense for aquatic animals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10000.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dasyatidae",
+    "https://en.wikipedia.org/wiki/Pteroplatytrygon_violacea",
+    "https://en.wikipedia.org/wiki/Dasyatis_brevis",
+    "https://en.wikipedia.org/wiki/Dasyatis_matsubarai"
+  ],
+  "generated_at": "2026-01-04T12:27:13.533862"
+}

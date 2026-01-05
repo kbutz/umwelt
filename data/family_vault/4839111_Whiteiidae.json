@@ -1,0 +1,48 @@
+{
+  "family_name": "Whiteiidae",
+  "order_name": "Coelacanthiformes",
+  "gbif_id": 4839111,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown, vision is inferred from being a fish family, but no specific data is given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown, mechanoreception is inferred from being a fish family, but no specific data is given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities are unknown, chemoreception is inferred from being a fish family, but no specific data is given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "No data available. Electroreception may be present, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Whiteiidae"
+  ],
+  "generated_at": "2026-01-04T10:23:47.912833"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Alcyonidiidae",
+  "order_name": "Ctenostomatida",
+  "gbif_id": 6896,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bryozoans, Alcyonidiidae likely possess mechanoreceptors for detecting water currents and disturbances, aiding in filter feeding and predator avoidance. Inferred based on general bryozoan biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used for detecting food particles and potentially for larval settlement cues. Inferred based on general bryozoan biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-12,
+        "max": 1e-6
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence of photoreceptors in Alcyonidiidae is unknown. Some bryozoan larvae are known to be photosensitive, but it's unclear if this extends to adult colonies.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alcyonidiidae"
+  ],
+  "generated_at": "2026-01-04T11:04:48.757673"
+}

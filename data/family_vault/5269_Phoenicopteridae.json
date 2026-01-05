@@ -1,0 +1,64 @@
+{
+  "family_name": "Phoenicopteridae",
+  "order_name": "Phoenicopteriformes",
+  "gbif_id": 5269,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Flamingos are wading birds, suggesting vision is important for foraging and navigation. They inhabit diverse environments across the Americas and Afro-Eurasia, implying well-developed visual capabilities.",
+      "inferred_from_species": [
+        "Phoeniconaias minor",
+        "Phoenicoparrus andinus",
+        "Phoenicoparrus jamesi"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "As birds, flamingos likely possess hearing for communication and predator detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile senses are crucial for birds, especially in their bills and feet for feeding and balance. As wading birds, touch is likely important in Phoenicopteridae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The extent of taste in flamingos is unknown from the given information, but it is likely present to some degree.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "smell": {
+      "presence": "unknown",
+      "notes": "Olfaction in birds is variable; without specific data, its prevalence in flamingos is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phoenicopteridae",
+    "https://en.wikipedia.org/wiki/Phoeniconaias_minor",
+    "https://en.wikipedia.org/wiki/Phoenicoparrus_andinus",
+    "https://en.wikipedia.org/wiki/Phoenicoparrus_jamesi"
+  ],
+  "generated_at": "2026-01-04T12:09:14.611732"
+}

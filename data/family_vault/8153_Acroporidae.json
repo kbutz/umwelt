@@ -1,0 +1,41 @@
+{
+  "family_name": "Acroporidae",
+  "order_name": "Scleractinia",
+  "gbif_id": 8153,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As cnidarians, Acroporidae likely possess basic mechanoreception capabilities to detect water movement and physical contact. Important for feeding and orientation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is crucial for corals to detect food, conspecifics, and potential threats in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "common",
+      "notes": "Corals require light for their symbiotic algae (zooxanthellae) to perform photosynthesis. They can likely detect light intensity and spectrum to optimize light capture.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acroporidae",
+    "https://en.wikipedia.org/wiki/Acropora_samoensis",
+    "https://en.wikipedia.org/wiki/Acropora_monticulosa"
+  ],
+  "generated_at": "2026-01-04T10:15:35.920784"
+}

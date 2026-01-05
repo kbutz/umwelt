@@ -1,0 +1,47 @@
+{
+  "family_name": "Goniasteridae",
+  "order_name": "Valvatida",
+  "gbif_id": 9480,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision is not present in the provided context. Given that they are sea stars, some visual capabilities are likely, especially in shallow tropical species, but the extent is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, sea stars possess chemoreceptors for detecting chemical cues in their environment. This is likely important for prey detection (deep-sea corals for Evoplosoma claguei) and other behaviors.",
+      "inferred_from_species": [
+        "Evoplosoma claguei",
+        "Pawsonaster parvus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea stars possess mechanoreceptors for sensing touch and pressure. This is important for navigation, substrate interaction, and prey detection. Given that they are deep-dwelling, this is likely very important.",
+      "inferred_from_species": [
+        "Evoplosoma claguei",
+        "Pawsonaster parvus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goniasteridae",
+    "https://en.wikipedia.org/wiki/Pawsonaster_parvus",
+    "https://en.wikipedia.org/wiki/Evoplosoma_claguei"
+  ],
+  "generated_at": "2026-01-04T10:41:08.851464"
+}

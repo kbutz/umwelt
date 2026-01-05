@@ -1,0 +1,60 @@
+{
+  "family_name": "Acipenseridae",
+  "order_name": "Acipenseriformes",
+  "gbif_id": 2947,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Sturgeons possess vision, though its importance relative to other senses in their typically turbid environments is not detailed in the provided text. Visual acuity likely varies among species and habitats.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sturgeons are bottom-feeders inhabiting rivers and estuaries. They possess a spindle-like body that is smooth-skinned, scaleless, and armored with five lateral rows of bony plates called scutes. The skin and scutes may mediate mechanical sensing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As bottom-feeders, sturgeons likely rely on chemoreception to locate food in turbid environments. This is inferred from their feeding ecology, but specific chemosensory structures are not detailed in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of electroreception in sturgeons is not mentioned in the provided text.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing capability is likely present, given that they are fish, but frequency range or specific adaptations are unknown from this context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acipenseridae",
+    "https://en.wikipedia.org/wiki/Scaphirhynchus_platorynchus",
+    "https://en.wikipedia.org/wiki/Scaphirhynchus_albus",
+    "https://en.wikipedia.org/wiki/Scaphirhynchus_suttkusi"
+  ],
+  "generated_at": "2026-01-04T11:17:02.327398"
+}

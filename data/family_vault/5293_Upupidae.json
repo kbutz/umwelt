@@ -1,0 +1,60 @@
+{
+  "family_name": "Upupidae",
+  "order_name": "Unknown",
+  "gbif_id": 5293,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Colourful birds, suggesting good color vision. They are found across diverse habitats, implying a reliance on visual cues for foraging and social interactions.",
+      "inferred_from_species": [
+        "Upupa epops",
+        "Upupa africana"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Known for a distinctive 'oop-oop-oop' call, indicating auditory communication is present.",
+      "inferred_from_species": [
+        "Upupa epops",
+        "Upupa africana"
+      ],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 8000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No information available about olfaction in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sense is inferred through preening and social interactions. The erectile crest also suggests tactile sensitivity for sensing position/orientation.",
+      "inferred_from_species": [
+        "Upupa epops",
+        "Upupa africana"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Upupidae",
+    "https://en.wikipedia.org/wiki/Upupa_epops",
+    "https://en.wikipedia.org/wiki/Upupa_africana",
+    "https://en.wikipedia.org/wiki/Upupa_antaios"
+  ],
+  "generated_at": "2026-01-04T10:16:08.468257"
+}

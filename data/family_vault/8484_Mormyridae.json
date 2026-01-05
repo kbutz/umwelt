@@ -1,0 +1,21 @@
+{
+  "family_name": "Mormyridae",
+  "order_name": "Osteoglossiformes",
+  "gbif_id": 8484,
+  "sensory_modalities": {
+    "electroreception": {
+      "presence": "common",
+      "notes": "Mormyrids are weakly electric fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mormyridae"
+  ],
+  "generated_at": "2026-01-04T11:12:24.904732"
+}

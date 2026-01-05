@@ -1,0 +1,39 @@
+{
+  "family_name": "Stemmiulidae",
+  "order_name": "Stemmiulida",
+  "gbif_id": 2943,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Stemmiulidae is not provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Stemmiulidae likely rely on chemoreception for navigation and finding food. This is inferred, as it is a common trait amongst millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Stemmiulidae likely use mechanoreception for sensing their environment. This is inferred, as it is a common trait amongst millipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stemmiulidae"
+  ],
+  "generated_at": "2026-01-04T09:51:19.579683"
+}

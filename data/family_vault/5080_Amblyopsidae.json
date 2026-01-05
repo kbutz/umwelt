@@ -1,0 +1,52 @@
+{
+  "family_name": "Amblyopsidae",
+  "order_name": "Unknown",
+  "gbif_id": 5080,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Many species, especially cave-dwelling ones, exhibit reduced or absent eyes. However, at least one species (Chologaster cornuta) possesses functional eyes, and others like Forbesichthys agassizii inhabit both surface and cave environments. Pigmentation is often reduced or absent in cave-dwelling species.",
+      "inferred_from_species": [
+        "Chologaster cornuta",
+        "Typhlichthys subterraneus",
+        "Speoplatyrhinus poulsoni"
+      ],
+      "frequency_range_hz": {
+        "min": 430,
+        "max": 770
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for spatial orientation, prey detection and predator avoidance in dark cave environments. Lateral line system is expected to be present but no specifics are listed in the context.",
+      "inferred_from_species": [
+        "Speoplatyrhinus poulsoni",
+        "Typhlichthys subterraneus"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 1000
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Presumed to be important for locating food sources and navigating the environment, especially in cave systems.",
+      "inferred_from_species": [
+        "Speoplatyrhinus poulsoni",
+        "Typhlichthys subterraneus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amblyopsidae",
+    "https://en.wikipedia.org/wiki/Speoplatyrhinus_poulsoni",
+    "https://en.wikipedia.org/wiki/Typhlichthys_subterraneus",
+    "https://en.wikipedia.org/wiki/Chologaster_cornuta"
+  ],
+  "generated_at": "2026-01-04T11:38:29.169349"
+}

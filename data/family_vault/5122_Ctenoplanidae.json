@@ -1,0 +1,39 @@
+{
+  "family_name": "Ctenoplanidae",
+  "order_name": "Platyctenida",
+  "gbif_id": 5122,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Ctenoplanidae are poorly documented in the provided text. Mechanoreception, the ability to sense physical disturbances, is likely present, as it's a common feature in many marine invertebrates, but its specific characteristics in this family are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception, the ability to detect chemical cues, is likely present as it is a common feature in marine invertebrates but its specific characteristics in this family are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception (light sensitivity) is unknown for Ctenoplanidae based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ctenoplana"
+  ],
+  "generated_at": "2026-01-04T11:59:13.738072"
+}

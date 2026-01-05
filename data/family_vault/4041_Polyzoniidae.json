@@ -1,0 +1,39 @@
+{
+  "family_name": "Polyzoniidae",
+  "order_name": "Polyzoniida",
+  "gbif_id": 4041,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are not explicitly mentioned in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Polyzoniidae likely use chemoreception for navigation, finding food, and communication. This is inferred from general millipede biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes use mechanoreceptors to detect vibrations and tactile stimuli, crucial for navigating their environment and detecting predators.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polyzoniidae"
+  ],
+  "generated_at": "2026-01-04T11:10:51.070304"
+}

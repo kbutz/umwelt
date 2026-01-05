@@ -1,0 +1,39 @@
+{
+  "family_name": "Helicinidae",
+  "order_name": "Unknown",
+  "gbif_id": 7054,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but details unknown. Further research is needed to understand the visual capabilities of Helicinidae snails.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for foraging and navigation, typical of land snails, but details are unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for detecting substrate vibrations and physical contact, common in gastropods. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helicinidae"
+  ],
+  "generated_at": "2026-01-04T12:47:20.850984"
+}

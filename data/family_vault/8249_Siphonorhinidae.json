@@ -1,0 +1,40 @@
+{
+  "family_name": "Siphonorhinidae",
+  "order_name": "Siphonophorida",
+  "gbif_id": 8249,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available regarding vision in Siphonorhinidae from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Siphonorhinidae likely rely on chemoreception for navigation and finding food, but no specific details are provided in the given context. Given their lifestyle, this is a reasonable assumption.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Millipedes possess mechanoreceptors for sensing their environment, especially substrate vibrations. This is inferred given they have many legs that are in constant contact with the substrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Siphonorhinidae",
+    "https://en.wikipedia.org/wiki/Illacme_plenipes"
+  ],
+  "generated_at": "2026-01-04T11:35:11.534694"
+}

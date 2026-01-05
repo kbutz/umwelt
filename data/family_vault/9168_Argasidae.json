@@ -1,0 +1,47 @@
+{
+  "family_name": "Argasidae",
+  "order_name": "Ixodida",
+  "gbif_id": 9168,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Ticks in this family are parasitic and must detect hosts. The presence of the spinose ear tick (Otobius megnini) and other Otobius species suggests a reliance on mechanoreception for host detection, especially within the ear canal.",
+      "inferred_from_species": [
+        "Otobius megnini",
+        "Otobius lagophilus"
+      ],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "hygroreception": {
+      "presence": "common",
+      "notes": "Soft ticks are resistant to desiccation, implying a developed sense for detecting humidity gradients and avoiding dry environments.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Ticks rely on chemical cues for host location. Given the parasitic lifestyle, chemoreception is likely used to detect host odors and locate feeding sites.",
+      "inferred_from_species": [
+        "Otobius megnini",
+        "Otobius lagophilus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Argasidae",
+    "https://en.wikipedia.org/wiki/Otobius_lagophilus",
+    "https://en.wikipedia.org/wiki/Otobius_megnini"
+  ],
+  "generated_at": "2026-01-04T11:44:14.032052"
+}

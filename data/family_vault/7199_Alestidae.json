@@ -1,0 +1,59 @@
+{
+  "family_name": "Alestidae",
+  "order_name": "Characiformes",
+  "gbif_id": 7199,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "As ray-finned fish inhabiting rivers, vision is likely a primary sense for navigation, prey detection, and predator avoidance. Further research would be needed to establish the acuity and spectral range of their vision.",
+      "inferred_from_species": [
+        "Micralestes vittatus",
+        "Micralestes stormsi"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, Alestidae possess a lateral line system for detecting water movement and pressure changes, crucial for sensing prey, predators, and maintaining position in flowing water.",
+      "inferred_from_species": [
+        "Micralestes vittatus",
+        "Micralestes stormsi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are likely important for food detection and social communication in their riverine environment. The exact sensitivity and range are unknown.",
+      "inferred_from_species": [
+        "Micralestes vittatus",
+        "Micralestes stormsi"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is not explicitly mentioned, and it is unknown if this family of fish possess electroreceptive abilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alestidae",
+    "https://en.wikipedia.org/wiki/Micralestes_vittatus",
+    "https://en.wikipedia.org/wiki/Micralestes_stormsi"
+  ],
+  "generated_at": "2026-01-04T09:56:52.748503"
+}

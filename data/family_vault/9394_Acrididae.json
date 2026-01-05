@@ -1,0 +1,48 @@
+{
+  "family_name": "Acrididae",
+  "order_name": "Caelifera",
+  "gbif_id": 9394,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely important for general awareness and mate recognition, inferred from general grasshopper biology, although specific data not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Acrididae grasshoppers possess tympana on the side of the first abdominal segment, indicating a capacity for hearing. The specific frequencies detected are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The presence and role of chemoreception is unknown from the provided context, but likely exists given the general biology of insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "The presence and role of mechanoreception is unknown from the provided context, but likely exists given the general biology of insects.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acrididae"
+  ],
+  "generated_at": "2026-01-04T11:53:36.965405"
+}

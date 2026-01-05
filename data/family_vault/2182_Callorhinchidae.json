@@ -1,0 +1,55 @@
+{
+  "family_name": "Callorhinchidae",
+  "order_name": "Chimaeriformes",
+  "gbif_id": 2182,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, but no specific details on acuity or spectral sensitivity are provided in the given context. Eyes are mentioned but not detailed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "They possess broad pectoral fins crucial for stabilization, indicating a sensitivity to water movement. Heterocercal tail aids in maneuvering, suggesting hydrodynamic sense. They inhabit muddy and sandy substrates, suggesting sensitivity to touch and pressure variations.",
+      "inferred_from_species": [
+        "Callorhinchus callorynchus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception is common in cartilaginous fishes, but is not explicitly mentioned in the provided context for Callorhinchidae. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 20.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Filter feeding habits and benthic foraging behavior implies a reliance on chemoreception to locate prey. The plough-shaped snout may be involved in detecting chemical cues in the sediment.",
+      "inferred_from_species": [
+        "Callorhinchus callorynchus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callorhinchidae",
+    "https://en.wikipedia.org/wiki/Callorhinchus_callorynchus",
+    "https://en.wikipedia.org/wiki/Callorhinchus_milii",
+    "https://en.wikipedia.org/wiki/Callorhinchus_capensis"
+  ],
+  "generated_at": "2026-01-04T10:52:21.226495"
+}

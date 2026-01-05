@@ -1,0 +1,43 @@
+{
+  "family_name": "Ergasilidae",
+  "order_name": "Copepoda",
+  "gbif_id": 5041,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As copepods parasitic on fishes, Ergasilidae likely use mechanoreception to detect water currents and host proximity. This is inferred due to their parasitic lifestyle.",
+      "inferred_from_species": [
+        "Ergasilus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely used to detect host cues and locate suitable attachment sites on fish. This is inferred due to their parasitic lifestyle.",
+      "inferred_from_species": [
+        "Ergasilus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The extent and functionality of vision in Ergasilidae are unknown. More research is needed to assess visual capabilities in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ergasilidae"
+  ],
+  "generated_at": "2026-01-04T10:09:13.765889"
+}

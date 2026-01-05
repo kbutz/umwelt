@@ -1,0 +1,39 @@
+{
+  "family_name": "Nippotaeniidae",
+  "order_name": "Nippotaeniidea",
+  "gbif_id": 2243,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As flatworms, Nippotaeniidae likely rely heavily on chemoreception for locating hosts and navigating their environment within the host's intestines. This is inferred as common for parasitic flatworms in general.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for detecting movement and pressure within the host's intestines. This is inferred from general flatworm sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-13,
+        "max": 1000000000000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision is unknown in this family. Given their parasitic lifestyle within the intestines of hosts, vision is unlikely but cannot be ruled out without further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nippotaeniidae"
+  ],
+  "generated_at": "2026-01-04T10:57:22.661385"
+}

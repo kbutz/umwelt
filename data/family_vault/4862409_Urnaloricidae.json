@@ -1,0 +1,39 @@
+{
+  "family_name": "Urnaloricidae",
+  "order_name": "Loricifera",
+  "gbif_id": 4862409,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to marine environment and the existence of clavoscalids in the Higgins larva stage. Clavoscalids are likely used for sensory perception, including mechanoreception and possibly chemoreception, to navigate and find suitable substrates. Given the small size and marine habitat, tactile and hydrodynamic cues are likely important.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred presence due to marine environment and the likelihood of using chemical cues for food detection and mate recognition. The clavoscalids may play a role.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "No evidence to suggest the presence of vision. Given their small size and benthic marine habitat, vision is unlikely but cannot be ruled out entirely without further research.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Urnaloricidae"
+  ],
+  "generated_at": "2026-01-04T10:46:13.336760"
+}

@@ -1,0 +1,44 @@
+{
+  "family_name": "Hoilungidae",
+  "order_name": "Placozoa",
+  "gbif_id": 12172059,
+  "sensory_modalities": {
+    "mechanosensation": {
+      "presence": "common",
+      "notes": "As a simple, flattened animal moving across surfaces, Hoilungidae likely possess a general sensitivity to touch and physical stimuli. This is inferred from their lifestyle and body plan.",
+      "inferred_from_species": [
+        "Hoilungia hongkongensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Given their habitat in brackish water and biofilm surfaces, Hoilungidae likely use chemoreception to detect and respond to chemical cues in their environment for feeding and navigation. This is inferred from their lifestyle and ecological niche.",
+      "inferred_from_species": [
+        "Hoilungia hongkongensis"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "It is unknown whether Hoilungidae have any light sensitivity. There is no direct evidence of photoreceptors or light-mediated behaviors described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hoilungidae",
+    "https://en.wikipedia.org/wiki/Hoilungia_hongkongensis"
+  ],
+  "generated_at": "2026-01-04T13:03:29.220931"
+}

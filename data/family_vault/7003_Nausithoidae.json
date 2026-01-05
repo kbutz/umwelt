@@ -1,0 +1,42 @@
+{
+  "family_name": "Nausithoidae",
+  "order_name": "Unknown",
+  "gbif_id": 7003,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information regarding vision in Nausithoidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Jellyfish typically possess mechanoreceptors for detecting water movement and orientation. This is inferred as common across the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Jellyfish rely on chemoreception to detect food and environmental cues. This is inferred as common across the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nausithoidae",
+    "https://en.wikipedia.org/wiki/Nausithoe_werneri",
+    "https://en.wikipedia.org/wiki/Nausithoe_atlantica",
+    "https://en.wikipedia.org/wiki/Nausithoe_clausi"
+  ],
+  "generated_at": "2026-01-04T10:14:49.228122"
+}

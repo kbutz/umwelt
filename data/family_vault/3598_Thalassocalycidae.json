@@ -1,0 +1,44 @@
+{
+  "family_name": "Thalassocalycidae",
+  "order_name": "Thalassocalycida",
+  "gbif_id": 3598,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As ctenophores, Thalassocalycidae likely possess mechanoreceptors for detecting water movement and prey. Given their fragile, gelatinous nature, this is likely important for orientation and feeding. This is inferred because all ctenophores must have some form of this sense to swim and capture prey.",
+      "inferred_from_species": [
+        "Thalassocalyce inconstans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Ctenophores generally use chemoreception to detect prey and conspecifics. Likely important for feeding in the deep sea. This is inferred because all ctenophores must have some form of this sense to locate food in the water column.",
+      "inferred_from_species": [
+        "Thalassocalyce inconstans"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "It is unknown if Thalassocalycidae possess photoreceptors. Given their deep-sea habitat, vision may be reduced or absent. Further research needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thalassocalyce",
+    "https://en.wikipedia.org/wiki/Thalassocalyce_inconstans"
+  ],
+  "generated_at": "2026-01-04T11:22:08.527450"
+}

@@ -1,0 +1,40 @@
+{
+  "family_name": "Termitodesmidae",
+  "order_name": "Glomeridesmida",
+  "gbif_id": 10007665,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As millipedes, Termitodesmidae likely possess mechanoreceptors for detecting vibrations and touch, important for navigating their environment, especially within termite mounds. Inferred based on general millipede sensory biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception (smell and taste) is likely crucial for locating termite mounds and navigating within them, as well as potentially identifying specific termite species. Inferred based on general millipede sensory biology and their commensal lifestyle.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and capabilities of vision are unknown. Given their lifestyle within termite mounds, vision may be reduced or absent. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Termitodesmidae",
+    "https://en.wikipedia.org/wiki/Termitodesmus_ceylonicus"
+  ],
+  "generated_at": "2026-01-04T11:34:28.325120"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Rhabderemiidae",
+  "order_name": "Biemnida",
+  "gbif_id": 8995,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges, as a general rule, are sensitive to mechanical stimuli in their environment. This allows them to regulate water flow and respond to physical disturbances. Inferred across the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges possess chemoreceptors to detect chemical signals in the water column, crucial for feeding, coordinating cellular activities, and potentially responding to environmental changes. Inferred across the family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 0.1
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Rhabderemiidae is currently unknown. Sponges generally lack specialized visual organs, but some species may have light-sensitive cells.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhabderemiidae"
+  ],
+  "generated_at": "2026-01-04T12:28:28.914509"
+}

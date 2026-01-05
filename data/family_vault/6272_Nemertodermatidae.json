@@ -1,0 +1,39 @@
+{
+  "family_name": "Nemertodermatidae",
+  "order_name": "Acoelomorpha",
+  "gbif_id": 6272,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely limited or absent, given the simple body plan and lack of mention in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present due to being worm-like animals. Ciliated bodies would likely provide tactile and water current sensing.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present, aiding in food detection and navigation in their marine environment. Sack-like gut infers need to find food.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 100.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nemertodermatidae"
+  ],
+  "generated_at": "2026-01-04T12:25:26.121059"
+}

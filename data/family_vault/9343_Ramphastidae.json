@@ -1,0 +1,50 @@
+{
+  "family_name": "Ramphastidae",
+  "order_name": "Unknown",
+  "gbif_id": 9343,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Brightly marked plumage suggests a reliance on visual communication. Arboreal lifestyle also indicates good vision for navigation and foraging.",
+      "inferred_from_species": [
+        "Selenidera gouldii",
+        "Selenidera spectabilis",
+        "Selenidera nattereri"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Birds generally rely on hearing for communication and predator detection. Vocalizations are likely important for social interactions within flocks.",
+      "inferred_from_species": [
+        "Selenidera gouldii",
+        "Selenidera spectabilis",
+        "Selenidera nattereri"
+      ],
+      "frequency_range_hz": {
+        "min": 100,
+        "max": 10000
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sense is important for preening, nesting, and social interactions. The bill may also have tactile receptors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ramphastidae",
+    "https://en.wikipedia.org/wiki/Selenidera_gouldii",
+    "https://en.wikipedia.org/wiki/Selenidera_spectabilis",
+    "https://en.wikipedia.org/wiki/Selenidera_nattereri"
+  ],
+  "generated_at": "2026-01-04T10:17:58.576451"
+}

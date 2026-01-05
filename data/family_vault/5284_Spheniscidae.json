@@ -1,0 +1,51 @@
+{
+  "family_name": "Spheniscidae",
+  "order_name": "Not Specified in Context",
+  "gbif_id": 5284,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Penguins possess well-developed vision, crucial for both underwater hunting and navigation on land. Countershaded plumage suggests a role for vision in predator avoidance and/or intraspecific communication.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Penguins use their spiny tongues and powerful jaws to grip slippery prey, indicating a reliance on tactile feedback during feeding. Mechanoreception is also likely important for balance and spatial awareness both on land and in water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000.0
+      }
+    },
+    "taste": {
+      "presence": "common",
+      "notes": "Penguins have taste receptors, which is inferred due to possessing a tongue.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Hearing is likely present, as penguins communicate vocally.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spheniscidae",
+    "https://en.wikipedia.org/wiki/Megadyptes_antipodes",
+    "https://en.wikipedia.org/wiki/Eudyptes_pachyrhynchus",
+    "https://en.wikipedia.org/wiki/Eudyptes_chrysocome"
+  ],
+  "generated_at": "2026-01-04T12:08:12.148486"
+}

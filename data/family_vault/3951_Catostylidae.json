@@ -1,0 +1,41 @@
+{
+  "family_name": "Catostylidae",
+  "order_name": "Unknown",
+  "gbif_id": 3951,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As jellyfish, Catostylidae likely possess mechanoreceptors to detect water movement and changes in pressure.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Jellyfish typically use chemoreceptors to detect prey and navigate their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catostylidae",
+    "https://en.wikipedia.org/wiki/Crambione_cooki",
+    "https://en.wikipedia.org/wiki/Crambione_bartschi"
+  ],
+  "generated_at": "2026-01-04T11:33:52.116618"
+}

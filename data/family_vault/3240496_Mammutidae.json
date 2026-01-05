@@ -1,0 +1,50 @@
+{
+  "family_name": "Mammutidae",
+  "order_name": "Proboscidea",
+  "gbif_id": 3240496,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are not explicitly mentioned in the provided text. Assuming terrestrial lifestyle, vision was likely present, but details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfaction capabilities are not explicitly mentioned in the provided text. Given their relation to elephants, olfaction was likely important, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Hearing capabilities are not explicitly mentioned in the provided text. Likely similar to modern elephants, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "unknown",
+      "notes": "Tactile sense is not explicitly mentioned. Given the presence of a trunk-like structure, tactile sense was likely important, but specifics are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mammutidae",
+    "https://en.wikipedia.org/wiki/Mammut_americanum",
+    "https://en.wikipedia.org/wiki/Mammut_furlongi"
+  ],
+  "generated_at": "2026-01-04T10:37:40.904148"
+}

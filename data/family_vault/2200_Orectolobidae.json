@@ -1,0 +1,59 @@
+{
+  "family_name": "Orectolobidae",
+  "order_name": "Orectolobiformes",
+  "gbif_id": 2200,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Wobbegongs inhabit shallow waters and utilize camouflage, suggesting functional vision. Coloration patterns are noted in several species, including the spotted wobbegong (Orectolobus maculatus).",
+      "inferred_from_species": [
+        "Orectolobus maculatus",
+        "Eucrossorhinus dasypogon"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "Japanese wobbegongs (Orectolobus japonicus) use electroreceptor pores on their dorsal area to sense prey. Likely present in other wobbegong species as well.",
+      "inferred_from_species": [
+        "Orectolobus japonicus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given their benthic lifestyle and ambush predation strategy, mechanoreception via the lateral line is likely crucial for detecting water movements and nearby prey. 'Shaggy beard' growths around the mouth suggest a tactile function.",
+      "inferred_from_species": [
+        "Eucrossorhinus dasypogon",
+        "Orectolobus maculatus"
+      ],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 500
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Sharks in general have a well-developed sense of smell. It is reasonable to assume that Orectolobidae also rely on olfaction for detecting prey and navigating their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 10
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Orectolobidae",
+    "https://en.wikipedia.org/wiki/Eucrossorhinus_dasypogon",
+    "https://en.wikipedia.org/wiki/Orectolobus_maculatus",
+    "https://en.wikipedia.org/wiki/Orectolobus_japonicus"
+  ],
+  "generated_at": "2026-01-04T10:24:19.100122"
+}

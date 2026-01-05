@@ -1,0 +1,40 @@
+{
+  "family_name": "Cyrenidae",
+  "order_name": "Venerida",
+  "gbif_id": 6527076,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Cyrenidae likely possess mechanoreceptors for detecting physical stimuli in their environment, important for burrowing, feeding, and predator avoidance. Inferred from general bivalve biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Bivalves generally use chemoreceptors to detect chemical cues related to food, mates, and potential threats. Inferred from general bivalve biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and functionality of photoreceptors in Cyrenidae are currently unknown based on provided context. However, some bivalves have simple light-sensing capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyrenidae",
+    "https://en.wikipedia.org/wiki/Polymesoda_caroliniana"
+  ],
+  "generated_at": "2026-01-04T12:38:16.086404"
+}

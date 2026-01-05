@@ -1,0 +1,39 @@
+{
+  "family_name": "Dasyleptidae",
+  "order_name": "Archaeognatha",
+  "gbif_id": 3259602,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Inferred to be present, as their modern relatives possess vision. However, the context mentions they resemble juveniles, making the extent of their visual capability unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present due to leg-like cerci and non-ambulatory abdominal appendages. These structures likely served sensory functions, including the detection of substrate vibrations and air currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Presence is unknown, but inferred in insect lineages for locating food and mates.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dasyleptidae"
+  ],
+  "generated_at": "2026-01-04T11:28:12.446334"
+}

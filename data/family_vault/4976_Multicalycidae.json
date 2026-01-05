@@ -1,0 +1,39 @@
+{
+  "family_name": "Multicalycidae",
+  "order_name": "Aspidogastrida",
+  "gbif_id": 4976,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Multicalycidae are largely undocumented. As trematodes, they may possess rudimentary light sensitivity, but this is speculative.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely uses chemoreception to locate hosts and nutrients, a common trait among parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely uses mechanoreception to detect host tissues and movement.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Multicalycidae"
+  ],
+  "generated_at": "2026-01-04T12:12:07.531359"
+}

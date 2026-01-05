@@ -1,0 +1,60 @@
+{
+  "family_name": "Laridae",
+  "order_name": "Charadriiformes",
+  "gbif_id": 9316,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Laridae are mostly aerial seabirds, suggesting well-developed vision for navigation, foraging, and social interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "As a family of birds, audition is likely important for communication and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Tactile senses are likely important for feeding and preening.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in Laridae is not specified in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "magnetoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of magnetoreception in Laridae is not specified in the provided context, though given migratory behaviour it cannot be ruled out.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laridae",
+    "https://en.wikipedia.org/wiki/Anous_tenuirostris",
+    "https://en.wikipedia.org/wiki/Chlidonias_niger",
+    "https://en.wikipedia.org/wiki/Chlidonias_leucopterus"
+  ],
+  "generated_at": "2026-01-04T12:09:36.527474"
+}

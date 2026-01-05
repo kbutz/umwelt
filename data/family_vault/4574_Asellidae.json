@@ -1,0 +1,39 @@
+{
+  "family_name": "Asellidae",
+  "order_name": "Isopoda",
+  "gbif_id": 4574,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Present in epigean species; may be reduced or absent in hypogean (cave-dwelling) species. Limited data available on specific visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present, enabling detection of water currents and substrate vibrations for navigation and prey detection. Common in aquatic isopods.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present, used for locating food sources and mates in the aquatic environment. Common in aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asellidae"
+  ],
+  "generated_at": "2026-01-04T10:06:35.088687"
+}

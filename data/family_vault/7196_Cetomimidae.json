@@ -1,0 +1,42 @@
+{
+  "family_name": "Cetomimidae",
+  "order_name": "Beryciformes",
+  "gbif_id": 7196,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Deep-sea habitat suggests potentially reduced or specialized vision, but no specific information is provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely important for detecting prey and navigating in the deep sea. The lateral line system is common in fish, and would be used to detect vibrations in the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting prey and potential mates in the deep sea. Given the extreme sexual dimorphism, chemoreception could play a key role in mate finding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cetomimidae",
+    "https://en.wikipedia.org/wiki/Rhamphocetichthys_savagei",
+    "https://en.wikipedia.org/wiki/Notocetichthys_trunovi",
+    "https://en.wikipedia.org/wiki/Cetichthys_indagator"
+  ],
+  "generated_at": "2026-01-04T11:18:06.361944"
+}

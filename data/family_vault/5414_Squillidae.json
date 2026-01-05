@@ -1,0 +1,40 @@
+{
+  "family_name": "Squillidae",
+  "order_name": "Stomatopoda",
+  "gbif_id": 5414,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely possess complex vision similar to other mantis shrimp, although the specifics are not detailed in the provided context. This is inferred from the general biology of mantis shrimp and their reliance on vision for hunting.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Possess mechanoreceptors for detecting water movement and substrate vibrations, aiding in prey detection and predator avoidance. Inferred from habitat.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely use chemoreceptors to detect chemical cues in the water, aiding in prey detection and mate recognition. Inferred from general crustacean biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Squillidae",
+    "https://en.wikipedia.org/wiki/Oratosquilla_fabricii"
+  ],
+  "generated_at": "2026-01-04T11:40:49.036575"
+}

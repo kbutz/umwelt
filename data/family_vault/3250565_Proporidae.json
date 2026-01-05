@@ -1,0 +1,39 @@
+{
+  "family_name": "Proporidae",
+  "order_name": "Acoela",
+  "gbif_id": 3250565,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision capabilities are unknown for this family of acoels.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely important for finding food and mates in this family, as it is in many free-living flatworms. Inferred given general flatworm ecology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present for sensing the environment and movement. Inferred given general flatworm ecology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Proporidae"
+  ],
+  "generated_at": "2026-01-04T12:26:30.116319"
+}

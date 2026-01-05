@@ -1,0 +1,39 @@
+{
+  "family_name": "Metaniidae",
+  "order_name": "Unknown",
+  "gbif_id": 3911,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As sponges, Metaniidae likely possess basic mechanoreception capabilities to respond to water flow and physical stimuli. This is inferred from general sponge biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely rely on chemoreception to detect food particles and other chemical cues in their freshwater environment. This is a common trait in sponges for feeding and other physiological processes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence and nature of photoreception in Metaniidae is currently unknown based on the provided text. Sponges, in general, do not possess sophisticated light sensory systems.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Metaniidae"
+  ],
+  "generated_at": "2026-01-04T12:30:37.532661"
+}

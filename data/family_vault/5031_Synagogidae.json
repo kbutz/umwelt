@@ -1,0 +1,40 @@
+{
+  "family_name": "Synagogidae",
+  "order_name": "Laurida",
+  "gbif_id": 5031,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Synagogidae are currently unknown based on the provided data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception abilities are unknown but likely present in crustaceans for food detection and mate recognition. Requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Mechanoreception abilities are unknown but likely present in crustaceans for detecting water currents and physical contact. Requires further investigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synagogidae",
+    "https://en.wikipedia.org/wiki/Gorgonolaureus_muzikae"
+  ],
+  "generated_at": "2026-01-04T11:42:45.119197"
+}

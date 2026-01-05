@@ -1,0 +1,80 @@
+{
+  "family_name": "Elephantidae",
+  "order_name": "Proboscidea",
+  "gbif_id": 9427,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Vision is present, though details of visual acuity and color perception are not specified in the provided text.",
+      "inferred_from_species": [
+        "Loxodonta africana",
+        "Loxodonta cyclotis",
+        "Mammuthus primigenius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Hearing is essential for communication and social behavior within herds. Specific hearing ranges are not provided, but large ears in African bush elephants (Loxodonta africana) suggest importance.",
+      "inferred_from_species": [
+        "Loxodonta africana",
+        "Loxodonta cyclotis",
+        "Mammuthus primigenius"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "common",
+      "notes": "Elephants possess a well-developed sense of smell, utilizing their trunks for chemoreception. Important for foraging, social recognition, and detecting predators or distant resources.",
+      "inferred_from_species": [
+        "Loxodonta africana",
+        "Loxodonta cyclotis",
+        "Mammuthus primigenius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Tactile sense is important, particularly in the trunk, which is used for manipulating objects and social interactions. Skin sensitivity also relevant for thermoregulation.",
+      "inferred_from_species": [
+        "Loxodonta africana",
+        "Loxodonta cyclotis",
+        "Mammuthus primigenius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "common",
+      "notes": "Taste is present as they are herbivores.",
+      "inferred_from_species": [
+        "Loxodonta africana",
+        "Loxodonta cyclotis",
+        "Mammuthus primigenius"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elephantidae",
+    "https://en.wikipedia.org/wiki/Loxodonta_cyclotis",
+    "https://en.wikipedia.org/wiki/Loxodonta_africana",
+    "https://en.wikipedia.org/wiki/Mammuthus_primigenius"
+  ],
+  "generated_at": "2026-01-04T10:37:31.131053"
+}

@@ -1,0 +1,44 @@
+{
+  "family_name": "Lepidoleuconidae",
+  "order_name": "Baerida",
+  "gbif_id": 3766,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As a calcareous sponge, Lepidoleuconidae likely possesses mechanoreceptors to detect water currents and particle movement for filter feeding. Inferred from the general sensory biology of sponges.",
+      "inferred_from_species": [
+        "Lepidoleucon inflatum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is crucial for sponges to detect food particles and regulate physiological processes. Likely present in Lepidoleuconidae for filter feeding and environmental sensing. Inferred from the general sensory biology of sponges.",
+      "inferred_from_species": [
+        "Lepidoleucon inflatum"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 0.1
+      }
+    },
+    "light_sensitivity": {
+      "presence": "unknown",
+      "notes": "The presence or absence of light sensitivity in Lepidoleuconidae is currently unknown from the provided context. Some sponges exhibit light sensitivity, but this may vary.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lepidoleuconidae",
+    "https://en.wikipedia.org/wiki/Lepidoleucon_inflatum"
+  ],
+  "generated_at": "2026-01-04T10:02:21.750920"
+}

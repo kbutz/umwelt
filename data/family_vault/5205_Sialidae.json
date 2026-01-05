@@ -1,0 +1,39 @@
+{
+  "family_name": "Sialidae",
+  "order_name": "Megaloptera",
+  "gbif_id": 5205,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in adults for finding mates and oviposition sites, but specific details are not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely used by larvae for prey detection in aquatic environments and by adults for mate finding, but specific details are not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely used for detecting vibrations or water currents by larvae in aquatic environments and for flight control and balance by adults, but specific details are not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sialidae"
+  ],
+  "generated_at": "2026-01-04T11:50:57.701210"
+}

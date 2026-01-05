@@ -1,0 +1,57 @@
+{
+  "family_name": "Glyptodontidae",
+  "order_name": "Cingulata (inferred)",
+  "gbif_id": 3239782,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision is provided. Assuming they possessed vision, but visual acuity is unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Likely possessed hearing, as do modern armadillos. The morphology of the inner ear suggests relationships with other armored mammals.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfaction likely present, inferred from related armadillos, but no specific evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "common",
+      "notes": "Tactile sensation likely present, though potentially reduced due to heavy armor. The bony carapace would likely influence sensitivity.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "Taste likely present, inferred from related armadillos, but no specific evidence.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glyptodontidae"
+  ],
+  "generated_at": "2026-01-04T10:21:18.852157"
+}

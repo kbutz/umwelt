@@ -1,0 +1,42 @@
+{
+  "family_name": "Neoechinorhynchidae",
+  "order_name": "Neoechinorhynchida",
+  "gbif_id": 3539,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As parasitic worms, they likely rely on chemoreception to locate and identify hosts. This is inferred given their lifestyle and commonality in parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess mechanoreceptors for detecting physical stimuli within the host environment. This is inferred given their lifestyle and commonality in parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "No evidence of visual structures is mentioned in the provided context, and is generally lost in parasitic worms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neoechinorhynchidae",
+    "https://en.wikipedia.org/wiki/Eocollis_arcanus",
+    "https://en.wikipedia.org/wiki/Eocollis_harengulae",
+    "https://en.wikipedia.org/wiki/Microsentis_wardae"
+  ],
+  "generated_at": "2026-01-04T11:13:47.866746"
+}

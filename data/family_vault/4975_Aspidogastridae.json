@@ -1,0 +1,39 @@
+{
+  "family_name": "Aspidogastridae",
+  "order_name": "Aspidogastrida",
+  "gbif_id": 4975,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Trematodes likely rely on chemoreception to locate hosts and navigate their environment. This is inferred due to the parasitic lifestyle common in this group and other trematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely used to detect changes in the host environment and physical contact. This is inferred due to the parasitic lifestyle common in this group and other trematodes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Aspidogastridae is currently unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-16,
+        "max": 1000000000000.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aspidogastridae"
+  ],
+  "generated_at": "2026-01-04T12:11:59.685189"
+}

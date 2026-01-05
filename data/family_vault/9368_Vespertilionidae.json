@@ -1,0 +1,60 @@
+{
+  "family_name": "Vespertilionidae",
+  "order_name": "Chiroptera",
+  "gbif_id": 9368,
+  "sensory_modalities": {
+    "echolocation": {
+      "presence": "common",
+      "notes": "Vespertilionids are microbats that primarily rely on vocally emitted echolocation for navigation and hunting. Their facial features are often simple, reflecting this reliance on sound.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20000.0,
+        "max": 100000.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "While echolocation is primary, vision is likely still present, though its importance may vary across species within the family. The generalist nature of the family suggests sight would still be an important factor.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 400.0,
+        "max": 790.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "The role of olfaction in Vespertilionidae is currently unknown from the available data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "The role of taste in Vespertilionidae is currently unknown from the available data.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Tactile sensation via the wing membrane would be vital for sensing air flow and making adjustments during flight, as well as general awareness of the environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 200.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vespertilionidae",
+    "https://en.wikipedia.org/wiki/Rhogeessa_tumida",
+    "https://en.wikipedia.org/wiki/Rhogeessa_minutilla",
+    "https://en.wikipedia.org/wiki/Rhogeessa_genowaysi"
+  ],
+  "generated_at": "2026-01-04T10:20:37.659262"
+}

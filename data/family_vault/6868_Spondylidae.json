@@ -1,0 +1,43 @@
+{
+  "family_name": "Spondylidae",
+  "order_name": "Unknown",
+  "gbif_id": 6868,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information about vision is available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bivalves living in a marine environment, Spondylidae likely possess mechanoreceptors for detecting water movement and substrate vibrations. This is inferred, as attachment to a substrate is mentioned.",
+      "inferred_from_species": [
+        "Spondylus squamosus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As bivalves, Spondylidae likely possess chemoreceptors for detecting chemical cues in the water, aiding in feeding and other behaviors.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spondylidae",
+    "https://en.wikipedia.org/wiki/Spondylus_americanus",
+    "https://en.wikipedia.org/wiki/Spondylus_squamosus"
+  ],
+  "generated_at": "2026-01-04T12:35:05.826595"
+}

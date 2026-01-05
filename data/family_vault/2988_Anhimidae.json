@@ -1,0 +1,72 @@
+{
+  "family_name": "Anhimidae",
+  "order_name": "Anseriformes",
+  "gbif_id": 2988,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Presence inferred from general bird biology and lack of indication of absence in the provided texts.",
+      "inferred_from_species": [
+        "Anhima cornuta",
+        "Chauna torquata",
+        "Chauna chavaria"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "The family is named 'screamers', suggesting well-developed auditory perception and vocalization. Presence inferred from general bird biology.",
+      "inferred_from_species": [
+        "Anhima cornuta",
+        "Chauna torquata",
+        "Chauna chavaria"
+      ],
+      "frequency_range_hz": {
+        "min": 20,
+        "max": 20000
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No information provided regarding olfaction.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "tactition": {
+      "presence": "common",
+      "notes": "Presence inferred from general bird biology and the importance of tactile senses for foraging and social interactions.",
+      "inferred_from_species": [
+        "Anhima cornuta",
+        "Chauna torquata",
+        "Chauna chavaria"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "No information provided regarding taste.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anhimidae",
+    "https://en.wikipedia.org/wiki/Anhima_cornuta",
+    "https://en.wikipedia.org/wiki/Chauna_torquata",
+    "https://en.wikipedia.org/wiki/Chauna_chavaria"
+  ],
+  "generated_at": "2026-01-04T11:19:00.245337"
+}

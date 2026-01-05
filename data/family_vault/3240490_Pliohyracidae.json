@@ -1,0 +1,57 @@
+{
+  "family_name": "Pliohyracidae",
+  "order_name": "Hyracoidea",
+  "gbif_id": 3240490,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information is available about the visual capabilities of Pliohyracidae. Given that they are related to modern hyraxes, which possess vision, it is likely they had vision, but the details are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "No specific information about the hearing capabilities of Pliohyracidae is provided. It is reasonable to infer they possessed hearing abilities, but the range and sensitivity are unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "No specific details are available regarding the sense of smell in Pliohyracidae. As mammals, they likely possessed a sense of smell, but its acuity and importance in their behavior remain unknown.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "somatosensation": {
+      "presence": "unknown",
+      "notes": "Tactile sensation likely existed in Pliohyracidae, similar to extant mammals, but specific details are unavailable.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "gustation": {
+      "presence": "unknown",
+      "notes": "Taste is expected to be present, given their herbivorous diet, but no specific information is provided.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pliohyracidae"
+  ],
+  "generated_at": "2026-01-04T10:31:15.659288"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Korethrasteridae",
+  "order_name": "Velatida",
+  "gbif_id": 5778,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Korethrasteridae are unknown based on the provided information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely present in starfish for detecting food and chemical cues. Inferred for the entire family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present in starfish for detecting physical stimuli and pressure. Inferred for the entire family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Korethrasteridae"
+  ],
+  "generated_at": "2026-01-04T10:50:01.210489"
+}

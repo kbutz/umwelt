@@ -1,0 +1,53 @@
+{
+  "family_name": "Narcinidae",
+  "order_name": "Torpediniformes",
+  "gbif_id": 2183,
+  "sensory_modalities": {
+    "electroreception": {
+      "presence": "common",
+      "notes": "Narcinidae, also known as numbfishes, are electric rays capable of producing an electric discharge for defense. This indicates the presence of electroreceptors for detecting prey and/or navigating using electric fields.",
+      "inferred_from_species": [
+        "Discopyge tschudii",
+        "Diplobatis pictus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As bottom-dwelling fish, they likely rely on mechanoreception to detect vibrations and pressure changes in the water and substrate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    },
+    "vision": {
+      "presence": "common",
+      "notes": "While no specific details about vision are given, as fish they would be expected to possess some visual capability. Further research is needed to determine the extent to which they rely on vision.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine fish, they likely use chemoreception (taste and smell) to locate food and navigate.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Narcinidae",
+    "https://en.wikipedia.org/wiki/Discopyge_tschudii",
+    "https://en.wikipedia.org/wiki/Diplobatis_pictus"
+  ],
+  "generated_at": "2026-01-04T10:52:33.411364"
+}

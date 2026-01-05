@@ -1,0 +1,43 @@
+{
+  "family_name": "Craterostigmidae",
+  "order_name": "Craterostigmomorpha",
+  "gbif_id": 8261,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Possess bipartite eyes located fronto-laterally on either side of the head. Elliptical in shape.",
+      "inferred_from_species": [
+        "Craterostigmus tasmanianus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As centipedes, they likely possess mechanoreceptors for detecting vibrations and touch, crucial for navigating their environment and detecting prey. Inferred from other centipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Centipedes typically rely on chemoreception using antennae and other sensory structures to detect chemical cues in their environment for prey detection and navigation. Inferred from other centipedes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Craterostigmidae",
+    "https://en.wikipedia.org/wiki/Craterostigmus_tasmanianus",
+    "https://en.wikipedia.org/wiki/Craterostigmus_crabilli"
+  ],
+  "generated_at": "2026-01-04T11:35:46.783742"
+}

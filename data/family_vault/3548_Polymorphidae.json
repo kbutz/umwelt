@@ -1,0 +1,42 @@
+{
+  "family_name": "Polymorphidae",
+  "order_name": "Unknown",
+  "gbif_id": 3548,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely relies on chemoreception to locate hosts within the digestive systems of fish and aquatic birds. Essential for parasite-host interactions.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 100.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possesses mechanoreceptors to detect physical stimuli, such as changes in pressure or movement within the host's gut. Important for maintaining position and avoiding expulsion.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in this family is currently unknown. Given their endoparasitic lifestyle, it is plausible that vision is reduced or absent.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polymorphidae",
+    "https://en.wikipedia.org/wiki/Andracantha_phalacrocoracis",
+    "https://en.wikipedia.org/wiki/Andracantha_mergi",
+    "https://en.wikipedia.org/wiki/Andracantha_gravida"
+  ],
+  "generated_at": "2026-01-04T11:14:40.017451"
+}

@@ -1,0 +1,69 @@
+{
+  "family_name": "Sulidae",
+  "order_name": "Unknown",
+  "gbif_id": 9351,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Sulids are medium-large coastal seabirds that plunge-dive for fish, suggesting well-developed visual acuity for spotting prey from the air and underwater. They have excellent eyesight, which is crucial for plunge-diving at high speeds.",
+      "inferred_from_species": [
+        "Morus capensis",
+        "Morus bassanus",
+        "Sula dactylatra"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely used for communication within colonies. Breeding colonies can be large and noisy.",
+      "inferred_from_species": [
+        "Morus bassanus"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not explicitly mentioned in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "taste": {
+      "presence": "unknown",
+      "notes": "Taste is not mentioned in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "common",
+      "notes": "Important for preening, nesting behaviour and tactile communication within the colony.  The bill has fine serrations, likely providing tactile feedback.",
+      "inferred_from_species": [
+        "Morus capensis",
+        "Sula dactylatra"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sulidae",
+    "https://en.wikipedia.org/wiki/Morus_capensis",
+    "https://en.wikipedia.org/wiki/Morus_bassanus",
+    "https://en.wikipedia.org/wiki/Sula_dactylatra"
+  ],
+  "generated_at": "2026-01-04T12:11:16.791352"
+}

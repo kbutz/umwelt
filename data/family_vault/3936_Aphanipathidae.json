@@ -1,0 +1,39 @@
+{
+  "family_name": "Aphanipathidae",
+  "order_name": "Antipatharia",
+  "gbif_id": 3936,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in Aphanipathidae are largely unstudied. Vision is assumed to be absent or minimal given the deep-sea habitat of many black corals and the emphasis on other sensory modalities in related cnidarians.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely a primary sense for detecting prey and other environmental cues, as is common in corals. Polp tentacles are likely able to sense chemical gradients.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Mechanoreception is likely present, allowing the coral to detect water currents and physical contact, as indicated by the description of tentacles and spines. Used for feeding and orientation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aphanipathidae"
+  ],
+  "generated_at": "2026-01-04T10:45:47.835270"
+}

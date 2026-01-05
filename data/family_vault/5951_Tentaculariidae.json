@@ -1,0 +1,30 @@
+{
+  "family_name": "Tentaculariidae",
+  "order_name": "Trypanorhyncha",
+  "gbif_id": 5951,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely uses mechanoreception to detect and attach to hosts via bothria (sucking grooves) and retractable tentacles. This is inferred to be the primary means of host detection and attachment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "The role of chemoreception in host location or recognition is unknown. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 10.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trypanorhyncha"
+  ],
+  "generated_at": "2026-01-04T10:57:14.092631"
+}

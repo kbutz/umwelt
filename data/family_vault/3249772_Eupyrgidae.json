@@ -1,0 +1,43 @@
+{
+  "family_name": "Eupyrgidae",
+  "order_name": "Unknown",
+  "gbif_id": 3249772,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers possess mechanoreceptors to detect tactile stimuli and pressure changes in their environment. Given the description of body wall tables, it is likely these structures play a role in mechanosensation, potentially detecting substrate vibrations or water currents. This is inferred as a basic sensory capability for navigating the benthic environment.",
+      "inferred_from_species": [
+        "Eupyrgus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sea cucumbers generally use chemoreceptors to detect chemical cues in the water, which is important for finding food and mates. This is a common feature in marine invertebrates.",
+      "inferred_from_species": [
+        "Eupyrgus"
+      ],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "The presence or absence of photoreception in Eupyrgidae is currently unknown. Given their deep-sea habitat (500m), it's possible they have reduced or absent vision. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eupyrgidae"
+  ],
+  "generated_at": "2026-01-04T12:16:57.396341"
+}

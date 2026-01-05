@@ -1,0 +1,40 @@
+{
+  "family_name": "Coeloplanidae",
+  "order_name": "Ctenophora",
+  "gbif_id": 9596,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting mechanical stimuli. Further research is needed to determine specifics in Coeloplanidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting chemical stimuli. Further research is needed to determine specifics in Coeloplanidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities related to detecting light. Further research is needed to determine specifics in Coeloplanidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coeloplanidae",
+    "https://en.wikipedia.org/wiki/Vallicula_multiformis"
+  ],
+  "generated_at": "2026-01-04T11:59:05.587287"
+}

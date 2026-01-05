@@ -1,0 +1,41 @@
+{
+  "family_name": "Perlodidae",
+  "order_name": "Plecoptera",
+  "gbif_id": 2996,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but specific characteristics within the family are unknown from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As stoneflies, Perlodidae likely use mechanoreception to detect vibrations in the water for prey detection, predator avoidance, and communication. Further research is needed to confirm specific mechanisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely important for finding food and mates in their aquatic environment. Further research is needed to confirm specific mechanisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Perlodidae",
+    "https://en.wikipedia.org/wiki/Malirekus_iroquois",
+    "https://en.wikipedia.org/wiki/Malirekus_hastatus"
+  ],
+  "generated_at": "2026-01-04T10:32:50.557135"
+}

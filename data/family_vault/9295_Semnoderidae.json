@@ -1,0 +1,39 @@
+{
+  "family_name": "Semnoderidae",
+  "order_name": "Cyclorhagida",
+  "gbif_id": 9295,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "No information available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "No information available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Semnoderidae"
+  ],
+  "generated_at": "2026-01-04T12:56:21.119163"
+}

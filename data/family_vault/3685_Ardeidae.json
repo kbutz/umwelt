@@ -1,0 +1,37 @@
+{
+  "family_name": "Ardeidae",
+  "order_name": "Unknown",
+  "gbif_id": 3685,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Herons are visual predators, relying on sight for hunting in freshwater and coastal environments. They are active during the daytime or at twilight (Pilherodius pileatus).",
+      "inferred_from_species": [
+        "Pilherodius pileatus",
+        "Butorides striata",
+        "Butorides sundevalli"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "hearing": {
+      "presence": "common",
+      "notes": "Likely important for environmental awareness and communication, although specific details are not provided in the context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ardeidae",
+    "https://en.wikipedia.org/wiki/Pilherodius_pileatus",
+    "https://en.wikipedia.org/wiki/Butorides_sundevalli",
+    "https://en.wikipedia.org/wiki/Butorides_striata"
+  ],
+  "generated_at": "2026-01-04T12:07:41.064083"
+}

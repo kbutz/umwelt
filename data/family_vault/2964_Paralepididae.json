@@ -1,0 +1,41 @@
+{
+  "family_name": "Paralepididae",
+  "order_name": "Unknown",
+  "gbif_id": 2964,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Barracudinas are mesopelagic fish, suggesting vision is important for hunting or avoiding predators in the dimly lit deep-water environment. Presence of eyes inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As fish, barracudinas likely possess a lateral line system for detecting water movements and pressure changes.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Olfaction and taste are likely used for prey detection in the deep sea.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paralepididae",
+    "https://en.wikipedia.org/wiki/Lestidium_atlanticum",
+    "https://en.wikipedia.org/wiki/Lestidium_nudum"
+  ],
+  "generated_at": "2026-01-04T09:53:00.342110"
+}

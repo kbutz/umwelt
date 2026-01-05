@@ -1,0 +1,40 @@
+{
+  "family_name": "Aplysinidae",
+  "order_name": "Verongiida",
+  "gbif_id": 4915,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information on vision in Aplysinidae is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Sponges, including Aplysinidae, likely rely on chemoreception for basic functions such as feeding and detecting environmental cues. This is inferred as a general trait for sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Sponges likely possess mechanoreceptors to detect water flow and physical stimuli. This is inferred as a general trait for sponges.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aplysinidae",
+    "https://en.wikipedia.org/wiki/Verongula_rigida"
+  ],
+  "generated_at": "2026-01-04T12:24:59.885544"
+}

@@ -1,0 +1,39 @@
+{
+  "family_name": "Chitonidae",
+  "order_name": "Not specified",
+  "gbif_id": 9104,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Information about vision is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Information about chemoreception is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Information about mechanoreception is not available in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chitonidae"
+  ],
+  "generated_at": "2026-01-04T12:29:09.838161"
+}

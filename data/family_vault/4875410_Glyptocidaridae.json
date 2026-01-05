@@ -1,0 +1,39 @@
+{
+  "family_name": "Glyptocidaridae",
+  "order_name": "Stomopneustoida",
+  "gbif_id": 4875410,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence and characteristics of vision in Glyptocidaridae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, Glyptocidaridae likely possess mechanoreceptors for detecting touch and vibrations in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As echinoderms, Glyptocidaridae likely possess chemoreceptors for detecting chemical cues in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glyptocidaridae"
+  ],
+  "generated_at": "2026-01-04T12:04:42.020157"
+}

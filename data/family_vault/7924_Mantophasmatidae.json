@@ -1,0 +1,40 @@
+{
+  "family_name": "Mantophasmatidae",
+  "order_name": "Mantophasmatodea",
+  "gbif_id": 7924,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "It is unknown if vision is present or absent in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely present, as it is common for insects to use chemoreception for prey detection and mate finding.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present, as it is common for insects to use mechanoreception through sensilla for detecting vibrations and tactile stimuli.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mantophasmatidae",
+    "https://en.wikipedia.org/wiki/Praedatophasma_maraisi"
+  ],
+  "generated_at": "2026-01-04T11:29:13.849347"
+}

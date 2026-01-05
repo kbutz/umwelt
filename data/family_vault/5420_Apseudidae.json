@@ -1,0 +1,39 @@
+{
+  "family_name": "Apseudidae",
+  "order_name": "Tanaidacea",
+  "gbif_id": 5420,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Vision in Apseudidae is currently unknown from the provided data. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As benthic crustaceans, Apseudidae likely possess mechanoreceptors for detecting water currents and substrate vibrations. This is crucial for navigation, prey detection, and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Given their benthic lifestyle, chemoreception is likely important for locating food sources and mates. This is a common trait in crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apseudidae"
+  ],
+  "generated_at": "2026-01-04T11:41:11.639321"
+}

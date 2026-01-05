@@ -1,0 +1,53 @@
+{
+  "family_name": "Trichuridae",
+  "order_name": "Trichocephalida",
+  "gbif_id": 6493,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As nematodes, Trichuridae likely rely heavily on chemoreception to navigate their environment, locate hosts, and find mates within the host's body. This is inferred based on the parasitic lifestyle described.",
+      "inferred_from_species": [
+        "Trichuris discolor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.0001,
+        "max": 1000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes are known to possess mechanoreceptors for detecting touch, pressure, and movement, important for orientation within the host and potentially for mating. Inferred from general nematode biology.",
+      "inferred_from_species": [
+        "Trichuris discolor"
+      ],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 200.0
+      }
+    },
+    "hygroreception": {
+      "presence": "unknown",
+      "notes": "The presence and importance of hygroreception (humidity sensing) are unknown in this family, but it could be relevant for survival outside the host, particularly for egg development.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "vision": {
+      "presence": "rare",
+      "notes": "Vision is highly unlikely in parasitic nematodes like Trichuridae, given their habitat within the host. This is likely a lost sense.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trichuridae",
+    "https://en.wikipedia.org/wiki/Trichuris_discolor"
+  ],
+  "generated_at": "2026-01-04T12:57:53.132799"
+}

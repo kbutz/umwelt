@@ -1,0 +1,39 @@
+{
+  "family_name": "Corellidae",
+  "order_name": "Phlebobranchia",
+  "gbif_id": 5218,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities of Corellidae sea squirts are not detailed in the provided context. Assuming general sea squirt traits, vision may be present in larval stages.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine invertebrates, chemoreception is likely important for food detection and other environmental interactions. This is an inference based on related organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting water currents and physical contact. This is an inference based on related organisms.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corellidae"
+  ],
+  "generated_at": "2026-01-04T12:43:54.326958"
+}

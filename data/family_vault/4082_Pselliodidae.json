@@ -1,0 +1,40 @@
+{
+  "family_name": "Pselliodidae",
+  "order_name": "Unknown",
+  "gbif_id": 4082,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities in Pselliodidae are unknown based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As centipedes, Pselliodidae likely rely on chemoreception for navigating their environment and finding prey. Inferred from general centipede biology.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Centipedes, including Pselliodidae, use mechanoreceptors (e.g., trichobothria) to detect vibrations and air currents.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pselliodidae",
+    "https://en.wikipedia.org/wiki/Gonethina_fijiana"
+  ],
+  "generated_at": "2026-01-04T11:11:27.089034"
+}

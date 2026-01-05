@@ -1,0 +1,41 @@
+{
+  "family_name": "Gobiidae",
+  "order_name": "Gobiiformes",
+  "gbif_id": 4274,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Gobies are bony fish and likely possess functional vision. Given their diverse habitats, visual acuity likely varies across species.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As benthic fish, gobies likely rely on mechanoreception for detecting water movements and prey. Lateral line systems are common in fish.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.01,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Fish rely on chemoreception (taste and smell) for food detection and navigation. As bottom-dwellers, gobies likely use this extensively.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "HIGH",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gobiidae",
+    "https://en.wikipedia.org/wiki/Akihito_futuna",
+    "https://en.wikipedia.org/wiki/Akihito_vanuatu"
+  ],
+  "generated_at": "2026-01-04T10:03:52.779083"
+}

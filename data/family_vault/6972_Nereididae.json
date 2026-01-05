@@ -1,0 +1,39 @@
+{
+  "family_name": "Nereididae",
+  "order_name": "Unknown",
+  "gbif_id": 6972,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present in some species, but prevalence across the family is unknown. Further research needed to determine the extent of visual capabilities.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Polychaete worms generally rely on chemoreception for finding food and mates. Likely a primary sense for Nereididae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Important for detecting water currents and substrate vibrations. Likely crucial for navigation and predator avoidance.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nereididae"
+  ],
+  "generated_at": "2026-01-04T11:16:26.661539"
+}

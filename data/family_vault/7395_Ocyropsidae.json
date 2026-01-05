@@ -1,0 +1,39 @@
+{
+  "family_name": "Ocyropsidae",
+  "order_name": "Ctenophora",
+  "gbif_id": 7395,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Likely present, as common in Ctenophora for balance and prey detection, but specific data lacking for Ocyropsidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 100
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Presence and capabilities unknown in Ocyropsidae. Ctenophores generally have simple light detection, but specifics are needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Likely present for prey detection, but no specific data available for Ocyropsidae.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ocyropsidae"
+  ],
+  "generated_at": "2026-01-04T11:59:47.037380"
+}

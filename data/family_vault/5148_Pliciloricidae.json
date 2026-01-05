@@ -1,0 +1,39 @@
+{
+  "family_name": "Pliciloricidae",
+  "order_name": "Unknown",
+  "gbif_id": 5148,
+  "sensory_modalities": {
+    "mechanoreception": {
+      "presence": "unknown",
+      "notes": "Sensory capabilities in this family are largely unknown. Mechanoreception, the ability to detect physical stimuli like touch or water currents, is likely present given their marine environment, but specific sensory structures haven't been described in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 1000.0
+      }
+    },
+    "chemoreception": {
+      "presence": "unknown",
+      "notes": "Chemoreception, the ability to detect chemical cues in the environment, is a common sensory modality in marine organisms. Its presence in Pliciloricidae is probable, given that they are marine animals, but there is no confirmation in the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "photoreception": {
+      "presence": "unknown",
+      "notes": "Photoreception (sight) is of unknown presence in this family. The lifestyle and habitat would be important factors in assessing if they need to detect light.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pliciloricidae"
+  ],
+  "generated_at": "2026-01-04T10:45:56.713185"
+}

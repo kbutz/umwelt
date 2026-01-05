@@ -1,0 +1,40 @@
+{
+  "family_name": "Mermithidae",
+  "order_name": "Unknown",
+  "gbif_id": 6495,
+  "sensory_modalities": {
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Nematodes in general rely heavily on chemoreception for host finding and navigation. As endoparasites of arthropods, Mermithidae likely use chemical cues to locate hosts.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Nematodes typically possess mechanoreceptors for sensing touch, pressure, and movement. Mermithidae likely use these to navigate within the host and during free-living stages.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.1,
+        "max": 1000
+      }
+    },
+    "vision": {
+      "presence": "unknown",
+      "notes": "The presence or absence of vision in Mermithidae is currently unknown based on the provided context. Many nematodes lack eyes, but sensory structures could exist.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mermithidae",
+    "https://en.wikipedia.org/wiki/Aranimermis_giganteus"
+  ],
+  "generated_at": "2026-01-04T11:01:13.955293"
+}

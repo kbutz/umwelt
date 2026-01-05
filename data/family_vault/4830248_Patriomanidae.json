@@ -1,0 +1,57 @@
+{
+  "family_name": "Patriomanidae",
+  "order_name": "Pholidota (inferred)",
+  "gbif_id": 4830248,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are unknown based on available information, but likely present given that they are pangolins.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "audition": {
+      "presence": "unknown",
+      "notes": "Auditory capabilities are unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "somatosensation": {
+      "presence": "unknown",
+      "notes": "Somatosensory capabilities are unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    },
+    "electroreception": {
+      "presence": "unknown",
+      "notes": "Electroreception capabilities are unknown based on available information.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": null,
+        "max": null
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patriomanidae"
+  ],
+  "generated_at": "2026-01-04T10:36:20.141182"
+}

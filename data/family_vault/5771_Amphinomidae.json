@@ -1,0 +1,39 @@
+{
+  "family_name": "Amphinomidae",
+  "order_name": "Polychaeta",
+  "gbif_id": 5771,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No specific information about vision is available in the provided context. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "As marine polychaetes, they likely rely on chemoreception for tasks such as finding food and mates. However, no specific details are given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Given they are mobile marine worms, mechanoreception is likely crucial for navigation and interacting with their environment. However, no specific details are given.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphinomidae"
+  ],
+  "generated_at": "2026-01-04T10:49:11.565784"
+}

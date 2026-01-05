@@ -1,0 +1,53 @@
+{
+  "family_name": "Scyliorhinidae",
+  "order_name": "Carcharhiniformes",
+  "gbif_id": 2208,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Catsharks possess vision, though it may be adapted for low-light conditions given their benthic and deep-water habitats. The New Zealand catshark is dark brown around the top with pale spots, suggesting visual camouflage and detection of contrast.",
+      "inferred_from_species": [
+        "Bythaelurus dawsoni"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "electroreception": {
+      "presence": "common",
+      "notes": "As members of the Carcharhiniformes order, it is inferred they possess electroreception capabilities using ampullae of Lorenzini to detect weak electrical fields, aiding in prey detection.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1e-6,
+        "max": 100
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely possess a lateral line system for detecting vibrations and pressure changes in the water, common in sharks and important for detecting prey and navigating in their environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1,
+        "max": 200
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Catsharks likely use chemoreception (smell and taste) to locate prey in the benthic environment.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.001,
+        "max": 1000
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scyliorhinidae",
+    "https://en.wikipedia.org/wiki/Bythaelurus_immaculatus",
+    "https://en.wikipedia.org/wiki/Bythaelurus_lutarius",
+    "https://en.wikipedia.org/wiki/Bythaelurus_dawsoni"
+  ],
+  "generated_at": "2026-01-04T10:55:00.499324"
+}

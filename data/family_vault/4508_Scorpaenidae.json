@@ -1,0 +1,44 @@
+{
+  "family_name": "Scorpaenidae",
+  "order_name": "Unknown",
+  "gbif_id": 4508,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Likely functional for prey detection and navigation in marine environments. Inferred from Scorpaenodes species inhabiting coral reefs.",
+      "inferred_from_species": [
+        "Scorpaenodes kelloggi",
+        "Scorpaenodes corallinus"
+      ],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Typical lateral line system for detecting water displacement and pressure changes, aiding in predator avoidance and prey detection. Presence inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 1.0,
+        "max": 200.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Likely used for detecting prey and conspecifics in the marine environment. Presence inferred.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scorpaenidae",
+    "https://en.wikipedia.org/wiki/Scorpaenodes_kelloggi",
+    "https://en.wikipedia.org/wiki/Scorpaenodes_corallinus"
+  ],
+  "generated_at": "2026-01-04T10:05:33.298067"
+}

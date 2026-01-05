@@ -1,0 +1,44 @@
+{
+  "family_name": "Gorgonorhynchidae",
+  "order_name": "Heteronemertea",
+  "gbif_id": 6297,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "No information is provided about vision in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Inferred to be present as a common sensory modality in marine worms for detecting chemical cues in their environment.",
+      "inferred_from_species": [
+        "Gorgonorhynchus repens"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "Likely present for detecting touch and vibrations in the marine environment.",
+      "inferred_from_species": [
+        "Gorgonorhynchus repens"
+      ],
+      "frequency_range_hz": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gorgonorhynchidae",
+    "https://en.wikipedia.org/wiki/Gorgonorhynchus_repens"
+  ],
+  "generated_at": "2026-01-04T12:53:01.939178"
+}

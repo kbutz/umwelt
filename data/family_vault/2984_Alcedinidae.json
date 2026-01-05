@@ -1,0 +1,62 @@
+{
+  "family_name": "Alcedinidae",
+  "order_name": "Coraciiformes",
+  "gbif_id": 2984,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "common",
+      "notes": "Brightly coloured plumage suggests well-developed color vision, likely important for mate selection and prey detection. They hunt by sight, swooping down from perches.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 430000000000000.0,
+        "max": 750000000000000.0
+      }
+    },
+    "audition": {
+      "presence": "common",
+      "notes": "Described as noisy. Assumed to have functional hearing for communication and predator detection.",
+      "inferred_from_species": [
+        "Megaceryle torquata"
+      ],
+      "frequency_range_hz": {
+        "min": 20.0,
+        "max": 20000.0
+      }
+    },
+    "tactile_sense": {
+      "presence": "common",
+      "notes": "Tactile receptors present in the bill and feet are likely used for prey handling and perch navigation.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Olfactory capabilities are not explicitly mentioned. Further research is needed.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "electroreception": {
+      "presence": "rare",
+      "notes": "Electroreception is not typical for birds and is unlikely in this family.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "MEDIUM",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alcedinidae",
+    "https://en.wikipedia.org/wiki/Megaceryle_maxima",
+    "https://en.wikipedia.org/wiki/Megaceryle_torquata",
+    "https://en.wikipedia.org/wiki/Megaceryle_alcyon"
+  ],
+  "generated_at": "2026-01-04T11:49:07.308545"
+}

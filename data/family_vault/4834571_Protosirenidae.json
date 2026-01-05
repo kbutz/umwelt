@@ -1,0 +1,48 @@
+{
+  "family_name": "Protosirenidae",
+  "order_name": "Sirenia",
+  "gbif_id": 4834571,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Likely present, but no specific details are available from the provided context. Given their amphibious nature, vision would likely have been important both in and out of the water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "hearing": {
+      "presence": "unknown",
+      "notes": "Likely present, but no specific details are available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "olfaction": {
+      "presence": "unknown",
+      "notes": "Likely present, but no specific details are available from the provided context. The amphibious nature may suggest a functional olfactory system for both air and water.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "touch": {
+      "presence": "unknown",
+      "notes": "Likely present, but no specific details are available from the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Protosirenidae"
+  ],
+  "generated_at": "2026-01-04T10:38:54.520160"
+}

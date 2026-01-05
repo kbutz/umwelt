@@ -1,0 +1,39 @@
+{
+  "family_name": "Godzilliidae",
+  "order_name": "Nectiopoda",
+  "gbif_id": 5783,
+  "sensory_modalities": {
+    "vision": {
+      "presence": "unknown",
+      "notes": "Visual capabilities are currently unknown for this family based on the provided context.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "mechanoreception": {
+      "presence": "common",
+      "notes": "As remipedes living in aquatic environments, mechanoreception is likely important for detecting water currents and vibrations, aiding in prey detection and navigation. This is inferred from other aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "chemoreception": {
+      "presence": "common",
+      "notes": "Chemoreception is likely crucial for finding food and mates in their environment. This is inferred from other aquatic crustaceans.",
+      "inferred_from_species": [],
+      "frequency_range_hz": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "confidence": "LOW",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Godzilliidae"
+  ],
+  "generated_at": "2026-01-04T10:50:44.202173"
+}
