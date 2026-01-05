@@ -2,107 +2,120 @@ import sqlite3
 import json
 import os
 import glob
+from src.normalizer import MODALITY_MAP
 
 DB_PATH = 'data/orchestrator.db'
-VAULT_DIR = 'data/vault'
+SPECIES_VAULT_DIR = 'data/vault'
+FAMILY_VAULT_DIR = 'data/family_vault'
 
-def init_claims_db():
+def init_graph_db():
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
-    # The "Claims Index" Table
+    c.execute("DROP TABLE IF EXISTS nodes")
+    c.execute("DROP TABLE IF EXISTS edges")
     c.execute('''
-        CREATE TABLE IF NOT EXISTS claims (
-            id INTEGER PRIMARY KEY,
-            animal TEXT,
-            modality TEXT,
-            sub_type TEXT,
-            stimulus TEXT,
-            min_val REAL,
-            max_val REAL,
-            unit TEXT,
-            FOREIGN KEY(animal) REFERENCES research_queue(animal_name)
+        CREATE TABLE nodes (
+            id TEXT PRIMARY KEY,
+            name TEXT,
+            type TEXT CHECK(type IN ('species', 'family', 'order', 'modality', 'sub_type'))
+        )
+    ''')
+    c.execute('''
+        CREATE TABLE edges (
+            source TEXT,
+            target TEXT,
+            relationship TEXT,
+            attributes JSON,
+            PRIMARY KEY (source, target, relationship)
         )
     ''')
     conn.commit()
     conn.close()
-    print("Claims table initialized.")
 
-def process_file(filepath):
-    try:
-        with open(filepath, 'r') as f:
-            data = json.load(f)
-    except Exception as e:
-        print(f"Error reading {filepath}: {e}")
-        return
+class GraphArchivist:
+    def __init__(self):
+        init_graph_db()
+        self.conn = sqlite3.connect(DB_PATH)
+        self.c = self.conn.cursor()
 
-    animal_name = data.get('identity', {}).get('common_name')
-    if not animal_name:
-        # Fallback if common_name is missing, try filename
-        animal_name = os.path.basename(filepath).replace('.json', '').replace('_', ' ')
+    def add_node(self, node_id, name, node_type):
+        self.c.execute("INSERT OR IGNORE INTO nodes (id, name, type) VALUES (?, ?, ?)", 
+                      (node_id, name, node_type))
 
-    sensory_modalities = data.get('sensory_modalities', [])
+    def add_edge(self, source, target, relationship, attributes=None):
+        attr_json = json.dumps(attributes) if attributes else None
+        self.c.execute("INSERT OR IGNORE INTO edges (source, target, relationship, attributes) VALUES (?, ?, ?, ?)",
+                      (source, target, relationship, attr_json))
 
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
+    def process_species(self):
+        files = glob.glob(os.path.join(SPECIES_VAULT_DIR, '*.json'))
+        print(f"Processing {len(files)} species files...")
+        for filepath in files:
+            try:
+                with open(filepath, 'r') as f:
+                    data = json.load(f)
+                identity = data.get('identity', {})
+                name = identity.get('common_name') or identity.get('scientific_name')
+                tax = identity.get('taxonomy', {})
+                
+                order = tax.get('order')
+                family = tax.get('family')
+                if order: self.add_node(f"order:{order}", order, 'order')
+                if family:
+                    self.add_node(f"family:{family}", family, 'family')
+                    if order: self.add_edge(f"family:{family}", f"order:{order}", 'MEMBER_OF')
+                
+                self.add_node(f"species:{name}", name, 'species')
+                if family: self.add_edge(f"species:{name}", f"family:{family}", 'MEMBER_OF')
 
-    # Optional: Clear existing claims for this animal to avoid duplicates on re-run
-    c.execute("DELETE FROM claims WHERE animal = ?", (animal_name,))
+                for mod in data.get('sensory_modalities', []):
+                    domain = MODALITY_MAP.get(mod.get('modality_domain'), mod.get('modality_domain'))
+                    sub_type = MODALITY_MAP.get(mod.get('sub_type'), mod.get('sub_type'))
+                    
+                    if domain:
+                        self.add_node(f"modality:{domain}", domain, 'modality')
+                        self.add_edge(f"species:{name}", f"modality:{domain}", 'HAS_SENSE', 
+                                     attributes={'source': 'species_data'})
+                        if sub_type and sub_type != domain:
+                            self.add_node(f"sub_type:{sub_type}", sub_type, 'sub_type')
+                            self.add_edge(f"sub_type:{sub_type}", f"modality:{domain}", 'INSTANCE_OF')
+                            self.add_edge(f"species:{name}", f"sub_type:{sub_type}", 'HAS_SENSE',
+                                         attributes=mod.get('quantitative_data'))
+            except Exception as e:
+                print(f"Error processing species {filepath}: {e}")
 
-    for mod in sensory_modalities:
-        modality = mod.get('modality_domain')
-        sub_type = mod.get('sub_type')
-        stimulus = mod.get('stimulus_type')
+    def process_families(self):
+        files = glob.glob(os.path.join(FAMILY_VAULT_DIR, '*.json'))
+        print(f"Processing {len(files)} family files...")
+        for filepath in files:
+            try:
+                with open(filepath, 'r') as f:
+                    data = json.load(f)
+                family = data.get('family_name')
+                order = data.get('order_name')
+                if not family: continue
+                
+                self.add_node(f"family:{family}", family, 'family')
+                if order:
+                    self.add_node(f"order:{order}", order, 'order')
+                    self.add_edge(f"family:{family}", f"order:{order}", 'MEMBER_OF')
 
-        qd = mod.get('quantitative_data')
-        min_val = None
-        max_val = None
-        unit = None
+                for mod_name, mod_data in data.get('sensory_modalities', {}).items():
+                    if mod_data.get('presence') == 'unknown': continue
+                    domain = MODALITY_MAP.get(mod_name, mod_name)
+                    self.add_node(f"modality:{domain}", domain, 'modality')
+                    self.add_edge(f"family:{family}", f"modality:{domain}", 'HAS_SENSE', 
+                                 attributes={'prevalence': mod_data.get('presence')})
+            except Exception as e:
+                print(f"Error processing family {filepath}: {e}")
 
-        if qd:
-            min_val = qd.get('min')
-            max_val = qd.get('max')
-            unit = qd.get('unit')
-
-        c.execute('''
-            INSERT INTO claims (animal, modality, sub_type, stimulus, min_val, max_val, unit)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
-        ''', (animal_name, modality, sub_type, stimulus, min_val, max_val, unit))
-
-    conn.commit()
-    conn.close()
-    print(f"Archived claims for {animal_name}")
-
-def run_archivist():
-    init_claims_db()
-    # Process all JSON files in vault
-    files = glob.glob(os.path.join(VAULT_DIR, '*.json'))
-    print(f"Found {len(files)} files in vault.")
-    
-    index = []
-    
-    for filepath in files:
-        process_file(filepath)
-        
-        # Build index entry
-        try:
-            with open(filepath, 'r') as f:
-                data = json.load(f)
-            identity = data.get('identity', {})
-            index.append({
-                "gbif_id": identity.get("gbif_id"),
-                "scientific_name": identity.get("scientific_name"),
-                "common_name": identity.get("common_name"),
-                "family": identity.get("taxonomy", {}).get("family"),
-                "filename": os.path.basename(filepath)
-            })
-        except:
-            pass
-            
-    # Save index
-    index_path = os.path.join('data', 'vault_index.json')
-    with open(index_path, 'w') as f:
-        json.dump(index, f, indent=2)
-    print(f"Vault index updated at {index_path}")
+    def run(self):
+        self.process_species()
+        self.process_families()
+        self.conn.commit()
+        self.conn.close()
+        print("Archiving complete. Graph ready.")
 
 if __name__ == "__main__":
-    run_archivist()
+    archivist = GraphArchivist()
+    archivist.run()
