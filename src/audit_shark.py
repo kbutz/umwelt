@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-DB_NAME = 'sensory_graph.db'
+DB_NAME = 'data/sensory_graph.db'
 
 def audit_shark():
     conn = sqlite3.connect(DB_NAME)

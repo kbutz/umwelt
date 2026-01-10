@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-DB_NAME = 'sensory_graph.db'
+DB_NAME = 'data/sensory_graph.db'
 
 # Data extracted from research
 seed_data = [

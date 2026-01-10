@@ -1,2 +1,5 @@
 PyYAML
 google-genai
+ddgs
+requests
+beautifulsoup4
