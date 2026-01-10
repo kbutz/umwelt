@@ -49,7 +49,7 @@ You must output strictly valid JSON with this EXACT structure:
         "context": "Physiological Threshold"
       },
       "mechanism": {
-        "level": "Anatomical",
+        "level": "Anatomical", # MUST be one of: 'Anatomical', 'Cellular', 'Neural', 'Genetic', 'Behavioral', 'Physiological', 'Ecological', 'Unspecified', 'Unknown'
         "description": "Ampullae of Lorenzini"
       },
       "evidence": [{
@@ -71,6 +71,7 @@ You must output strictly valid JSON with this EXACT structure:
 
 IMPORTANT: You MUST use the exact field names and enum values specified.
 - "modality_domain" MUST be one of: 'Mechanoreception', 'Chemoreception', 'Photoreception', 'Electroreception', 'Magnetoreception', 'Thermoreception', or 'Other'.
+- "mechanism.level" MUST be one of: 'Anatomical', 'Cellular', 'Neural', 'Genetic', 'Behavioral', 'Physiological', 'Ecological', 'Unspecified', 'Unknown'.
 - "data_quality_flag" MUST be one of: 'High_Evidence', 'Inferred_Only', 'Contested', or 'Low_Data'.
 - "evidence" MUST include accurate source details. Use the provided context metadata to fill these fields.
 
@@ -295,6 +296,12 @@ class Researcher:
                 modality["modality_domain"] = "Mechanoreception"
             if modality.get("modality_domain") == "Smell" or modality.get("modality_domain") == "Taste":
                 modality["modality_domain"] = "Chemoreception"
+
+            # Correct mechanism.level
+            if "mechanism" in modality and isinstance(modality["mechanism"], dict):
+                level = modality["mechanism"].get("level")
+                if level == "Inferred":
+                    modality["mechanism"]["level"] = "Unknown"
 
             # Fix citation placeholder if LLM didn't replace it
             for ev in modality.get("evidence", []):
