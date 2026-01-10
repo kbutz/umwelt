@@ -8,8 +8,9 @@ ANIMALIA_KEY = 1
 WIKI_USER_AGENT = "UmweltProject/1.0 (https://github.com/your-repo-here; contact@example.com)"
 
 class TaxonomySampler:
-    def __init__(self, families_per_order=5):
+    def __init__(self, families_per_order=5, species_per_family=10):
         self.families_per_order = families_per_order
+        self.species_per_family = species_per_family
         self.wiki = wikipediaapi.Wikipedia(user_agent=WIKI_USER_AGENT, language='en')
         self.conn = sqlite3.connect(DB_PATH)
 
@@ -66,29 +67,44 @@ class TaxonomySampler:
         scored.sort(key=lambda x: x['score'], reverse=True)
         return scored[:self.families_per_order]
 
-    def pick_best_species(self, family_key, family_name):
-        """Picks a species that is likely to have good research data."""
+    def pick_best_species_list(self, family_key, family_name):
+        """Picks a list of species that are likely to have good research data."""
         url = "https://api.gbif.org/v1/species/search"
         params = {
             "higherTaxonKey": family_key,
             "rank": "SPECIES",
             "status": "ACCEPTED",
-            "limit": 20 # Look at top 20
+            "limit": 50 # Look at top 50 to find the best ones
         }
         resp = requests.get(url, params=params)
         species_list = resp.json().get("results", [])
         
-        # Priority: Species with a Wikipedia page
+        selected_species = []
+        
+        # Priority 1: Species with a Wikipedia page
         for s in species_list:
+            if len(selected_species) >= self.species_per_family:
+                break
+            
             name = s.get("canonicalName")
             if self.has_wiki(name):
-                return s, "Wiki-confirmed"
+                s['pick_method'] = "Wiki-confirmed"
+                selected_species.append(s)
         
-        # Fallback: Just the most common one in GBIF
-        if species_list:
-            return species_list[0], "GBIF-default"
+        # Priority 2: Fill remaining slots with common GBIF species
+        if len(selected_species) < self.species_per_family:
+            for s in species_list:
+                if len(selected_species) >= self.species_per_family:
+                    break
+                
+                # Avoid duplicates
+                if any(existing['key'] == s['key'] for existing in selected_species):
+                    continue
+                    
+                s['pick_method'] = "GBIF-default"
+                selected_species.append(s)
         
-        return None, None
+        return selected_species
 
     def run(self, limit_orders=None):
         orders = self.get_all_orders()
@@ -110,11 +126,19 @@ class TaxonomySampler:
                 continue
 
             for f in top_families:
-                species, pick_method = self.pick_best_species(f['key'], f['name'])
-                if species:
+                species_list = self.pick_best_species_list(f['key'], f['name'])
+                
+                if not species_list:
+                     print(f"  ⚠️ No species found for family: {f['name']}")
+                     continue
+
+                print(f"  > Family {f['name']}: Found {len(species_list)} species")
+
+                for species in species_list:
                     sci_name = species.get("scientificName")
                     canon_name = species.get("canonicalName")
                     gbif_id = species.get("key")
+                    pick_method = species.get("pick_method", "Unknown")
                     
                     reason = f"Sampler: {order_name} > {f['name']} ({f['reason']}, Pick: {pick_method})"
                     
@@ -123,14 +147,13 @@ class TaxonomySampler:
                             INSERT INTO research_queue (animal_name, gbif_id, taxonomy_source, priority, status, entity_type, entity_id) 
                             VALUES (?, ?, ?, ?, ?, ?, ?)
                         """, (canon_name, gbif_id, reason, 10, "PENDING", "species", str(gbif_id)))
-                        print(f"  ➕ {canon_name} ({f['name']})")
+                        # print(f"    ➕ {canon_name}")
                         total_added += 1
                     except sqlite3.IntegrityError:
-                        print(f"  ⏩ Already in queue: {canon_name} ({f['name']})")
-                else:
-                    print(f"  ⚠️ No species found for family: {f['name']}")
-
-        self.conn.commit()
+                        pass # print(f"    ⏩ Already in queue: {canon_name}")
+            
+            self.conn.commit()
+        
         print(f"\n✨ Sampler finished. Added {total_added} species.")
 
 if __name__ == "__main__":
@@ -138,7 +161,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Sample families and species across Animalia.")
     parser.add_argument("--limit", type=int, default=None, help="Limit the number of orders to process (for testing)")
     parser.add_argument("--families", type=int, default=3, help="Number of families to sample per order")
+    parser.add_argument("--species", type=int, default=10, help="Number of species to sample per family")
     args = parser.parse_args()
 
-    sampler = TaxonomySampler(families_per_order=args.families)
+    sampler = TaxonomySampler(families_per_order=args.families, species_per_family=args.species)
     sampler.run(limit_orders=args.limit)

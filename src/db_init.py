@@ -2,7 +2,7 @@ import sqlite3
 import json
 import os
 
-DB_NAME = 'sensory_graph.db'
+DB_NAME = 'data/sensory_graph.db'
 
 def init_db():
     if os.path.exists(DB_NAME):

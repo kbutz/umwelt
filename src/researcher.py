@@ -4,6 +4,9 @@ import os
 import sys
 import glob
 import wikipediaapi
+import requests
+from bs4 import BeautifulSoup
+from ddgs import DDGS
 from src.models import AnimalSensoryData
 from pydantic import ValidationError
 from src.gemini_adapter import GeminiAdapter
@@ -102,9 +105,55 @@ class Researcher:
         conn.commit()
         conn.close()
 
+    def search_web(self, query, max_results=3):
+        """
+        Performs a DuckDuckGo search.
+        """
+        print(f"  🔍 Searching: {query}")
+        results = []
+        try:
+            with DDGS() as ddgs:
+                search_gen = ddgs.text(query, max_results=max_results)
+                if search_gen:
+                    for r in search_gen:
+                        results.append(r)
+        except Exception as e:
+            print(f"  ⚠ Search failed for '{query}': {e}")
+        return results
+
+    def fetch_page_content(self, url, timeout=10):
+        """
+        Fetches and extracts main text from a URL.
+        """
+        print(f"  🌐 Fetching content from: {url}")
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (compatible; UmweltBot/1.0; +http://umwelt-project.org)'}
+            resp = requests.get(url, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.content, 'html.parser')
+                
+                # Remove unwanted elements
+                for script in soup(["script", "style", "nav", "footer", "header", "aside"]):
+                    script.extract()
+                
+                text = soup.get_text()
+                
+                # Clean up whitespace
+                lines = (line.strip() for line in text.splitlines())
+                chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+                text = '\n'.join(chunk for chunk in chunks if chunk)
+                
+                # Limit content length to avoid token explosion
+                return text[:6000] 
+            else:
+                print(f"  ⚠ HTTP Error {resp.status_code} for {url}")
+        except Exception as e:
+            print(f"  ⚠ Failed to fetch {url}: {e}")
+        return None
+
     def gather_context(self, animal_name, gbif_id=None):
         """
-        Gather research context from Wikipedia and GBIF.
+        Gather research context from Wikipedia, GBIF, and Web Search.
         """
         context_parts = []
         source_urls = []
@@ -114,7 +163,6 @@ class Researcher:
             print(f"  🧬 Fetching GBIF data for ID: {gbif_id}...")
             gbif_url = f"https://api.gbif.org/v1/species/{gbif_id}"
             try:
-                import requests
                 resp = requests.get(gbif_url)
                 if resp.status_code == 200:
                     data = resp.json()
@@ -131,28 +179,22 @@ class Researcher:
             except Exception as e:
                 print(f"  ⚠ Failed to fetch GBIF data: {e}")
 
-        # 2. Wikipedia Context
+        # 2. Wikipedia Context (Solid base)
         print(f"  📚 Gathering Wikipedia context for {animal_name}...")
         page = self.wiki.page(animal_name)
-
         if page.exists():
-            # Add summary
             if page.summary:
-                context_parts.append(f"WIKIPEDIA OVERVIEW:\n{page.summary[:1000]}")
-
-            # Look for sensory-related sections
+                context_parts.append(f"WIKIPEDIA OVERVIEW:\n{page.summary[:1500]}")
+            
+            # Extract sensory sections
             sensory_keywords = ['sense', 'sensory', 'hearing', 'vision', 'smell', 'echolocation',
                                'electroreception', 'magnetoreception', 'detection', 'perception']
-
-            # Iterate through sections
+            
             def extract_sections(sections_dict, depth=0):
-                if depth > 2:  # Limit recursion depth
-                    return
+                if depth > 2: return
                 for section in sections_dict:
-                    # Check if section title contains sensory keywords
                     if any(keyword in section.title.lower() for keyword in sensory_keywords):
-                        context_parts.append(f"\nWIKIPEDIA SECTION - {section.title}:\n{section.text[:800]}")
-                    # Recurse into subsections
+                        context_parts.append(f"\nWIKIPEDIA SECTION - {section.title}:\n{section.text[:1000]}")
                     if section.sections:
                         extract_sections(section.sections, depth + 1)
 
@@ -160,8 +202,41 @@ class Researcher:
             source_urls.append(page.fullurl)
         else:
             print(f"  ⚠️  No Wikipedia page found for {animal_name}")
-            if not context_parts:
-                return f"No detailed information found for {animal_name}", None
+
+        # 3. Web Search Strategy (The "Real Search")
+        print(f"  🕸️  Executing 3-Stage Search Strategy for {animal_name}...")
+        
+        # Strategy A: Broad Sweep
+        broad_query = f"{animal_name} sensory biology umwelt review"
+        broad_results = self.search_web(broad_query, max_results=2)
+        
+        # Fetch content from the top broad result
+        if broad_results:
+            top_url = broad_results[0]['href']
+            print(f"    👉 Drilling down into top result: {top_url}")
+            page_content = self.fetch_page_content(top_url)
+            if page_content:
+                context_parts.append(f"WEB ARTICLE ({top_url}):\n{page_content}")
+                source_urls.append(top_url)
+            
+            for res in broad_results:
+                context_parts.append(f"SEARCH SNIPPET: {res['title']}\n{res['body']}\nURL: {res['href']}")
+
+        # Strategy B: Targeted Drill-Down (General sensory terms)
+        target_query = f"{animal_name} vision hearing smell mechanoreception mechanisms"
+        target_results = self.search_web(target_query, max_results=2)
+        for res in target_results:
+            context_parts.append(f"SEARCH SNIPPET (Targeted): {res['title']}\n{res['body']}\nURL: {res['href']}")
+            if res['href'] not in source_urls:
+                source_urls.append(res['href'])
+
+        # Strategy C: Threshold Hunt (Quantitative data)
+        threshold_query = f"{animal_name} sensory threshold sensitivity audiogram range"
+        threshold_results = self.search_web(threshold_query, max_results=2)
+        for res in threshold_results:
+            context_parts.append(f"SEARCH SNIPPET (Quantitative): {res['title']}\n{res['body']}\nURL: {res['href']}")
+            if res['href'] not in source_urls:
+                source_urls.append(res['href'])
 
         # Combine contexts
         context = "\n\n".join(context_parts)
@@ -349,7 +424,7 @@ class Researcher:
         job = self.get_job()
         if not job:
             print("No pending jobs.")
-            return
+            return False
 
         job_id, animal_name, gbif_id = job
         
@@ -357,7 +432,7 @@ class Researcher:
         if self.is_already_researched(gbif_id):
             print(f"⏩ Skipping {animal_name} (GBIF ID: {gbif_id}) - already in vault.")
             self.update_status(job_id, "COMPLETED")
-            return
+            return True
 
         self.update_status(job_id, "PROCESSING")
 
@@ -371,13 +446,15 @@ class Researcher:
             else:
                 self.update_status(job_id, "FAILED", error_log=error)
                 print(f"❌ Job aborted for {animal_name}. Error logged to DB.")
-                sys.exit(1) # Abort the process
+                # sys.exit(1) # Abort the process
         except Exception as e:
             print(f"Job failed: {e}")
             import traceback
             traceback.print_exc()
             self.update_status(job_id, "FAILED", error_log=str(e))
-            sys.exit(1) # Abort the process
+            # sys.exit(1) # Abort the process
+        
+        return True
 
 if __name__ == "__main__":
     import argparse
